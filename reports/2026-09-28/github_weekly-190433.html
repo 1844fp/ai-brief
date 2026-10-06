@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitHub 每周 AI 高星项目 · 2026-09-28</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1a1d24;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--warn:#b45309}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:16px/1.75 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+.wrap{max-width:920px;margin:0 auto;padding:28px 20px 80px}
+header.top{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;
+ padding:26px 28px;margin-bottom:22px}
+header.top h1{margin:0 0 6px;font-size:26px;line-height:1.3}
+header.top .sub{opacity:.9;font-size:14px}
+.overview{background:#eef4ff;border-left:4px solid var(--accent);border-radius:8px;
+ padding:16px 18px;margin:0 0 22px;white-space:pre-wrap}
+h2.group{font-size:19px;margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--accent)}
+article{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:18px 20px;margin-bottom:14px;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+article h3{margin:0 0 8px;font-size:18px;line-height:1.45}
+article h3 .idx{color:var(--accent);font-weight:700;margin-right:6px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px}
+.summary{margin:0 0 10px}
+.why{color:#334155;background:#f8fafc;border-radius:8px;padding:8px 12px;font-size:14px;margin:0 0 10px}
+.why b{color:var(--accent)}
+.link{font-size:14px;word-break:break-all}
+.link a{color:var(--accent);text-decoration:none}
+.link a:hover{text-decoration:underline}
+.orig{color:var(--muted);font-size:12px;margin-top:6px}
+.badge{display:inline-block;background:#fee2e2;color:#b91c1c;border-radius:6px;
+ padding:0 6px;font-size:12px;margin-left:6px}
+footer{color:var(--muted);font-size:13px;margin-top:34px}
+details.health{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-top:26px}
+details.health summary{cursor:pointer;font-weight:600}
+table{border-collapse:collapse;width:100%;margin-top:12px;font-size:13px}
+th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+th{background:#f3f4f6}
+.notes{background:#fffbeb;border-left:4px solid var(--warn);border-radius:8px;padding:12px 16px;margin-top:22px;font-size:14px}
+nav a{color:var(--accent);margin-right:14px;text-decoration:none;font-size:14px}
+</style></head><body><div class="wrap">
+<header class="top">
+  <h1>GitHub 每周 AI 高星项目 · 2026-09-28</h1>
+  <div class="sub">统计区间：最近 7 天新创建/活跃的 AI 相关仓库，按 Star 排序取前十 ｜ 生成于 2026-09-28 19:04</div>
+  <div class="sub">生成时间 2026-09-28 19:04（北京时间） ｜
+    抓取 157 条 ｜ 入选 10 条 ｜ 大模型摘要 ｜ 网络：境外源经代理 http://127.0.0.1:7897</div>
+  <nav style="margin-top:10px"><a href="../../index.html">首页</a><a href="../../index.html">← 返回看板首页</a></nav>
+</header>
+<div class="overview">本周 GitHub AI 生态呈现两条主线：一是围绕 DeepSeek Harness（dsh）与 Claude Code 的插件/技能生态快速膨胀，免费模型接入、竖版视频生成、AI 味消除等轻量工具密集出现；二是「模型 API 文档仓库」批量刷榜，同一网关下多个新模型（GPT-5.6 系列、Gemini 3 Pro、Claude Sonnet 5、DeepSeek V4 Pro 等）以定价页形式抢占搜索流量，需谨慎甄别其信息价值。此外，本地优先的个人记忆/知识图谱、多智能体编排与垂直领域工具（医疗影像、Mac 翻译、WoW 内编码代理）构成了本周真正有工程含量的项目群。</div><article>
+<h3><span class="idx">1.</span>dsh-our-free-model：在 dsh 中免登录免 Key 调用前沿模型的插件<span class="badge">★★★★★</span></h3>
+<div class="meta">⭐ 334 · JavaScript · GitHub</div>
+<p class="summary">该插件挂载到 DeepSeek Harness（dsh）后，无需注册、登录或填写 API Key，即可调用 Muse Spark 1.3、MiMo V2.6 等前沿模型，且不限量。技术上采用纯插件挂载、零依赖、无构建步骤，模型清单与上下文长度跟随上游 OpenCode Zen 网关实时刷新，并附带 OpenAI 兼容的本地转发端口。适合想低成本试用多款前沿模型的开发者，但可用性依赖本机网络出口，商用与稳定性需自行评估。</p>
+<p class="why"><b>为什么重要</b>：以「零配置 + 免费不限量」切中开发者试用前沿模型的最大摩擦点，但上游单一网关也带来可用性风险。</p>
+<div class="link">原文链接：<a href="https://github.com/zouyuxuan122/dsh-our-free-model" target="_blank" rel="noopener">https://github.com/zouyuxuan122/dsh-our-free-model</a></div>
+<div class="orig">原标题：zouyuxuan122/dsh-our-free-model</div>
+</article><article>
+<h3><span class="idx">2.</span>Relate：自托管的私人 AI 幕僚长，记住聊天中的承诺与细节<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 117 · JavaScript · GitHub</div>
+<p class="summary">Relate 是一个跑在本机的 AI 助手，读取聊天记录后自动提取承诺、待办与未回复问题，并按优先级闭环，同时记录需求、敏感话题与纪念日。支持 MCP、Ollama 与 OpenAI 兼容模型，数据不出本机，未经确认不会发送任何消息。适合需要长期维护客户、亲密关系或团队沟通的个人与小团队，已提供 Windows 版与插件/平台文档。</p>
+<p class="why"><b>为什么重要</b>：把「记忆」从通用聊天助手落到具体关系与事务闭环上，本地优先的隐私设计是其差异化关键。</p>
+<div class="link">原文链接：<a href="https://github.com/georgeding/Relate" target="_blank" rel="noopener">https://github.com/georgeding/Relate</a></div>
+<div class="orig">原标题：georgeding/Relate</div>
+</article><article>
+<h3><span class="idx">3.</span>wow-ai：在《魔兽世界》里直接调用 Claude Code、Codex 等编码代理<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 112 · JavaScript · GitHub</div>
+<p class="summary">这是一个 WoW 插件，让玩家在游戏内与本地编码代理（Claude Code、OpenAI Codex、Grok Build、Antigravity CLI、Hermes Agent）对话，任务完成后在游戏内收到提醒，无需切屏或反复 /reload。每个聊天窗口对应独立的持久代理会话，可并行运行并实时显示动作数、耗时、正在编辑的文件与执行的命令。适合边玩游戏边跑开发任务的开发者，属于趣味性与实用性兼具的实验性项目。</p>
+<p class="why"><b>为什么重要</b>：把编码代理嵌入游戏内工作流，展示了 agent 与实时应用集成的另一种可能形态。</p>
+<div class="link">原文链接：<a href="https://github.com/chelinho139/wow-ai" target="_blank" rel="noopener">https://github.com/chelinho139/wow-ai</a></div>
+<div class="orig">原标题：chelinho139/wow-ai</div>
+</article><article>
+<h3><span class="idx">4.</span>awesome-qwen-image：Qwen-Image 2.1 资源与工具合集<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 102 · GitHub</div>
+<p class="summary">该仓库汇总了阿里 7B 统一文生图与图像编辑模型 Qwen-Image 2.1 的 checkpoint、量化版本、提示词引擎、LoRA 与工具链。模型于 2026-09-20 发布，Diffusers、ComfyUI、vLLM-Omni、SGLang、LightX2V 均提供 day-0 支持，原生支持 RGBA 输出并最多接受 10 张参考图。采用 Qwen Research License，适合 ComfyUI 用户与图像生成研究者，但商用前需确认许可条款。</p>
+<p class="why"><b>为什么重要</b>：Qwen-Image 2.1 是本周多模态方向最集中的开源模型，该合集是快速上手与选型的一站式入口。</p>
+<div class="link">原文链接：<a href="https://github.com/wildminder/awesome-qwen-image" target="_blank" rel="noopener">https://github.com/wildminder/awesome-qwen-image</a></div>
+<div class="orig">原标题：wildminder/awesome-qwen-image</div>
+</article><article>
+<h3><span class="idx">5.</span>FleXray：通用临床 X 光分割模型<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 66 · Python · GitHub</div>
+<p class="summary">FleXray 提出面向临床 X 光片的通用分割方案，目标是在不同解剖结构与数据集上统一处理分割任务。项目以 Python 实现，属于医疗影像与计算机视觉交叉方向，适合医学影像研究者与需要构建分割流水线的工程团队。作为新仓库，文档与预训练权重的完备程度仍需进一步确认。</p>
+<p class="why"><b>为什么重要</b>：医疗影像分割是 AI 落地确定性较高的方向，通用化尝试比单病种模型更具复用价值。</p>
+<div class="link">原文链接：<a href="https://github.com/VictorButoi/FleXray" target="_blank" rel="noopener">https://github.com/VictorButoi/FleXray</a></div>
+<div class="orig">原标题：VictorButoi/FleXray</div>
+</article><article>
+<h3><span class="idx">6.</span>辞达（cida）：macOS 全局翻译与润色的菜单栏应用<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 52 · Swift · GitHub</div>
+<p class="summary">辞达是一款 macOS 15+ 菜单栏应用，选中文字按 ⌥Space 即可用自选大模型翻译，按 Tab 切换为润色；⌥S 可框选屏幕文字在本机 OCR 后翻译，⌥D 支持在原文位置就地替换译文并保留上下文。安装包经 Developer ID 签名与 Apple 公证，配置可通过提示词交给 Claude Code、Codex 等助手完成。适合需要频繁跨语言阅读与写作的 Mac 用户。</p>
+<p class="why"><b>为什么重要</b>：把 LLM 翻译做成系统级、低打扰的交互，是本地 AI 工具在桌面端体验上的一个成熟样本。</p>
+<div class="link">原文链接：<a href="https://github.com/Xuanwo/cida" target="_blank" rel="noopener">https://github.com/Xuanwo/cida</a></div>
+<div class="orig">原标题：Xuanwo/cida</div>
+</article><article>
+<h3><span class="idx">7.</span>clodfarm：Claude Code 代理农场，按账号真实配额调度<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 43 · Python · GitHub</div>
+<p class="summary">clodfarm 将多个 Claude Code 代理组织成「农场」：提交一个任务后自动拆分为子代理、并行开工，并根据每个账号真实的 5 小时与每周用量节奏限速。用户可从 Claude 应用远程操控整个流程。适合需要大规模并行编码任务、且拥有多账号配额的团队，但需注意 Anthropic 服务条款对自动化的限制。</p>
+<p class="why"><b>为什么重要</b>：多代理编排开始从「能跑」走向「按配额节流」，是 agent 工程化中真实存在的痛点。</p>
+<div class="link">原文链接：<a href="https://github.com/matank001/clodfarm" target="_blank" rel="noopener">https://github.com/matank001/clodfarm</a></div>
+<div class="orig">原标题：matank001/clodfarm</div>
+</article><article>
+<h3><span class="idx">8.</span>keelflow：Flowise 的安全维护分支，可视化搭建 AI 工作流<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 33 · TypeScript · GitHub</div>
+<p class="summary">keelflow 是 Flowise 的安全维护延续版，保留可视化搭建 AI 代理与 LLM 工作流的能力，专注安全修复并仅采用 Apache-2.0 许可，可无缝替换现有 flow 与数据。基于 TypeScript，支持 Docker 部署，适合已在使用 Flowise 但担心上游维护与许可变化的团队。</p>
+<p class="why"><b>为什么重要</b>：开源项目因许可与安全维护问题被社区接管，是本周值得关注的生态治理案例。</p>
+<div class="link">原文链接：<a href="https://github.com/Perruer/keelflow" target="_blank" rel="noopener">https://github.com/Perruer/keelflow</a></div>
+<div class="orig">原标题：Perruer/keelflow</div>
+</article><article>
+<h3><span class="idx">9.</span>Personal External Brain：本地优先的个人知识图谱<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 29 · Python · GitHub</div>
+<p class="summary">该项目把笔记、网页、PDF 与音视频转化为个人知识图谱，全部在本机运行，强调召回时保留原始出处、上下文与推理链条，而非单纯增加记忆量。基于 Python，涉及图数据库与知识管理，适合重视数据主权的研究者与知识工作者。作为新项目，图谱构建质量与长期维护性仍需观察。</p>
+<p class="why"><b>为什么重要</b>：在云端 RAG 之外，本地知识图谱代表了对隐私与可追溯性更敏感的一类用户需求。</p>
+<div class="link">原文链接：<a href="https://github.com/chenkanglin198904/Personal_External_Brain" target="_blank" rel="noopener">https://github.com/chenkanglin198904/Personal_External_Brain</a></div>
+<div class="orig">原标题：chenkanglin198904/Personal_External_Brain</div>
+</article><article>
+<h3><span class="idx">10.</span>octop-gateway：腾讯云开源的多平台 IM 消息桥接网关<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 21 · Python · GitHub</div>
+<p class="summary">octop-gateway 为 AI 代理与机器人提供统一消息抽象，桥接多个 IM 平台，使代理无需为每个渠道单独适配即可收发消息。基于 Python 实现，由腾讯云开源，适合需要把 agent 接入企业微信、Slack 等既有 IM 体系的团队。作为大厂开源项目，其长期维护与文档完善度相对更有保障。</p>
+<p class="why"><b>为什么重要</b>：IM 渠道碎片化是 agent 落地企业场景的第一道门槛，统一网关能显著降低接入成本。</p>
+<div class="link">原文链接：<a href="https://github.com/TencentCloud/octop-gateway" target="_blank" rel="noopener">https://github.com/TencentCloud/octop-gateway</a></div>
+<div class="orig">原标题：TencentCloud/octop-gateway</div>
+</article>
+<details class="health"><summary>数据源健康（1 个源）</summary>
+<table><tr><th>来源</th><th>类型</th><th>抓取</th><th>保留</th><th>耗时</th><th>状态</th></tr>
+<tr><td>GitHub</td><td>github</td><td>157</td><td>157</td><td>15.9s</td><td>正常</td></tr></table></details>
+<footer>由 AI 情报助手生成 · 2026-09-28 19:04:33</footer>
+</div></body></html>

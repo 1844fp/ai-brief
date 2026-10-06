@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>全部历史简报 · AI 情报助手</title>
+<link rel="stylesheet" href="assets/style.css"></head><body><div class="wrap">
+<header class="site-head"><h1>全部历史简报</h1>
+<div class="meta">共 10 期 · 输入关键词或日期可筛选</div>
+<nav style="margin-top:10px"><a href="index.html" style="color:#fff">← 返回首页</a></nav></header>
+<input type="search" id="q" placeholder="筛选：例如 数据资产 / OpenAI / 2026-09-28">
+<table class="archive" id="tbl"><tr><th>生成时间</th><th>简报</th><th>条数</th><th>打开</th></tr>
+<tr data-task="news_daily_cn" data-text="国内 ai 每日要闻2026-10-06 08:01"><td>2026-10-06 08:01</td><td>国内 AI 每日要闻</td><td>18</td><td><a href="reports/2026-10-06/news_daily_cn-080145.html">阅读</a></td></tr><tr data-task="news_daily" data-text="国外 ai 每日要闻2026-10-06 07:30"><td>2026-10-06 07:30</td><td>国外 AI 每日要闻</td><td>20</td><td><a href="reports/2026-10-06/news_daily-073033.html">阅读</a></td></tr><tr data-task="news_daily_cn" data-text="国内 ai 每日要闻2026-10-04 08:07"><td>2026-10-04 08:07</td><td>国内 AI 每日要闻</td><td>18</td><td><a href="reports/2026-10-04/news_daily_cn-080732.html">阅读</a></td></tr><tr data-task="news_daily" data-text="国外 ai 每日要闻2026-10-04 07:36"><td>2026-10-04 07:36</td><td>国外 AI 每日要闻</td><td>10</td><td><a href="reports/2026-10-04/news_daily-073612.html">阅读</a></td></tr><tr data-task="news_daily_cn" data-text="国内 ai 每日要闻2026-10-01 08:02"><td>2026-10-01 08:02</td><td>国内 AI 每日要闻</td><td>20</td><td><a href="reports/2026-10-01/news_daily_cn-080221.html">阅读</a></td></tr><tr data-task="news_daily" data-text="国外 ai 每日要闻2026-10-01 07:30"><td>2026-10-01 07:30</td><td>国外 AI 每日要闻</td><td>20</td><td><a href="reports/2026-10-01/news_daily-073039.html">阅读</a></td></tr><tr data-task="data_asset_weekly" data-text="国内数据资产周报2026-09-28 19:06"><td>2026-09-28 19:06</td><td>国内数据资产周报</td><td>20</td><td><a href="reports/2026-09-28/data_asset_weekly-190645.html">阅读</a></td></tr><tr data-task="news_daily_cn" data-text="国内 ai 每日要闻2026-09-28 19:05"><td>2026-09-28 19:05</td><td>国内 AI 每日要闻</td><td>20</td><td><a href="reports/2026-09-28/news_daily_cn-190555.html">阅读</a></td></tr><tr data-task="news_daily" data-text="国外 ai 每日要闻2026-09-28 19:05"><td>2026-09-28 19:05</td><td>国外 AI 每日要闻</td><td>20</td><td><a href="reports/2026-09-28/news_daily-190504.html">阅读</a></td></tr><tr data-task="github_weekly" data-text="github 每周 ai 高星项目2026-09-28 19:04"><td>2026-09-28 19:04</td><td>GitHub 每周 AI 高星项目</td><td>10</td><td><a href="reports/2026-09-28/github_weekly-190433.html">阅读</a></td></tr>
+</table>
+<script>
+var q = document.getElementById('q'), rows = [].slice.call(document.querySelectorAll('#tbl tr[data-task]'));
+q.addEventListener('input', function () {
+  var v = q.value.trim().toLowerCase();
+  rows.forEach(function (r) {
+    var hit = !v || r.dataset.text.indexOf(v) >= 0 || r.dataset.task.indexOf(v) >= 0;
+    r.style.display = hit ? '' : 'none';
+  });
+});
+</script>
+</div></body></html>
