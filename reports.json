@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T01:51:15.970439",
+ "generated_at": "2026-10-07T02:35:52.856980",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 19,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-07",
+   "created_at": "2026-10-06T18:35:52.012423+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-07/news_daily_cn-023552.html"
+  },
   {
    "id": 18,
    "task": "news_daily_cn",
@@ -108,6 +117,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "DeepSeek 被曝启动约 800 亿元融资，正筹备 IPO",
+   "url": "https://www.tmtpost.com/8159961.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道称，DeepSeek 正在进行一轮规模约 800 亿元人民币的最新融资，并已着手为冲击 IPO 做准备。报道指出，创始人梁文锋的态度从早先「拒绝资本」转向大规模融资，背后是一场输不起的 AI 竞赛。若消息属实，这将是国内大模型公司迄今最大规模的单轮融资之一。",
+   "why": null,
+   "category": "资本/公司",
+   "heat": 5,
+   "published": "2026-10-06T13:10:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "快手可灵 AI 据悉计划最早明年赴港上市，估值突破 1200 亿元",
+   "url": "https://caifuhao.eastmoney.com/news/20261006132449540598760",
+   "source": "Google News 中文",
+   "summary": "据红星资本局报道，快手旗下视频生成大模型可灵 AI 计划最早于明年赴港上市，至少融资 10 亿美元，公司估值已突破 1200 亿元人民币。可灵是国产视频生成模型的代表产品之一，此次分拆上市传闻意味着快手正将 AI 业务独立资本化。",
+   "why": null,
+   "category": "资本/公司",
+   "heat": 5,
+   "published": "2026-10-06T05:24:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "英伟达市值达 5.8 万亿美元创历史新高，距 6 万亿仅一步之遥",
+   "url": "https://www.ithome.com/1/010/109.htm",
+   "source": "IT之家",
+   "summary": "英伟达股价连续第三个交易日以收盘价创历史新高，盘中市值一度达到 5.82 万亿美元。若继续上涨，英伟达有望成为全球首家市值突破 6 万亿美元的公司。这一走势反映出市场对 AI 算力需求的预期仍在持续上修。",
+   "why": null,
+   "category": "算力/芯片",
+   "heat": 5,
+   "published": "2026-10-06T13:58:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "Mistral AI 发布 Mistral Large 4 预览版，1 万亿参数、月底开放权重",
+   "url": "https://www.ithome.com/1/010/108.htm",
+   "source": "IT之家",
+   "summary": "法国 Mistral AI 推出 Mistral Large 4（代号 le Chonk）公开预览版，拥有 1 万亿总参数、490 亿激活参数，为原生多模态模型，权重将于本月底开放下载。官方称其在网络安全、金融、法律等企业级负载上达到开源模型 SOTA，并宣称大幅领先欧美所有开放权重模型。",
+   "why": null,
+   "category": "模型/开源",
+   "heat": 4,
+   "published": "2026-10-06T13:56:21+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "Mistral CEO 预告新模型：网络安全等方面优于中国模型",
+   "url": "https://www.ithome.com/1/010/043.htm",
+   "source": "IT之家",
+   "summary": "Mistral AI CEO Arthur Mensch 在阿布扎比 Ai Everything 会议上表示，当日发布的新模型在网络安全等某些方面「实际上优于中国的模型」，并称「欧洲无法竞争」的说法不成立。他未具体说明比较对象及网络安全以外的优势领域。",
+   "why": null,
+   "category": "模型/竞争",
+   "heat": 4,
+   "published": "2026-10-06T11:24:24+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "AMD 股价创历史新高，苏姿丰称 AI 芯片需求远超供给",
+   "url": "https://www.ithome.com/1/010/114.htm",
+   "source": "IT之家",
+   "summary": "AMD 股价盘中涨近 3% 至 649.88 美元创历史新高，市值达 1.06 万亿美元。CEO 苏姿丰表示 2026 年运算市场需求极为强劲，AMD 虽已扩产但需求仍远高于供给，预计 2027 年将大幅扩增产能。上月 AMD 股价累计上涨约 30%，并宣布以 82 亿美元收购 AI 初创公司 World Labs。",
+   "why": null,
+   "category": "算力/芯片",
+   "heat": 4,
+   "published": "2026-10-06T14:30:54+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "钛媒体：AI 资本开支回报比仅 4%，算力链面临重定价",
+   "url": "https://www.tmtpost.com/8159557.html",
+   "source": "钛媒体",
+   "summary": "钛媒体分析指出，四大科技巨头今年投入约 7300 亿美元建设 AI，直接收入却仅约 250 亿美元，回报比约 4%。文章称当股价与芯片股彻底脱钩、1.65 万亿美元表外债务浮出水面，市场开始追问投入何时能收回。这一质疑正在重定价整个算力产业链。",
+   "why": null,
+   "category": "行业分析",
+   "heat": 4,
+   "published": "2026-10-06T01:31:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "OpenAI 启动「疯狂 28 天」计划，首日发布 Codex 与 Work 更新",
+   "url": "https://www.qbitai.com/2026/10/501726.html",
+   "source": "量子位",
+   "summary": "OpenAI 宣布启动为期 28 天的持续更新计划，承诺若期间没有新功能就重置，首日发布了 Codex 与 Work 相关改进。多家媒体跟进报道，网友反应集中在「只想要 Opus」等对竞品的期待上。该计划被视为 OpenAI 应对模型迭代节奏加快的工程化策略。",
+   "why": null,
+   "category": "模型/产品",
+   "heat": 4,
+   "published": "2026-10-06T06:45:40+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "OpenAI 宣布 28 天计划，TikTok 上线 AI 电商功能",
+   "url": "http://www.geekpark.net/news/372086",
+   "source": "极客公园",
+   "summary": "极客公园汇总报道，OpenAI 宣布「28 天计划」持续改进 Codex 与 Work，TikTok 同期上线一系列 AI 电商功能。此外，2026 年诺贝尔生理学或医学奖授予光遗传学领域三位学者。该条目为多事件汇编，其中 OpenAI 的持续迭代计划最具行业影响。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-10-06T01:16:53+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "联合国专家组警告：AI 发展速度已超越科学认知与监管能力",
+   "url": "https://www.cls.cn/detail/2414744",
+   "source": "Google News 中文",
+   "summary": "联合国专家组发布警告称，AI 的发展速度已经超越现有科学认知和监管能力，可能带来灾难性风险。该警告呼应了近期多位学者对 AI 安全与对齐问题的担忧，呼吁建立更有效的国际监管框架。",
+   "why": null,
+   "category": "政策/监管",
+   "heat": 4,
+   "published": "2026-10-06T12:59:19+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "Altman 深度访谈：人类灭绝风险非零，开源模型将引发网络安全海啸",
+   "url": "https://wallstreetcn.com/articles/3783067",
+   "source": "Google News 中文",
+   "summary": "OpenAI CEO Sam Altman 在深度访谈中表示，人类灭绝风险并非为零，开源模型的扩散将引发网络安全「海啸」，但算力竞赛不会停止。该表态与 Mistral 同日发布开源模型形成鲜明对照，凸显开源与安全之间的张力。",
+   "why": null,
+   "category": "观点/安全",
+   "heat": 3,
+   "published": "2026-10-06T09:34:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "谷歌与 Constellation 签署 3.59GW 长期电力协议，含 890MW 新增核电",
+   "url": "https://www.ithome.com/1/010/063.htm",
+   "source": "IT之家",
+   "summary": "谷歌宣布与美国能源企业 Constellation 达成总规模 3.59GW 的长期战略能源合作，其中 890MW 为新增核电容量，预计 2028~2032 年上线。双方还将围绕「能源人工智能」建立五年技术联盟，用于加速产能交付与资产调度。",
+   "why": null,
+   "category": "算力/能源",
+   "heat": 3,
+   "published": "2026-10-06T11:37:10+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "应用材料与英特尔合作，在先进封装领域寻求 AI 芯片突破",
+   "url": "https://wap.eastmoney.com/a/202610063888796557.html",
+   "source": "Google News 中文",
+   "summary": "应用材料公司与英特尔计划在 AI 芯片和系统的先进封装技术方面取得突破，双方将在 EPIC 中心展开合作。先进封装是当前提升 AI 芯片算力密度、绕开制程瓶颈的关键路径之一。",
+   "why": null,
+   "category": "算力/芯片",
+   "heat": 3,
+   "published": "2026-10-06T13:19:02+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "AI 芯片需求强劲，三星电子三季度营业利润有望突破 100 万亿韩元",
+   "url": "https://k.sina.com.cn/article_5953466437_162dab0450670be9eu.html?from",
+   "source": "Google News 中文",
+   "summary": "受 AI 芯片需求强劲推动，三星电子三季度营业利润有望突破 100 万亿韩元。存储与代工业务的景气回升，反映出 AI 服务器对 HBM 等高端存储的持续拉动。",
+   "why": null,
+   "category": "算力/芯片",
+   "heat": 3,
+   "published": "2026-10-06T09:17:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "花旗：代理式 AI 重塑算力需求，2030 年 CPU 市场剑指 3000 亿美元",
+   "url": "https://wap.stockstar.com/detail/IG2026100600005155",
+   "source": "Google News 中文",
+   "summary": "花旗发布报告称，代理式 AI（Agentic AI）正在重塑算力需求结构，预计 2030 年 CPU 市场规模将达到 3000 亿美元，并将 AMD 目标价看高至 800 美元。报告认为智能体负载将带动通用计算需求回升。",
+   "why": null,
+   "category": "算力/研究",
+   "heat": 3,
+   "published": "2026-10-06T13:41:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "Manus 重新独立，Agent 之战换了打法",
+   "url": "https://www.tmtpost.com/8159743.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道，AI Agent 产品 Manus 重新独立运营，Agent 赛道的竞争打法随之改变。文章讨论了独立后如何重新估值的问题，反映出智能体创业公司在资本与产品之间的路径选择。",
+   "why": null,
+   "category": "公司/Agent",
+   "heat": 3,
+   "published": "2026-10-06T03:06:40+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "因涌入大量 AI 生成报告，Google 冻结开源漏洞悬赏计划",
+   "url": "https://www.solidot.org/story?sid=85538",
+   "source": "Solidot",
+   "summary": "因大量低质量 AI 生成的漏洞报告涌入，Google 宣布冻结其开源软件漏洞悬赏计划 OSS VRP，决定自 10 月 1 日生效，并承诺 2027 年一季度提供更新。维护者被迫花费大量时间验证无效报告，无法专注修复真正重要的漏洞。",
+   "why": null,
+   "category": "安全/开源",
+   "heat": 3,
+   "published": "2026-10-05T14:27:52+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "Termexo v0.10.10 发布：19 个本地 MCP 工具，五种编程 Agent 自动接入",
+   "url": "https://www.oschina.net/news/502845",
+   "source": "开源中国",
+   "summary": "MIT 开源的 Windows AI 编程工作台 Termexo 发布 v0.10.10，将终端、任务和部分设置开放为 19 个本地 MCP 工具，并支持在 Claude Code、Codex、OpenCode、Grok Build 和 Antigravity 终端中自动添加连接。Agent 可查询工作区与终端、读取指令。",
+   "why": null,
+   "category": "开源/工具",
+   "heat": 2,
+   "published": "2026-10-05T23:39:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "陶哲轩被归入「AI 减速派」，学界对 AI 风险态度分化",
+   "url": "https://www.qbitai.com/2026/10/501736.html",
+   "source": "量子位",
+   "summary": "量子位报道称，数学家陶哲轩近期的公开表态被解读为加入「AI 减速派」阵营。文章梳理了其对 AI 发展节奏与风险的看法，反映出学界对 AI 推进速度的分歧正在加大。",
+   "why": null,
+   "category": "观点/学术",
+   "heat": 2,
+   "published": "2026-10-06T07:59:17+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "全球 AI 消费调查：仅 1% 超级玩家在养活 AI 圈",
+   "url": "https://www.tmtpost.com/8159928.html",
+   "source": "钛媒体",
+   "summary": "钛媒体援引全球 AI 消费调查称，AI 的流量帝国主要依靠极少数用户用真金白银支撑，仅约 1% 的「超级玩家」贡献了主要付费。这一结构意味着 AI 应用的商业化仍高度依赖小众高价值用户。",
+   "why": null,
+   "category": "行业分析",
+   "heat": 2,
+   "published": "2026-10-06T10:44:06+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
