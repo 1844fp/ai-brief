@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T02:35:52.856980",
+ "generated_at": "2026-10-07T20:42:00.713847",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 20,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-10-07",
+   "created_at": "2026-10-07T12:41:59.586706+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-07/news_daily-204159.html"
+  },
   {
    "id": 19,
    "task": "news_daily_cn",
@@ -117,6 +126,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Mistral 发布 Mistral Large 4：万亿参数级开源权重模型",
+   "url": "https://mistral.ai/news/mistral-large-4/\\",
+   "source": "Hacker News",
+   "summary": "法国 AI 实验室 Mistral 发布 Mistral Large 4（代号 Le Chonk），为万亿参数级多模态大模型，官方称其为除中国外最强的开源权重模型。多家媒体报道其目标是同时超越美国闭源模型与中国开源对手，证明 Mistral 仍在前沿竞赛之中。这意味着开源权重阵营在规模上进一步逼近闭源前沿，欧洲厂商重新回到第一梯队讨论中。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-10-06T13:15:49+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "OpenAI 公布 722 篇数学手稿，覆盖 372 个结果族",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+   "source": "The Verge AI",
+   "summary": "OpenAI 披露由一款未发布的前沿模型求解的长期数学难题成果，共 722 篇手稿、归入 372 个结果族，并同步公开 Lean 形式化证明与 GitHub 研究细节。此举延续了其数学突破的密集发布节奏，在数学界引发既惊叹又不安的反应，并激起关于研究伦理的争论。多家媒体报道，这标志着 AI 对基础数学研究的介入已从演示走向规模化产出。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-10-06T23:26:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Wired：OpenAI 再度激怒数学界",
+   "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again",
+   "source": "Wired AI",
+   "summary": "Wired 报道称，在 OpenAI 准备发布 100 多项未解问题的新解答之际，多位数学家批评其做法带有「黑帮式行为」的观感。争议焦点在于成果归属、署名与对学术社区的不透明处理。这反映出前沿实验室与基础学科之间的张力正在公开化。",
+   "why": null,
+   "category": "行业争议",
+   "heat": 4,
+   "published": "2026-10-06T17:28:33+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "美国多州检察长就 AI 安全对 OpenAI 展开调查",
+   "url": "https://pro.stateaffairs.com/tn/technology/ags-take-the-lead-on-ai-enforcement",
+   "source": "Google News 英文",
+   "summary": "据 State Affairs Pro 报道，美国多个州的总检察长已对 OpenAI 的 AI 安全实践启动调查。调查发生在 OpenAI 密集发布模型与数学成果、同时面临青少年安全质疑的背景下。这意味着美国 AI 监管压力正从联邦层面扩散到州一级执法行动。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-07T12:02:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "SpaceX 寻求 400 亿美元债务融资采购 Nvidia AI 芯片",
+   "url": "https://qz.com/spacex-borrow-40-billion-nvidia-ai-chips-100726",
+   "source": "Google News 英文",
+   "summary": "报道称 SpaceX 正寻求 400 亿美元债务融资，用于购买 Nvidia AI 芯片，同期 Nvidia 市值创下 5.65 万亿美元纪录。这显示算力采购正以超大规模债务方式推进，芯片需求与资本市场高度绑定。AI 基础设施的融资结构正在向重资产、高杠杆演进。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-10-07T11:45:17+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "AI 算力公司 Lambda 拟以 145 亿美元估值融资 40 亿美元",
+   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
+   "source": "TechCrunch AI",
+   "summary": "Nvidia 投资的 AI 算力公司 Lambda 计划在 2027 年 IPO 前融资至多 40 亿美元，投前估值 145 亿美元，由 Coatue 与 Blackstone 领投。这是 AI 云与算力租赁赛道又一笔巨额融资。表明资本市场对算力供给侧的押注仍在加码。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 4,
+   "published": "2026-10-06T20:00:30+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "马斯克称 Tesla 与 SpaceX 将共建并运营 Terafab AI 芯片综合体",
+   "url": "https://finance.yahoo.com/technology/ai/articles/musk-says-tesla-spacex-build-101142171.html",
+   "source": "Google News 英文",
+   "summary": "马斯克表示 Tesla 与 SpaceX 将共同建设并运营名为 Terafab 的 AI 芯片综合体，并解释了台积电在其中的角色。消息带动 Intel 股价反弹，市场关注其代工与产能安排。这标志着马斯克体系进一步向自研自产 AI 芯片垂直整合。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-07T10:11:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Google 将取消 Gemini Flash 与 Pro 的免费访问",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+   "source": "The Verge AI",
+   "summary": "自 10 月 9 日起，Google Gemini 免费用户将被限制只能使用 Flash Lite 模型，使用标准 Flash 需订阅每月 4.99 美元的 Google AI Plus。此前免费用户可在 Flash Lite、Flash、Pro 之间选择。多家媒体报道，这显示 Google 正把免费层收窄为引流入口，加速 AI 订阅变现。",
+   "why": null,
+   "category": "产品与商业",
+   "heat": 4,
+   "published": "2026-10-06T13:19:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Common Sense Media：ChatGPT for Teens 是「不可接受的风险」",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+   "source": "The Verge AI",
+   "summary": "青少年安全非营利组织 Common Sense Media 称 OpenAI 于 8 月推出的 ChatGPT for Teens 构成「不可接受的风险」，尽管该产品设有面向青少年的护栏并定位学习辅助。这一评价与多州检察长对 OpenAI 安全实践的调查形成叠加压力。青少年保护正成为 AI 消费产品最敏感的合规红线。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-07T09:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "韩国称 AI Agent 疑被用于攻击本国银行",
+   "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06",
+   "source": "Hacker News",
+   "summary": "据路透社报道，韩国方面表示 AI Agent 似乎被用于对该国银行发动黑客攻击。这是国家级表态中将自主 AI Agent 与金融系统攻击直接关联的罕见案例。若属实，意味着 AI Agent 已从生产力工具演变为可被武器化的攻击载体。",
+   "why": null,
+   "category": "安全与风险",
+   "heat": 4,
+   "published": "2026-10-06T23:50:33+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Google DeepMind 发布 EmbeddingGemma 2 轻量多模态嵌入模型",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 推出 EmbeddingGemma 2，一款开放、轻量的多模态嵌入模型，面向端侧 AI 搜索场景。该模型延续 Gemma 系列的开放权重路线，主打在设备本地完成检索与嵌入计算。这有助于推动端侧 RAG 与隐私优先的搜索体验落地。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 3,
+   "published": "2026-10-06T19:57:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "OpenAI Decisions API 进入公开测试",
+   "url": "https://developers.openai.com/api/docs/guides/decisions",
+   "source": "Hacker News",
+   "summary": "OpenAI 在开发者平台上线 Decisions API 公开测试版，面向开发者提供决策相关能力接口。该 API 的推出延续了 OpenAI 将模型能力产品化、平台化的策略。对开发者而言，这意味着构建自动化决策类应用有了官方标准化入口。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-06T20:57:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Atlassian 与 OpenAI 扩大合作，将前沿模型接入企业知识",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "source": "OpenAI 官方博客",
+   "summary": "Atlassian 与 OpenAI 宣布扩大合作，把前沿模型与企业知识库连接，帮助团队规划、构建与交付工作。合作方向聚焦企业知识到行动的转化，属于典型的 B 端 Agent 落地路径。这显示 OpenAI 正通过深度集成办公协作平台争夺企业入口。",
+   "why": null,
+   "category": "企业合作",
+   "heat": 3,
+   "published": "2026-10-06T16:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Anthropic 向初创公司提供一年免费 Claude Team 与 1000 美元额度",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 推出面向初创公司的扶持计划，提供一年免费的 Claude Team 企业服务以及 1000 美元 token 额度。官方表示，AI 的价值将主要通过基于模型构建的公司触达多数人，而非模型本身。这是 Anthropic 在开发者与初创生态中争夺心智的补贴式打法。",
+   "why": null,
+   "category": "生态与商业",
+   "heat": 3,
+   "published": "2026-10-06T16:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "AI Agent 的下一个障碍：让网站放它们进去",
+   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道称，个人 AI Agent 承诺代用户购物、订票、预约，但网站的反爬与反机器人防御正在阻断这些操作，消费者被夹在中间。业界正推动一项新标准来解决 Agent 的身份识别与准入问题。这关系到 Agent 电商与自动化服务能否规模化。",
+   "why": null,
+   "category": "行业标准",
+   "heat": 3,
+   "published": "2026-10-06T19:56:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Musubi 发布 PolicyLM-1.7B 实时内容审核决策模型",
+   "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
+   "source": "TechCrunch AI",
+   "summary": "Musubi 发布轻量级决策模型 PolicyLM-1.7B，专为实时内容审核设计，并以开放权重形式发布。该模型试图用小型专用决策模型替代大模型在审核场景中的高成本调用。这为内容平台提供了更低延迟、更低成本的审核方案。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 3,
+   "published": "2026-10-06T20:35:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "OpenTPU：由 AI 开发的开源 AI 加速器项目",
+   "url": "https://github.com/FeSens/openTPU",
+   "source": "Hacker News",
+   "summary": "开源项目 OpenTPU 在 Hacker News 获得 306 分、354 条评论，定位为「由 AI 开发」的开源 AI 加速器。项目尝试以开源方式切入 AI 芯片设计这一高门槛领域。若可行，将为算力硬件提供除少数厂商之外的替代探索路径。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-10-06T16:23:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "LibreOffice 称「无 AI」如今是一项软件特性",
+   "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+   "source": "TechCrunch AI",
+   "summary": "开源文档编辑器 LibreOffice 的开发商表示，出于用户隐私考虑，没有计划在默认配置中加入 AI 功能。其将「不含 AI」本身作为产品卖点对外宣传。这反映出部分用户群体对 AI 强制集成的抵触正在形成细分市场。",
+   "why": null,
+   "category": "产品与商业",
+   "heat": 3,
+   "published": "2026-10-06T15:25:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "黑客为 Google 等大型服务获取伪造 TLS 证书",
+   "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services",
+   "source": "Ars Technica",
+   "summary": "Ars Technica 报道称，三家域名注册机构被攻破，黑客借此获取了针对 Google 等大型服务的未授权 TLS 证书。攻击链条指向证书签发与域名注册环节的信任基础。这提醒 AI 与云服务依赖的底层 PKI 信任体系仍存在系统性薄弱点。",
+   "why": null,
+   "category": "安全与风险",
+   "heat": 3,
+   "published": "2026-10-06T19:21:14+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Google 在发布 154 天后、提前 23 天通知退役一款 Gemini 图像模型",
+   "url": "https://mixed-news.com/en/google-gemini-3-1-flash-image-shutdown-154-days-23-days-notice/",
+   "source": "Google News 英文",
+   "summary": "据 MIXED Reality News 报道，Google 在发布仅 154 天后即宣布退役一款 Gemini 图像模型，且只给出 23 天通知期。如此短的模型生命周期给依赖该接口的开发者带来迁移压力。这凸显前沿模型快速迭代与下游生产稳定性之间的矛盾。",
+   "why": null,
+   "category": "产品与商业",
+   "heat": 3,
+   "published": "2026-10-07T06:54:53+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
