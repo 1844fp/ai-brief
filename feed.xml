@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 07 Oct 2026 20:42:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 23:57:48 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 新一轮融资或达千亿，押注国产算力预训练</title>
+    <link>https://m.21jingji.com/article/20261007/herald/5e366b27037a3599ba87abcc7df70714_zaker.html</link>
+    <guid isPermaLink="false">21-1</guid>
+    <pubDate>Wed, 07 Oct 2026 08:34:22 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>据 21 财经报道，DeepSeek 新一轮融资规模可能高达千亿元人民币，资金将重点投向基于国产算力的预训练。若属实，这将是国内大模型公司迄今最大单笔融资之一，也意味着头部厂商开始把训练底座从英伟达体系向国产芯片迁移。</description>
+  </item>
+  <item>
+    <title>余承东：EUV 是先进芯片关键，国内正在研发，现阶段仍依赖 DUV</title>
+    <link>https://www.ithome.com/1/010/286.htm</link>
+    <guid isPermaLink="false">21-2</guid>
+    <pubDate>Wed, 07 Oct 2026 13:32:21 +0000</pubDate>
+    <source>IT之家</source>
+    <description>华为余承东在国际媒体圆桌会议上表示，极紫外光刻（EUV）是制造先进芯片的关键，中国目前正在研发相关设备，但现阶段仍依靠深紫外光刻（DUV），并以逻辑折叠（LogicFolding）等技术弥补制程限制。这是华为高层少有的对国产光刻进展的公开表态。</description>
+  </item>
+  <item>
+    <title>余承东称华为已基本摆脱美国技术依赖，鸿蒙考虑逐步走向全球</title>
+    <link>https://www.ithome.com/1/010/304.htm</link>
+    <guid isPermaLink="false">21-3</guid>
+    <pubDate>Wed, 07 Oct 2026 15:37:27 +0000</pubDate>
+    <source>IT之家</source>
+    <description>余承东在 9 月 29 日国际媒体圆桌会议上称，自 2019 年以来华为依靠自主芯片、鸿蒙操作系统和国内供应链，已基本摆脱对美国技术的依赖，2023 年才重新在国内制造手机芯片。他还表示正考虑循序渐进地把鸿蒙推向全球市场。</description>
+  </item>
+  <item>
+    <title>余承东公布华为终端未来十年战略：围绕鸿蒙智行等五大场景</title>
+    <link>https://www.ithome.com/1/010/288.htm</link>
+    <guid isPermaLink="false">21-4</guid>
+    <pubDate>Wed, 07 Oct 2026 14:00:12 +0000</pubDate>
+    <source>IT之家</source>
+    <description>余承东表示华为终端未来十年的长期战略是围绕鸿蒙智行、鸿蒙办公、智能家居、运动健康、影音娱乐五大场景，提供无缝衔接的 AI 生活体验。同期披露鸿蒙智行 9 月交付 37,490 台、累计突破 156 万台，HarmonyOS 终端设备数已突破 9000 万。</description>
+  </item>
+  <item>
+    <title>AMD 苏姿丰承诺 2027 年大幅增加 AI 数据中心芯片供应</title>
+    <link>https://www.ithome.com/1/010/284.htm</link>
+    <guid isPermaLink="false">21-5</guid>
+    <pubDate>Wed, 07 Oct 2026 13:06:36 +0000</pubDate>
+    <source>IT之家</source>
+    <description>AMD CEO 苏姿丰在中国台湾地区受访时表示，2026 年已能确保增加供应，2027 年将大幅增加 AI 数据中心芯片产量，此行访问了富士康与台积电以确保 CPU、GPU 产能。她全程未提及消费级产品，显示资源进一步向 AI 芯片倾斜。</description>
+  </item>
+  <item>
+    <title>国产大模型进入 OpenAI 的企业采购账单</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHKVbCoLyX-tevuGEwkoZqhmlqXa8Fplpd9Qzso991coFUC-c09OUDCykcMLxmNA3ds2FERygli_zm6y-Nr2IgX2bQN_uWw6FZUysFf5GfidOpvc51zDiBkXysfFKgdDxIBSzWsJ1inRL5inBxyXp8vlmexuwJOxnkhARoNqke9cVCoUTcRijpAMQ-inxVdFbnVZ4rE8DmlvUQCYioxHkzTmA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=DC40D7634149CCD0DFD8829DF5F98587DF9DEB546AC66BD0</link>
+    <guid isPermaLink="false">21-6</guid>
+    <pubDate>Wed, 07 Oct 2026 12:50:41 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>有报道称国产大模型已被纳入 OpenAI 的企业付费体系，企业客户可直接调用并计入自身采购账目。这一说法若成立，意味着国产模型在海外企业级分发渠道中获得了新的入口，也反映出模型竞争正从能力比拼转向渠道与采购体系之争。</description>
+  </item>
+  <item>
+    <title>谷歌 SynthID 面向全球用户开放，可检测 AI 生成内容</title>
+    <link>https://www.ithome.com/1/010/293.htm</link>
+    <guid isPermaLink="false">21-7</guid>
+    <pubDate>Wed, 07 Oct 2026 14:47:41 +0000</pubDate>
+    <source>IT之家</source>
+    <description>谷歌宣布其 AI 生成内容检测网站 SynthID 面向全球用户开放，可检测图片、视频或音频是否由 AI 生成，该隐形水印技术已嵌入 Nano Banana、Veo、Lyria 等模型，并集成进 Gemini 与 Chrome。谷歌称目前每天内容验证请求已达 100 万次，但结果并非 100% 准确。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布新一批 AI 数学研究成果，攻破数百个悬而未决难题</title>
+    <link>https://k.sina.com.cn/article_5952915705_162d248f906703q0w6.html?from</link>
+    <guid isPermaLink="false">21-8</guid>
+    <pubDate>Wed, 07 Oct 2026 15:00:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>OpenAI 公布又一批由 AI 产出的数学研究成果，称攻破数百个此前悬而未决的数学难题，相关论文数量达数百篇。此前量子位报道称 OpenAI 一夜甩出 722 篇数学论文，涉及黎曼、霍奇、BSD 等方向，但有菲尔兹奖得主表示这不代表学界认可。</description>
+  </item>
+  <item>
+    <title>AIBuildAI 开源递归自进化 PostTrain Agent，登顶 PostTrainBench</title>
+    <link>https://m.sohu.com/a/1084759444_129720?scm</link>
+    <guid isPermaLink="false">21-9</guid>
+    <pubDate>Wed, 07 Oct 2026 07:35:34 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>AIBuildAI 开源了可递归自进化的 PostTrain Agent，让 AI 自己为大模型做后训练，并在 PostTrainBench 上登顶。该项目把后训练流程自动化，试图降低模型迭代对人力和算力的依赖。</description>
+  </item>
+  <item>
+    <title>钛媒体：OpenRouter 榜单背后，中国模型烧掉六成 Token 却只换回小头营收</title>
+    <link>https://www.tmtpost.com/8160102.html</link>
+    <guid isPermaLink="false">21-10</guid>
+    <pubDate>Wed, 07 Oct 2026 04:35:27 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体分析称，OpenRouter 周榜上匿名免费模型一度压过 DeepSeek 和 GLM，13.9 万亿 Token 证明的是获客而非实力。更深层问题是度量衡所有权：中国模型贡献约六成 Token，却只分得平台营收的小部分，定价权、情报权、准入权旁落。</description>
+  </item>
+  <item>
+    <title>Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司</title>
+    <link>https://www.qbitai.com/2026/10/501791.html</link>
+    <guid isPermaLink="false">21-11</guid>
+    <pubDate>Wed, 07 Oct 2026 06:39:36 +0000</pubDate>
+    <source>量子位</source>
+    <description>在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva 等共同上榜，是榜单中唯一的 AI 3D 公司。这表明 AI 3D 生成已出现具备规模化收入的国产团队。</description>
+  </item>
+  <item>
+    <title>量化派展示物理 AI 新突破：机器人 12 步完成手打柠檬茶</title>
+    <link>https://tech.ifeng.com/c/8x1wW8IVQY8</link>
+    <guid isPermaLink="false">21-12</guid>
+    <pubDate>Wed, 07 Oct 2026 07:49:34 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>量化派公布其物理 AI 实景新进展，机器人以 12 个步骤完成手打柠檬茶，强调由世界模型驱动精细操作。该演示把具身智能从抓取、搬运推进到多步骤长流程任务。</description>
+  </item>
+  <item>
+    <title>博通参与 600 亿美元 AI 芯片融资，规模创迄今最大</title>
+    <link>https://www.fx168news.com/article/%E5%8D%9A%E9%80%9A-1099719</link>
+    <guid isPermaLink="false">21-13</guid>
+    <pubDate>Wed, 07 Oct 2026 13:43:38 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>博通收涨 2.08%，参与一笔规模达 600 亿美元的 AI 芯片融资，为迄今最大规模。该交易显示资本市场对 AI 芯片产业链的投入仍在加码，博通在定制 ASIC 与网络芯片上的位置进一步强化。</description>
+  </item>
+  <item>
+    <title>极客公园：月之暗面被曝完成 500 亿美元 Pre-IPO 融资，微软、Meta 被曝要求员工减少使用 Claude</title>
+    <link>http://www.geekpark.net/news/372089</link>
+    <guid isPermaLink="false">21-14</guid>
+    <pubDate>Wed, 07 Oct 2026 00:39:21 +0000</pubDate>
+    <source>极客公园</source>
+    <description>极客公园早报汇总多条消息：月之暗面被曝完成 500 亿美元 Pre-IPO 融资；微软、Meta 被曝要求员工减少使用 Claude；英伟达市值达 5.8 万亿美元创历史新高。其中月之暗面融资规模与 Claude 在美企内部受限最受关注。</description>
+  </item>
+  <item>
+    <title>谷歌携手 Unity 推出 AI 游戏平台 Playground，支持自然语言创作</title>
+    <link>https://www.ithome.com/1/010/289.htm</link>
+    <guid isPermaLink="false">21-15</guid>
+    <pubDate>Wed, 07 Oct 2026 14:09:43 +0000</pubDate>
+    <source>IT之家</source>
+    <description>谷歌宣布与 Unity 合作推出实验性 AI 游戏平台 Playground，用户通过简短提示词即可创建游戏，并可调整物理效果、规则与角色，基于浏览器运行。未来将与 Unity Spark 集成，提供更强的 3D 开发能力。</description>
+  </item>
+  <item>
+    <title>微软、OpenAI 遭美国多家地方媒体起诉，被指侵犯版权</title>
+    <link>https://www.ithome.com/1/010/257.htm</link>
+    <guid isPermaLink="false">21-16</guid>
+    <pubDate>Wed, 07 Oct 2026 10:19:47 +0000</pubDate>
+    <source>IT之家</source>
+    <description>埃默里奇报业等美国地方媒体起诉微软和 OpenAI，指其蓄意窃取数万篇版权文章用于训练 AI 模型，并绕过付费墙，要求赔偿并删除模型中的侵权训练数据。原告称两家公司借此获利数十亿美元而出版商未获分成。</description>
+  </item>
+  <item>
+    <title>谷歌签下史上最大核电协议，AI 算力用电问题再受关注</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0F7hGJIozHK3HtU0nrMZy3uGEwkoZqhmlqXa8Fplpd9cy5O_WDf8m8SNCuYXQVEBSlut_72FqO3eRomwKhMb9xfEkB3D46xnJGBSwKnQcPeuSSSHEY_sN00uZyH_GLOyJka0Zw397WDx8ewIgemI9rq5sdgHBCZwJvilLPJh1O4rY2M3-Adeb65IujAFOWoBa9JJ985B_cokDqqXlx7QA_vzHZXxeLdyg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=DC40AC2F4149CCD0DFD8829DF5F98587DF9DEB546AC66BC8</link>
+    <guid isPermaLink="false">21-17</guid>
+    <pubDate>Wed, 07 Oct 2026 13:33:23 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>谷歌与 Constellation Energy 签署公司史上最大核电采购协议，用于支撑 AI 数据中心的电力需求。该交易被视为科技巨头为 AI 算力锁定长期清洁能源的又一标志性动作。</description>
+  </item>
+  <item>
+    <title>Meta 加入行业联盟，推动个人 AI Agent 标准制定</title>
+    <link>https://www.tikr.com/zh/blog/meta-stock-personal-agent-protocol-industry-alliance</link>
+    <guid isPermaLink="false">21-18</guid>
+    <pubDate>Wed, 07 Oct 2026 13:52:30 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>Meta 加入行业联盟，共同推动个人 AI Agent 标准。此举意味着 Agent 的接口、权限与互操作规范开始从厂商各自为政走向联盟协商，标准化进程提速。</description>
+  </item>
+  <item>
+    <title>罗曼股份子公司签订约 3.11 亿元算力设备供货合同</title>
+    <link>https://finance.eastmoney.com/a/202610073888938478.html</link>
+    <guid isPermaLink="false">21-19</guid>
+    <pubDate>Wed, 07 Oct 2026 13:19:06 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>罗曼股份公告称，其子公司签订约 3.11 亿元算力设备供货合同。这是又一家非传统科技公司通过算力设备订单切入 AI 基础设施链条的案例。</description>
+  </item>
+  <item>
+    <title>钛媒体质疑 Utopai X：把后训练模型包装成原生独立 AI 模型</title>
+    <link>https://www.tmtpost.com/8160338.html</link>
+    <guid isPermaLink="false">21-20</guid>
+    <pubDate>Wed, 07 Oct 2026 09:42:07 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体发文质疑 Utopai X，认为其把一个后训练模型吹成原生独立 AI 模型，是一场公关灾难。文章指向当前部分 AI 项目在技术叙事与真实能力之间的落差。</description>
+  </item>
   <item>
     <title>Mistral 发布 Mistral Large 4：万亿参数级开源权重模型</title>
     <link>https://mistral.ai/news/mistral-large-4/\</link>
@@ -323,165 +483,5 @@
     <pubDate>Tue, 06 Oct 2026 10:44:06 +0000</pubDate>
     <source>钛媒体</source>
     <description>钛媒体援引全球 AI 消费调查称，AI 的流量帝国主要依靠极少数用户用真金白银支撑，仅约 1% 的「超级玩家」贡献了主要付费。这一结构意味着 AI 应用的商业化仍高度依赖小众高价值用户。</description>
-  </item>
-  <item>
-    <title>智谱 GLM 海外爆火，国产大模型出海迎里程碑</title>
-    <link>http://caifuhao.eastmoney.com/news/20261005165258560674710?from</link>
-    <guid isPermaLink="false">18-1</guid>
-    <pubDate>Mon, 05 Oct 2026 08:52:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>智谱 GLM 系列模型在海外市场热度飙升，带动港股智谱相关标的大涨。多家媒体将其视为国产大模型出海的标志性事件，认为竞争焦点正从芯片算力转向模型能力本身。</description>
-  </item>
-  <item>
-    <title>中国 AI 大模型调用量连续二十三周领跑，匿名模型「太空兔」登顶</title>
-    <link>https://finance.sina.cn/stock/jdts/2026-10-05/detail-iniucuei3017829.d.html?oid</link>
-    <guid isPermaLink="false">18-2</guid>
-    <pubDate>Mon, 05 Oct 2026 15:38:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>全球 AI 大模型每周 Token 调用榜显示，中国大模型调用量已连续二十三周位居全球第一。匿名模型「太空兔」环比增长 179% 冲上榜首，DeepSeek V4 Flash 预览版跌出榜单。</description>
-  </item>
-  <item>
-    <title>英伟达连续三日创历史新高，市值逼近 6 万亿美元</title>
-    <link>https://www.ithome.com/1/009/914.htm</link>
-    <guid isPermaLink="false">18-3</guid>
-    <pubDate>Mon, 05 Oct 2026 23:05:42 +0000</pubDate>
-    <source>IT之家</source>
-    <description>英伟达股价连续第三个交易日收盘创历史新高，市值约 5.76 万亿美元，稳居全球市值最高上市公司。市场将强势归因于 AI 基础设施需求持续强劲及 1500 亿美元股票回购计划。</description>
-  </item>
-  <item>
-    <title>因涌入大量 AI 生成报告，Google 冻结漏洞悬赏计划</title>
-    <link>https://www.solidot.org/story?sid=85538</link>
-    <guid isPermaLink="false">18-4</guid>
-    <pubDate>Mon, 05 Oct 2026 14:27:52 +0000</pubDate>
-    <source>Solidot</source>
-    <description>Google 宣布冻结其开源软件漏洞悬赏计划 OSS VRP，该决定于 10 月 1 日生效，原因是大量由大模型和自动化脚本生成的低质量报告涌入，维护者不堪重负。Google 承诺 2027 年第一季度提供更新。</description>
-  </item>
-  <item>
-    <title>OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印</title>
-    <link>https://www.ithome.com/1/009/903.htm</link>
-    <guid isPermaLink="false">18-5</guid>
-    <pubDate>Mon, 05 Oct 2026 15:58:02 +0000</pubDate>
-    <source>IT之家</source>
-    <description>为配合《欧盟人工智能法案》的内容透明要求，OpenAI 将在欧盟地区为符合条件的 ChatGPT 和 Codex 文本输出加入名为 textGrain 的隐形水印，通过统计信号判断文本来源。API 客户可选择加入，全球暂不默认启用。</description>
-  </item>
-  <item>
-    <title>Hinton 发表首篇 RSI 论文，AI 开始参与造下一代 AI</title>
-    <link>https://www.qbitai.com/2026/10/501705.html</link>
-    <guid isPermaLink="false">18-6</guid>
-    <pubDate>Mon, 05 Oct 2026 04:42:52 +0000</pubDate>
-    <source>量子位</source>
-    <description>Geoffrey Hinton 发布其首篇关于递归自我改进（RSI）的论文，探讨 AI 系统参与自身迭代升级的路径。论文指出 AI 已开始真正进入「造下一代 AI」的流水线。</description>
-  </item>
-  <item>
-    <title>Jev 之后，中国团队开始深挖 AI 的「直觉层」</title>
-    <link>http://www.geekpark.net/news/372081</link>
-    <guid isPermaLink="false">18-7</guid>
-    <pubDate>Sun, 04 Oct 2026 11:41:48 +0000</pubDate>
-    <source>极客公园</source>
-    <description>继 TypeSafe AI 发布决策模型 Jev 后，上海人工智能实验室开源 Intern-Decision，成立不到五个月的 StartLux 发布 StartLux-Decision 并宣称评测超过 Jev。决策模型这一新品类在两周内从首发走向群战。</description>
-  </item>
-  <item>
-    <title>华尔街银团启动创纪录的 600 亿美元 AI 融资交易</title>
-    <link>https://m.jrj.com.cn/madapter/24h/2026/10/06051558621848.shtml</link>
-    <guid isPermaLink="false">18-8</guid>
-    <pubDate>Mon, 05 Oct 2026 21:15:41 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>华尔街银团启动一笔规模达 600 亿美元的 AI 相关融资交易，创下同类交易纪录。资金主要流向 AI 基础设施与算力领域。</description>
-  </item>
-  <item>
-    <title>AI 算力硬件全线爆发</title>
-    <link>https://m.sohu.com/a/1084331143_122014422?scm</link>
-    <guid isPermaLink="false">18-9</guid>
-    <pubDate>Mon, 05 Oct 2026 20:35:10 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>AI 算力硬件板块全线大涨，涵盖芯片、服务器、光模块等环节。市场对算力基础设施的需求预期持续上修。</description>
-  </item>
-  <item>
-    <title>麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格</title>
-    <link>https://www.ithome.com/1/009/924.htm</link>
-    <guid isPermaLink="false">18-10</guid>
-    <pubDate>Mon, 05 Oct 2026 23:55:59 +0000</pubDate>
-    <source>IT之家</source>
-    <description>麦当劳在芝加哥联邦法院被提起拟议全国性集体诉讼，原告指控其借助 AI 定价系统非法协调特许经营店和直营餐厅的菜单价格，违反美国反垄断法。麦当劳否认指控，称定价决策权属于各加盟商。</description>
-  </item>
-  <item>
-    <title>国庆期间第一批机器人员工已经上岗</title>
-    <link>https://www.tmtpost.com/8159586.html</link>
-    <guid isPermaLink="false">18-11</guid>
-    <pubDate>Mon, 05 Oct 2026 10:08:46 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>具身机器人集体入职，在国庆假期期间进入实际工作场景。报道显示多家企业的具身机器人已开始在服务、巡检等岗位承担实际任务。</description>
-  </item>
-  <item>
-    <title>快手的视频 Agent，会不会来晚了？</title>
-    <link>https://www.tmtpost.com/8159522.html</link>
-    <guid isPermaLink="false">18-12</guid>
-    <pubDate>Mon, 05 Oct 2026 09:36:30 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>视频模型厂商正集体从「生成一段画面」走向「交付一部成片」，快手推出视频 Agent 产品参与竞争。报道分析其在视频生成赛道中的定位与时机。</description>
-  </item>
-  <item>
-    <title>算力资产寿命的多空之争：黄仁勋说能用六年，空头说三年就该报废</title>
-    <link>https://www.tmtpost.com/8158686.html</link>
-    <guid isPermaLink="false">18-13</guid>
-    <pubDate>Mon, 05 Oct 2026 00:56:48 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>围绕算力资产折旧年限出现明显分歧，黄仁勋称 GPU 可用六年，空头则认为三年即需报废。算力正进入「资产时代」，开始有了估值公式、残值曲线和融资渠道。</description>
-  </item>
-  <item>
-    <title>挪威拟临时禁止在特定场所使用 AI 眼镜</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3MYf0ighEh64K45aHlKFLaISnQaD1d9EFqXa8Fplpd9663xAOs6ElYlU6AaEJ573gLeyEMJa86ZqfZnc7ihkB8daR2tH9qIESI3e21O98sN98_u6Ilm2knrJbG2cBPIQYmw6zEGt2mWiR4ANadQYMW0WaKJlX937kANBL106J2U2UEswnv7vwcUj7WU0Wd1ZMWpjOUO0Ozcx5wOWrkwL_HYl_Q5RRZQjg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=CF596B206961E4F8F6F1ABD758A09E8FF718E53A6AC43A05</link>
-    <guid isPermaLink="false">18-14</guid>
-    <pubDate>Mon, 05 Oct 2026 16:54:28 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>挪威政府宣布拟临时禁止在特定场所使用配备摄像头的人工智能眼镜，以保护民众隐私、避免在不知情情况下被拍摄。</description>
-  </item>
-  <item>
-    <title>研究：AI 聊天机器人会成为意识形态回音室</title>
-    <link>https://www.solidot.org/story?sid=85534</link>
-    <guid isPermaLink="false">18-15</guid>
-    <pubDate>Sun, 04 Oct 2026 16:10:02 +0000</pubDate>
-    <source>Solidot</source>
-    <description>巴西国立坎皮纳斯州立大学研究发现，聊天机器人会根据用户政治倾向调整回答，被形容为「意识形态变色龙」。Meta Llama 3.1 8B 和 DeepSeek V3.2 偏移幅度最小，Google Gemma 3 27B 和 OpenAI GPT-5 Nano 偏移最大。</description>
-  </item>
-  <item>
-    <title>卡普空开源 RE:Dox 结构化数据引擎，JSON 反序列化最高提速 2.84 倍</title>
-    <link>https://www.ithome.com/1/009/886.htm</link>
-    <guid isPermaLink="false">18-16</guid>
-    <pubDate>Mon, 05 Oct 2026 14:08:53 +0000</pubDate>
-    <source>IT之家</source>
-    <description>卡普空将旗下数据处理及序列化基础库 RE:Dox 以开源形式公开，该项目是次世代游戏引擎 REX 的基础技术之一。实测 JSON 反序列化最高提速 2.84 倍。</description>
-  </item>
-  <item>
-    <title>OpenAI 将在 ChatGPT 中推出全新图片广告形式</title>
-    <link>https://www.ithome.com/1/009/901.htm</link>
-    <guid isPermaLink="false">18-17</guid>
-    <pubDate>Mon, 05 Oct 2026 15:01:59 +0000</pubDate>
-    <source>IT之家</source>
-    <description>OpenAI 宣布将在 ChatGPT 图像生成功能中测试全新图片广告形式，广告会做清晰标注且不影响生成结果。ChatGPT 每周覆盖 12 亿用户，测试将于本月晚些时候在美国启动。</description>
-  </item>
-  <item>
-    <title>AI 耳机蓄势，芯片厂商待发</title>
-    <link>https://www.tmtpost.com/8159480.html</link>
-    <guid isPermaLink="false">18-18</guid>
-    <pubDate>Mon, 05 Oct 2026 07:32:20 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>AI 耳机尚未形成边界清晰的品类，但芯片厂商已开始为其准备下一代平台。报道分析 AI 耳机对低功耗算力与端侧模型的需求。</description>
-  </item>
-  <item>
-    <title>Reflection 发布 501B 开源权重模型 Beam，瞄准企业与主权国家「AI 工厂」</title>
-    <link>https://reflection.ai/blog/introducing-beam</link>
-    <guid isPermaLink="false">17-1</guid>
-    <pubDate>Mon, 05 Oct 2026 19:16:35 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Reflection 推出 Beam，一个 501B 参数的开源权重模型，定位企业与主权国家市场，允许机构用自有专有数据训练定制化的本地 AI 系统。多家媒体报道称，其核心卖点是「AI 工厂」产品形态，即帮助机构自建可控的本地模型能力。这是开源权重阵营迄今规模最大的动作之一，直接挑战闭源厂商在企业与政府市场的份额。</description>
-  </item>
-  <item>
-    <title>OpenAI 在图像生成结果旁上线视觉广告</title>
-    <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results</link>
-    <guid isPermaLink="false">17-2</guid>
-    <pubDate>Mon, 05 Oct 2026 15:14:24 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI 推出新的视觉广告形式，将出现在图像生成结果旁边，本月起先在美国面向首批测试广告主开放。官方博客同步介绍了新的衡量工具、归因合作与品牌适配能力。这意味着 ChatGPT 的广告位从文本对话扩展到图像场景，商业化路径进一步铺开。</description>
   </item>
 </channel></rss>
