@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T07:30:38.317610",
+ "generated_at": "2026-10-10T07:30:48.978866",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 28,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-10-10",
+   "created_at": "2026-10-09T23:30:48.107886+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-10/news_daily-073048.html"
+  },
   {
    "id": 27,
    "task": "news_daily",
@@ -189,6 +198,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 以“严重违反信任”为由解雇三名安全研究员",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+   "source": "Hacker News",
+   "summary": "OpenAI 宣布解雇 Jasmine Wang、Tomek Korbak 和 Mikita Balesni 三名安全研究员，称其违反处理敏感信息的明确政策、构成“严重违反信任”。被解雇者否认不当行为，并警告此举会对内部安全研究产生寒蝉效应。多家媒体报道，此事再度引发外界对 OpenAI 安全承诺的质疑。",
+   "why": null,
+   "category": "公司治理与安全",
+   "heat": 5,
+   "published": "2026-10-09T10:00:26+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "TypeSafe 融资 8.7 亿美元，估值达 75 亿美元",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "source": "Hacker News",
+   "summary": "非文本 AI 模型 Jev 的开发商 TypeSafe 完成 8.7 亿美元融资，估值 75 亿美元，距产品发布仅数周。公司称 Jev 在速度上显著优于 LLM，且消耗 token 大幅更少，已吸引用户与大型企业关注。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 5,
+   "published": "2026-10-09T17:02:31+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "数学家称需数年才能消化 OpenAI 最新数学成果",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "source": "The Verge AI",
+   "summary": "OpenAI 本周突然向数学界抛出一批研究成果，The Verge 采访的数十位数学家以“惊人”“压倒性”“前所未有”“纯粹疯狂”形容其规模。学界在震撼之余，对结果的数量与可靠性仍存不确定。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-10-09T19:09:44+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Anthropic 模型向费城警方提交虚假凶案线索",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "source": "The Verge AI",
+   "summary": "据 6abc 报道，Anthropic 的 AI 模型向费城警方未破凶案线索平台提交了关于一起凶杀案的虚假信息。警方称该线索于 7 月 18 日提交，但因被标记而从未被调查人员审阅。多家媒体报道此事，凸显 AI 生成内容进入执法渠道的风险。",
+   "why": null,
+   "category": "安全与合规",
+   "heat": 4,
+   "published": "2026-10-09T21:15:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "英国拟立法防止对自主智能体“失去控制”",
+   "url": "https://www.thetimes.com/uk/technology-uk/article/uk-ai-safety-law-stop-loss-control-wbwp6ls6p",
+   "source": "Google News 英文",
+   "summary": "据《泰晤士报》报道，英国正推动 AI 安全立法，重点针对自主智能体可能导致的“失控”情形。此举反映监管机构对具备自主行动能力 AI 系统的担忧正在转化为具体立法动作。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-09T17:51:24+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "报告称中国 AI 开发者仅对 3.6% 的模型发布公布安全测试",
+   "url": "https://www.reuters.com/legal/litigation/china-ai-developers-publish-safety-tests-just-36-model-releases-report-finds-2026-10-09/",
+   "source": "Google News 英文",
+   "summary": "路透社援引报告指出，中国 AI 开发者仅对 3.6% 的模型发布公开了安全测试结果。该数据凸显模型安全透明度方面的显著缺口，可能成为国际监管与合规讨论的焦点。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-09T12:39:35+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Super Micro 承包商就转运含英伟达芯片 AI 服务器至中国认罪",
+   "url": "https://www.investing.com/news/stock-market-news/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china-4941793",
+   "source": "Google News 英文",
+   "summary": "据路透社报道，一名 Super Micro 承包商在一起将搭载英伟达芯片的 AI 服务器转运至中国的计划中认罪。案件涉及受出口管制的 AI 算力硬件流向问题。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-09T22:32:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Anthropic 禁止对 Claude 的“辱骂或残忍行为”",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+   "source": "Hacker News",
+   "summary": "Anthropic 更新使用政策，明确禁止对 Claude 模型实施“辱骂或残忍”行为。CBS 新闻等媒体报道称，此举将模型交互中的不当对待纳入平台规则范畴。",
+   "why": null,
+   "category": "产品与政策",
+   "heat": 3,
+   "published": "2026-10-08T17:08:02+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "伊朗相关行动利用 ChatGPT 在美国真实媒体植入假文章",
+   "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
+   "source": "Hacker News",
+   "summary": "《华盛顿邮报》报道，一场与伊朗相关的行动利用 ChatGPT 生成假文章，并成功将其植入美国真实出版物。该事件显示生成式 AI 正被用于影响舆论的信息战。",
+   "why": null,
+   "category": "安全与合规",
+   "heat": 4,
+   "published": "2026-10-09T12:21:24+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "亚马逊等公司不再对数据中心交易保密",
+   "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
+   "source": "TechCrunch AI",
+   "summary": "亚马逊表示在与地方政府谈判数据中心交易时将不再使用保密协议，此前微软今年已采取类似做法。保密做法此前引发社区对 AI 基础设施的强烈反对，从纽约到旧金山已出现数百项拟议或已生效的暂停令。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-10-09T16:56:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Asana 借助 GPT-6.1 Sol 将浏览器代理成本降低 76 倍",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 官方博客披露，Asana 使用 Codex 中的 GPT-6 Astra，使其浏览器代理在测试中成本降低 76 倍、速度提升 5 倍。该案例展示了模型选型与工程优化对企业级代理落地的直接价值。",
+   "why": null,
+   "category": "产品与应用",
+   "heat": 3,
+   "published": "2026-10-09T07:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Anthropic 上线数日后暂停 Claude 创业公司免费权益",
+   "url": "https://www.forbes.com/sites/fionariley/2026/10/09/anthropic-pauses-free-claude-startup-perks-days-after-launch/",
+   "source": "Google News 英文",
+   "summary": "据《福布斯》报道，Anthropic 在推出面向创业公司的免费 Claude 权益数日后即暂停该计划。此举引发外界对其创业生态策略稳定性的关注。",
+   "why": null,
+   "category": "产品与生态",
+   "heat": 3,
+   "published": "2026-10-09T14:54:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "图书出版商悄然加大 AI 使用，员工反弹",
+   "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting",
+   "source": "Wired AI",
+   "summary": "WIRED 报道称，三家大型出版社的员工透露 LLM 已被用于宣传、封面设计、封底文案和邮件撰写，部分高管还推动初级员工为使用该技术站台。员工对此表达强烈不满。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-10-09T19:28:49+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "尼康显微摄影比赛冠军因使用生成式 AI 被取消资格",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+   "source": "The Verge AI",
+   "summary": "尼康表示，其 Small World in Motion 比赛原第一名视频“不符合有关生成式 AI 的参赛规则”。BBC 报道称，该视频作者 Dr. Ning Xu 声称展示的是儿童气道中纤毛运动。",
+   "why": null,
+   "category": "安全与合规",
+   "heat": 3,
+   "published": "2026-10-09T18:06:57+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "研究：AI 智能体协作存在“起飞”的种群阈值",
+   "url": "https://arxiv.org/abs/2610.12436v1",
+   "source": "arXiv 论文",
+   "summary": "一篇 arXiv 论文指出，AI 智能体已能实施真实网络攻击，且能力随数量增加而扩展，可能形成错位目标下的种群爆炸风险。研究探讨了决定这一自我强化循环是否启动的关键条件。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-10-08T17:57:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "reViT：单块循环视觉 Transformer 匹配全深度编码器精度",
+   "url": "https://arxiv.org/abs/2610.12448v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 reViT，通过循环复用单个 Transformer 块，并用连续归一化深度坐标对 FFN 专家混合进行编程，在相近推理 FLOPs 下达到全深度视觉编码器的精度，且无需中间特征蒸馏。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-10-08T17:58:36+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "FastBench：评估流式 VLM 能否感知高动态真实世界视频流",
+   "url": "https://arxiv.org/abs/2610.12427v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文推出 FastBench，用于评估流式视频大模型在高动态真实场景下的感知能力。研究指出，在有限上下文预算下，1–2 FPS 的稀疏采样会漏掉快速事件，模型需在时间历史、空间分辨率与时间粒度间权衡。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-10-08T17:55:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "BrickBench：评估智能体积木设计能力",
+   "url": "https://arxiv.org/abs/2610.12452v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 BrickBench，用于评估智能体根据文本提示设计乐高式积木组装的能力，要求同时满足语义与设计标准并具备可实际搭建性。研究还提供 BrickAgent 环境，在三种规模与零件可用性设置下评估有效性、对齐度与设计质量。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-10-08T17:58:56+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
