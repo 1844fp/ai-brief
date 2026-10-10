@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T08:01:18.150244",
+ "generated_at": "2026-10-10T08:02:12.586488",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 30,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-10",
+   "created_at": "2026-10-10T00:02:11.719029+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-10/news_daily_cn-080211.html"
+  },
   {
    "id": 29,
    "task": "news_daily_cn",
@@ -207,6 +216,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "Credo 从 DSP 切入光芯片：1.6T 光模块整合自研 SiPho PIC",
+   "url": "https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html",
+   "source": "雷锋网",
+   "summary": "做了八年 DSP 的 Credo 正加速向光模块上游延伸，最新一代全 DSP 模块首次整合 200G/lane 的 Cardinal DSP、收购 DustPhotonics 获得的 Kfir200 硅光 PIC 以及 PILOT 诊断平台，产品带宽一年内从 800G 推向 1.6T。其中国销售副总裁指出，单颗 GPU 性能增速已追不上 AI 需求，行业关注点正从单卡速度转向如何把更多 GPU 连成更大计算系统。这意味着光模块厂商的竞争焦点正从封装组装转向 DSP 与硅光芯片的端到端整合能力。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-10-09T09:14:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "Claude 降价 90% 抢国产大模型饭碗",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2yzL_mupatB6GajlCLahYDzFqXa8Fplpd9ZS5m318-7pItOUlQEdd2L9rYat3GDmEOzlSDiEBsVrYl3iaE10wN0P-rixsH_BMHU-PqPpGLS0nfO0Rq0xoMywqHKiCM815OkBH9mxod-yVZboodVdCviyXcoAwG8iUoQphEzdFfnC3Pj5lExC0hZpH8hlvLkNxfWvZQQezGF1JQL0Hr9Gyd3Q..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=EF75B914707BFDE0EDEBB39FC9D91775EE89B3926AC98026",
+   "source": "微信公众号",
+   "summary": "Anthropic 旗下 Claude 大幅降价，降幅达 90%，直接切入国产大模型过去依靠性价比优势的小模型与跑量场景。报道指出，国产厂商在侧重执行与跑量的小模型段位，原有性价比优势已被追平甚至反超，需重新拉高能力或重构成本结构。这标志着海外头部模型开始用价格战正面争夺国内中低端推理市场。",
+   "why": null,
+   "category": "大模型竞争",
+   "heat": 5,
+   "published": "2026-10-09T00:34:02+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "字节跳动找到 DeepSeek 时强时弱的原因：Token 站位",
+   "url": "https://www.qbitai.com/2026/10/502364.html",
+   "source": "量子位",
+   "summary": "字节跳动的研究指出，DeepSeek 模型表现时强时弱与「Token 站位」有关——答得对不对，取决于关键信息在 Token 序列中的位置。这一发现为推理稳定性问题提供了可解释的机理视角，也提示模型评测与提示工程需要关注位置敏感性。对行业而言，这意味着大模型能力评估不能只看平均值，还需考察位置鲁棒性。",
+   "why": null,
+   "category": "大模型研究",
+   "heat": 4,
+   "published": "2026-10-09T07:11:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "火电首个 AI 原生智能底座落地：西安热工院携手华为发布 XZ100",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2y96bHT912dKWajlCLahYDzFqXa8Fplpd9ffnKDY4ZU-MKh4gyyZ2H8T6G8dw0_XufziOmo2D2trQFhozYoYn2Dmzy0Rx_Y1vVYJQhlZcRoR5AHn91RAXYrMLYUEvVKNjVR-Gl2eIsTKZxtg1pOZVljgiSa_uu2tyZGbOb_7uyhvlkDWi5r-N9qMvfDu-4KLEwZq150G9fbY7S-e4Yz84xMA..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=EF7573B8707BFDE0EDEBB39FC9D91775EE89B3926AC9801E",
+   "source": "微信公众号",
+   "summary": "西安热工院联合华为发布 XZ100 火电 AI 智能底座，以「串珠成链」为核心设计思路，整合华为全链路 ICT 与人工智能技术能力，打破传统信息化烟囱。这是火电行业首个 AI 原生智能底座，标志着 AI 在能源重资产行业的落地从单点试点走向底层平台化。对电力等流程工业而言，此类底座有望成为后续智能化改造的标准化入口。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-10-09T13:12:44+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "算力 PCB 龙头广合科技前三季度净利预增逾一倍，盘中却逼近跌停",
+   "url": "https://www.nbd.com.cn/articles/2026-10-09/4600326.html",
+   "source": "Google News 中文",
+   "summary": "算力 PCB 龙头广合科技发布业绩预告，前三季度净利润预增逾一倍，但公告当日股价盘中逼近跌停。业绩高增与股价大跌的背离，反映市场对算力硬件板块估值与后续订单持续性的分歧。作为算力产业链上游的关键环节，PCB 厂商的业绩兑现情况是观察 AI 服务器需求真实强度的重要窗口。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-09T14:20:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "因果智能走进真实世界：机器人 0.2 秒急停、秒级重规划",
+   "url": "https://www.qbitai.com/2026/10/502411.html",
+   "source": "量子位",
+   "summary": "量子位报道，一台机器人在关闭微波炉门时因人手突然插入而紧急悬停，急停时间仅 0.2 秒，并能在秒级完成重规划。这一能力来自因果智能在真实物理场景中的应用，强调对因果关系的实时理解而非单纯轨迹拟合。对具身智能而言，安全交互与动态重规划是进入家庭和服务场景的前置条件。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-10-09T08:47:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "Sharpa 把指尖触觉进化到全面体感，瞄准灵巧操作商业化",
+   "url": "https://www.qbitai.com/2026/10/502330.html",
+   "source": "量子位",
+   "summary": "量子位报道，灵巧操作厂商 Sharpa 将指尖触觉能力扩展为全面「体感」，试图解决机器人摆脱展会 Demo、产生真实商业价值所需的关键感知问题。报道指出，机器人要产生真实商业价值，需要的不只是单点触觉，而是覆盖手部与全身的体感反馈体系。这反映具身智能竞争正从运动控制转向高维感知与操作精度。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-10-09T04:15:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "SUSE 推出企业级私有 AI 战略，用开源基础设施打通生产级落地",
+   "url": "https://www.oschina.net/news/502904",
+   "source": "开源中国",
+   "summary": "SUSE 发布企业级私有 AI 战略，针对企业已跑完 POC 却卡在「从实验环境迈向生产部署」的鸿沟，提出用开源基础设施解决数据安全、厂商锁定、运维复杂度飙升和算力资源浪费等问题。报道指出，POC 阶段效果惊艳，一旦迁移到本地数据中心、离线隔离环境或多云混合架构就会暴露一系列现实难题。这标志着企业 AI 竞争正从模型能力转向生产级基础设施与治理能力。",
+   "why": null,
+   "category": "企业 AI",
+   "heat": 3,
+   "published": "2026-10-09T01:55:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "AI 智能体造出可微分地球模型 legoESM",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_gwArl3Ui2yUddz8LaMZliajlCLahYDzFqXa8Fplpd9I6nr9aQxIUWEV26OIIfY3xs381x8EG4w-4ZavWh3wU5fxY2ByzAcbLho6ozOycl8m7TmrfdsELlb9zuXOeJTuhcgn-t9MyO7586Hkxi_yboF_tWT40J5hq55PnTo-w3e9X767WooM52MB4g5ahi-GTb3xWGCXBmHSqzAkBflrvYGX_iHL9MadA..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=EF75A18F707BFDE0EDEBB39FC9D91775EE89B3926AC98023",
+   "source": "微信公众号",
+   "summary": "arXiv 论文提出 legoESM，一个由 AI 智能体构建的模块化、可微分、多尺度、AI-ready 的地球系统模型。该工作展示了 AI 编码智能体在复杂科学建模中的自主构建能力，将地球系统模型拆解为可组合模块并支持微分。这意味着 AI 智能体正从写代码工具升级为科学基础设施的构建者。",
+   "why": null,
+   "category": "AI for Science",
+   "heat": 3,
+   "published": "2026-10-09T16:00:40+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "《柳叶刀》主刊发表 Google 研究：AI 有望改善医患关系",
+   "url": "https://www.qbitai.com/2026/10/502359.html",
+   "source": "量子位",
+   "summary": "Google 的一项研究成果首次登上《柳叶刀》主刊，研究表明 AI 有望改善医患关系。该研究将 AI 的应用价值从诊断准确率扩展到医患沟通与信任建立等软性维度。对医疗 AI 而言，这意味着评估体系需要纳入沟通质量与患者体验等此前被忽视的指标。",
+   "why": null,
+   "category": "AI 医疗",
+   "heat": 3,
+   "published": "2026-10-09T06:28:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "英伟达没能捧出澳洲的 AI 估值神话：300 亿美元算力工厂 IPO 折戟",
+   "url": "https://www.tmtpost.com/8162777.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道，一家估值 300 亿美元的 AI 算力工厂 IPO 折戟，英伟达的背书未能撑起澳洲的 AI 估值神话。该案例显示，算力基础设施的高估值正面临资本市场更严格的审视，单纯依靠算力叙事已难以支撑 IPO。对全球算力投资而言，这是估值回归理性的一个信号。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-10-09T09:41:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "400 美元实验：四个顶级大模型造 PDF 编辑器，点几下就露馅",
+   "url": "https://www.oschina.net/news/502906/the-remaining-shortcomings-of-coding-agents",
+   "source": "开源中国",
+   "summary": "研究者 nielstron 给 Gemini 3.8 Flash、GPT Astra 6、Opus 5、Fable 5 四个前沿模型各 100 美元预算，让它们自主开发一款「用户体验极好」的开源 PDF 编辑器，结果几乎每个产品点几下就能找到 bug。作者据此提出，coding agent 不能像人一样和软件交互，因此难以发现交互层面的缺陷。这为当前 coding agent 的能力边界提供了直观的实证。",
+   "why": null,
+   "category": "AI 智能体",
+   "heat": 3,
+   "published": "2026-10-09T02:48:17+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "纯 Uya 从零实现的 CLI 编程 Agent 开源",
+   "url": "https://www.oschina.net/news/502916",
+   "source": "开源中国",
+   "summary": "开源中国报道，一个 Agent 项目不依赖 Python、不引入一行 C 代码，完全用 Uya 语言从零实现 CLI 编程 Agent。项目针对当前 Agent 开发中框架本身成为复杂来源的问题，尝试绕开 LangChain 等重依赖栈。这反映开发者社区对 Agent 框架臃肿化的反思，以及轻量化、可控实现的探索方向。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-09T04:29:04+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "AgentGarten：让智能体在实时试炼场中边玩边进化",
+   "url": "https://www.qbitai.com/2026/10/502096.html",
+   "source": "量子位",
+   "summary": "量子位报道，AgentGarten 通过代码造世界、扩散绘现实的方式，为智能体提供实时试炼场，使其在反复试错中边玩边进化。该工作将智能体训练从静态数据集推向动态交互环境，强调实时反馈与自我进化。对智能体能力提升而言，这类试炼场可能成为继监督微调与 RLHF 之后的新训练范式。",
+   "why": null,
+   "category": "AI 智能体",
+   "heat": 3,
+   "published": "2026-10-09T02:03:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "百思大模型通过国家备案，百分点科技夯实政企 AI 合规基础",
+   "url": "https://k.sina.com.cn/article_5953740931_162dee083067041ema.html?from",
+   "source": "Google News 中文",
+   "summary": "百分点科技旗下百思大模型通过国家备案，公司称将持续夯实政企 AI 合规基础。大模型备案是国内生成式 AI 服务合规运营的前置条件，通过备案意味着该模型可在政企场景中合规落地。对 To G、To B 市场而言，备案资质正成为大模型供应商的准入门槛之一。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-10-09T23:22:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "Robotaxi 竞争从技术指标转向合作生态",
+   "url": "https://www.tmtpost.com/8163126.html",
+   "source": "钛媒体",
+   "summary": "钛媒体英文评论指出，2026 年领先的 Robotaxi 运营商不再主要比拼测试里程或演示效果，政策开放、更便宜的传感器和更强的模型已把纯技术领先变成入场券。新的竞争焦点是谁能把制造、运营和需求整合成可运转的生意。这意味着 Robotaxi 行业正从技术竞赛进入商业化与生态整合阶段。",
+   "why": null,
+   "category": "自动驾驶",
+   "heat": 3,
+   "published": "2026-10-09T10:28:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "中金：关注芯片 TIM 材料升级主线及新应用场景扩容机会",
+   "url": "https://finance.sina.cn/2026-10-09/detail-iniuqqhi7253052.d.html?vt",
+   "source": "Google News 中文",
+   "summary": "中金公司发布观点，建议关注芯片 TIM（热界面材料）升级主线以及新应用场景扩容带来的机会，涉及 AI 芯片、光模块等方向。随着 AI 芯片功耗持续攀升，散热材料与封装环节的重要性上升。这反映卖方研究开始把 AI 算力投资主线从芯片本体向材料与封装等上游环节延伸。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 2,
+   "published": "2026-10-09T20:23:50+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "凌云光：光通信围绕 AI 战略布局，加速 OCS 全光交换机验证导入",
+   "url": "https://stock.stockstar.com/RB2026101000003611.shtml",
+   "source": "Google News 中文",
+   "summary": "凌云光在回应 AI 算力话题时表示，光通信业务围绕 AI 战略布局，正加速 OCS 全光交换机等产品的验证导入。OCS 全光交换被视为降低大规模 GPU 集群互联功耗与延迟的潜在方案。该公司表态显示国内光通信厂商正积极卡位 AI 数据中心的新型交换架构。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 2,
+   "published": "2026-10-09T23:05:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "微软发布搭载英伟达 AI 芯片的 Surface Laptop Ultra，2599 美元起售",
+   "url": "https://www.ebrun.com/20261009/712751.shtml",
+   "source": "Google News 中文",
+   "summary": "微软发布 Surface Laptop Ultra，搭载英伟达 AI 芯片，起售价 2599 美元。该产品将英伟达的 AI 算力引入 PC 形态，定位高端创作与本地 AI 推理场景。这标志着英伟达在数据中心之外，正通过终端设备进一步扩展其 AI 芯片的落地场景。",
+   "why": null,
+   "category": "AI 硬件",
+   "heat": 2,
+   "published": "2026-10-09T07:31:19+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "百度 Q3 反腐通报 41 人被处理，覆盖正式员工、外包与实习生",
+   "url": "https://www.ithome.com/1/011/141.htm",
+   "source": "IT之家",
+   "summary": "百度职业道德委员会向全员下发 2026 年 Q3 违法违纪案件通报，一次性公布 41 起案件处理结果，违纪问题集中在利用职务便利谋取不当经济利益和弄虚作假、侵占公司费用两类。追责覆盖正式员工、外包人员和实习生等多个群体，多名涉案人员已被司法机关处理。这反映大厂在 AI 投入加大的同时，内部合规与反腐力度同步收紧。",
+   "why": null,
+   "category": "公司治理",
+   "heat": 2,
+   "published": "2026-10-09T13:49:54+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
