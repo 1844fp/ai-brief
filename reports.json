@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T07:30:53.790201",
+ "generated_at": "2026-10-11T08:01:04.481415",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 33,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-11",
+   "created_at": "2026-10-11T00:01:03.534842+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-11/news_daily_cn-080103.html"
+  },
   {
    "id": 32,
    "task": "news_daily",
@@ -234,6 +243,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "字节、腾讯加速个人 AI 智能体研发，追赶 Meta Muse",
+   "url": "https://www.ithome.com/1/011/548.htm",
+   "source": "IT之家",
+   "summary": "据财新报道，字节跳动在国庆假期前加紧推进代号“Spell”的个人智能体项目，由豆包手机助手团队主导，计划与豆包产品结合尽快对外推出；腾讯则于 9 月底上线云端个人助理 LightVela，可通过微信接入。此举是对 Meta 9 月发布个人智能体 Muse 的直接回应，标志国内大厂在个人 Agent 赛道进入实质竞速阶段。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 5,
+   "published": "2026-10-10T23:45:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "英伟达洽谈收购或追加投资 Reflection AI，加码开源模型",
+   "url": "https://www.ithome.com/1/011/541.htm",
+   "source": "IT之家",
+   "summary": "据金融时报报道，英伟达正就收购 Reflection AI 或追加投资展开深入谈判，可能采取“人才兼并”模式以绕开反垄断审查。英伟达此前已向该公司注资 8 亿美元，Reflection 在今年 3 月融资中估值达 250 亿美元，其首款开放权重模型 Beam 于 10 月 5 日发布。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-10-10T22:46:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "字节团队发现 DeepSeek V4 隐藏 Bug：分块 KV Cache 压缩导致周期性失忆",
+   "url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html",
+   "source": "雷锋网",
+   "summary": "字节团队论文《Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression》指出，DeepSeek V4 系列模型因分块 KV Cache 压缩技术存在“位置决定命运”问题，核心信息若落在切块交界处会被模型忽略，仅添加空格即可导致答案质量剧烈波动。该缺陷并非 DeepSeek 独有，而是分块压缩路线的共性问题。",
+   "why": null,
+   "category": "技术研究",
+   "heat": 4,
+   "published": "2026-10-10T11:40:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "腾讯元器将于 11 月 9 日停止服务，智能体生态洗牌",
+   "url": "https://www.ithome.com/1/011/530.htm",
+   "source": "IT之家",
+   "summary": "腾讯元器发布停服通知，因业务调整将于 2026 年 11 月 9 日停止所有面向公众的服务，包括应用访问、API 调用与控制台使用，用户创建的智能体将不再可用。10 月 29 日起停止创建新智能体与 API key 分发，数据保留过渡期至 2027 年 1 月 9 日。",
+   "why": null,
+   "category": "平台动态",
+   "heat": 4,
+   "published": "2026-10-10T14:42:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "微软 CEO 纳德拉：开发者应默认假设 AI 模型失控，建立强制中断机制",
+   "url": "https://www.ithome.com/1/011/545.htm",
+   "source": "IT之家",
+   "summary": "纳德拉在长文中指出，AI 模型是黑盒子，不能将责任外包给模型提供商，开发者应围绕可观测性原则设计系统，并建立能够观察行为、测试极限的封闭系统。他呼吁对前沿封闭权重和开放权重模型一视同仁地视为内部风险，并建立“紧急制动”机制。",
+   "why": null,
+   "category": "AI 安全与治理",
+   "heat": 4,
+   "published": "2026-10-10T23:19:46+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "上海上半年规上 AI 产业规模突破 3300 亿，浦东形成人形机器人第一梯队",
+   "url": "https://www.pudong.gov.cn/china-shftz/qydt/20261010/834139.html",
+   "source": "Google News 中文",
+   "summary": "上海上半年规模以上 AI 产业规模突破 3300 亿元，浦东在“生成”人形机器人领域已形成第一梯队。该数据反映国内 AI 产业集聚效应持续强化，人形机器人成为地方产业政策重点方向。",
+   "why": null,
+   "category": "政策与产业",
+   "heat": 4,
+   "published": "2026-10-10T16:45:43+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "阶跃星辰新旗舰模型登顶 Trending 榜、日榜全球第二",
+   "url": "https://k.sina.com.cn/article_5953466437_162dab0450670beke2.html?from",
+   "source": "Google News 中文",
+   "summary": "阶跃星辰新旗舰模型在开发者社区登顶 Trending 榜，日榜排名全球第二，受到开发者追捧。该成绩显示国产模型在开源与开发者生态中的影响力正在提升。",
+   "why": null,
+   "category": "国产模型",
+   "heat": 4,
+   "published": "2026-10-10T23:30:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "被字节索赔 800 万的实习生田柯宇创业，世界模型公司估值 2 亿美元",
+   "url": "https://www.oschina.net/news/502956",
+   "source": "开源中国",
+   "summary": "前字节跳动实习研究员田柯宇创办的隐身世界模型公司获近 3000 万美元融资，投后估值 2 亿美元。他此前因进入字节训练集群、污染同事模型训练被辞退并索赔 800 万，法院判赔 50 万。",
+   "why": null,
+   "category": "创业与融资",
+   "heat": 4,
+   "published": "2026-10-10T11:09:58+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "微软发布基于 Qwen 后训练的决策模型 Microsoft-Decision-1",
+   "url": "https://www.oschina.net/news/502942/microsoft-decision-1-model-foundry",
+   "source": "开源中国",
+   "summary": "微软发布专门用于“决策评分”的模型 Microsoft-Decision-1，在 Microsoft Foundry 中可用，OpenRouter 即将上线。该模型不输出文本，而是给定一组答案选项时输出每个选项的校准概率，可直接被软件消费，定位与 TypeSafe AI 的 Jev 高度重合。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-10T06:51:45+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "非文本决策模型 Jev 上线几周估值飙至 75 亿美元",
+   "url": "https://www.oschina.net/news/502935/the-maker-of-non-text-ai-model-jev-valued-at-7-5b",
+   "source": "开源中国",
+   "summary": "TypeSafe AI 以 75 亿美元估值完成 8.7 亿美元融资，由 Andreessen Horowitz 领投，红杉与 DCVC 跟投。其非文本决策模型 Jev 自 9 月 15 日发布后迅速走红，公司声称已有三分之一的世界 500 强在使用。",
+   "why": null,
+   "category": "创业与融资",
+   "heat": 4,
+   "published": "2026-10-10T03:06:33+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "Cloudflare 发布多模态决策模型 Clef-omni，基于 Qwen3-Omni 构建",
+   "url": "https://www.oschina.net/news/502945/cloudflare-clef-faster-cheaper-multimodal",
+   "source": "开源中国",
+   "summary": "Cloudflare 发布 Clef 系列首个多模态决策模型 Clef-omni，可处理音频、视频、图像和文本，基于开源 Qwen3-Omni-30B-A3B-Instruct 构建；同时 Clef-flash 降价、Clef 提速。官方定位为“更快、更便宜、多模态”。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 3,
+   "published": "2026-10-10T08:25:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "合肥工业大学发布“心智大模型”，为机器人装上情感大脑",
+   "url": "https://k.sina.com.cn/article_1726918143_66eeadff02001w6a8.html?from",
+   "source": "Google News 中文",
+   "summary": "合肥工业大学发布“心智大模型”，旨在为机器人提供情感与心智能力。该模型面向机器人场景，尝试让机器具备情感理解与表达能力，属于国内高校在具身智能与情感计算交叉方向的探索。",
+   "why": null,
+   "category": "学术与科研",
+   "heat": 3,
+   "published": "2026-10-10T17:51:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "华西医院发布两项 AI 创新成果，大模型智能导航抵达病灶",
+   "url": "https://m.sohu.com/a/1086080909_355475?scm",
+   "source": "Google News 中文",
+   "summary": "华西医院发布两项 AI 创新成果，利用大模型实现智能导航抵达病灶，推动 AI 在临床诊疗中的精准应用。该成果属于医疗垂直大模型在真实临床场景的落地案例。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-10T11:31:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "新版肺癌病理基因大模型在广州发布，钟南山出席",
+   "url": "https://www.chinanews.com.cn/jk/2026/10-10/10710631.shtml",
+   "source": "Google News 中文",
+   "summary": "新版肺癌病理基因大模型在广州发布，钟南山出席。该模型聚焦肺癌病理与基因数据，属于医疗垂直领域大模型的迭代升级，旨在提升肺癌诊疗的精准度。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-10T11:04:32+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "AI 芯片融资潮转向私人信贷，博通、甲骨文等采购芯片",
+   "url": "https://m.cnmo.com/news/820018.html",
+   "source": "Google News 中文",
+   "summary": "AI 芯片融资潮正从传统股权融资转向私人信贷，博通、甲骨文等企业通过该渠道采购芯片。这一变化反映 AI 算力投入的资本结构正在调整，债务融资在算力扩张中的角色上升。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-10-10T13:32:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "开源逆向工程工具 REA 获 5 万 star，将逆向能力接入 coding agent",
+   "url": "https://www.oschina.net/news/502941",
+   "source": "开源中国",
+   "summary": "开源逆向工程工具 REA 近日爆火，获 5 万 star。它并非独立逆向工具链，而是以 MCP server 形式将逆向能力接入 Claude Code、Codex、Cursor、Gemini CLI 等 coding agent，让开发者可直接询问 App 功能的实现方式。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-10T06:29:09+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "Deno 团队整体加入 Cloudflare，Deno runtime 一年后停止开发",
+   "url": "https://www.oschina.net/news/502933/deno-joins-cloudflare",
+   "source": "开源中国",
+   "summary": "Deno 创始人 Ryan Dahl 宣布整个团队加入 Cloudflare，未来开发资源全部押注 Workers 编程模型。Deno runtime 将在一年后停止开发，Deno Deploy 六个月后关停，存量用户需迁移。",
+   "why": null,
+   "category": "开源与开发者",
+   "heat": 3,
+   "published": "2026-10-10T03:02:47+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "国产个人 AI 助手 Today AI 实测：接入飞书、钉钉、腾讯文档",
+   "url": "http://www.geekpark.net/news/372163",
+   "source": "极客公园",
+   "summary": "极客公园体验了 Teambition 创始人齐俊元打造的 Today AI，国内版于 9 月 24 日上线，已接入飞书、钉钉、腾讯文档和邮箱等国内常用应用。相比 Meta Muse、Manus Cue 等海外产品，Today AI 是国内较易上手体验的 Personal AI 产品。",
+   "why": null,
+   "category": "产品体验",
+   "heat": 3,
+   "published": "2026-10-09T04:34:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "中国个人 AI Agent 卡在生态接入而非模型能力",
+   "url": "https://www.tmtpost.com/8163541.html",
+   "source": "钛媒体",
+   "summary": "钛媒体分析指出，中国主要平台已加速个人 Agent 计划，但完整发布仍然有限。真正的约束不是模型能力，而是竞争对手是否允许 Agent 在其服务内执行操作，以及以何种商业条款合作。",
+   "why": null,
+   "category": "行业分析",
+   "heat": 3,
+   "published": "2026-10-10T02:08:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "数智周报：月之暗面据悉即将完成 IPO 前融资，估值将达 500 亿美元",
+   "url": "https://www.tmtpost.com/8163752.html",
+   "source": "钛媒体",
+   "summary": "钛媒体数智周报汇总，月之暗面据悉即将完成 IPO 前融资，估值将达 500 亿美元；同期 Manus 完成超 5 亿美元新一轮融资，博通计划为 OpenAI 定制芯片项目融资逾 500 亿美元。该周报还提及特朗普政府要求 AI 公司发生安全事件后立即上报。",
+   "why": null,
+   "category": "融资与资本",
+   "heat": 4,
+   "published": "2026-10-10T09:57:43+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
