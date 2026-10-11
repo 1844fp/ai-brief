@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T08:01:04.481415",
+ "generated_at": "2026-10-11T08:01:48.207906",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 34,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-11",
+   "created_at": "2026-10-11T00:01:47.379887+00:00",
+   "item_count": 16,
+   "llm_ok": true,
+   "url": "reports/2026-10-11/news_daily_cn-080147.html"
+  },
   {
    "id": 33,
    "task": "news_daily_cn",
@@ -243,6 +252,198 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "阶跃星辰 Step 5 Preview 登顶 OpenRouter，10 月 15 日正式开源",
+   "url": "https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html",
+   "source": "雷锋网",
+   "summary": "阶跃星辰最新旗舰基座模型 Step 5 Preview 登上 OpenRouter Trending 榜第一、日榜全球第二，成为近期全球开发者社区关注度最高的旗舰模型之一。官方确认该模型将于 10 月 15 日正式开源，AI 研究员评价其能力可与 GLM-5.3、Kimi K3 媲美，且价格处于成本与能力的帕累托前沿。",
+   "why": null,
+   "category": "大模型",
+   "heat": 5,
+   "published": "2026-10-10T03:37:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "日均 140 万亿 Token 调用，正在改变 SSD 的能力与分工",
+   "url": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
+   "source": "雷锋网",
+   "summary": "GMIF 2026 峰会披露，截至今年 3 月中国日均 Token 调用量已突破 140 万亿，约为国家图书馆全部藏书对应 Token 量的 20 倍以上。三星、Solidigm 等厂商指出，推理负载的爆发正迫使存储层级进一步细分，SSD 在容量、带宽、时延与耐久性上的分工被重新定义。",
+   "why": null,
+   "category": "算力与存储",
+   "heat": 5,
+   "published": "2026-10-10T01:38:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "英伟达发布开放智能体安全平台，监管智能体 AI 行为",
+   "url": "https://www.zhiding.cn/network_security/2026/1010/3201550.shtml",
+   "source": "Google News 中文",
+   "summary": "英伟达推出开放智能体安全平台，用于对自主运行的 AI 智能体行为进行监管与约束。此举回应了智能体大规模落地后带来的权限、审计与失控风险问题，为企业和开发者提供统一的安全治理框架。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 4,
+   "published": "2026-10-10T06:46:37+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "理想总裁马东辉回应电池品牌争议：2026 年后新车型全面采用自研电池",
+   "url": "https://www.leiphone.com/category/transportation/KdptMsXu5w9oiUOo.html",
+   "source": "雷锋网",
+   "summary": "理想汽车总裁马东辉表示，2026 年以后发布的新车型都将采用自研电池，目前自研电池已搭载于新款 L8、L6 和 i8，第四季度新一代 MEGA、理想 i9 及 2026 款 i6 也将陆续切换。马东辉称用户对自研电池版本没有明显抵触，反而有用户主动要求尽早排产。",
+   "why": null,
+   "category": "智能汽车",
+   "heat": 4,
+   "published": "2026-10-10T08:24:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "蔚来李斌内部讲话：未来三年聚焦主业、高端与核心市场，不将具身智能作为主要业务",
+   "url": "https://www.leiphone.com/category/transportation/aPoeP4p5SiG0Rian.html",
+   "source": "雷锋网",
+   "summary": "蔚来 CEO 李斌在内部讲话中提出未来三年核心是“三个聚焦”——聚焦主业、聚焦高端、聚焦核心市场，并称中国汽车产业已进入“决赛最残酷的阶段”。对于车企扎堆具身智能，李斌明确蔚来将长期以战略投资方式参与，不会将其变成主要业务。",
+   "why": null,
+   "category": "智能汽车",
+   "heat": 4,
+   "published": "2026-10-10T07:49:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "我国 AI 智能体产业发展现状、挑战及对策建议",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZg_pCwnso-2SUQj4o3e--0d1qXa8Fplpd9sT0Ch7P9XJIHJifbaDe5hyLax88RsVO11Ds3io1PLtLIESHGzx2e7jbXh5Gwh_Sg2i2VuVYBX1MczJaGowy12QkJf4-VhNJcg3TQIGKAbnh1A4rGeIUUXM6sIZ7cdRLlO4LxorTbGVrdzB4ua6GWqj_mycdHmfPiDjmpYjt7I3cNGbbB75bUeA..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=F81998BF707BFDE0EDEBB39FC9D91775EE89B3926ACAD18C",
+   "source": "微信公众号",
+   "summary": "文章指出 2026 年被视为智能体大规模产业化元年，年初开源智能体 OpenClaw 走红带动“养龙虾”梗全网传播。内容系统梳理了国内 AI 智能体产业在技术、生态与落地层面的现状与挑战，并提出相应对策建议。",
+   "why": null,
+   "category": "政策与产业",
+   "heat": 4,
+   "published": "2026-10-10T15:07:21+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "AI 芯片融资潮转向私人信贷，科技巨头密集融资买芯片",
+   "url": "https://cj.sina.cn/articles/view/2258727970/m86a1742203302k9ga?from",
+   "source": "Google News 中文",
+   "summary": "多家媒体报道，AI 芯片采购的融资方式正从传统渠道转向私人信贷，科技巨头密集通过私人信贷市场融资以购买算力芯片。这一变化反映出 AI 基础设施投入规模已超出常规资本开支框架，融资结构随之复杂化。",
+   "why": null,
+   "category": "算力与资本",
+   "heat": 4,
+   "published": "2026-10-10T11:40:01+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "奇瑞智能化中心负责人谢保军疑似离职，内部飞书状态已暂停",
+   "url": "https://www.leiphone.com/category/transportation/oiSyYkdJBNF6AfVW.html",
+   "source": "雷锋网",
+   "summary": "雷峰网《新智驾》独家获悉，奇瑞汽车副总裁、智能化中心负责人谢保军疑似已离职，内部飞书状态显示暂停使用。谢保军 2024 年 10 月加入奇瑞，2025 年 5 月出任整合后的智能化中心实际运营负责人，统筹智能座舱、辅助驾驶与数字架构，并主导猎鹰智驾方案归一与全栈自研。",
+   "why": null,
+   "category": "智能汽车",
+   "heat": 3,
+   "published": "2026-10-10T08:22:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "哥大李昀烛团队 FlexiTac 开源实践：让触觉像视觉一样可规模化",
+   "url": "https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html",
+   "source": "雷锋网",
+   "summary": "哥伦比亚大学李昀烛团队在 IROS 2026 触觉专题研讨会上介绍了开源柔性压阻式触觉传感器平台 FlexiTac 开源一年半后的进展。该平台兼顾柔性、低成本与一致性，并开源了完整 BOM，试图解决触觉传感器在寿命、分辨率、成本与一致性上难以兼顾的行业困境。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-10T03:25:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "Cirrus Logic 抢购 Synaptics，阻击安森美 70 亿美元边缘 AI 芯片并购",
+   "url": "https://www.ithome.com/1/011/536.htm",
+   "source": "IT之家",
+   "summary": "据彭博社报道，Cirrus Logic 上月向 Synaptics 提出未经请求的收购要约，试图破坏其与安森美的并购交易。安森美随后将交易结构从全股票改为全现金，每股报价调整至 123 美元，交易价值从约 70 亿美元降至约 57 亿美元。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-10-10T15:41:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "谷歌内测新 AI 模型 Argon，员工称编码能力与 Claude Opus 5.5 打平",
+   "url": "https://www.oschina.net/news/502949/google-employees-test-new-gemini-4-model-argon-barium-carbon",
+   "source": "开源中国",
+   "summary": "谷歌内部正在测试代号 Argon 的新模型，出现在 Antigravity 的模型选择器中，提供 256K、512K、900K 三档上下文，分别对应不同 quota 消耗。有员工称其编码能力与 Claude Opus 5.5 相当，被视为 Gemini 4 系列的早期形态。",
+   "why": null,
+   "category": "大模型",
+   "heat": 3,
+   "published": "2026-10-10T09:08:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "亚马逊云科技向姚基金捐赠 100 万美元及云与 AI 资源，培养 AI+体育复合型人才",
+   "url": "https://www.ithome.com/1/011/542.htm",
+   "source": "IT之家",
+   "summary": "亚马逊云科技与北京姚基金共同推出“云上篮图”体育×科技育人计划，投入 100 万美元现金捐赠及云与 AI 技术资源。该计划首次将 Breaking Barriers 引入中国，涵盖高校人才培训、黑客松实战与成果部署三个阶段，目标是培养兼备 AI 素养与体育专业能力的复合型人才。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-10T22:53:49+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行",
+   "url": "https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 文章介绍了金融监管场景下 Harness 的工程实践，探讨如何通过知识与数据驱动让 AI Agent 稳定运行。内容聚焦智能体在强监管、高准确性要求行业中的可靠性设计与落地经验。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-10T14:27:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "QuotaPanel v0.2.0 发布：菜单栏查看 AI 额度，接入小米 MiMo Token Plan",
+   "url": "https://www.oschina.net/news/502955",
+   "source": "开源中国",
+   "summary": "开源桌面端 AI 额度面板 QuotaPanel 发布 v0.2.0，将各家 AI 订阅与 API 余额集中到系统菜单栏，并新增接入小米 MiMo Token Plan。更新重点在于缩短查看额度的路径，并提供问题根因排查能力。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-10-10T10:34:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "开源工具 MuRig v1.2.0 发布，支持自定义环境安装路径",
+   "url": "https://www.oschina.net/news/502950",
+   "source": "开源中国",
+   "summary": "开源开发环境自动装配工具 MuRig 发布 v1.2.0，基于 Python + PySide6 跨平台构建，新增三级安装目录支持（全局/分类/自定义），解决开发环境默认全部装在 C 盘的问题。该工具面向重装系统、换新电脑或给新人配环境等高频场景。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-10-10T10:19:39+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "Zentrola 1.1.0 发布：面向研发团队的 AI Coding 能力治理平台",
+   "url": "https://www.oschina.net/news/502923",
+   "source": "开源中国",
+   "summary": "Zentrola 发布 1.1.0，定位为研发团队的 AI Coding 能力治理平台，位于 Codex、Claude Code 等客户端与企业模型服务之间。新版本补齐应用接入、费用归属与月度 Token 配额控制，管理员可统一管理模型访问、凭据、用量和成本。",
+   "why": null,
+   "category": "企业 AI",
+   "heat": 2,
+   "published": "2026-10-09T11:50:36+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

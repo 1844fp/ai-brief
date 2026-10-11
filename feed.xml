@@ -3,7 +3,135 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sun, 11 Oct 2026 08:01:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 08:01:48 +0000</lastBuildDate>
+  <item>
+    <title>阶跃星辰 Step 5 Preview 登顶 OpenRouter，10 月 15 日正式开源</title>
+    <link>https://www.leiphone.com/category/industrynews/7iRgmb0q4JgVbmU8.html</link>
+    <guid isPermaLink="false">34-1</guid>
+    <pubDate>Sat, 10 Oct 2026 03:37:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>阶跃星辰最新旗舰基座模型 Step 5 Preview 登上 OpenRouter Trending 榜第一、日榜全球第二，成为近期全球开发者社区关注度最高的旗舰模型之一。官方确认该模型将于 10 月 15 日正式开源，AI 研究员评价其能力可与 GLM-5.3、Kimi K3 媲美，且价格处于成本与能力的帕累托前沿。</description>
+  </item>
+  <item>
+    <title>日均 140 万亿 Token 调用，正在改变 SSD 的能力与分工</title>
+    <link>https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html</link>
+    <guid isPermaLink="false">34-2</guid>
+    <pubDate>Sat, 10 Oct 2026 01:38:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>GMIF 2026 峰会披露，截至今年 3 月中国日均 Token 调用量已突破 140 万亿，约为国家图书馆全部藏书对应 Token 量的 20 倍以上。三星、Solidigm 等厂商指出，推理负载的爆发正迫使存储层级进一步细分，SSD 在容量、带宽、时延与耐久性上的分工被重新定义。</description>
+  </item>
+  <item>
+    <title>英伟达发布开放智能体安全平台，监管智能体 AI 行为</title>
+    <link>https://www.zhiding.cn/network_security/2026/1010/3201550.shtml</link>
+    <guid isPermaLink="false">34-3</guid>
+    <pubDate>Sat, 10 Oct 2026 06:46:37 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>英伟达推出开放智能体安全平台，用于对自主运行的 AI 智能体行为进行监管与约束。此举回应了智能体大规模落地后带来的权限、审计与失控风险问题，为企业和开发者提供统一的安全治理框架。</description>
+  </item>
+  <item>
+    <title>理想总裁马东辉回应电池品牌争议：2026 年后新车型全面采用自研电池</title>
+    <link>https://www.leiphone.com/category/transportation/KdptMsXu5w9oiUOo.html</link>
+    <guid isPermaLink="false">34-4</guid>
+    <pubDate>Sat, 10 Oct 2026 08:24:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>理想汽车总裁马东辉表示，2026 年以后发布的新车型都将采用自研电池，目前自研电池已搭载于新款 L8、L6 和 i8，第四季度新一代 MEGA、理想 i9 及 2026 款 i6 也将陆续切换。马东辉称用户对自研电池版本没有明显抵触，反而有用户主动要求尽早排产。</description>
+  </item>
+  <item>
+    <title>蔚来李斌内部讲话：未来三年聚焦主业、高端与核心市场，不将具身智能作为主要业务</title>
+    <link>https://www.leiphone.com/category/transportation/aPoeP4p5SiG0Rian.html</link>
+    <guid isPermaLink="false">34-5</guid>
+    <pubDate>Sat, 10 Oct 2026 07:49:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蔚来 CEO 李斌在内部讲话中提出未来三年核心是“三个聚焦”——聚焦主业、聚焦高端、聚焦核心市场，并称中国汽车产业已进入“决赛最残酷的阶段”。对于车企扎堆具身智能，李斌明确蔚来将长期以战略投资方式参与，不会将其变成主要业务。</description>
+  </item>
+  <item>
+    <title>我国 AI 智能体产业发展现状、挑战及对策建议</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_Tqzsx9GsZg_pCwnso-2SUQj4o3e--0d1qXa8Fplpd9sT0Ch7P9XJIHJifbaDe5hyLax88RsVO11Ds3io1PLtLIESHGzx2e7jbXh5Gwh_Sg2i2VuVYBX1MczJaGowy12QkJf4-VhNJcg3TQIGKAbnh1A4rGeIUUXM6sIZ7cdRLlO4LxorTbGVrdzB4ua6GWqj_mycdHmfPiDjmpYjt7I3cNGbbB75bUeA..&amp;type=2&amp;query=AI %E6%99%BA%E8%83%BD%E4%BD%93&amp;token=F81998BF707BFDE0EDEBB39FC9D91775EE89B3926ACAD18C</link>
+    <guid isPermaLink="false">34-6</guid>
+    <pubDate>Sat, 10 Oct 2026 15:07:21 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>文章指出 2026 年被视为智能体大规模产业化元年，年初开源智能体 OpenClaw 走红带动“养龙虾”梗全网传播。内容系统梳理了国内 AI 智能体产业在技术、生态与落地层面的现状与挑战，并提出相应对策建议。</description>
+  </item>
+  <item>
+    <title>AI 芯片融资潮转向私人信贷，科技巨头密集融资买芯片</title>
+    <link>https://cj.sina.cn/articles/view/2258727970/m86a1742203302k9ga?from</link>
+    <guid isPermaLink="false">34-7</guid>
+    <pubDate>Sat, 10 Oct 2026 11:40:01 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>多家媒体报道，AI 芯片采购的融资方式正从传统渠道转向私人信贷，科技巨头密集通过私人信贷市场融资以购买算力芯片。这一变化反映出 AI 基础设施投入规模已超出常规资本开支框架，融资结构随之复杂化。</description>
+  </item>
+  <item>
+    <title>奇瑞智能化中心负责人谢保军疑似离职，内部飞书状态已暂停</title>
+    <link>https://www.leiphone.com/category/transportation/oiSyYkdJBNF6AfVW.html</link>
+    <guid isPermaLink="false">34-8</guid>
+    <pubDate>Sat, 10 Oct 2026 08:22:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>雷峰网《新智驾》独家获悉，奇瑞汽车副总裁、智能化中心负责人谢保军疑似已离职，内部飞书状态显示暂停使用。谢保军 2024 年 10 月加入奇瑞，2025 年 5 月出任整合后的智能化中心实际运营负责人，统筹智能座舱、辅助驾驶与数字架构，并主导猎鹰智驾方案归一与全栈自研。</description>
+  </item>
+  <item>
+    <title>哥大李昀烛团队 FlexiTac 开源实践：让触觉像视觉一样可规模化</title>
+    <link>https://www.leiphone.com/category/robot/Pz34omTBnW9Y0LhO.html</link>
+    <guid isPermaLink="false">34-9</guid>
+    <pubDate>Sat, 10 Oct 2026 03:25:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>哥伦比亚大学李昀烛团队在 IROS 2026 触觉专题研讨会上介绍了开源柔性压阻式触觉传感器平台 FlexiTac 开源一年半后的进展。该平台兼顾柔性、低成本与一致性，并开源了完整 BOM，试图解决触觉传感器在寿命、分辨率、成本与一致性上难以兼顾的行业困境。</description>
+  </item>
+  <item>
+    <title>Cirrus Logic 抢购 Synaptics，阻击安森美 70 亿美元边缘 AI 芯片并购</title>
+    <link>https://www.ithome.com/1/011/536.htm</link>
+    <guid isPermaLink="false">34-10</guid>
+    <pubDate>Sat, 10 Oct 2026 15:41:05 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据彭博社报道，Cirrus Logic 上月向 Synaptics 提出未经请求的收购要约，试图破坏其与安森美的并购交易。安森美随后将交易结构从全股票改为全现金，每股报价调整至 123 美元，交易价值从约 70 亿美元降至约 57 亿美元。</description>
+  </item>
+  <item>
+    <title>谷歌内测新 AI 模型 Argon，员工称编码能力与 Claude Opus 5.5 打平</title>
+    <link>https://www.oschina.net/news/502949/google-employees-test-new-gemini-4-model-argon-barium-carbon</link>
+    <guid isPermaLink="false">34-11</guid>
+    <pubDate>Sat, 10 Oct 2026 09:08:05 +0000</pubDate>
+    <source>开源中国</source>
+    <description>谷歌内部正在测试代号 Argon 的新模型，出现在 Antigravity 的模型选择器中，提供 256K、512K、900K 三档上下文，分别对应不同 quota 消耗。有员工称其编码能力与 Claude Opus 5.5 相当，被视为 Gemini 4 系列的早期形态。</description>
+  </item>
+  <item>
+    <title>亚马逊云科技向姚基金捐赠 100 万美元及云与 AI 资源，培养 AI+体育复合型人才</title>
+    <link>https://www.ithome.com/1/011/542.htm</link>
+    <guid isPermaLink="false">34-12</guid>
+    <pubDate>Sat, 10 Oct 2026 22:53:49 +0000</pubDate>
+    <source>IT之家</source>
+    <description>亚马逊云科技与北京姚基金共同推出“云上篮图”体育×科技育人计划，投入 100 万美元现金捐赠及云与 AI 技术资源。该计划首次将 Breaking Barriers 引入中国，涵盖高校人才培训、黑客松实战与成果部署三个阶段，目标是培养兼备 AI 素养与体育专业能力的复合型人才。</description>
+  </item>
+  <item>
+    <title>金融监管领域的 Harness 实践：让知识与数据驱动 Agent 稳定运行</title>
+    <link>https://www.infoq.cn/article/SuqGY4FQ95AVzs1S0KSV</link>
+    <guid isPermaLink="false">34-13</guid>
+    <pubDate>Sat, 10 Oct 2026 14:27:56 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 文章介绍了金融监管场景下 Harness 的工程实践，探讨如何通过知识与数据驱动让 AI Agent 稳定运行。内容聚焦智能体在强监管、高准确性要求行业中的可靠性设计与落地经验。</description>
+  </item>
+  <item>
+    <title>QuotaPanel v0.2.0 发布：菜单栏查看 AI 额度，接入小米 MiMo Token Plan</title>
+    <link>https://www.oschina.net/news/502955</link>
+    <guid isPermaLink="false">34-14</guid>
+    <pubDate>Sat, 10 Oct 2026 10:34:12 +0000</pubDate>
+    <source>开源中国</source>
+    <description>开源桌面端 AI 额度面板 QuotaPanel 发布 v0.2.0，将各家 AI 订阅与 API 余额集中到系统菜单栏，并新增接入小米 MiMo Token Plan。更新重点在于缩短查看额度的路径，并提供问题根因排查能力。</description>
+  </item>
+  <item>
+    <title>开源工具 MuRig v1.2.0 发布，支持自定义环境安装路径</title>
+    <link>https://www.oschina.net/news/502950</link>
+    <guid isPermaLink="false">34-15</guid>
+    <pubDate>Sat, 10 Oct 2026 10:19:39 +0000</pubDate>
+    <source>开源中国</source>
+    <description>开源开发环境自动装配工具 MuRig 发布 v1.2.0，基于 Python + PySide6 跨平台构建，新增三级安装目录支持（全局/分类/自定义），解决开发环境默认全部装在 C 盘的问题。该工具面向重装系统、换新电脑或给新人配环境等高频场景。</description>
+  </item>
+  <item>
+    <title>Zentrola 1.1.0 发布：面向研发团队的 AI Coding 能力治理平台</title>
+    <link>https://www.oschina.net/news/502923</link>
+    <guid isPermaLink="false">34-16</guid>
+    <pubDate>Fri, 09 Oct 2026 11:50:36 +0000</pubDate>
+    <source>开源中国</source>
+    <description>Zentrola 发布 1.1.0，定位为研发团队的 AI Coding 能力治理平台，位于 Codex、Claude Code 等客户端与企业模型服务之间。新版本补齐应用接入、费用归属与月度 Token 配额控制，管理员可统一管理模型访问、凭据、用量和成本。</description>
+  </item>
   <item>
     <title>字节、腾讯加速个人 AI 智能体研发，追赶 Meta Muse</title>
     <link>https://www.ithome.com/1/011/548.htm</link>
@@ -355,133 +483,5 @@
     <pubDate>Sat, 10 Oct 2026 21:47:51 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>微软 CEO Satya Nadella 在 X 上发表长文，阐述对高度先进 AI 模型风险的看法，称不能再接受把 AI 当作「层层嵌套的黑箱」、对其建议与行动只能被动接受。他主张为模型配备可随时介入的「紧急刹车」机制。The Verge 等媒体跟进报道，显示头部厂商在安全叙事上开始主动加码。</description>
-  </item>
-  <item>
-    <title>Google 推出 Gemini Agent，整合企业级 AI 产品线</title>
-    <link>https://tech-insider.org/google-gemini-agent-launch-workplace-ai-2026/</link>
-    <guid isPermaLink="false">31-5</guid>
-    <pubDate>Sat, 10 Oct 2026 09:45:55 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>在 Gemini at Work 2026 活动上，Google 发布 Gemini Agent，将原本分散的企业 AI 能力收敛为单一代理入口，直接对标 OpenAI 与微软。Futurum Group 分析称这是 Google 企业 AI 战略的一次「坍缩式」整合。企业代理市场的三强竞争进一步白热化。</description>
-  </item>
-  <item>
-    <title>Amazon 拟让投资人出资 80 亿美元采购 Nvidia 芯片</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/amazon-amzn-wants-investors-finance-221126922.html</link>
-    <guid isPermaLink="false">31-6</guid>
-    <pubDate>Sat, 10 Oct 2026 22:11:26 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 Yahoo Finance 报道，Amazon 希望由投资人出资 80 亿美元用于采购 Nvidia 芯片，以缓解自身 AI 资本开支压力。这一结构化融资安排引发市场对 AI 支出是否过重的质疑。它反映出超大规模厂商正把算力采购的财务风险向外部转移。</description>
-  </item>
-  <item>
-    <title>Broadcom 牵头 500 亿美元 AI 芯片债务融资</title>
-    <link>https://simplywall.st/stocks/us/semiconductors/nasdaq-avgo/broadcom/news/broadcom-avgo-is-leading-a-50-billion-ai-chip-debt-push</link>
-    <guid isPermaLink="false">31-7</guid>
-    <pubDate>Sat, 10 Oct 2026 15:42:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Broadcom 正在主导一笔规模达 500 亿美元的 AI 芯片相关债务融资，成为该领域最大的举债方之一。资金预计用于支撑定制 AI 芯片及相关基础设施的扩张。这显示 AI 芯片竞赛正越来越多依赖债务市场而非自有现金流。</description>
-  </item>
-  <item>
-    <title>报道称 Zuckerberg 在安全顾虑下仍推出 Meta 的 Muse AI 代理</title>
-    <link>https://futurism.com/future-society/mark-zuckerberg-meta-muse-ai-agent-safety-issues</link>
-    <guid isPermaLink="false">31-8</guid>
-    <pubDate>Sat, 10 Oct 2026 11:01:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Futurism 报道称，尽管内部存在令人不安的安全顾虑，Mark Zuckerberg 仍推动 Meta 的 Muse AI 代理上线。该报道与 The Verge 关于 OpenAI 在 DevDay 上暗讽 Meta 数据安全问题的报道相互呼应。Meta 的代理产品正处在隐私与安全的舆论风口。</description>
-  </item>
-  <item>
-    <title>OpenAI 安全负责人据称告知 Tomek Korbak「不再信任他」</title>
-    <link>https://twitter.com/tomekkorbak/status/2108266859397283953</link>
-    <guid isPermaLink="false">31-9</guid>
-    <pubDate>Fri, 09 Oct 2026 16:52:20 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Tomek Korbak 在 X 上表示，OpenAI 的安全负责人告诉他公司已不再信任他。该帖在 Hacker News 引发关注，被视为 OpenAI 安全团队持续动荡的又一信号。此前该公司已有多名安全方向研究人员离职。</description>
-  </item>
-  <item>
-    <title>英国政府考虑针对自主代理失控问题制定专项 AI 安全立法</title>
-    <link>https://dig.watch/updates/uk-government-ai-safety-legislation</link>
-    <guid isPermaLink="false">31-10</guid>
-    <pubDate>Sat, 10 Oct 2026 16:48:58 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 Digital Watch Observatory 报道，英国政府正考虑出台有针对性的 AI 安全立法，重点应对自主代理「失去控制」的风险。立法方向聚焦代理行为边界与问责机制，而非笼统的 AI 监管。这使英国成为继欧盟之后又一个针对代理风险立法的司法辖区。</description>
-  </item>
-  <item>
-    <title>数学家称需要数年才能消化 OpenAI 最新一批数学成果</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos</link>
-    <guid isPermaLink="false">31-11</guid>
-    <pubDate>Fri, 09 Oct 2026 19:09:44 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 采访了三十多位数学家，他们对 OpenAI 本周突然发布的大量数学结果使用了「惊人」「压倒性」「前所未有」「纯粹疯狂」等描述。由于规模过大，学界短期内难以评估其正确性与意义。这可能是 AI 在形式化数学领域迄今最具冲击力的一次投放。</description>
-  </item>
-  <item>
-    <title>非文本 AI 模型 Jev 发布数周后估值达 75 亿美元</title>
-    <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch</link>
-    <guid isPermaLink="false">31-12</guid>
-    <pubDate>Fri, 09 Oct 2026 21:41:29 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TypeSafe 推出的非文本 AI 模型 Jev 在发布仅数周后估值达到 75 亿美元。公司声称 Jev 的运行速度显著快于 LLM，且 token 消耗远低。用户与大企业的兴趣集中在效率优势上，而非对话能力。这为「后 LLM 架构」叙事提供了新的资本背书。</description>
-  </item>
-  <item>
-    <title>Apple 披露收购个性化播客初创 Huxe 团队并授权其技术</title>
-    <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe</link>
-    <guid isPermaLink="false">31-13</guid>
-    <pubDate>Sat, 10 Oct 2026 19:50:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Apple 披露了一项交易：招募个性化播客初创公司 Huxe 的团队，并授权其技术。TechCrunch 猜测 Apple 可能意在切入 AI 生成播客业务。这是 Apple 在生成式音频领域少见的补强动作。</description>
-  </item>
-  <item>
-    <title>Super Micro 承包商在 25 亿美元 AI 芯片转运中国案中认罪</title>
-    <link>https://www.ndtvprofit.com/world/super-micro-contractor-pleads-guilty-in-2-5-billion-ai-chip-diversion-case-linked-to-china-12167240</link>
-    <guid isPermaLink="false">31-14</guid>
-    <pubDate>Sat, 10 Oct 2026 16:46:57 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>一名 Super Micro 承包商在涉及 25 亿美元、与中国相关的 AI 芯片转运案件中认罪。案件指向高端 AI 芯片通过第三方渠道流向受限地区。这是美国出口管制执法在 AI 芯片领域的最新进展。</description>
-  </item>
-  <item>
-    <title>美国参议员调查显示 AI 数据中心企业承认未承担全部成本、将继续使用 NDA</title>
-    <link>https://www.warren.senate.gov/newsroom/press-releases/ai-data-center-companies-reveal-to-warren-blumenthal-van-hollen-they-are-not-paying-their-full-costs-will-continue-using-ndas-and-seeking-tax-breaks</link>
-    <guid isPermaLink="false">31-15</guid>
-    <pubDate>Sat, 10 Oct 2026 09:30:03 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Warren、Blumenthal、Van Hollen 等参议员公布的调查显示，AI 数据中心企业承认未支付其全部成本，并计划继续使用保密协议、继续寻求税收减免。这与 Amazon 宣布放弃数据中心 NDA 的举措形成对照。围绕 AI 基建的社区反弹与政治压力正在上升。</description>
-  </item>
-  <item>
-    <title>Amazon 放弃数据中心 NDA，AI 代理开始索要信用卡权限</title>
-    <link>https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card</link>
-    <guid isPermaLink="false">31-16</guid>
-    <pubDate>Fri, 09 Oct 2026 16:53:02 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Amazon 表示在与地方政府谈判数据中心交易时将停止使用保密协议，此前微软今年已作出类似承诺。与此同时，一批初创公司押注消费者愿意让 AI 代理获得信用卡访问权限。TechCrunch 播客将这两件事并置，指向 AI 基建透明度与代理支付权限两条并行趋势。</description>
-  </item>
-  <item>
-    <title>马里兰一学区董事会以 6 比 1 通过 K-12 全面禁用 AI</title>
-    <link>https://tech-insider.org/frederick-county-ai-ban-all-grades-gemini-2026/</link>
-    <guid isPermaLink="false">31-17</guid>
-    <pubDate>Sat, 10 Oct 2026 14:37:34 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>马里兰一个学区董事会以 6 比 1 的投票结果，决定在 Pre-K 至 12 年级全面禁止 AI 使用。这是美国地方教育系统对生成式 AI 采取的最严厉禁令之一。它反映出教育场景中 AI 采纳与监管之间的张力正在加剧。</description>
-  </item>
-  <item>
-    <title>陶哲轩撰文谈数学家应了解的 Lean 定理证明器：可靠性与 AI</title>
-    <link>https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai</link>
-    <guid isPermaLink="false">31-18</guid>
-    <pubDate>Fri, 09 Oct 2026 17:42:12 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Terence Tao 在博客中讨论数学家使用 Lean 定理证明器时需要了解的可靠性问题，以及 AI 在其中的角色。文章聚焦形式化证明的可信边界，而非工具使用教程。该文在 Hacker News 获得 190 分，显示形式化方法与 AI 结合正受到广泛关注。</description>
-  </item>
-  <item>
-    <title>Asana 用 GPT-6.1 Sol 将浏览器代理成本降低 76 倍</title>
-    <link>https://openai.com/index/asana-browser-agent</link>
-    <guid isPermaLink="false">31-19</guid>
-    <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 官方博客披露，Asana 在 Codex 中使用 GPT-6 Astra，使其浏览器代理在测试中成本降低 76 倍、速度提升 5 倍。该案例展示了模型升级对代理类产品单位经济模型的直接改善。对企业买家而言，代理部署的成本门槛正在快速下降。</description>
-  </item>
-  <item>
-    <title>Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短 96%</title>
-    <link>https://openai.com/index/sophos</link>
-    <guid isPermaLink="false">31-20</guid>
-    <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 官方博客介绍，安全公司 Sophos 使用 OpenAI 的 Daybreak 将网络威胁调查时间缩短 96%，并自动化了 52% 的 MDR 案件，同时保留人工监督。这是 AI 在安全运营中心落地的量化案例。它表明代理式自动化正在进入对可靠性要求极高的安全场景。</description>
   </item>
 </channel></rss>
