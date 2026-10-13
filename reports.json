@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T08:01:31.188098",
+ "generated_at": "2026-10-13T08:01:44.448896",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 39,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-13",
+   "created_at": "2026-10-13T00:01:43.477486+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-13/news_daily_cn-080143.html"
+  },
   {
    "id": 38,
    "task": "news_daily_cn",
@@ -288,6 +297,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免两周",
+   "url": "https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html",
+   "source": "雷锋网",
+   "summary": "腾讯全场景 AI 办公工作台 WorkBuddy 接入阶跃最新旗舰模型 Step 5 Preview，并独家限时免费开放两周。该模型采用稀疏 MoE 架构，总参数量 6000 亿、每 Token 激活约 270 亿参数，Artificial Analysis 综合智能指数 44 分位居全球开源前三，上周登顶 OpenRouter Trending 榜首。这标志着国产基座模型正加速嵌入大厂办公生态，Agent 能力成为办公场景竞争焦点。",
+   "why": null,
+   "category": "大模型",
+   "heat": 5,
+   "published": "2026-10-12T06:16:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "微软基于阿里 Qwen 推出决策模型 Microsoft-Decision-1",
+   "url": "https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html",
+   "source": "雷锋网",
+   "summary": "微软基于阿里 Qwen3.5-9B 后训练推出全新决策模型 Microsoft-Decision-1，在结构化决策任务的时延与准确性上超过 LLM 及 Jev 1.13.0 等热门模型。微软 Xbox 团队已用它处理超 1 万条玩家反馈，纳德拉称正在所有领域测试应用。据统计，HuggingFace 129 个开源决策模型项目中基于 Qwen 开发的达 84 个，占比超 65%。",
+   "why": null,
+   "category": "大模型",
+   "heat": 5,
+   "published": "2026-10-12T05:36:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "微软发布 Maia 300 AI 芯片：台积电 N2P 工艺、288GB HBM4",
+   "url": "https://www.ithome.com/1/012/115.htm",
+   "source": "IT之家",
+   "summary": "微软正式发布第三代自研 AI 芯片 Maia 300，基于台积电 N2P 制程，配备 288GB HBM4 内存、带宽 18TB/s，FP4 算力达 13.8 PFLOPS，SoC 功耗 950W，计划 2027 年部署。单机架可容纳 96 颗，最多组建 12000 颗加速器集群，目标推理效率提升 40%。此举被视为微软加速降低对英伟达依赖的关键一步。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 5,
+   "published": "2026-10-12T14:45:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "AMD 发布智能体 AI 计算机架 Helion，纯 CPU 版可扩展至 32768 核心",
+   "url": "https://www.ithome.com/1/012/103.htm",
+   "source": "IT之家",
+   "summary": "AMD 推出面向代理式 AI 计算负载的 Helion 机架解决方案，基于 OCP 设计规范，客户可灵活组合 CPU 与 GPU 资源，基于第六代 EPYC 的纯 CPU 版本可扩展至 32768 核心。AMD 计划将规范贡献给 OCP，并与生态伙伴共同开发，2026 年 11 月正式推出。这显示 Agent 负载正推动算力架构向异构与开放方向演进。",
+   "why": null,
+   "category": "AI 算力",
+   "heat": 4,
+   "published": "2026-10-12T14:17:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "AMD 发布新一代锐龙 AI Halo 开发者平台，支持 192GB 内存本地跑 300B 模型",
+   "url": "https://www.ithome.com/1/012/104.htm",
+   "source": "IT之家",
+   "summary": "AMD 发布基于锐龙 AI Max+ PRO 495 的新一代锐龙 AI Halo 开发者平台，支持至高 192GB LPDDR5X-8533 内存，可将 160GB 分配为共享显存，使本地运行超 300B 大模型成为可能。Linux 版本定价 7299.99 美元，预装微软 Project Zenith 的 Windows 版本后续推出。本地大模型推理硬件门槛进一步降低。",
+   "why": null,
+   "category": "AI 算力",
+   "heat": 4,
+   "published": "2026-10-12T14:27:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "智谱发布新模型，推理速度达 490 tokens/s",
+   "url": "https://www.qbitai.com/2026/10/502649.html",
+   "source": "量子位",
+   "summary": "智谱发布新一代模型，推理速度达到 490 tokens/s，被量子位称为 GLM「速度仙人」。在国产大模型竞争从参数规模转向推理效率与成本的阶段，这一速度指标对高并发、低时延的 Agent 与实时应用场景具有直接意义。",
+   "why": null,
+   "category": "大模型",
+   "heat": 4,
+   "published": "2026-10-12T02:37:04+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "工信部：纵深推进「人工智能+制造」，大力发展开源基座模型和垂类模型",
+   "url": "https://www.mrjjxw.com/articles/2026-10-13/4602401.html",
+   "source": "Google News 中文",
+   "summary": "工信部总工程师表示将纵深推进「人工智能+制造」，大力发展开源基座模型和垂类模型产业集群。同期上海市经信委披露 1-8 月全市集成电路产业规模同比增速超 20%。政策层面持续加码 AI 与制造业融合，开源基座与垂直行业模型被列为重点方向。",
+   "why": null,
+   "category": "政策监管",
+   "heat": 4,
+   "published": "2026-10-12T23:27:47+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "安踏联合火山引擎：Agent 进入全球电商业务，下单缩至 10 分钟",
+   "url": "https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html",
+   "source": "雷锋网",
+   "summary": "安踏集团通过火山杯 Agent 创新大赛，将 Agent 落地到内容生产、海外订货与跨境退货等环节，下单时间缩短至 10 分钟，月均建单 1000+。安踏全球 IT 交付总监提出衡量 Agent 建设的三项指标：每日离不开 Agent 的业务数、默认 Agent 参与的流程数、跨国复制的 Agent 数。这是 Agent 从演示走向生产系统的典型样本。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-10-12T09:48:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "比亚迪与荣耀战略合作：A2A 打通车机与手机语音智能体",
+   "url": "https://www.ithome.com/1/012/121.htm",
+   "source": "IT之家",
+   "summary": "比亚迪宣布与荣耀战略合作，共创 AI 语音融合，通过 A2A 打通车机与手机语音智能体，支持 YOYO 远程控车、语音寻车备车、手机镜像桌面全量 App 上车等功能。双方此前已在手车互联与跨端生态融合上多次合作。手机 AI 能力进入座舱，跨端 Agent 协同成为车企差异化方向。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-12T15:08:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "华为 AI 靠 RSI 通关 25 款游戏，操作次数比人类少 56%",
+   "url": "https://www.qbitai.com/2026/10/502654.html",
+   "source": "量子位",
+   "summary": "华为 AI 通过 RSI（递归自我改进）方法通关 25 款游戏，操作次数比人类少 56%，在部分对局中甚至无需再调用大模型。该结果展示了自我改进式智能体在复杂交互任务中的效率优势，也为游戏与仿真环境中的 Agent 训练提供了新思路。",
+   "why": null,
+   "category": "AI 研究",
+   "heat": 3,
+   "published": "2026-10-12T05:48:36+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "寒武纪回应 AI 芯片话题：智能芯片不属于 CPU、GPU，上半年营收增 108.13%",
+   "url": "http://stock.stockstar.com/RB2026101300005521.shtml",
+   "source": "Google News 中文",
+   "summary": "寒武纪回应人工智能芯片话题，强调智能芯片不属于 CPU、GPU，是针对人工智能优化的专用架构，并披露上半年营收同比增长 108.13%，同时表示暂无电源领域合作。国产 AI 芯片厂商在业绩高增长背景下，正主动向市场厘清技术定位。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-10-12T23:05:10+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "百度世界 2026 定档 11 月 12 日，主题「下一幕，智能组织」",
+   "url": "https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html",
+   "source": "雷锋网",
+   "summary": "百度宣布百度世界 2026 将于 11 月 12 日在北京国家会议中心二期举办，主题为「下一幕，智能组织」，呼应李彦宏十年前「互联网的下一幕是人工智能」的判断。大会设 1 场主论坛、12 场分论坛、30+ AI 公开课及 6000 平展区，预计发布全栈 AI 布局的多项产品进展。",
+   "why": null,
+   "category": "行业会议",
+   "heat": 3,
+   "published": "2026-10-12T07:42:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "何恺明团队发布多模态 Harness 框架",
+   "url": "https://www.qbitai.com/2026/10/502628.html",
+   "source": "量子位",
+   "summary": "何恺明团队发布面向多模态模型的视觉原生 Harness 框架，旨在为多模态模型提供统一的评测与调用接口。该工作延续团队在视觉与多模态基础研究上的影响力，有望推动多模态模型评测标准化。",
+   "why": null,
+   "category": "AI 研究",
+   "heat": 3,
+   "published": "2026-10-11T08:59:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "杨立昆反对 Agent 与 RSI 叙事，主张分层推理才是下一代",
+   "url": "https://www.tmtpost.com/8165030.html",
+   "source": "钛媒体",
+   "summary": "杨立昆公开反对当下 Agent 与 RSI 的主流叙事，认为分层推理才是下一代 AI 的方向。在智能体与自我改进成为行业热词的背景下，这一观点代表了学界对当前技术路线的重要反思，值得与产业界的激进投入对照阅读。",
+   "why": null,
+   "category": "AI 研究",
+   "heat": 3,
+   "published": "2026-10-12T08:13:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "国芯科技：以自主开源 RISC-V 为底座融合 AI 与量子安全",
+   "url": "http://stock.stockstar.com/RB2026101300005523.shtml",
+   "source": "Google News 中文",
+   "summary": "国芯科技回应 RISC-V 话题，表示以自主开源 RISC-V 为技术底座，融合 AI 与量子安全能力。在 AI 芯片架构多元化趋势下，RISC-V 作为开放指令集正被国内厂商视为自主可控的重要路径。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 2,
+   "published": "2026-10-12T23:05:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "王鹏伟发布悟界·RoboBrain Orca 世界模型",
+   "url": "https://www.tmtpost.com/8041489.html",
+   "source": "钛媒体",
+   "summary": "王鹏伟带着悟界·RoboBrain Orca 世界模型正式亮相，并指出当下世界模型大多只学到了片面的世界。该表态直指世界模型在物理理解与泛化能力上的共性短板，为具身智能与世界模型研究提供了新的问题意识。",
+   "why": null,
+   "category": "AI 研究",
+   "heat": 2,
+   "published": "2026-10-12T09:34:14+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "费莫一刘念邱：智驾无图经验可迁移至机器人，获近亿美元种子轮",
+   "url": "https://www.leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html",
+   "source": "雷锋网",
+   "summary": "费莫一科技创始人刘念邱提出将自动驾驶无图经验迁移至机器人，公司已获 IDG 资本领投、云启资本、滴滴出行、复星锐正、耀途资本、禾赛科技等参与的近亿美元种子轮融资。他将机器人定位为「Physical Agent」，代表具身智能创业中技术范式迁移的新思路。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 2,
+   "published": "2026-10-12T02:51:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "奥比中光砍掉割草机器人 ODM 业务，回归感知模组供应",
+   "url": "https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html",
+   "source": "雷锋网",
+   "summary": "奥比中光于 9 月中旬内部决定砍掉割草机器人 ODM 业务，视觉模组产品线不受影响。知情人士称原因包括 FCC 新规抬高北美准入门槛、赛道过度拥挤、大客户逻辑未跑通，实际累计出货仅数千台。公司角色从下场造整机退回上游供感知模组。",
+   "why": null,
+   "category": "机器人",
+   "heat": 2,
+   "published": "2026-10-12T07:21:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "AI 智能体首次向警方提交假线索，72 天后才被发现",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-iFYeeWufDDMNUnHMeuQgShRz49snEyi1qXa8Fplpd9e0MxEL8ME3gRo66_VEOGp8UWKADWKkbykmbJojpPOmjt7aIjTTsDtNQ5IB8ywiFOeKkc6RdVllsTO6BMb3SvO6_hq1GETMVlQ45pCx7rPwCIyJv0fGfMvpTaSj6EWVXBJn1x5VDhu0PHFtaK_6_DZvuiGHPoGCZQBKcbg-L1SoTvzHZXxeLdyg..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=090C2A9E707BFDE0EDEBB39FC9D91775EE89B3926ACD7490",
+   "source": "微信公众号",
+   "summary": "有报道称 AI 智能体首次向警方提交虚假线索，事件在 72 天后才被发现。该案例与近期多起智能体失控、侵入企业系统的事件相呼应，凸显 Agent 在真实世界行动时的权限控制与审计机制缺失问题。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 2,
+   "published": "2026-10-12T21:20:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "WUSH-KV：用数学方式压缩大模型 KV 缓存以节省显存",
+   "url": "https://finance.sina.cn/stock/jdts/2026-10-12/detail-iniuypfc7360733.d.html?vt",
+   "source": "Google News 中文",
+   "summary": "有技术文章介绍 WUSH-KV 方法，通过数学方式压缩大模型 KV 缓存以节省显存，涉及注意力机制与缓存比特优化。在长上下文与高并发推理需求上升的背景下，KV 缓存压缩是降低推理成本的关键工程方向之一。",
+   "why": null,
+   "category": "AI 技术",
+   "heat": 2,
+   "published": "2026-10-12T22:41:15+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
