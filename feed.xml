@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 14 Oct 2026 08:01:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 08:02:01 +0000</lastBuildDate>
+  <item>
+    <title>阶跃星辰发布首款大模型原生智能体手机，首创「软硬模」全栈定价</title>
+    <link>https://huacheng.gz-cmc.com/pages/2026/10/13/3561db2270c74fde870e07230a995bab.html</link>
+    <guid isPermaLink="false">43-1</guid>
+    <pubDate>Tue, 13 Oct 2026 14:48:48 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>阶跃终端发布首款大模型原生智能体手机，定价 3999 元/台，主打「AI 办事」能力，并首创「软硬模」全栈定价模式。该机将大模型作为系统底层而非附加功能，试图重新定义手机交互形态。多家媒体报道，这是国内首个以智能体为核心卖点的手机产品，标志端侧 Agent 从软件走向整机。</description>
+  </item>
+  <item>
+    <title>梁文锋投资 Swin Transformer 作者，DeepSeek 布局具身智能大脑</title>
+    <link>https://www.qbitai.com/2026/10/503093.html</link>
+    <guid isPermaLink="false">43-2</guid>
+    <pubDate>Tue, 13 Oct 2026 09:33:37 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道，DeepSeek 创始人梁文锋投资了 Swin Transformer 作者团队创立的 Winverse AI，DeepSeek 由此开始布局具身智能大脑方向。此举意味着 DeepSeek 在模型层之外，正将触角伸向机器人感知与决策。结合此前传出的千亿元融资消息，其战略扩张意图明显。</description>
+  </item>
+  <item>
+    <title>「求索」4.0 上线，国内首个人工智能全产业链评测基准发布</title>
+    <link>https://www.tmtpost.com/8167674.html</link>
+    <guid isPermaLink="false">43-3</guid>
+    <pubDate>Tue, 13 Oct 2026 23:20:00 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体晨报显示，国内首个人工智能全产业链评测基准「求索」4.0 正式上线，同时字节跳动 Seed 单设安全与对齐部门，由严林负责向吴永辉汇报。此外，DeepSeek 据称将完成 1000 亿元融资，智元启动新融资、估值 500 亿元且 IPO 暂缓。多条消息共同指向国内 AI 产业链在评测标准、安全治理与资本层面的同步推进。</description>
+  </item>
+  <item>
+    <title>千问 Personal Agent「千问Go！」即将发布，已可代办价保与理赔</title>
+    <link>https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html</link>
+    <guid isPermaLink="false">43-4</guid>
+    <pubDate>Tue, 13 Oct 2026 02:19:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>千问 Personal Agent「千问Go！」即将发布，用户实测已通过其申请到 52 元淘宝价保退款和 70 元航班延误理赔。该助理可自主查询授权平台、比较方案并电话联系服务方，覆盖购物、打车、快递、理财等场景。这标志着个人 AI 助理从问答走向实际「办事」。</description>
+  </item>
+  <item>
+    <title>千问发布三款 AI 穿戴个人智能体硬件</title>
+    <link>https://wap.eastmoney.com/a/202610143894532533.html</link>
+    <guid isPermaLink="false">43-5</guid>
+    <pubDate>Tue, 13 Oct 2026 16:50:56 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>千问发布三款 AI 穿戴个人智能体硬件，进一步将个人助理能力从手机延伸至可穿戴设备。结合「千问Go！」的发布节奏，阿里正构建覆盖手机、穿戴与生态服务的个人智能体矩阵。硬件形态的加入，有望提升 Agent 的常驻感知与交互频次。</description>
+  </item>
+  <item>
+    <title>Meta 发布 Muse Wonder 系列，个人与专业 Agent 任务达 SOTA</title>
+    <link>https://www.oschina.net/news/502995/meta-ai-muse-wonder</link>
+    <guid isPermaLink="false">43-6</guid>
+    <pubDate>Tue, 13 Oct 2026 06:37:26 +0000</pubDate>
+    <source>开源中国</source>
+    <description>Meta 发布 Muse Wonder 与 Muse Wonder Full，官方称其为「最具能力的模型」，在个人和专业 Agent 任务上取得 SOTA，并称这是迈向「个人超级智能」的一步。官方透露团队用 14 个月从第一性原理重建 AI 技术栈。多家媒体将其视为 Meta 重回 AI 第一梯队的关键动作。</description>
+  </item>
+  <item>
+    <title>Meta 新模型杀回 AI 第一梯队，Alexandr Wang 亲述 Muse 七个月翻身内幕</title>
+    <link>https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0</link>
+    <guid isPermaLink="false">43-7</guid>
+    <pubDate>Tue, 13 Oct 2026 18:32:43 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道，Meta 首席 AI 官 Alexandr Wang 亲述 Muse 模型七个月实现翻身的内部过程，涉及团队重组与技术栈重建。该报道与 Muse Wonder 发布形成呼应，揭示 Meta 在 AI 组织与研发节奏上的大幅调整。这为观察大厂 AI 竞争提供了少见的内部视角。</description>
+  </item>
+  <item>
+    <title>谷歌 Gemini 4 Argon 上线，输出词元上限达 100 万</title>
+    <link>https://www.ithome.com/1/012/601.htm</link>
+    <guid isPermaLink="false">43-8</guid>
+    <pubDate>Tue, 13 Oct 2026 16:16:12 +0000</pubDate>
+    <source>IT之家</source>
+    <description>谷歌最强模型 Gemini 4 Argon 面向全球开发者和企业开放，输出词元上限达 100 万个，专攻最棘手难题，可通过 AI Studio 与 Gemini API 使用。限时入门定价为输入每百万 Tokens 2 美元、输出 10 美元，11 月 30 日后翻倍。超长输出能力对复杂推理与长文档生成场景意义显著。</description>
+  </item>
+  <item>
+    <title>OpenAI GPT-6 Astra 助力 AI 视频生成时长从 1 分钟提升至 10 分钟</title>
+    <link>https://www.ithome.com/1/012/639.htm</link>
+    <guid isPermaLink="false">43-9</guid>
+    <pubDate>Tue, 13 Oct 2026 23:44:48 +0000</pubDate>
+    <source>IT之家</source>
+    <description>OpenAI 与 AI 视频平台 Higgsfield 合作，接入 GPT-6 Astra 后，AI 视频生成时长上限从 1 分钟提升到 10 分钟，并支持创意智能体调用外部工具处理 3D 建模等复杂工作。Higgsfield 称该能力用于维持长视频在角色、场景与视觉细节上的一致性。这被视为 AI 长视频生成的关键突破。</description>
+  </item>
+  <item>
+    <title>端侧 AI 芯片龙头前三季度净利预增超 600%</title>
+    <link>http://stock.10jqka.com.cn/20261014/c680656657.shtml</link>
+    <guid isPermaLink="false">43-10</guid>
+    <pubDate>Tue, 13 Oct 2026 23:00:09 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>同花顺消息显示，国内端侧 AI 芯片龙头前三季度净利润预增超 600%。业绩爆发反映端侧 AI 需求在手机、可穿戴与智能硬件上的快速放量。在多家终端厂商推出智能体手机的背景下，端侧算力芯片正成为产业链最直接的受益环节。</description>
+  </item>
+  <item>
+    <title>爱芯元智工博会发布 AX8860，构筑物理 AI 边端大算力底座</title>
+    <link>https://finance.eastmoney.com/a/202610133894432497.html</link>
+    <guid isPermaLink="false">43-11</guid>
+    <pubDate>Tue, 13 Oct 2026 16:21:15 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>爱芯元智在工博会发布 AX8860，定位物理 AI 边端大算力底座。该芯片面向边缘与端侧 AI 场景，强调大算力与物理世界感知能力。随着具身智能与智能终端对本地算力需求上升，边端 AI 芯片竞争正在升温。</description>
+  </item>
+  <item>
+    <title>AI 交易逻辑生变，全球芯片股惨跌，长鑫技术突破敲警钟</title>
+    <link>https://wallstreetcn.com/articles/3783558</link>
+    <guid isPermaLink="false">43-12</guid>
+    <pubDate>Tue, 13 Oct 2026 20:02:54 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>华尔街见闻报道，从日韩到美国全球芯片股大幅下跌，明星 IPO 搁浅，长鑫存储技术突破接连敲响警钟，AI 交易逻辑出现变化。市场开始重新评估 AI 算力投入的回报周期与竞争格局。存储与芯片环节的国产突破，正在改变全球供应链预期。</description>
+  </item>
+  <item>
+    <title>Gemini 老兵团队押注 Coding Agent，刚亮相就传被英伟达收购</title>
+    <link>https://www.infoq.cn/article/LQjytCZpPdgOE5PrWU59</link>
+    <guid isPermaLink="false">43-13</guid>
+    <pubDate>Tue, 13 Oct 2026 17:57:05 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道，一支来自 Gemini 的老兵团队押注 Coding Agent 方向，产品刚亮相便传出被英伟达收购的消息。Coding Agent 被视为大模型商业化最成熟的场景之一，吸引大厂与初创密集布局。该团队的动向反映顶级人才与资本正加速向该赛道集中。</description>
+  </item>
+  <item>
+    <title>Meta、OpenAI、谷歌集体杀入个人 Agent，YC CEO 称 AGI 已在电脑里</title>
+    <link>https://www.infoq.cn/article/pkFg3POvaTwJt9lei8Vj</link>
+    <guid isPermaLink="false">43-14</guid>
+    <pubDate>Tue, 13 Oct 2026 11:45:54 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道，Meta、OpenAI、Google 集体杀入个人 Agent 赛道，YC CEO 称真正的 AGI 已经在你电脑里。个人 Agent 一夜爆红，成为大厂与初创共同争夺的入口级产品形态。该趋势与国内千问、阶跃等动作形成全球共振。</description>
+  </item>
+  <item>
+    <title>Anthropic 就「供应链风险」认定硬刚美国政府，申请全体法官复核</title>
+    <link>https://www.ithome.com/1/012/630.htm</link>
+    <guid isPermaLink="false">43-15</guid>
+    <pubDate>Tue, 13 Oct 2026 23:07:38 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Anthropic 敦促华盛顿联邦上诉法院重新审议此前判决，该判决维持了特朗普政府将其认定为危害美国国家安全供应链风险主体的决定。公司主张多数意见错误解读法律，并称该认定是对其 AI 安全公开言论的报复。案件核心在于 AI 安全防护机制的控制权归属。</description>
+  </item>
+  <item>
+    <title>OpenAI 沙特籍工程师因在高管会议室安装录音设备被 FBI 逮捕</title>
+    <link>https://www.ithome.com/1/012/629.htm</link>
+    <guid isPermaLink="false">43-16</guid>
+    <pubDate>Tue, 13 Oct 2026 22:59:27 +0000</pubDate>
+    <source>IT之家</source>
+    <description>美国司法部称，OpenAI 一名沙特籍工程师在旧金山办公楼高管会议室电视后方安装隐蔽录音设备，被 FBI 逮捕。设备藏于卫生纸中，数据加密，调查人员在其包中查获同款设备。OpenAI 称依靠内部 AI 模型锁定责任人，该员工已被解雇，未发现模型权重或客户数据被窃。</description>
+  </item>
+  <item>
+    <title>华为哈勃投资 98 年博士团队，研发可变色机器人电子皮肤</title>
+    <link>https://www.qbitai.com/2026/10/502954.html</link>
+    <guid isPermaLink="false">43-17</guid>
+    <pubDate>Tue, 13 Oct 2026 07:19:21 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道，华为哈勃投资了一家由 98 年博士创立、团队平均年龄 23 岁的公司，其技术可让机器人皮肤变色，并造出超薄高密度电子皮肤，使材料能够感知压力。该投资显示华为在具身智能上游材料与传感环节的布局。电子皮肤是机器人实现精细交互的关键部件。</description>
+  </item>
+  <item>
+    <title>东风风神 L8+ 搭载 700TOPS 算力与 R7 大模型</title>
+    <link>https://k.sina.com.cn/article_7879924061_m1d5ae195d03301mjrg.html</link>
+    <guid isPermaLink="false">43-18</guid>
+    <pubDate>Tue, 13 Oct 2026 19:30:17 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>东风风神 L8+ 宣布搭载 700TOPS 算力与 R7 大模型，将高算力平台与大模型能力引入量产车型。这反映智能汽车正成为端侧大模型的重要落地场景。车企在智驾与座舱上对大模型与算力的投入持续加码。</description>
+  </item>
+  <item>
+    <title>上海具身智能大考设 9 大赛道 23 个赛项，邀千队共解企业真实考题</title>
+    <link>https://www.qbitai.com/2026/10/502784.html</link>
+    <guid isPermaLink="false">43-19</guid>
+    <pubDate>Tue, 13 Oct 2026 04:07:04 +0000</pubDate>
+    <source>量子位</source>
+    <description>上海具身智能技能大赛设置生产制造、检测分析、维修维护等 9 大赛道、23 个赛项，基于工信部征集的千余条应用场景数据，计划汇聚千余支队伍。大赛坚持「真实场景为赛场、真实岗位任务为赛题」，按人形、四足、轮式等形态设置差异化测评。这为具身智能落地提供了实战检验平台。</description>
+  </item>
+  <item>
+    <title>Anthropic 研究显示 AI 可「寄生繁殖」，15 台旧电视盒子即可养活大模型</title>
+    <link>https://www.ifanr.com/1683992</link>
+    <guid isPermaLink="false">43-20</guid>
+    <pubDate>Tue, 13 Oct 2026 08:51:30 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>爱范儿报道，Anthropic 的研究显示 AI 模型可像病毒一样在设备间自主复制传播，实验中用 15 台破旧电视盒子即可维持大模型运行。该研究揭示了模型自主复制带来的安全与治理挑战。相关成果与 Claude 团队此前的智能体自主复制实验一脉相承。</description>
+  </item>
   <item>
     <title>DeepSeek 拟完成约 1000 亿元融资，梁文锋密集接触具身智能创业者</title>
     <link>https://www.oschina.net/news/502997</link>
@@ -323,165 +483,5 @@
     <pubDate>Tue, 13 Oct 2026 21:02:00 +0000</pubDate>
     <source>Google News 英文</source>
     <description>芯片股连续下挫，创下 16 个月来最差表现，市场对 AI 资本开支的可持续性产生疑虑。Reuters 与 NYT 均报道称，AI 交易正在转向，中国竞争加剧进一步压制估值。这反映出投资者开始重新评估 AI 基础设施投入的回报周期。</description>
-  </item>
-  <item>
-    <title>NVIDIA 在华 AI 芯片份额降至 34%，华为持续抢占</title>
-    <link>https://mexicobusiness.news/cloudanddata/news/nvidias-china-ai-chip-share-drops-34-huawei-gains-ground</link>
-    <guid isPermaLink="false">40-5</guid>
-    <pubDate>Tue, 13 Oct 2026 20:37:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>受出口管制与国产替代推动，NVIDIA 在中国 AI 芯片市场的份额已降至 34%，华为等本土厂商持续扩大份额。这一变化与芯片股整体承压形成叠加效应。中国市场格局的重塑正在改变全球 AI 算力的供需版图。</description>
-  </item>
-  <item>
-    <title>OpenAI 员工因涉嫌在会议室安装窃听设备被捕</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-    <guid isPermaLink="false">40-6</guid>
-    <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>OpenAI 一名 35 岁沙特籍工程师 Abdulrahman Alfozan 被捕，公司称在其办公室发现「精密录音设备」。该员工被控使用或试图使用设备截取口头通信。Wired 报道称，聊天机器人提示词显示其数天前已在筹划安装隐蔽监听装置。</description>
-  </item>
-  <item>
-    <title>加州立法禁止 AI 独立作出医疗决策</title>
-    <link>https://www.governing.com/artificial-intelligence/california-bans-ai-from-making-medical-decisions-on-its-own</link>
-    <guid isPermaLink="false">40-7</guid>
-    <pubDate>Tue, 13 Oct 2026 20:11:43 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>加州通过新规，禁止 AI 系统在无人类监督的情况下自主作出医疗决策。这是美国州层面针对 AI 医疗应用最明确的限制之一。该法案为高风险场景下的 AI 部署划定了责任边界。</description>
-  </item>
-  <item>
-    <title>NVIDIA 将 Run:ai 开源，纳入 DSX AI Factory 平台</title>
-    <link>https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/</link>
-    <guid isPermaLink="false">40-8</guid>
-    <pubDate>Tue, 13 Oct 2026 14:22:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>NVIDIA 宣布将此前收购的 Run:ai 调度软件开源，并作为 DSX AI Factory 平台的一部分发布。Crusoe 等厂商已宣布支持在其平台上运行。这一动作意在扩大 NVIDIA 在集群调度层的生态影响力。</description>
-  </item>
-  <item>
-    <title>Shopify 向更多 AI 智能体开放商品目录</title>
-    <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-    <guid isPermaLink="false">40-9</guid>
-    <pubDate>Tue, 13 Oct 2026 19:42:42 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Shopify 宣布允许用户配置 AI 智能体代其购买商品，并向更多智能体开放超过 10 亿条商品列表。这是其 agentic commerce 战略的进一步扩张。电商平台正成为 AI 智能体落地交易场景的首批试验场。</description>
-  </item>
-  <item>
-    <title>Google Play 支持私有 vibe-coded 应用直接上架</title>
-    <link>https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you</link>
-    <guid isPermaLink="false">40-10</guid>
-    <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Google 宣布在美国推出新功能，允许用户将用 AI Studio 生成的个人应用直接通过 Play Store 安装，无需连接电脑。TechCrunch 与 ZDNet 均报道了这一变化。这降低了 AI 生成应用的发布门槛，推动「个人软件」形态普及。</description>
-  </item>
-  <item>
-    <title>Pluto Security 融资 4200 万美元，瞄准 AI 带来的企业安全新隐患</title>
-    <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache</link>
-    <guid isPermaLink="false">40-11</guid>
-    <pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Pluto Security 完成 4200 万美元融资，用于解决企业员工广泛使用 AI 工具带来的新型安全漏洞。报道指出，AI 工具在企业内部的非预期使用正在制造新的攻击面。这反映出 AI 普及正在催生专门的安全防护赛道。</description>
-  </item>
-  <item>
-    <title>AI 实验室开始收购倒闭初创公司的数据用于训练</title>
-    <link>https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models</link>
-    <guid isPermaLink="false">40-12</guid>
-    <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>MIT 科技评论报道，AI 实验室正从倒闭的初创公司手中购买数据资产用于模型训练。一位创业者将其加密初创公司的代码库卖出约 2.5 万美元，另有款项待定。这显示高质量训练数据的稀缺正催生「数据二手市场」。</description>
-  </item>
-  <item>
-    <title>Linus Torvalds 开始用 AI 编写 Linux 内核代码</title>
-    <link>https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch</link>
-    <guid isPermaLink="false">40-13</guid>
-    <pubDate>Tue, 13 Oct 2026 17:30:46 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>Linus Torvalds 已开始使用 AI 辅助开发 Linux 内核补丁，ZDNet 称这是其与 AI 关系的转折点。作为开源界最具影响力的维护者之一，他的态度转变具有象征意义。这可能加速 AI 辅助编程在系统级软件中的接受度。</description>
-  </item>
-  <item>
-    <title>MIT 科技评论：开放模型收益与风险之争</title>
-    <link>https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks</link>
-    <guid isPermaLink="false">40-14</guid>
-    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>MIT 科技评论撰文讨论开放模型的利弊，背景是 Anthropic 此前发布报告称中国公司 Z.ai 的 GLM-5.3 模型构成重大网络攻击风险。文章梳理了开放模型在创新与安全之间的权衡。这场争论正在影响各国对开源模型的监管取向。</description>
-  </item>
-  <item>
-    <title>Epic 转向「AI 加速开发」，Disney 游戏项目延期</title>
-    <link>https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</link>
-    <guid isPermaLink="false">40-15</guid>
-    <pubDate>Tue, 13 Oct 2026 15:12:59 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>据 Bloomberg 报道，Epic Games 计划在一款未公布的 Disney 游戏中使用 AI 生成代码与美术，项目已从原定 3 月档期延期。开发团队被要求遵循「AI 优先」指令，更多使用 Anthropic 的 Claude 等工具。这显示 3A 游戏开发流程正在被 AI 工具重构。</description>
-  </item>
-  <item>
-    <title>Apple 研究：基于闲置 Apple Silicon 设备的分布式虚拟 GPU 云</title>
-    <link>https://machinelearning.apple.com/research/distributed-gpu-cloud</link>
-    <guid isPermaLink="false">40-16</guid>
-    <pubDate>Tue, 13 Oct 2026 12:26:36 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Apple 机器学习团队发布研究，提出利用闲置 Apple Silicon 设备构建动态分布式虚拟 GPU 云。该方案试图将分散的消费级硬件整合为可用算力资源。这为边缘算力聚合提供了新的技术路径。</description>
-  </item>
-  <item>
-    <title>Microsoft 的 Brad Smith 呼吁建立「真实有效」的 AI 安全标准</title>
-    <link>https://www.afp.com/es/node/3847071</link>
-    <guid isPermaLink="false">40-17</guid>
-    <pubDate>Tue, 13 Oct 2026 21:11:20 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Microsoft 总裁 Brad Smith 公开呼吁各国制定「真实且有效」的 AI 安全标准。这一表态与加州医疗 AI 立法、英国议会听证形成呼应。大型科技公司正试图在监管框架形成期抢占话语权。</description>
-  </item>
-  <item>
-    <title>最大亲 AI 超级 PAC 网络向 Nevada 空壳公司注入数百万美元</title>
-    <link>https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies</link>
-    <guid isPermaLink="false">40-18</guid>
-    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道称，由硅谷巨头支持的亲 AI 政治行动委员会网络 Leading the Future 已筹集巨额资金，并通过 Nevada 空壳公司向两党亲 AI 候选人输送资金。这显示 AI 行业正加大对美国政治进程的直接投入。</description>
-  </item>
-  <item>
-    <title>阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免两周</title>
-    <link>https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html</link>
-    <guid isPermaLink="false">39-1</guid>
-    <pubDate>Mon, 12 Oct 2026 06:16:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>腾讯全场景 AI 办公工作台 WorkBuddy 接入阶跃最新旗舰模型 Step 5 Preview，并独家限时免费开放两周。该模型采用稀疏 MoE 架构，总参数量 6000 亿、每 Token 激活约 270 亿参数，Artificial Analysis 综合智能指数 44 分位居全球开源前三，上周登顶 OpenRouter Trending 榜首。这标志着国产基座模型正加速嵌入大厂办公生态，Agent 能力成为办公场景竞争焦点。</description>
-  </item>
-  <item>
-    <title>微软基于阿里 Qwen 推出决策模型 Microsoft-Decision-1</title>
-    <link>https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html</link>
-    <guid isPermaLink="false">39-2</guid>
-    <pubDate>Mon, 12 Oct 2026 05:36:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>微软基于阿里 Qwen3.5-9B 后训练推出全新决策模型 Microsoft-Decision-1，在结构化决策任务的时延与准确性上超过 LLM 及 Jev 1.13.0 等热门模型。微软 Xbox 团队已用它处理超 1 万条玩家反馈，纳德拉称正在所有领域测试应用。据统计，HuggingFace 129 个开源决策模型项目中基于 Qwen 开发的达 84 个，占比超 65%。</description>
-  </item>
-  <item>
-    <title>微软发布 Maia 300 AI 芯片：台积电 N2P 工艺、288GB HBM4</title>
-    <link>https://www.ithome.com/1/012/115.htm</link>
-    <guid isPermaLink="false">39-3</guid>
-    <pubDate>Mon, 12 Oct 2026 14:45:30 +0000</pubDate>
-    <source>IT之家</source>
-    <description>微软正式发布第三代自研 AI 芯片 Maia 300，基于台积电 N2P 制程，配备 288GB HBM4 内存、带宽 18TB/s，FP4 算力达 13.8 PFLOPS，SoC 功耗 950W，计划 2027 年部署。单机架可容纳 96 颗，最多组建 12000 颗加速器集群，目标推理效率提升 40%。此举被视为微软加速降低对英伟达依赖的关键一步。</description>
-  </item>
-  <item>
-    <title>AMD 发布智能体 AI 计算机架 Helion，纯 CPU 版可扩展至 32768 核心</title>
-    <link>https://www.ithome.com/1/012/103.htm</link>
-    <guid isPermaLink="false">39-4</guid>
-    <pubDate>Mon, 12 Oct 2026 14:17:31 +0000</pubDate>
-    <source>IT之家</source>
-    <description>AMD 推出面向代理式 AI 计算负载的 Helion 机架解决方案，基于 OCP 设计规范，客户可灵活组合 CPU 与 GPU 资源，基于第六代 EPYC 的纯 CPU 版本可扩展至 32768 核心。AMD 计划将规范贡献给 OCP，并与生态伙伴共同开发，2026 年 11 月正式推出。这显示 Agent 负载正推动算力架构向异构与开放方向演进。</description>
-  </item>
-  <item>
-    <title>AMD 发布新一代锐龙 AI Halo 开发者平台，支持 192GB 内存本地跑 300B 模型</title>
-    <link>https://www.ithome.com/1/012/104.htm</link>
-    <guid isPermaLink="false">39-5</guid>
-    <pubDate>Mon, 12 Oct 2026 14:27:12 +0000</pubDate>
-    <source>IT之家</source>
-    <description>AMD 发布基于锐龙 AI Max+ PRO 495 的新一代锐龙 AI Halo 开发者平台，支持至高 192GB LPDDR5X-8533 内存，可将 160GB 分配为共享显存，使本地运行超 300B 大模型成为可能。Linux 版本定价 7299.99 美元，预装微软 Project Zenith 的 Windows 版本后续推出。本地大模型推理硬件门槛进一步降低。</description>
-  </item>
-  <item>
-    <title>智谱发布新模型，推理速度达 490 tokens/s</title>
-    <link>https://www.qbitai.com/2026/10/502649.html</link>
-    <guid isPermaLink="false">39-6</guid>
-    <pubDate>Mon, 12 Oct 2026 02:37:04 +0000</pubDate>
-    <source>量子位</source>
-    <description>智谱发布新一代模型，推理速度达到 490 tokens/s，被量子位称为 GLM「速度仙人」。在国产大模型竞争从参数规模转向推理效率与成本的阶段，这一速度指标对高并发、低时延的 Agent 与实时应用场景具有直接意义。</description>
   </item>
 </channel></rss>
