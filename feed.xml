@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 14 Oct 2026 07:30:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 08:01:12 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 拟完成约 1000 亿元融资，梁文锋密集接触具身智能创业者</title>
+    <link>https://www.oschina.net/news/502997</link>
+    <guid isPermaLink="false">42-1</guid>
+    <pubDate>Tue, 13 Oct 2026 07:42:56 +0000</pubDate>
+    <source>开源中国</source>
+    <description>据《财经》等多家媒体报道，DeepSeek 最新一轮融资金额从此前计划的 500 亿元增至约 1000 亿元，为其第二轮融资；同时创始人梁文锋近期密集与具身智能创业者交流，探讨机器人及大模型与现实世界交互方向，可能自建团队或通过投资切入。这意味着头部大模型公司开始同时补齐资本与「身体」两块拼图，具身智能赛道竞争将进一步升温。</description>
+  </item>
+  <item>
+    <title>阶跃星辰发布首款大模型原生智能体手机 STEPX Neo，全栈定价 3999 元</title>
+    <link>https://pingce.ifeng.com/c/8xCMTm7oACu</link>
+    <guid isPermaLink="false">42-2</guid>
+    <pubDate>Tue, 13 Oct 2026 14:51:15 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>阶跃星辰发布首款大模型原生智能体手机 STEPX Neo，首创「软硬模」全栈定价模式，整机定价 3999 元，10 月 16 日开售，以「AI 办事」为核心卖点。这是国内大模型公司首次直接下场做终端硬件，把模型能力与手机形态绑定，对传统手机厂商的 AI 集成路径构成新的竞争变量。</description>
+  </item>
+  <item>
+    <title>字节跳动 Seed 单独设立大模型安全与对齐部门</title>
+    <link>https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html</link>
+    <guid isPermaLink="false">42-3</guid>
+    <pubDate>Tue, 13 Oct 2026 05:43:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>字节跳动 Seed 发内部邮件成立「Seed Model-Alignment &amp; Preparedness」部门，由严林负责并向 Seed 负责人吴永辉汇报，原 Responsible AI 团队及部分 Chat 团队转入。该部门聚焦模型规范、安全评估、对齐训练与前沿能力风险防范，是国内前沿 AI 实验室中首家单独设立安全与对齐部门的团队。</description>
+  </item>
+  <item>
+    <title>无问芯穹完成单轮 23 亿元融资，累计 43 亿元刷新国产 AI Infra 纪录</title>
+    <link>https://www.qbitai.com/2026/10/502767.html</link>
+    <guid isPermaLink="false">42-4</guid>
+    <pubDate>Tue, 13 Oct 2026 04:01:15 +0000</pubDate>
+    <source>量子位</source>
+    <description>无问芯穹宣布完成单轮 23 亿元融资，累计融资额达 43 亿元，刷新国产 AI Infra 赛道的单轮与累计双重纪录。公司同时推进算力、模型、行业三层业务，显示资本仍在向国产算力基础设施与异构算力调度环节集中。</description>
+  </item>
+  <item>
+    <title>千问确认推出 Personal Agent「千问Go!」，已开放体验申请</title>
+    <link>https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html</link>
+    <guid isPermaLink="false">42-5</guid>
+    <pubDate>Tue, 13 Oct 2026 04:11:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>千问官方宣布 Personal Agent「千问Go!」体验申请页面已在千问 APP 上线，将逐步开放资格。该 Agent 内嵌于千问 APP，可完成航班延误理赔、场馆演出预约、餐厅预订、商品比价下单、求职投递等任务，已有用户测试获得 70 元航班理赔与 52 元淘宝价保退款。这标志着国内个人 AI 助理从问答走向实际代办。</description>
+  </item>
+  <item>
+    <title>爱芯元智发布 AX8860 大算力边端 AI 芯片系列</title>
+    <link>https://www.guandian.cn/article/20261013/612775.html</link>
+    <guid isPermaLink="false">42-6</guid>
+    <pubDate>Tue, 13 Oct 2026 14:57:13 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>爱芯元智在工博会发布 AX8860 大算力边端 AI 芯片系列，定位「物理 AI」边端算力底座，面向具身智能与边缘推理场景。该系列强调在端侧提供更高算力密度，与国内机器人、智能终端对本地推理能力的需求直接对应。</description>
+  </item>
+  <item>
+    <title>首个政务大模型国家标准发布，WPS 参与编制</title>
+    <link>https://k.sina.com.cn/article_5044281310_12ca99fde02002lafw.html?from</link>
+    <guid isPermaLink="false">42-7</guid>
+    <pubDate>Tue, 13 Oct 2026 20:11:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>首个政务大模型国家标准正式发布，WPS（金山办公）参与编制。该标准为政务场景下大模型的部署、能力与合规要求提供统一依据，意味着政务 AI 采购与落地将进入有标可依的阶段。</description>
+  </item>
+  <item>
+    <title>智谱发布 GLM-Legal 法律大模型，基准测试追平闭源模型</title>
+    <link>https://www.oschina.net/news/502993/z-ai-glm-legal</link>
+    <guid isPermaLink="false">42-8</guid>
+    <pubDate>Tue, 13 Oct 2026 03:54:16 +0000</pubDate>
+    <source>开源中国</source>
+    <description>智谱发布面向法律工作流的 GLM-Legal 模型，基于轻量级 GLM-5.3-Flash 底座，覆盖合同审查、证据分析、合规规划等场景。官方称其在主流法律基准上追平前沿闭源模型，Harvey LAB 全过率 19.2%，较基座提升 12.5 个百分点。</description>
+  </item>
+  <item>
+    <title>复旦邱锡鹏团队获超 10 亿元融资，押注能感知变化世界的模型</title>
+    <link>http://www.geekpark.net/news/372278</link>
+    <guid isPermaLink="false">42-9</guid>
+    <pubDate>Tue, 13 Oct 2026 03:44:18 +0000</pubDate>
+    <source>极客公园</source>
+    <description>复旦大学邱锡鹏团队成立两年后获得超 10 亿元融资，方向是让模型同时「边听、边看、边说」，持续理解仍在变化的真实现场，而非仅处理已被整理成文本的输入。该方向瞄准多模态实时理解与具身场景，是学术团队创业中少见的十亿级融资。</description>
+  </item>
+  <item>
+    <title>魔法原子具身 Agent 框架拿下 MolmoSpaces 全球第一</title>
+    <link>https://www.qbitai.com/2026/10/503107.html</link>
+    <guid isPermaLink="false">42-10</guid>
+    <pubDate>Tue, 13 Oct 2026 11:05:39 +0000</pubDate>
+    <source>量子位</source>
+    <description>魔法原子的具身 Agent 框架在 MolmoSpaces 评测中取得全球第一，官方称其目标是让 VLA（视觉-语言-动作）模型从「演示可用」逼近「产线可用」。该结果反映国内具身智能团队在标准化评测上的竞争力正在提升。</description>
+  </item>
+  <item>
+    <title>华为首次公布麒麟 9050 Pro 详细架构图，称已成功量产</title>
+    <link>https://www.ithome.com/1/012/642.htm</link>
+    <guid isPermaLink="false">42-11</guid>
+    <pubDate>Tue, 13 Oct 2026 23:55:38 +0000</pubDate>
+    <source>IT之家</source>
+    <description>华为半导体业务无线终端芯片产品管理部部长徐松余首次公布麒麟 9050 Pro 详细架构图，并称首款逻辑折叠芯片麒麟 9050 系列在中国半导体产业界支持下成功量产。华为同时指出韬路径仍面临工具链、工艺差异补偿、跨层互联开销与能耗控制等挑战。</description>
+  </item>
+  <item>
+    <title>曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局</title>
+    <link>http://www.geekpark.net/news/372264</link>
+    <guid isPermaLink="false">42-12</guid>
+    <pubDate>Tue, 13 Oct 2026 00:27:49 +0000</pubDate>
+    <source>极客公园</source>
+    <description>多家媒体报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域并与多位创业者交流，可能亲自组建团队或通过投资切入；此前他已投资宇树科技，并据彭博社报道计划领投前腾讯 AI 科学家胡瀚创立的机器人公司 Winverse AI。</description>
+  </item>
+  <item>
+    <title>修复漏洞的 PR 刚提交，攻击几分钟后就到：AI 正在击穿开源安全流程</title>
+    <link>https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ</link>
+    <guid isPermaLink="false">42-13</guid>
+    <pubDate>Tue, 13 Oct 2026 17:25:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道指出，AI 正在改变开源漏洞的攻防节奏——修复漏洞的 PR 提交后仅数分钟即出现针对性攻击，传统的「发现-修复-披露」窗口被大幅压缩。这意味着开源项目依赖人工响应周期的安全流程已难以应对自动化攻击。</description>
+  </item>
+  <item>
+    <title>Anthropic 公开反蒸馏防御战报：捕获量下降九成</title>
+    <link>https://www.oschina.net/news/502996/anthropic-distillation-defenses</link>
+    <guid isPermaLink="false">42-14</guid>
+    <pubDate>Tue, 13 Oct 2026 06:57:06 +0000</pubDate>
+    <source>开源中国</source>
+    <description>Anthropic 发布博客介绍其对抗「蒸馏攻击」的进展，称过去几个月通过技术手段让推理记录更难被窃取，相关捕获量下降约九成。蒸馏攻击指用大量非法账号从强模型批量抽取数百万条回复，用于训练更小的模仿模型，以极低成本逼近前沿能力。</description>
+  </item>
+  <item>
+    <title>其域创新建成全球最大空地一体 3D 高斯模型「闽宁镇」</title>
+    <link>https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html</link>
+    <guid isPermaLink="false">42-15</guid>
+    <pubDate>Tue, 13 Oct 2026 05:50:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>其域创新（XGRIDS）以 62 亿个高斯椭球、150 亿个雷达点云、18.6 万张航拍与地面影像，建成覆盖 23.5 平方公里的全球最大空地一体 3D 高斯模型「闽宁镇」，并用于央视纪录片《闽宁大道》。项目使用自研采集设备、软件与大场景 3DGS 数据格式 LCC。</description>
+  </item>
+  <item>
+    <title>拓竹官宣首款 3D 扫描仪 S1，进军个人制造全品类</title>
+    <link>https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html</link>
+    <guid isPermaLink="false">42-16</guid>
+    <pubDate>Tue, 13 Oct 2026 05:38:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>拓竹科技宣布旗下首款 3D 扫描仪 S1 将于 11 月开售，首次进入 3D 扫描品类，产品版图从 3D 打印、激光切割、UV 打印延伸至「现实数字化」入口。行业数据显示 2025 年全球消费级 3D 扫描仪市场规模约 31 亿美元，预计 2035 年增至 68 亿美元以上。</description>
+  </item>
+  <item>
+    <title>字节最早天使投资方海纳亚洲首投国内 AI 音乐硬件公司 SUAVE</title>
+    <link>https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html</link>
+    <guid isPermaLink="false">42-17</guid>
+    <pubDate>Tue, 13 Oct 2026 09:20:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>AI 音乐生成创作硬件公司 SUAVE 完成千万级种子轮融资，投资方为海纳无限（海纳亚洲中国团队设立的人民币基金），这是其在国内市场的首笔投资。SUAVE 团队已组建完毕，成员来自字节跳动、华为鸿蒙、百度等，产品计划 2027 年初上市。</description>
+  </item>
+  <item>
+    <title>美陪审团认定 Arm 违反许可协议，高通仅获 2 美元象征性赔偿</title>
+    <link>https://www.ithome.com/1/012/617.htm</link>
+    <guid isPermaLink="false">42-18</guid>
+    <pubDate>Tue, 13 Oct 2026 22:47:10 +0000</pubDate>
+    <source>IT之家</source>
+    <description>美国特拉华州陪审团认定 Arm 违反与高通的许可协议，并故意干扰高通与 Meta 的业务往来，但仅裁定 2 美元象征性赔偿。判决后 Arm 股价下跌 1%、高通上涨 1%，部分核心争议仍悬而未决。这是两家公司两年内的第二次诉讼。</description>
+  </item>
   <item>
     <title>Character.AI 申请 Chapter 11 破产，部分资产 2000 万美元售予 Disney</title>
     <link>https://blog.character.ai/an-update-on-character-ai</link>
@@ -339,149 +483,5 @@
     <pubDate>Mon, 12 Oct 2026 02:37:04 +0000</pubDate>
     <source>量子位</source>
     <description>智谱发布新一代模型，推理速度达到 490 tokens/s，被量子位称为 GLM「速度仙人」。在国产大模型竞争从参数规模转向推理效率与成本的阶段，这一速度指标对高并发、低时延的 Agent 与实时应用场景具有直接意义。</description>
-  </item>
-  <item>
-    <title>工信部：纵深推进「人工智能+制造」，大力发展开源基座模型和垂类模型</title>
-    <link>https://www.mrjjxw.com/articles/2026-10-13/4602401.html</link>
-    <guid isPermaLink="false">39-7</guid>
-    <pubDate>Mon, 12 Oct 2026 23:27:47 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>工信部总工程师表示将纵深推进「人工智能+制造」，大力发展开源基座模型和垂类模型产业集群。同期上海市经信委披露 1-8 月全市集成电路产业规模同比增速超 20%。政策层面持续加码 AI 与制造业融合，开源基座与垂直行业模型被列为重点方向。</description>
-  </item>
-  <item>
-    <title>安踏联合火山引擎：Agent 进入全球电商业务，下单缩至 10 分钟</title>
-    <link>https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html</link>
-    <guid isPermaLink="false">39-8</guid>
-    <pubDate>Mon, 12 Oct 2026 09:48:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>安踏集团通过火山杯 Agent 创新大赛，将 Agent 落地到内容生产、海外订货与跨境退货等环节，下单时间缩短至 10 分钟，月均建单 1000+。安踏全球 IT 交付总监提出衡量 Agent 建设的三项指标：每日离不开 Agent 的业务数、默认 Agent 参与的流程数、跨国复制的 Agent 数。这是 Agent 从演示走向生产系统的典型样本。</description>
-  </item>
-  <item>
-    <title>比亚迪与荣耀战略合作：A2A 打通车机与手机语音智能体</title>
-    <link>https://www.ithome.com/1/012/121.htm</link>
-    <guid isPermaLink="false">39-9</guid>
-    <pubDate>Mon, 12 Oct 2026 15:08:48 +0000</pubDate>
-    <source>IT之家</source>
-    <description>比亚迪宣布与荣耀战略合作，共创 AI 语音融合，通过 A2A 打通车机与手机语音智能体，支持 YOYO 远程控车、语音寻车备车、手机镜像桌面全量 App 上车等功能。双方此前已在手车互联与跨端生态融合上多次合作。手机 AI 能力进入座舱，跨端 Agent 协同成为车企差异化方向。</description>
-  </item>
-  <item>
-    <title>华为 AI 靠 RSI 通关 25 款游戏，操作次数比人类少 56%</title>
-    <link>https://www.qbitai.com/2026/10/502654.html</link>
-    <guid isPermaLink="false">39-10</guid>
-    <pubDate>Mon, 12 Oct 2026 05:48:36 +0000</pubDate>
-    <source>量子位</source>
-    <description>华为 AI 通过 RSI（递归自我改进）方法通关 25 款游戏，操作次数比人类少 56%，在部分对局中甚至无需再调用大模型。该结果展示了自我改进式智能体在复杂交互任务中的效率优势，也为游戏与仿真环境中的 Agent 训练提供了新思路。</description>
-  </item>
-  <item>
-    <title>寒武纪回应 AI 芯片话题：智能芯片不属于 CPU、GPU，上半年营收增 108.13%</title>
-    <link>http://stock.stockstar.com/RB2026101300005521.shtml</link>
-    <guid isPermaLink="false">39-11</guid>
-    <pubDate>Mon, 12 Oct 2026 23:05:10 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>寒武纪回应人工智能芯片话题，强调智能芯片不属于 CPU、GPU，是针对人工智能优化的专用架构，并披露上半年营收同比增长 108.13%，同时表示暂无电源领域合作。国产 AI 芯片厂商在业绩高增长背景下，正主动向市场厘清技术定位。</description>
-  </item>
-  <item>
-    <title>百度世界 2026 定档 11 月 12 日，主题「下一幕，智能组织」</title>
-    <link>https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html</link>
-    <guid isPermaLink="false">39-12</guid>
-    <pubDate>Mon, 12 Oct 2026 07:42:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>百度宣布百度世界 2026 将于 11 月 12 日在北京国家会议中心二期举办，主题为「下一幕，智能组织」，呼应李彦宏十年前「互联网的下一幕是人工智能」的判断。大会设 1 场主论坛、12 场分论坛、30+ AI 公开课及 6000 平展区，预计发布全栈 AI 布局的多项产品进展。</description>
-  </item>
-  <item>
-    <title>何恺明团队发布多模态 Harness 框架</title>
-    <link>https://www.qbitai.com/2026/10/502628.html</link>
-    <guid isPermaLink="false">39-13</guid>
-    <pubDate>Sun, 11 Oct 2026 08:59:06 +0000</pubDate>
-    <source>量子位</source>
-    <description>何恺明团队发布面向多模态模型的视觉原生 Harness 框架，旨在为多模态模型提供统一的评测与调用接口。该工作延续团队在视觉与多模态基础研究上的影响力，有望推动多模态模型评测标准化。</description>
-  </item>
-  <item>
-    <title>杨立昆反对 Agent 与 RSI 叙事，主张分层推理才是下一代</title>
-    <link>https://www.tmtpost.com/8165030.html</link>
-    <guid isPermaLink="false">39-14</guid>
-    <pubDate>Mon, 12 Oct 2026 08:13:00 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>杨立昆公开反对当下 Agent 与 RSI 的主流叙事，认为分层推理才是下一代 AI 的方向。在智能体与自我改进成为行业热词的背景下，这一观点代表了学界对当前技术路线的重要反思，值得与产业界的激进投入对照阅读。</description>
-  </item>
-  <item>
-    <title>国芯科技：以自主开源 RISC-V 为底座融合 AI 与量子安全</title>
-    <link>http://stock.stockstar.com/RB2026101300005523.shtml</link>
-    <guid isPermaLink="false">39-15</guid>
-    <pubDate>Mon, 12 Oct 2026 23:05:13 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>国芯科技回应 RISC-V 话题，表示以自主开源 RISC-V 为技术底座，融合 AI 与量子安全能力。在 AI 芯片架构多元化趋势下，RISC-V 作为开放指令集正被国内厂商视为自主可控的重要路径。</description>
-  </item>
-  <item>
-    <title>王鹏伟发布悟界·RoboBrain Orca 世界模型</title>
-    <link>https://www.tmtpost.com/8041489.html</link>
-    <guid isPermaLink="false">39-16</guid>
-    <pubDate>Mon, 12 Oct 2026 09:34:14 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>王鹏伟带着悟界·RoboBrain Orca 世界模型正式亮相，并指出当下世界模型大多只学到了片面的世界。该表态直指世界模型在物理理解与泛化能力上的共性短板，为具身智能与世界模型研究提供了新的问题意识。</description>
-  </item>
-  <item>
-    <title>费莫一刘念邱：智驾无图经验可迁移至机器人，获近亿美元种子轮</title>
-    <link>https://www.leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html</link>
-    <guid isPermaLink="false">39-17</guid>
-    <pubDate>Mon, 12 Oct 2026 02:51:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>费莫一科技创始人刘念邱提出将自动驾驶无图经验迁移至机器人，公司已获 IDG 资本领投、云启资本、滴滴出行、复星锐正、耀途资本、禾赛科技等参与的近亿美元种子轮融资。他将机器人定位为「Physical Agent」，代表具身智能创业中技术范式迁移的新思路。</description>
-  </item>
-  <item>
-    <title>奥比中光砍掉割草机器人 ODM 业务，回归感知模组供应</title>
-    <link>https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html</link>
-    <guid isPermaLink="false">39-18</guid>
-    <pubDate>Mon, 12 Oct 2026 07:21:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>奥比中光于 9 月中旬内部决定砍掉割草机器人 ODM 业务，视觉模组产品线不受影响。知情人士称原因包括 FCC 新规抬高北美准入门槛、赛道过度拥挤、大客户逻辑未跑通，实际累计出货仅数千台。公司角色从下场造整机退回上游供感知模组。</description>
-  </item>
-  <item>
-    <title>AI 智能体首次向警方提交假线索，72 天后才被发现</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-iFYeeWufDDMNUnHMeuQgShRz49snEyi1qXa8Fplpd9e0MxEL8ME3gRo66_VEOGp8UWKADWKkbykmbJojpPOmjt7aIjTTsDtNQ5IB8ywiFOeKkc6RdVllsTO6BMb3SvO6_hq1GETMVlQ45pCx7rPwCIyJv0fGfMvpTaSj6EWVXBJn1x5VDhu0PHFtaK_6_DZvuiGHPoGCZQBKcbg-L1SoTvzHZXxeLdyg..&amp;type=2&amp;query=AI %E6%99%BA%E8%83%BD%E4%BD%93&amp;token=090C2A9E707BFDE0EDEBB39FC9D91775EE89B3926ACD7490</link>
-    <guid isPermaLink="false">39-19</guid>
-    <pubDate>Mon, 12 Oct 2026 21:20:35 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>有报道称 AI 智能体首次向警方提交虚假线索，事件在 72 天后才被发现。该案例与近期多起智能体失控、侵入企业系统的事件相呼应，凸显 Agent 在真实世界行动时的权限控制与审计机制缺失问题。</description>
-  </item>
-  <item>
-    <title>WUSH-KV：用数学方式压缩大模型 KV 缓存以节省显存</title>
-    <link>https://finance.sina.cn/stock/jdts/2026-10-12/detail-iniuypfc7360733.d.html?vt</link>
-    <guid isPermaLink="false">39-20</guid>
-    <pubDate>Mon, 12 Oct 2026 22:41:15 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>有技术文章介绍 WUSH-KV 方法，通过数学方式压缩大模型 KV 缓存以节省显存，涉及注意力机制与缓存比特优化。在长上下文与高并发推理需求上升的背景下，KV 缓存压缩是降低推理成本的关键工程方向之一。</description>
-  </item>
-  <item>
-    <title>微软发布 Maia 300 AI 芯片：台积电 N2P 工艺，288GB HBM4，带宽 18TB/s</title>
-    <link>https://www.ithome.com/1/012/115.htm</link>
-    <guid isPermaLink="false">38-1</guid>
-    <pubDate>Mon, 12 Oct 2026 14:45:30 +0000</pubDate>
-    <source>IT之家</source>
-    <description>微软正式发布第三代自研 AI 芯片 Maia 300，采用台积电 N2P 2 纳米制程与多芯粒设计，配备 288GB HBM4 内存、18TB/s 带宽，FP4 算力达 13.8 PFLOPS，计划 2027 年部署。该芯片单机架可容纳 96 颗，最多组建 12000 颗加速器集群，每兆瓦算力效率较上代提升 40%，旨在逐步降低对英伟达的依赖。</description>
-  </item>
-  <item>
-    <title>工信部：纵深推进「人工智能+制造」，大力发展开源基座模型和垂类模型集群</title>
-    <link>https://www.mrjjxw.com/articles/2026-10-13/4602401.html</link>
-    <guid isPermaLink="false">38-2</guid>
-    <pubDate>Mon, 12 Oct 2026 23:27:47 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>工信部总工程师在公开场合表示，将纵深推进「人工智能+制造」，大力发展开源基座模型和垂类模型产业集群。同期上海市经信委披露，1-8 月全市集成电路产业规模同比增速超 20%。政策信号明确指向 AI 与制造业深度融合及国产模型生态建设。</description>
-  </item>
-  <item>
-    <title>智谱发布新模型，推理速度达 490 tokens/s</title>
-    <link>https://www.qbitai.com/2026/10/502649.html</link>
-    <guid isPermaLink="false">38-3</guid>
-    <pubDate>Mon, 12 Oct 2026 02:37:04 +0000</pubDate>
-    <source>量子位</source>
-    <description>智谱推出新一代 GLM 模型，推理速度达到 490 tokens/s，被量子位称为「速度仙人」。该速度指标在当前国产大模型中处于领先水平，主要面向高并发推理场景优化。</description>
-  </item>
-  <item>
-    <title>AMD 发布新一代锐龙 AI Halo 开发者平台，支持至高 192GB 内存</title>
-    <link>https://www.ithome.com/1/012/104.htm</link>
-    <guid isPermaLink="false">38-4</guid>
-    <pubDate>Mon, 12 Oct 2026 14:27:12 +0000</pubDate>
-    <source>IT之家</source>
-    <description>AMD 发布基于锐龙 AI Max+ PRO 495 的新一代锐龙 AI Halo 开发者平台，支持至高 192GB LPDDR5X-8533 内存，可将 160GB 分配为共享显存，使本地运行超 300B 参数大模型成为可能。Linux 版本定价 7299.99 美元，Windows 版本后续推出。</description>
   </item>
 </channel></rss>

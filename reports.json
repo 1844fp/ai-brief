@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T07:30:48.414556",
+ "generated_at": "2026-10-14T08:01:12.008637",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 42,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-14",
+   "created_at": "2026-10-14T00:01:10.917694+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-14/news_daily_cn-080110.html"
+  },
   {
    "id": 41,
    "task": "news_daily",
@@ -315,6 +324,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "DeepSeek 拟完成约 1000 亿元融资，梁文锋密集接触具身智能创业者",
+   "url": "https://www.oschina.net/news/502997",
+   "source": "开源中国",
+   "summary": "据《财经》等多家媒体报道，DeepSeek 最新一轮融资金额从此前计划的 500 亿元增至约 1000 亿元，为其第二轮融资；同时创始人梁文锋近期密集与具身智能创业者交流，探讨机器人及大模型与现实世界交互方向，可能自建团队或通过投资切入。这意味着头部大模型公司开始同时补齐资本与「身体」两块拼图，具身智能赛道竞争将进一步升温。",
+   "why": null,
+   "category": "大模型/融资",
+   "heat": 5,
+   "published": "2026-10-13T07:42:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "阶跃星辰发布首款大模型原生智能体手机 STEPX Neo，全栈定价 3999 元",
+   "url": "https://pingce.ifeng.com/c/8xCMTm7oACu",
+   "source": "Google News 中文",
+   "summary": "阶跃星辰发布首款大模型原生智能体手机 STEPX Neo，首创「软硬模」全栈定价模式，整机定价 3999 元，10 月 16 日开售，以「AI 办事」为核心卖点。这是国内大模型公司首次直接下场做终端硬件，把模型能力与手机形态绑定，对传统手机厂商的 AI 集成路径构成新的竞争变量。",
+   "why": null,
+   "category": "终端/智能体",
+   "heat": 5,
+   "published": "2026-10-13T14:51:15+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
+   "url": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+   "source": "雷锋网",
+   "summary": "字节跳动 Seed 发内部邮件成立「Seed Model-Alignment & Preparedness」部门，由严林负责并向 Seed 负责人吴永辉汇报，原 Responsible AI 团队及部分 Chat 团队转入。该部门聚焦模型规范、安全评估、对齐训练与前沿能力风险防范，是国内前沿 AI 实验室中首家单独设立安全与对齐部门的团队。",
+   "why": null,
+   "category": "AI 安全/组织",
+   "heat": 4,
+   "published": "2026-10-13T05:43:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "无问芯穹完成单轮 23 亿元融资，累计 43 亿元刷新国产 AI Infra 纪录",
+   "url": "https://www.qbitai.com/2026/10/502767.html",
+   "source": "量子位",
+   "summary": "无问芯穹宣布完成单轮 23 亿元融资，累计融资额达 43 亿元，刷新国产 AI Infra 赛道的单轮与累计双重纪录。公司同时推进算力、模型、行业三层业务，显示资本仍在向国产算力基础设施与异构算力调度环节集中。",
+   "why": null,
+   "category": "算力/融资",
+   "heat": 4,
+   "published": "2026-10-13T04:01:15+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "千问确认推出 Personal Agent「千问Go!」，已开放体验申请",
+   "url": "https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html",
+   "source": "雷锋网",
+   "summary": "千问官方宣布 Personal Agent「千问Go!」体验申请页面已在千问 APP 上线，将逐步开放资格。该 Agent 内嵌于千问 APP，可完成航班延误理赔、场馆演出预约、餐厅预订、商品比价下单、求职投递等任务，已有用户测试获得 70 元航班理赔与 52 元淘宝价保退款。这标志着国内个人 AI 助理从问答走向实际代办。",
+   "why": null,
+   "category": "智能体/应用",
+   "heat": 4,
+   "published": "2026-10-13T04:11:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "爱芯元智发布 AX8860 大算力边端 AI 芯片系列",
+   "url": "https://www.guandian.cn/article/20261013/612775.html",
+   "source": "Google News 中文",
+   "summary": "爱芯元智在工博会发布 AX8860 大算力边端 AI 芯片系列，定位「物理 AI」边端算力底座，面向具身智能与边缘推理场景。该系列强调在端侧提供更高算力密度，与国内机器人、智能终端对本地推理能力的需求直接对应。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-10-13T14:57:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "首个政务大模型国家标准发布，WPS 参与编制",
+   "url": "https://k.sina.com.cn/article_5044281310_12ca99fde02002lafw.html?from",
+   "source": "Google News 中文",
+   "summary": "首个政务大模型国家标准正式发布，WPS（金山办公）参与编制。该标准为政务场景下大模型的部署、能力与合规要求提供统一依据，意味着政务 AI 采购与落地将进入有标可依的阶段。",
+   "why": null,
+   "category": "政策/标准",
+   "heat": 4,
+   "published": "2026-10-13T20:11:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "智谱发布 GLM-Legal 法律大模型，基准测试追平闭源模型",
+   "url": "https://www.oschina.net/news/502993/z-ai-glm-legal",
+   "source": "开源中国",
+   "summary": "智谱发布面向法律工作流的 GLM-Legal 模型，基于轻量级 GLM-5.3-Flash 底座，覆盖合同审查、证据分析、合规规划等场景。官方称其在主流法律基准上追平前沿闭源模型，Harvey LAB 全过率 19.2%，较基座提升 12.5 个百分点。",
+   "why": null,
+   "category": "行业模型",
+   "heat": 3,
+   "published": "2026-10-13T03:54:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "复旦邱锡鹏团队获超 10 亿元融资，押注能感知变化世界的模型",
+   "url": "http://www.geekpark.net/news/372278",
+   "source": "极客公园",
+   "summary": "复旦大学邱锡鹏团队成立两年后获得超 10 亿元融资，方向是让模型同时「边听、边看、边说」，持续理解仍在变化的真实现场，而非仅处理已被整理成文本的输入。该方向瞄准多模态实时理解与具身场景，是学术团队创业中少见的十亿级融资。",
+   "why": null,
+   "category": "多模态/融资",
+   "heat": 3,
+   "published": "2026-10-13T03:44:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "魔法原子具身 Agent 框架拿下 MolmoSpaces 全球第一",
+   "url": "https://www.qbitai.com/2026/10/503107.html",
+   "source": "量子位",
+   "summary": "魔法原子的具身 Agent 框架在 MolmoSpaces 评测中取得全球第一，官方称其目标是让 VLA（视觉-语言-动作）模型从「演示可用」逼近「产线可用」。该结果反映国内具身智能团队在标准化评测上的竞争力正在提升。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-13T11:05:39+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "华为首次公布麒麟 9050 Pro 详细架构图，称已成功量产",
+   "url": "https://www.ithome.com/1/012/642.htm",
+   "source": "IT之家",
+   "summary": "华为半导体业务无线终端芯片产品管理部部长徐松余首次公布麒麟 9050 Pro 详细架构图，并称首款逻辑折叠芯片麒麟 9050 系列在中国半导体产业界支持下成功量产。华为同时指出韬路径仍面临工具链、工艺差异补偿、跨层互联开销与能耗控制等挑战。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-10-13T23:55:38+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局",
+   "url": "http://www.geekpark.net/news/372264",
+   "source": "极客公园",
+   "summary": "多家媒体报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域并与多位创业者交流，可能亲自组建团队或通过投资切入；此前他已投资宇树科技，并据彭博社报道计划领投前腾讯 AI 科学家胡瀚创立的机器人公司 Winverse AI。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-10-13T00:27:49+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "修复漏洞的 PR 刚提交，攻击几分钟后就到：AI 正在击穿开源安全流程",
+   "url": "https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 报道指出，AI 正在改变开源漏洞的攻防节奏——修复漏洞的 PR 提交后仅数分钟即出现针对性攻击，传统的「发现-修复-披露」窗口被大幅压缩。这意味着开源项目依赖人工响应周期的安全流程已难以应对自动化攻击。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-10-13T17:25:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "Anthropic 公开反蒸馏防御战报：捕获量下降九成",
+   "url": "https://www.oschina.net/news/502996/anthropic-distillation-defenses",
+   "source": "开源中国",
+   "summary": "Anthropic 发布博客介绍其对抗「蒸馏攻击」的进展，称过去几个月通过技术手段让推理记录更难被窃取，相关捕获量下降约九成。蒸馏攻击指用大量非法账号从强模型批量抽取数百万条回复，用于训练更小的模仿模型，以极低成本逼近前沿能力。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-10-13T06:57:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "其域创新建成全球最大空地一体 3D 高斯模型「闽宁镇」",
+   "url": "https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html",
+   "source": "雷锋网",
+   "summary": "其域创新（XGRIDS）以 62 亿个高斯椭球、150 亿个雷达点云、18.6 万张航拍与地面影像，建成覆盖 23.5 平方公里的全球最大空地一体 3D 高斯模型「闽宁镇」，并用于央视纪录片《闽宁大道》。项目使用自研采集设备、软件与大场景 3DGS 数据格式 LCC。",
+   "why": null,
+   "category": "空间智能",
+   "heat": 3,
+   "published": "2026-10-13T05:50:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "拓竹官宣首款 3D 扫描仪 S1，进军个人制造全品类",
+   "url": "https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html",
+   "source": "雷锋网",
+   "summary": "拓竹科技宣布旗下首款 3D 扫描仪 S1 将于 11 月开售，首次进入 3D 扫描品类，产品版图从 3D 打印、激光切割、UV 打印延伸至「现实数字化」入口。行业数据显示 2025 年全球消费级 3D 扫描仪市场规模约 31 亿美元，预计 2035 年增至 68 亿美元以上。",
+   "why": null,
+   "category": "硬件/3D",
+   "heat": 3,
+   "published": "2026-10-13T05:38:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "字节最早天使投资方海纳亚洲首投国内 AI 音乐硬件公司 SUAVE",
+   "url": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
+   "source": "雷锋网",
+   "summary": "AI 音乐生成创作硬件公司 SUAVE 完成千万级种子轮融资，投资方为海纳无限（海纳亚洲中国团队设立的人民币基金），这是其在国内市场的首笔投资。SUAVE 团队已组建完毕，成员来自字节跳动、华为鸿蒙、百度等，产品计划 2027 年初上市。",
+   "why": null,
+   "category": "硬件/融资",
+   "heat": 2,
+   "published": "2026-10-13T09:20:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "美陪审团认定 Arm 违反许可协议，高通仅获 2 美元象征性赔偿",
+   "url": "https://www.ithome.com/1/012/617.htm",
+   "source": "IT之家",
+   "summary": "美国特拉华州陪审团认定 Arm 违反与高通的许可协议，并故意干扰高通与 Meta 的业务往来，但仅裁定 2 美元象征性赔偿。判决后 Arm 股价下跌 1%、高通上涨 1%，部分核心争议仍悬而未决。这是两家公司两年内的第二次诉讼。",
+   "why": null,
+   "category": "芯片/法律",
+   "heat": 3,
+   "published": "2026-10-13T22:47:10+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
