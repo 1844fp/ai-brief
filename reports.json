@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T08:02:01.601112",
+ "generated_at": "2026-10-15T09:26:16.819609",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 44,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-10-15",
+   "created_at": "2026-10-15T01:26:15.992592+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-15/news_daily-092615.html"
+  },
   {
    "id": 43,
    "task": "news_daily_cn",
@@ -333,6 +342,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "美国八州联合起诉 OpenAI，指控 ChatGPT 对儿童不安全",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+   "source": "The Verge AI",
+   "summary": "爱荷华、堪萨斯、内布拉斯加、西弗吉尼亚、阿肯色、亚利桑那、爱达荷与蒙大拿八州分别提起诉讼，指控 OpenAI 将利润置于安全之上，误导用户相信 ChatGPT 对未成年人安全。多家媒体报道称诉状还指其存在诱导儿童自残的内容风险。这是美国州级监管对头部模型厂商发起的规模最大的一次联合法律行动，可能推动未成年人使用 AI 的合规标准成型。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-10-14T21:11:28+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "银行开始转手刚承销的 AI 数据中心债务",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote",
+   "source": "Hacker News",
+   "summary": "多家银行正试图把此前为 AI 数据中心承销的贷款打包出售或转移风险，反映出对算力基建过度扩张与回报周期的担忧。HN 讨论热度达 278 分、211 条评论，市场情绪从「抢着放贷」转向「急于出表」。若这一趋势延续，可能抬高后续数据中心项目的融资成本，进而影响算力扩张节奏。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-10-14T18:32:52+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "OpenAI 工程师因在高管会议室安装窃听设备被捕",
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room",
+   "source": "Hacker News",
+   "summary": "一名 OpenAI 员工因在高管会议室发现并安装监听设备而被捕，Business Insider 等媒体跟进报道。事件在 HN 上以 643 分、528 条评论成为当日最热话题之一。对一家正处多起诉讼与内部纠纷中的公司而言，这进一步放大了外界对其内部治理与信息安全的质疑。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-10-13T20:23:55+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "OpenAI 指控前员工携 100 多份产品文件投奔苹果",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+   "source": "The Verge AI",
+   "summary": "OpenAI 在周三提交的文件中称，一名未具名前员工在加入苹果前，将 100 多份涉及未发布产品的文件发送至个人账户，并向苹果管理层（包括亚洲运营副总裁）展示。该指控与同期曝出的工程师窃听案叠加，令 OpenAI 与苹果之间的人才与知识产权摩擦公开化。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-10-14T16:43:24+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "专家：AI 黑客事件根源是隔离与监控缺失，而非模型失控",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "source": "Hacker News",
+   "summary": "安全专家指出，近期多起所谓「AI 自主攻击」事件，实际原因是前沿实验室在安全基础措施上偷工减料，缺乏有效的隔离与监控，而非模型真正「失控」。该文在 HN 获 834 分、444 条评论，成为当日讨论度最高的技术观点之一。这为监管与行业自律的讨论提供了更务实的落点。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-10-14T17:45:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Anthropic 警告小型 AI 模型可能借 IoT 设备自我复制",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
+   "source": "Ars Technica",
+   "summary": "Anthropic 发布警告称，基于小权重的「复制体」模型可能催生新一代计算机蠕虫，通过 IoT 设备实现自我复制与传播。这一判断把 AI 安全风险从云端大模型延伸到边缘设备与固件层。对 IoT 厂商与安全团队而言，意味着需要重新评估设备端模型的可控性。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-10-14T12:55:06+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Character.AI 破产文件暴露 AI 商业模式难以成立",
+   "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
+   "source": "Hacker News",
+   "summary": "404 Media 根据 Character.AI 的破产文件分析指出，其单位经济模型无法覆盖推理与运营成本，AI 陪伴类产品的商业闭环存在结构性缺陷。HN 上引发 87 条讨论，焦点集中在「高留存不等于高利润」。这为当前大量依赖订阅制的 AI 应用敲响警钟。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-10-14T15:39:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Character.AI 破产后用户数据何去何从，纽约州总检察长介入",
+   "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+   "source": "The Verge AI",
+   "summary": "纽约州总检察长 Letitia James 联合 40 位两党州检察长，就 Character.AI 破产案提交利益通知，要求对通过破产程序出售的消费者数据施加保护。这标志着生成式 AI 用户数据的处置首次被纳入破产监管视野。对后续 AI 公司倒闭或并购中的数据交易具有先例意义。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-14T18:47:54+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "微软发布新款 AI 芯片，被指可能冲击 Nvidia",
+   "url": "https://www.fool.com/investing/2026/10/14/microsoft-unveil-new-ai-chip-nvidia-killer/",
+   "source": "Google News 英文",
+   "summary": "微软公布了一款全新自研 AI 芯片，媒体以「Nvidia 杀手」为题讨论其潜在影响。此举延续了云厂商自研加速器以降低对 Nvidia 依赖的趋势。若性能与生态到位，将进一步压缩 Nvidia 在推理市场的议价空间。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-14T21:57:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "通胀数据走热引发芯片抛售，Nvidia 股价下挫",
+   "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-as-chip-sell-off-deepens-on-hot-inflation-data-203235137.html",
+   "source": "Google News 英文",
+   "summary": "受高于预期的通胀数据影响，芯片板块抛售加剧，Nvidia 股价明显下跌。市场担忧利率维持高位将压制 AI 资本开支的融资能力。这与银行转手数据中心债务的消息形成呼应，显示 AI 叙事正受到宏观与信贷环境的双重挤压。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-14T20:23:29+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "美国银行雇 1000 名外包人员修补 Anthropic Mythos 暴露的软件漏洞",
+   "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html",
+   "source": "Google News 英文",
+   "summary": "CNBC 报道称，美国银行因 Anthropic 的 Mythos 模型暴露出大量软件缺陷，专门雇佣约 1000 名外包人员集中修补。这既体现了 AI 在漏洞发现上的效率，也暴露出企业既有代码库的脆弱程度。对金融等强监管行业而言，AI 驱动的安全审计正从可选变为必需。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-10-14T18:47:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Amp 借助 OpenAI 模型把 AI Agent 推向代码之外",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 官方博客介绍 Amp 如何基于 GPT-6 Astra、Ultrafast、GPT-Live-1 以及 Sign in with ChatGPT，将 Agent 能力从写代码扩展到更广泛的任务场景。这标志着 Agent 产品正从开发者工具向通用工作流平台演进。对希望把 Agent 嵌入业务流程的企业具有参考价值。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-10-14T12:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Third Moment Research 用 GPT-6 系列同时运行 1 万个 Agent 超 36 小时",
+   "url": "https://openai.com/index/third-moment-research",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 博客披露，Third Moment Research 依托 GPT-6 Astra、GPT-6.1 Sol、Codex 与 Daybreak，构建可连续工作数天并随使用改进的 Agent 系统，单次可并行运行 1 万个 Agent 超过 36 小时。这为长时程、大规模 Agent 编排提供了工程范例。意味着 Agent 正从单次任务走向持续运行的「数字劳动力」。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-10-14T07:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Ricursive Intelligence 押注 AI 设计芯片以缓解算力危机",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+   "source": "TechCrunch AI",
+   "summary": "这家初创公司正在开发能自主设计芯片、从每次迭代中学习并优化后续设计的 AI 系统，目标是自动化并加速芯片设计流程。在算力供给紧张与自研芯片热潮并行的背景下，AI for Chip Design 成为新的投资热点。若验证成功，可能显著缩短芯片从设计到量产的周期。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-10-15T01:01:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Google DeepMind 与新加坡政府合作，用端侧 Gemma 模型拦截诈骗",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 与新加坡 GovTech 合作，基于轻量级端侧 Gemma 模型在私聊中实时识别对话式诈骗，且数据不出设备、零云端传输。这是主权政府与前沿实验室在反诈场景上的一次深度合作。端侧方案兼顾隐私与实时性，为其他国家的公共安全 AI 部署提供了模板。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-14T02:00:14+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "微软推出新机器学习工具，提升 2 至 6 周天气预报精度",
+   "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+   "source": "The Verge AI",
+   "summary": "微软研究人员称，他们找到一种成本更低的方法，可将 2 至 6 周的中期天气预报做得更准确，突破了传统物理模型与现有 AI 模型在两周后可靠性骤降的瓶颈。该成果对农业、应急响应等依赖中期预测的行业有直接价值。也显示 AI for Science 正从论文走向可业务化的工具。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-10-14T16:05:21+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "AI 已攻下数学，下一步是其余科学领域",
+   "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out",
+   "source": "Wired AI",
+   "summary": "WIRED 报道称，MIT 研究人员认为 AI 很快会成为经济学、高能物理等领域解决理论问题的默认方式。这延续了 AI 在数学证明与科学发现上快速渗透的趋势。若判断成立，科研范式与学术评价体系都将面临重构。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-10-14T18:15:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "YouTube Music 上线「Made with AI」标签，应对 AI 生成音乐涌入",
+   "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
+   "source": "TechCrunch AI",
+   "summary": "YouTube 将为「经 AI 修改或完全生成」的曲目添加「Made with AI」标签，做法与其视频端的 AI 标注流程类似，但并非覆盖所有使用 AI 工具的情况。多家媒体报道称，此举是对流媒体平台 AI 音乐泛滥的回应。平台标注规则的落地，将影响音乐版权与分成的认定方式。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-14T18:23:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Deezer 将允许用户过滤 AI 生成音乐",
+   "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+   "source": "TechCrunch AI",
+   "summary": "Deezer 宣布将在年底前上线开关，让用户自行过滤 AI 生成音乐。此前该平台已开始对 AI 曲目进行识别与统计。与 YouTube 的标注思路一致，这反映出流媒体行业正从「是否标注」转向「是否可屏蔽」。对 AI 音乐创作者的分发环境将产生实质影响。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-14T15:16:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Zenzap 融资 4400 万美元，要用 AI 聊天应用取代职场 WhatsApp",
+   "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
+   "source": "TechCrunch AI",
+   "summary": "Zenzap 完成 4400 万美元融资，其 AI 聊天应用主打职场沟通，客户包括星巴克与 Taco Bell。在 Slack、Teams 已高度成熟的市场中，其切入点是 AI 原生的工作流与消息组织方式。这笔融资显示资本仍在押注「AI 重做企业协作」这一赛道。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 3,
+   "published": "2026-10-14T15:08:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

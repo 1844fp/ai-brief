@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 14 Oct 2026 08:02:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 09:26:16 +0000</lastBuildDate>
+  <item>
+    <title>美国八州联合起诉 OpenAI，指控 ChatGPT 对儿童不安全</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+    <guid isPermaLink="false">44-1</guid>
+    <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>爱荷华、堪萨斯、内布拉斯加、西弗吉尼亚、阿肯色、亚利桑那、爱达荷与蒙大拿八州分别提起诉讼，指控 OpenAI 将利润置于安全之上，误导用户相信 ChatGPT 对未成年人安全。多家媒体报道称诉状还指其存在诱导儿童自残的内容风险。这是美国州级监管对头部模型厂商发起的规模最大的一次联合法律行动，可能推动未成年人使用 AI 的合规标准成型。</description>
+  </item>
+  <item>
+    <title>银行开始转手刚承销的 AI 数据中心债务</title>
+    <link>https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote</link>
+    <guid isPermaLink="false">44-2</guid>
+    <pubDate>Wed, 14 Oct 2026 18:32:52 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>多家银行正试图把此前为 AI 数据中心承销的贷款打包出售或转移风险，反映出对算力基建过度扩张与回报周期的担忧。HN 讨论热度达 278 分、211 条评论，市场情绪从「抢着放贷」转向「急于出表」。若这一趋势延续，可能抬高后续数据中心项目的融资成本，进而影响算力扩张节奏。</description>
+  </item>
+  <item>
+    <title>OpenAI 工程师因在高管会议室安装窃听设备被捕</title>
+    <link>https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room</link>
+    <guid isPermaLink="false">44-3</guid>
+    <pubDate>Tue, 13 Oct 2026 20:23:55 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>一名 OpenAI 员工因在高管会议室发现并安装监听设备而被捕，Business Insider 等媒体跟进报道。事件在 HN 上以 643 分、528 条评论成为当日最热话题之一。对一家正处多起诉讼与内部纠纷中的公司而言，这进一步放大了外界对其内部治理与信息安全的质疑。</description>
+  </item>
+  <item>
+    <title>OpenAI 指控前员工携 100 多份产品文件投奔苹果</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
+    <guid isPermaLink="false">44-4</guid>
+    <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>OpenAI 在周三提交的文件中称，一名未具名前员工在加入苹果前，将 100 多份涉及未发布产品的文件发送至个人账户，并向苹果管理层（包括亚洲运营副总裁）展示。该指控与同期曝出的工程师窃听案叠加，令 OpenAI 与苹果之间的人才与知识产权摩擦公开化。</description>
+  </item>
+  <item>
+    <title>专家：AI 黑客事件根源是隔离与监控缺失，而非模型失控</title>
+    <link>https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</link>
+    <guid isPermaLink="false">44-5</guid>
+    <pubDate>Wed, 14 Oct 2026 17:45:23 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>安全专家指出，近期多起所谓「AI 自主攻击」事件，实际原因是前沿实验室在安全基础措施上偷工减料，缺乏有效的隔离与监控，而非模型真正「失控」。该文在 HN 获 834 分、444 条评论，成为当日讨论度最高的技术观点之一。这为监管与行业自律的讨论提供了更务实的落点。</description>
+  </item>
+  <item>
+    <title>Anthropic 警告小型 AI 模型可能借 IoT 设备自我复制</title>
+    <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices</link>
+    <guid isPermaLink="false">44-6</guid>
+    <pubDate>Wed, 14 Oct 2026 12:55:06 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Anthropic 发布警告称，基于小权重的「复制体」模型可能催生新一代计算机蠕虫，通过 IoT 设备实现自我复制与传播。这一判断把 AI 安全风险从云端大模型延伸到边缘设备与固件层。对 IoT 厂商与安全团队而言，意味着需要重新评估设备端模型的可控性。</description>
+  </item>
+  <item>
+    <title>Character.AI 破产文件暴露 AI 商业模式难以成立</title>
+    <link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work</link>
+    <guid isPermaLink="false">44-7</guid>
+    <pubDate>Wed, 14 Oct 2026 15:39:45 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>404 Media 根据 Character.AI 的破产文件分析指出，其单位经济模型无法覆盖推理与运营成本，AI 陪伴类产品的商业闭环存在结构性缺陷。HN 上引发 87 条讨论，焦点集中在「高留存不等于高利润」。这为当前大量依赖订阅制的 AI 应用敲响警钟。</description>
+  </item>
+  <item>
+    <title>Character.AI 破产后用户数据何去何从，纽约州总检察长介入</title>
+    <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
+    <guid isPermaLink="false">44-8</guid>
+    <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>纽约州总检察长 Letitia James 联合 40 位两党州检察长，就 Character.AI 破产案提交利益通知，要求对通过破产程序出售的消费者数据施加保护。这标志着生成式 AI 用户数据的处置首次被纳入破产监管视野。对后续 AI 公司倒闭或并购中的数据交易具有先例意义。</description>
+  </item>
+  <item>
+    <title>微软发布新款 AI 芯片，被指可能冲击 Nvidia</title>
+    <link>https://www.fool.com/investing/2026/10/14/microsoft-unveil-new-ai-chip-nvidia-killer/</link>
+    <guid isPermaLink="false">44-9</guid>
+    <pubDate>Wed, 14 Oct 2026 21:57:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>微软公布了一款全新自研 AI 芯片，媒体以「Nvidia 杀手」为题讨论其潜在影响。此举延续了云厂商自研加速器以降低对 Nvidia 依赖的趋势。若性能与生态到位，将进一步压缩 Nvidia 在推理市场的议价空间。</description>
+  </item>
+  <item>
+    <title>通胀数据走热引发芯片抛售，Nvidia 股价下挫</title>
+    <link>https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-as-chip-sell-off-deepens-on-hot-inflation-data-203235137.html</link>
+    <guid isPermaLink="false">44-10</guid>
+    <pubDate>Wed, 14 Oct 2026 20:23:29 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>受高于预期的通胀数据影响，芯片板块抛售加剧，Nvidia 股价明显下跌。市场担忧利率维持高位将压制 AI 资本开支的融资能力。这与银行转手数据中心债务的消息形成呼应，显示 AI 叙事正受到宏观与信贷环境的双重挤压。</description>
+  </item>
+  <item>
+    <title>美国银行雇 1000 名外包人员修补 Anthropic Mythos 暴露的软件漏洞</title>
+    <link>https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html</link>
+    <guid isPermaLink="false">44-11</guid>
+    <pubDate>Wed, 14 Oct 2026 18:47:38 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>CNBC 报道称，美国银行因 Anthropic 的 Mythos 模型暴露出大量软件缺陷，专门雇佣约 1000 名外包人员集中修补。这既体现了 AI 在漏洞发现上的效率，也暴露出企业既有代码库的脆弱程度。对金融等强监管行业而言，AI 驱动的安全审计正从可选变为必需。</description>
+  </item>
+  <item>
+    <title>Amp 借助 OpenAI 模型把 AI Agent 推向代码之外</title>
+    <link>https://openai.com/index/amp-beyond-coding</link>
+    <guid isPermaLink="false">44-12</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 官方博客介绍 Amp 如何基于 GPT-6 Astra、Ultrafast、GPT-Live-1 以及 Sign in with ChatGPT，将 Agent 能力从写代码扩展到更广泛的任务场景。这标志着 Agent 产品正从开发者工具向通用工作流平台演进。对希望把 Agent 嵌入业务流程的企业具有参考价值。</description>
+  </item>
+  <item>
+    <title>Third Moment Research 用 GPT-6 系列同时运行 1 万个 Agent 超 36 小时</title>
+    <link>https://openai.com/index/third-moment-research</link>
+    <guid isPermaLink="false">44-13</guid>
+    <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 博客披露，Third Moment Research 依托 GPT-6 Astra、GPT-6.1 Sol、Codex 与 Daybreak，构建可连续工作数天并随使用改进的 Agent 系统，单次可并行运行 1 万个 Agent 超过 36 小时。这为长时程、大规模 Agent 编排提供了工程范例。意味着 Agent 正从单次任务走向持续运行的「数字劳动力」。</description>
+  </item>
+  <item>
+    <title>Ricursive Intelligence 押注 AI 设计芯片以缓解算力危机</title>
+    <link>https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis</link>
+    <guid isPermaLink="false">44-14</guid>
+    <pubDate>Thu, 15 Oct 2026 01:01:32 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>这家初创公司正在开发能自主设计芯片、从每次迭代中学习并优化后续设计的 AI 系统，目标是自动化并加速芯片设计流程。在算力供给紧张与自研芯片热潮并行的背景下，AI for Chip Design 成为新的投资热点。若验证成功，可能显著缩短芯片从设计到量产的周期。</description>
+  </item>
+  <item>
+    <title>Google DeepMind 与新加坡政府合作，用端侧 Gemma 模型拦截诈骗</title>
+    <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
+    <guid isPermaLink="false">44-15</guid>
+    <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+    <source>Google DeepMind 博客</source>
+    <description>Google DeepMind 与新加坡 GovTech 合作，基于轻量级端侧 Gemma 模型在私聊中实时识别对话式诈骗，且数据不出设备、零云端传输。这是主权政府与前沿实验室在反诈场景上的一次深度合作。端侧方案兼顾隐私与实时性，为其他国家的公共安全 AI 部署提供了模板。</description>
+  </item>
+  <item>
+    <title>微软推出新机器学习工具，提升 2 至 6 周天气预报精度</title>
+    <link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
+    <guid isPermaLink="false">44-16</guid>
+    <pubDate>Wed, 14 Oct 2026 16:05:21 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>微软研究人员称，他们找到一种成本更低的方法，可将 2 至 6 周的中期天气预报做得更准确，突破了传统物理模型与现有 AI 模型在两周后可靠性骤降的瓶颈。该成果对农业、应急响应等依赖中期预测的行业有直接价值。也显示 AI for Science 正从论文走向可业务化的工具。</description>
+  </item>
+  <item>
+    <title>AI 已攻下数学，下一步是其余科学领域</title>
+    <link>https://www.wired.com/story/ai-is-coming-for-science-next-watch-out</link>
+    <guid isPermaLink="false">44-17</guid>
+    <pubDate>Wed, 14 Oct 2026 18:15:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>WIRED 报道称，MIT 研究人员认为 AI 很快会成为经济学、高能物理等领域解决理论问题的默认方式。这延续了 AI 在数学证明与科学发现上快速渗透的趋势。若判断成立，科研范式与学术评价体系都将面临重构。</description>
+  </item>
+  <item>
+    <title>YouTube Music 上线「Made with AI」标签，应对 AI 生成音乐涌入</title>
+    <link>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms</link>
+    <guid isPermaLink="false">44-18</guid>
+    <pubDate>Wed, 14 Oct 2026 18:23:46 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>YouTube 将为「经 AI 修改或完全生成」的曲目添加「Made with AI」标签，做法与其视频端的 AI 标注流程类似，但并非覆盖所有使用 AI 工具的情况。多家媒体报道称，此举是对流媒体平台 AI 音乐泛滥的回应。平台标注规则的落地，将影响音乐版权与分成的认定方式。</description>
+  </item>
+  <item>
+    <title>Deezer 将允许用户过滤 AI 生成音乐</title>
+    <link>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music</link>
+    <guid isPermaLink="false">44-19</guid>
+    <pubDate>Wed, 14 Oct 2026 15:16:04 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Deezer 宣布将在年底前上线开关，让用户自行过滤 AI 生成音乐。此前该平台已开始对 AI 曲目进行识别与统计。与 YouTube 的标注思路一致，这反映出流媒体行业正从「是否标注」转向「是否可屏蔽」。对 AI 音乐创作者的分发环境将产生实质影响。</description>
+  </item>
+  <item>
+    <title>Zenzap 融资 4400 万美元，要用 AI 聊天应用取代职场 WhatsApp</title>
+    <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace</link>
+    <guid isPermaLink="false">44-20</guid>
+    <pubDate>Wed, 14 Oct 2026 15:08:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Zenzap 完成 4400 万美元融资，其 AI 聊天应用主打职场沟通，客户包括星巴克与 Taco Bell。在 Slack、Teams 已高度成熟的市场中，其切入点是 AI 原生的工作流与消息组织方式。这笔融资显示资本仍在押注「AI 重做企业协作」这一赛道。</description>
+  </item>
   <item>
     <title>阶跃星辰发布首款大模型原生智能体手机，首创「软硬模」全栈定价</title>
     <link>https://huacheng.gz-cmc.com/pages/2026/10/13/3561db2270c74fde870e07230a995bab.html</link>
@@ -323,165 +483,5 @@
     <pubDate>Tue, 13 Oct 2026 21:02:00 +0000</pubDate>
     <source>Google News 英文</source>
     <description>受 AI 资本开支担忧与中国竞争加剧影响，芯片股经历近 16 个月来最差的一段连续下跌，多家媒体以「AI 交易正在转向」形容市场情绪。NYT、Reuters、MarketWatch 等均报道了这一轮抛售，反映投资者对 AI 基础设施投入回报周期的疑虑上升。</description>
-  </item>
-  <item>
-    <title>OpenAI 员工因涉嫌在办公室安装窃听设备被捕</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
-    <guid isPermaLink="false">41-3</guid>
-    <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>OpenAI 一名 35 岁沙特籍工程师 Abdulrahman Alfozan 被捕，公司称在其办公室发现一枚「精密录音设备」，该设备被放置于高管使用的会议室。Wired 报道称，聊天机器人提示词显示其数日前已在筹划安装该设备，检方以非法截取口头通信罪名起诉。</description>
-  </item>
-  <item>
-    <title>微软发布 Maia 300 AI 芯片，Nvidia 大客户全面转向自研</title>
-    <link>https://www.computerworld.com/article/4234722/microsoft-unveils-new-maia-300-ai-chip.html</link>
-    <guid isPermaLink="false">41-4</guid>
-    <pubDate>Tue, 13 Oct 2026 22:13:07 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>微软正式发布新一代自研 AI 芯片 Maia 300，Axios 评论称「每一个 Nvidia 大客户现在都成了竞争对手」。此举延续了云厂商自研加速器的趋势，旨在降低对 Nvidia 的依赖并优化推理成本。</description>
-  </item>
-  <item>
-    <title>Nvidia 中国 AI 芯片份额降至 34%，华为持续抢占市场</title>
-    <link>https://mexicobusiness.news/cloudanddata/news/nvidias-china-ai-chip-share-drops-34-huawei-gains-ground</link>
-    <guid isPermaLink="false">41-5</guid>
-    <pubDate>Tue, 13 Oct 2026 20:37:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>最新数据显示，Nvidia 在中国 AI 芯片市场的份额已下滑至 34%，华为等本土厂商份额持续上升。出口管制与国产替代双重作用下，中国市场对 Nvidia 的收入贡献结构发生明显变化。</description>
-  </item>
-  <item>
-    <title>加州立法禁止 AI 独立做出医疗决策</title>
-    <link>https://www.governing.com/artificial-intelligence/california-bans-ai-from-making-medical-decisions-on-its-own</link>
-    <guid isPermaLink="false">41-6</guid>
-    <pubDate>Tue, 13 Oct 2026 20:11:43 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>加州通过新规，明确禁止 AI 系统在无人类监督的情况下独立做出医疗决策。该法案要求医疗场景中的 AI 输出必须由持证专业人员审核，成为美国州层面针对 AI 医疗应用最严格的限制之一。</description>
-  </item>
-  <item>
-    <title>Shopify 向更多 AI agent 开放商品目录，推进 agentic 电商</title>
-    <link>https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents</link>
-    <guid isPermaLink="false">41-7</guid>
-    <pubDate>Tue, 13 Oct 2026 19:42:42 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Shopify 宣布允许用户配置 AI agent 代为浏览并购买商品，向更多第三方 agent 开放其超过 10 亿条商品列表。这是其 agentic commerce 战略的进一步扩张，意味着 AI 购物代理正从实验走向规模化接入。</description>
-  </item>
-  <item>
-    <title>Google Play 支持用户发布私有 vibe-coded 应用</title>
-    <link>https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you</link>
-    <guid isPermaLink="false">41-8</guid>
-    <pubDate>Tue, 13 Oct 2026 17:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Google 宣布在美国推出新功能，允许用户将用 AI Studio 生成的个人应用直接通过 Play Store 安装到 Android 设备，无需公开上架。此举降低了 AI 生成应用的发布门槛，把 vibe coding 从玩具推向可分发形态。</description>
-  </item>
-  <item>
-    <title>Linus Torvalds 开始使用 AI 编写 Linux 内核代码</title>
-    <link>https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch</link>
-    <guid isPermaLink="false">41-9</guid>
-    <pubDate>Tue, 13 Oct 2026 17:30:46 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>Linus Torvalds 被曝已使用 AI 辅助编写 Linux 内核补丁，ZDNet 称这是其与 AI 关系的转折点。作为最保守的开源核心维护者之一，这一转变具有强烈的示范意义。</description>
-  </item>
-  <item>
-    <title>Pluto Security 融资 4200 万美元，瞄准 AI 带来的企业安全新缺口</title>
-    <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache</link>
-    <guid isPermaLink="false">41-10</guid>
-    <pubDate>Tue, 13 Oct 2026 17:18:25 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Pluto Security 完成 4200 万美元融资，主打解决企业员工广泛使用 AI 工具后产生的非预期数据泄露与权限风险。随着 AI 工具在企业内部普及，安全团队面临全新的攻击面管理难题。</description>
-  </item>
-  <item>
-    <title>Nvidia 将 Run:ai 开源，纳入 DSX AI Factory 平台</title>
-    <link>https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/</link>
-    <guid isPermaLink="false">41-11</guid>
-    <pubDate>Tue, 13 Oct 2026 14:22:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Nvidia 宣布将此前收购的 Run:ai 调度软件开源，并作为 DSX AI Factory 平台的一部分发布。该工具用于 GPU 集群的任务调度与资源编排，开源后有望降低企业自建 AI 基础设施的门槛。</description>
-  </item>
-  <item>
-    <title>AI 实验室开始收购倒闭初创公司的数据用于模型训练</title>
-    <link>https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models</link>
-    <guid isPermaLink="false">41-12</guid>
-    <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>MIT 科技评论报道称，AI 实验室正从倒闭的初创公司手中购买数字档案用于模型训练。一位加密创业者仅凭代码库就获得约 2.5 万美元，显示高质量专有数据正成为可交易的资产类别。</description>
-  </item>
-  <item>
-    <title>MIT 科技评论：开源模型的收益是否大于风险</title>
-    <link>https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks</link>
-    <guid isPermaLink="false">41-13</guid>
-    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>MIT 科技评论撰文讨论开源模型的利弊，背景是 Anthropic 此前发布报告称中国公司 Z.ai 的 GLM-5.3 构成重大网络攻击风险。文章梳理了开源模型在创新扩散与安全滥用之间的张力。</description>
-  </item>
-  <item>
-    <title>Epic 转向「AI 加速开发」，Disney 合作游戏延期</title>
-    <link>https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art</link>
-    <guid isPermaLink="false">41-14</guid>
-    <pubDate>Tue, 13 Oct 2026 15:12:59 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>据 Bloomberg 报道，Epic Games 计划在一款未公布的 Disney 游戏中使用 AI 生成代码与美术，项目团队被要求以「AI 优先」方式推进，使用 Anthropic 的 Claude 等工具，游戏已从原定 3 月窗口延期。</description>
-  </item>
-  <item>
-    <title>Cerebras CEO：人人拥有家用个人 AI 助理的时代临近</title>
-    <link>https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home</link>
-    <guid isPermaLink="false">41-15</guid>
-    <pubDate>Tue, 13 Oct 2026 23:05:34 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Cerebras CEO Andrew Feldman 在 TechCrunch Disrupt 上预测，个人 AI 助理将像家电一样普及，算力部分在本地、部分在云端。他同时反驳了 AI 末日论调，认为行业对风险的过度聚焦正在掩盖潜在收益。</description>
-  </item>
-  <item>
-    <title>苹果研究：基于闲置 Apple Silicon 设备构建分布式虚拟 GPU 云</title>
-    <link>https://machinelearning.apple.com/research/distributed-gpu-cloud</link>
-    <guid isPermaLink="false">41-16</guid>
-    <pubDate>Tue, 13 Oct 2026 12:26:36 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>苹果机器学习团队发布研究，提出利用闲置 Apple Silicon 设备构建动态分布式虚拟 GPU 云。该方案试图把分散的消费级硬件整合为可调度算力资源，为边缘推理提供新思路。</description>
-  </item>
-  <item>
-    <title>最大亲 AI Super PAC 网络向 Nevada 空壳公司注入数百万美元</title>
-    <link>https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies</link>
-    <guid isPermaLink="false">41-17</guid>
-    <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 调查发现，由硅谷巨头支持的亲 AI 政治行动委员会网络 Leading the Future 已向 Nevada 的空壳公司注入数百万美元，用于在两党中推举亲 AI 候选人。该资金流向的透明度引发质疑。</description>
-  </item>
-  <item>
-    <title>荷兰税务机关取消 Microsoft 365 云部署，转向开源方案</title>
-    <link>https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout</link>
-    <guid isPermaLink="false">41-18</guid>
-    <pubDate>Tue, 13 Oct 2026 11:50:35 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>荷兰税务机关宣布取消 Microsoft 365 的云迁移计划，转而采用开源替代方案。这是欧洲数字主权浪潮下，公共部门减少对美国办公套件依赖的又一案例。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini 4 Argon，重返前沿模型竞争</title>
-    <link>https://deepmind.google/models/gemini</link>
-    <guid isPermaLink="false">40-1</guid>
-    <pubDate>Tue, 13 Oct 2026 16:03:16 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Google 正式推出备受期待的 Gemini 4 Argon 模型，宣称具备「前沿推理能力」并改善复杂工作流表现，同时减少冗余表述与套话。多家媒体报道称，这是 Google 在观望数月后首次正面挑战业界最强模型。此举意味着前沿模型竞争重新回到三强格局。</description>
-  </item>
-  <item>
-    <title>Microsoft 发布自研 AI 芯片 Maia 300</title>
-    <link>https://www.computerworld.com/article/4234722/microsoft-unveils-new-maia-300-ai-chip.html</link>
-    <guid isPermaLink="false">40-2</guid>
-    <pubDate>Tue, 13 Oct 2026 22:13:07 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Microsoft 公布新一代自研 AI 芯片 Maia 300，进一步降低对 NVIDIA 的依赖。媒体指出，几乎所有 NVIDIA 大客户如今都已成为其竞争对手。这标志着超大规模云厂商自研加速器进入新一轮迭代周期。</description>
-  </item>
-  <item>
-    <title>Character.AI 申请 Chapter 11 破产保护</title>
-    <link>https://blog.character.ai/an-update-on-character-ai</link>
-    <guid isPermaLink="false">40-3</guid>
-    <pubDate>Tue, 13 Oct 2026 07:28:34 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>上线仅五年的 AI 聊天机器人平台 Character.AI 主动申请 Chapter 11 破产保护，并将部分资产以 2000 万美元出售给 Disney。多家媒体（The Verge、TechCrunch、Reuters、Variety）报道了这一消息。这成为消费级 AI 应用商业化困境的标志性案例。</description>
-  </item>
-  <item>
-    <title>芯片股遭遇 16 个月来最差走势，AI 疲劳情绪蔓延</title>
-    <link>https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece</link>
-    <guid isPermaLink="false">40-4</guid>
-    <pubDate>Tue, 13 Oct 2026 21:02:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>芯片股连续下挫，创下 16 个月来最差表现，市场对 AI 资本开支的可持续性产生疑虑。Reuters 与 NYT 均报道称，AI 交易正在转向，中国竞争加剧进一步压制估值。这反映出投资者开始重新评估 AI 基础设施投入的回报周期。</description>
   </item>
 </channel></rss>
