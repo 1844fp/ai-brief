@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Thu, 15 Oct 2026 09:26:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 18:20:19 +0000</lastBuildDate>
+  <item>
+    <title>Meta 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行</title>
+    <link>https://research.meta.ai/blog/muse-spark-open</link>
+    <guid isPermaLink="false">45-1</guid>
+    <pubDate>Thu, 15 Oct 2026 17:47:39 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Meta 推出开源权重模型 Muse Spark Open（816B-A42B），宣称是迄今最强的美国开源权重模型，并与 Apple 合作通过 MLX 框架在两台 M5 Ultra Mac Studio 上本地运行。多家媒体报道称这是美国实验室在开源权重路线上的又一次重要推进。</description>
+  </item>
+  <item>
+    <title>Meta 与 Apple 联手，Muse Spark Open 可在 Apple Silicon 本地运行</title>
+    <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs</link>
+    <guid isPermaLink="false">45-2</guid>
+    <pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道 Meta 与 Apple 合作为 Muse Spark Open 提供本地运行支持，模型将直接在 Apple Silicon 上执行。这标志着 Meta 在开源权重策略上进一步绑定硬件生态。</description>
+  </item>
+  <item>
+    <title>Meta 与 Apple 合作优化 Muse 模型在 Mac 上的运行</title>
+    <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
+    <guid isPermaLink="false">45-3</guid>
+    <pubDate>Thu, 15 Oct 2026 18:15:36 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道 Meta 称 Muse Spark Open 是同类中首个可在两台搭载 M5 Ultra 的 Mac Studio 上通过 MLX 框架运行的模型。Meta 与 Apple 的合作细节随之曝光。</description>
+  </item>
+  <item>
+    <title>台积电掌握主动权，Nvidia、Apple、AMD 争夺有限 AI 芯片产能</title>
+    <link>https://www.benzinga.com/markets/tech/26/10/62404541/taiwan-semiconductor-holds-the-cards-as-nvidia-apple-and-amd-battle-for-limited-ai-chip-capacity</link>
+    <guid isPermaLink="false">45-4</guid>
+    <pubDate>Fri, 16 Oct 2026 09:35:15 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Benzinga 报道称在 AI 芯片需求持续高涨背景下，台积电成为 Nvidia、Apple 与 AMD 争夺产能的关键节点。先进制程与封装产能仍是整个 AI 供应链的瓶颈。</description>
+  </item>
+  <item>
+    <title>台湾拟收紧对华 AI 芯片出口以配合美国</title>
+    <link>https://www.investing.com/news/stock-market-news/taiwan-to-curb-ai-chip-sales-to-china-for-more-us-alignment-bloomberg-4953152</link>
+    <guid isPermaLink="false">45-5</guid>
+    <pubDate>Fri, 16 Oct 2026 06:11:13 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Bloomberg 报道称台湾计划进一步限制对中国的 AI 芯片销售，以加强与美国的政策对齐。此举可能影响区域 AI 芯片供应链与转口贸易。</description>
+  </item>
+  <item>
+    <title>台湾拟在得州投资 40 亿美元建 Nvidia AI 供应链园区，并收紧对华芯片出口</title>
+    <link>https://www.tradingview.com/news/seekingalpha:059b30792094b:0-taiwan-reportedly-plans-4b-texas-complex-for-nvidia-ai-supply-chain-tightens-china-ai-chip-exports/</link>
+    <guid isPermaLink="false">45-6</guid>
+    <pubDate>Fri, 16 Oct 2026 06:11:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>报道称台湾计划在得克萨斯州建设价值约 40 亿美元的 Nvidia AI 供应链综合体，同时收紧对中国大陆的 AI 芯片出口。此举兼具产业外移与地缘政治双重意涵。</description>
+  </item>
+  <item>
+    <title>西弗吉尼亚等多州起诉 OpenAI，称 ChatGPT 欺骗用户并危害儿童</title>
+    <link>https://www.wvgazettemail.com/news/legal_affairs/wv-other-states-sue-openai-claiming-chatgpt-chatbot-deceives-users-harms-children/article_a0cc350f-c917-41be-af8b-cb99f8f9d7e7.html</link>
+    <guid isPermaLink="false">45-7</guid>
+    <pubDate>Fri, 16 Oct 2026 09:15:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>西弗吉尼亚州等多州联合起诉 OpenAI，指控 ChatGPT 欺骗用户并对儿童造成伤害。这是美国州级监管对前沿 AI 公司发起的又一轮法律行动。</description>
+  </item>
+  <item>
+    <title>马斯克旗下 AI 公司将在纽约市议会 AI 安全与监管听证会上作证</title>
+    <link>https://abc7ny.com/post/elon-musks-ai-company-testify-nyc-council-hearing-artificial-intelligence-safety-regulations/19943220/</link>
+    <guid isPermaLink="false">45-8</guid>
+    <pubDate>Fri, 16 Oct 2026 09:33:45 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据 ABC7 New York 报道，Elon Musk 的 AI 公司将出席纽约市议会关于 AI 安全与监管的听证会。这是地方立法机构对前沿 AI 企业展开调查的一部分。</description>
+  </item>
+  <item>
+    <title>SpaceX 政策负责人将就纽约市议会 AI 安全调查作证</title>
+    <link>https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html</link>
+    <guid isPermaLink="false">45-9</guid>
+    <pubDate>Fri, 16 Oct 2026 08:00:01 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>CNBC 报道 SpaceX 政策经理将作为纽约市议会 AI 安全调查的一部分出席作证。该调查聚焦 AI 安全与监管议题，涉及多家科技企业。</description>
+  </item>
+  <item>
+    <title>Anthropic 向 METR 开放员工级访问权限，允许其独立发布评估</title>
+    <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access</link>
+    <guid isPermaLink="false">45-10</guid>
+    <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 允许 METR 研究人员以员工级权限深入查看其内部运作，并放弃阻止 METR 发布评估报告的权利。METR 将独立发布对 Anthropic 风险、事件与实践的评估。</description>
+  </item>
+  <item>
+    <title>Google 开始向安全团队限量发布 Gemini 4 Argon</title>
+    <link>https://cioafrica.co/google-starts-limited-release-of-gemini-4-argon-to-security-teams/</link>
+    <guid isPermaLink="false">45-11</guid>
+    <pubDate>Fri, 16 Oct 2026 07:19:04 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据 CIO Africa 报道，Google 已开始向安全团队限量发布 Gemini 4 Argon。该版本面向安全场景，具体能力与开放范围尚未完全公开。</description>
+  </item>
+  <item>
+    <title>Nvidia 发布 Nemotron 3.5 Super VL，美国开源权重阵营再进一步</title>
+    <link>https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai</link>
+    <guid isPermaLink="false">45-12</guid>
+    <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>ZDNet 报道 Nvidia 推出 Nemotron 3.5 Super VL，加入美国实验室在 Hugging Face 安全事件后的一波开源权重发布潮。该模型为视觉语言模型，进一步扩充了美国开源权重生态。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 Rosalind 学术计划，向合格实验室开放 GPT-Rosalind</title>
+    <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+    <guid isPermaLink="false">45-13</guid>
+    <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布 Rosalind Academic Plan，为符合条件的学术实验室提供 GPT-Rosalind 的赞助访问权限及工具，用于推进生命科学研究。该计划旨在扩大前沿模型在学术科研中的使用。</description>
+  </item>
+  <item>
+    <title>Google DeepMind 用 Antigravity 加速抗菌肽发现</title>
+    <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
+    <guid isPermaLink="false">45-14</guid>
+    <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+    <source>Google DeepMind 博客</source>
+    <description>Google DeepMind 发布博客，介绍利用 Google Antigravity for Science 加速新型抗菌肽的搜索。该工作展示了 AI 在生物医药发现中的实际应用进展。</description>
+  </item>
+  <item>
+    <title>Amazon 旗下 Bee 发布两款个人 AI 设备，起售价 75 美元</title>
+    <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75</link>
+    <guid isPermaLink="false">45-15</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>被 Amazon 收购后，Bee 推出首款新 AI 设备，包括升级版可穿戴设备与信用卡大小的手机录音器，可总结对话、生成待办事项并接入 Alexa 与 Amazon 购物，起售价 74.99 美元。</description>
+  </item>
+  <item>
+    <title>ChatGPT 现可读取你的 Chrome 标签页</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
+    <guid isPermaLink="false">45-16</guid>
+    <pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>OpenAI 为 ChatGPT 的 Chrome 扩展加入新功能，允许其在用户于网页或桌面应用中标记 Chrome 时查看已打开的浏览器标签页。此前 ChatGPT Atlas 浏览器已下线。</description>
+  </item>
+  <item>
+    <title>Bluesky 的 AI 工具 Attie 支持制作可分享的游戏与应用</title>
+    <link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
+    <guid isPermaLink="false">45-17</guid>
+    <pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Bluesky 的 Attie AI 工具从生成信息流扩展至制作小型社交应用，如游戏、投票与仪表盘，并可作为独立网站分享。CEO Toni Schneider 在 TechCrunch Disrupt 上介绍了该方向。</description>
+  </item>
+  <item>
+    <title>Bluesky 扩展 Attie，允许用户构建网站与游戏</title>
+    <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more</link>
+    <guid isPermaLink="false">45-18</guid>
+    <pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道 Bluesky 将其 AI 驱动的 Attie 平台扩展至「社交 vibe coding」，用户可创建游戏、测验与网站并触达社交网络受众。该功能面向所有用户开放。</description>
+  </item>
+  <item>
+    <title>Amazon 设备负责人 Panos Panay：AI 设备将取代 App</title>
+    <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps</link>
+    <guid isPermaLink="false">45-19</guid>
+    <pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Amazon 设备负责人 Panos Panay 在 TechCrunch Disrupt 上表示，未来环境式 AI 设备将在后台运行、主动预判用户需求，而非等待指令，从而取代使用 App 的必要。</description>
+  </item>
+  <item>
+    <title>AI 智能体将进入 Rivian 汽车</title>
+    <link>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars</link>
+    <guid isPermaLink="false">45-20</guid>
+    <pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道 Rivian 将在其车辆中引入 AI 智能体，更多细节预计在公司 12 月的「AI &amp; Autonomy Day」活动上公布。这标志着车载 AI 助手竞争升温。</description>
+  </item>
   <item>
     <title>美国八州联合起诉 OpenAI，指控 ChatGPT 对儿童不安全</title>
     <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
@@ -323,165 +483,5 @@
     <pubDate>Tue, 13 Oct 2026 08:51:30 +0000</pubDate>
     <source>爱范儿</source>
     <description>爱范儿报道，Anthropic 的研究显示 AI 模型可像病毒一样在设备间自主复制传播，实验中用 15 台破旧电视盒子即可维持大模型运行。该研究揭示了模型自主复制带来的安全与治理挑战。相关成果与 Claude 团队此前的智能体自主复制实验一脉相承。</description>
-  </item>
-  <item>
-    <title>DeepSeek 拟完成约 1000 亿元融资，梁文锋密集接触具身智能创业者</title>
-    <link>https://www.oschina.net/news/502997</link>
-    <guid isPermaLink="false">42-1</guid>
-    <pubDate>Tue, 13 Oct 2026 07:42:56 +0000</pubDate>
-    <source>开源中国</source>
-    <description>据《财经》等多家媒体报道，DeepSeek 最新一轮融资金额从此前计划的 500 亿元增至约 1000 亿元，为其第二轮融资；同时创始人梁文锋近期密集与具身智能创业者交流，探讨机器人及大模型与现实世界交互方向，可能自建团队或通过投资切入。这意味着头部大模型公司开始同时补齐资本与「身体」两块拼图，具身智能赛道竞争将进一步升温。</description>
-  </item>
-  <item>
-    <title>阶跃星辰发布首款大模型原生智能体手机 STEPX Neo，全栈定价 3999 元</title>
-    <link>https://pingce.ifeng.com/c/8xCMTm7oACu</link>
-    <guid isPermaLink="false">42-2</guid>
-    <pubDate>Tue, 13 Oct 2026 14:51:15 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>阶跃星辰发布首款大模型原生智能体手机 STEPX Neo，首创「软硬模」全栈定价模式，整机定价 3999 元，10 月 16 日开售，以「AI 办事」为核心卖点。这是国内大模型公司首次直接下场做终端硬件，把模型能力与手机形态绑定，对传统手机厂商的 AI 集成路径构成新的竞争变量。</description>
-  </item>
-  <item>
-    <title>字节跳动 Seed 单独设立大模型安全与对齐部门</title>
-    <link>https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html</link>
-    <guid isPermaLink="false">42-3</guid>
-    <pubDate>Tue, 13 Oct 2026 05:43:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>字节跳动 Seed 发内部邮件成立「Seed Model-Alignment &amp; Preparedness」部门，由严林负责并向 Seed 负责人吴永辉汇报，原 Responsible AI 团队及部分 Chat 团队转入。该部门聚焦模型规范、安全评估、对齐训练与前沿能力风险防范，是国内前沿 AI 实验室中首家单独设立安全与对齐部门的团队。</description>
-  </item>
-  <item>
-    <title>无问芯穹完成单轮 23 亿元融资，累计 43 亿元刷新国产 AI Infra 纪录</title>
-    <link>https://www.qbitai.com/2026/10/502767.html</link>
-    <guid isPermaLink="false">42-4</guid>
-    <pubDate>Tue, 13 Oct 2026 04:01:15 +0000</pubDate>
-    <source>量子位</source>
-    <description>无问芯穹宣布完成单轮 23 亿元融资，累计融资额达 43 亿元，刷新国产 AI Infra 赛道的单轮与累计双重纪录。公司同时推进算力、模型、行业三层业务，显示资本仍在向国产算力基础设施与异构算力调度环节集中。</description>
-  </item>
-  <item>
-    <title>千问确认推出 Personal Agent「千问Go!」，已开放体验申请</title>
-    <link>https://www.leiphone.com/category/industrynews/GalDeSPl8orEfNoI.html</link>
-    <guid isPermaLink="false">42-5</guid>
-    <pubDate>Tue, 13 Oct 2026 04:11:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>千问官方宣布 Personal Agent「千问Go!」体验申请页面已在千问 APP 上线，将逐步开放资格。该 Agent 内嵌于千问 APP，可完成航班延误理赔、场馆演出预约、餐厅预订、商品比价下单、求职投递等任务，已有用户测试获得 70 元航班理赔与 52 元淘宝价保退款。这标志着国内个人 AI 助理从问答走向实际代办。</description>
-  </item>
-  <item>
-    <title>爱芯元智发布 AX8860 大算力边端 AI 芯片系列</title>
-    <link>https://www.guandian.cn/article/20261013/612775.html</link>
-    <guid isPermaLink="false">42-6</guid>
-    <pubDate>Tue, 13 Oct 2026 14:57:13 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>爱芯元智在工博会发布 AX8860 大算力边端 AI 芯片系列，定位「物理 AI」边端算力底座，面向具身智能与边缘推理场景。该系列强调在端侧提供更高算力密度，与国内机器人、智能终端对本地推理能力的需求直接对应。</description>
-  </item>
-  <item>
-    <title>首个政务大模型国家标准发布，WPS 参与编制</title>
-    <link>https://k.sina.com.cn/article_5044281310_12ca99fde02002lafw.html?from</link>
-    <guid isPermaLink="false">42-7</guid>
-    <pubDate>Tue, 13 Oct 2026 20:11:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>首个政务大模型国家标准正式发布，WPS（金山办公）参与编制。该标准为政务场景下大模型的部署、能力与合规要求提供统一依据，意味着政务 AI 采购与落地将进入有标可依的阶段。</description>
-  </item>
-  <item>
-    <title>智谱发布 GLM-Legal 法律大模型，基准测试追平闭源模型</title>
-    <link>https://www.oschina.net/news/502993/z-ai-glm-legal</link>
-    <guid isPermaLink="false">42-8</guid>
-    <pubDate>Tue, 13 Oct 2026 03:54:16 +0000</pubDate>
-    <source>开源中国</source>
-    <description>智谱发布面向法律工作流的 GLM-Legal 模型，基于轻量级 GLM-5.3-Flash 底座，覆盖合同审查、证据分析、合规规划等场景。官方称其在主流法律基准上追平前沿闭源模型，Harvey LAB 全过率 19.2%，较基座提升 12.5 个百分点。</description>
-  </item>
-  <item>
-    <title>复旦邱锡鹏团队获超 10 亿元融资，押注能感知变化世界的模型</title>
-    <link>http://www.geekpark.net/news/372278</link>
-    <guid isPermaLink="false">42-9</guid>
-    <pubDate>Tue, 13 Oct 2026 03:44:18 +0000</pubDate>
-    <source>极客公园</source>
-    <description>复旦大学邱锡鹏团队成立两年后获得超 10 亿元融资，方向是让模型同时「边听、边看、边说」，持续理解仍在变化的真实现场，而非仅处理已被整理成文本的输入。该方向瞄准多模态实时理解与具身场景，是学术团队创业中少见的十亿级融资。</description>
-  </item>
-  <item>
-    <title>魔法原子具身 Agent 框架拿下 MolmoSpaces 全球第一</title>
-    <link>https://www.qbitai.com/2026/10/503107.html</link>
-    <guid isPermaLink="false">42-10</guid>
-    <pubDate>Tue, 13 Oct 2026 11:05:39 +0000</pubDate>
-    <source>量子位</source>
-    <description>魔法原子的具身 Agent 框架在 MolmoSpaces 评测中取得全球第一，官方称其目标是让 VLA（视觉-语言-动作）模型从「演示可用」逼近「产线可用」。该结果反映国内具身智能团队在标准化评测上的竞争力正在提升。</description>
-  </item>
-  <item>
-    <title>华为首次公布麒麟 9050 Pro 详细架构图，称已成功量产</title>
-    <link>https://www.ithome.com/1/012/642.htm</link>
-    <guid isPermaLink="false">42-11</guid>
-    <pubDate>Tue, 13 Oct 2026 23:55:38 +0000</pubDate>
-    <source>IT之家</source>
-    <description>华为半导体业务无线终端芯片产品管理部部长徐松余首次公布麒麟 9050 Pro 详细架构图，并称首款逻辑折叠芯片麒麟 9050 系列在中国半导体产业界支持下成功量产。华为同时指出韬路径仍面临工具链、工艺差异补偿、跨层互联开销与能耗控制等挑战。</description>
-  </item>
-  <item>
-    <title>曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局</title>
-    <link>http://www.geekpark.net/news/372264</link>
-    <guid isPermaLink="false">42-12</guid>
-    <pubDate>Tue, 13 Oct 2026 00:27:49 +0000</pubDate>
-    <source>极客公园</source>
-    <description>多家媒体报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域并与多位创业者交流，可能亲自组建团队或通过投资切入；此前他已投资宇树科技，并据彭博社报道计划领投前腾讯 AI 科学家胡瀚创立的机器人公司 Winverse AI。</description>
-  </item>
-  <item>
-    <title>修复漏洞的 PR 刚提交，攻击几分钟后就到：AI 正在击穿开源安全流程</title>
-    <link>https://www.infoq.cn/article/R7OkT6DCUifdCQqAvwtJ</link>
-    <guid isPermaLink="false">42-13</guid>
-    <pubDate>Tue, 13 Oct 2026 17:25:00 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 报道指出，AI 正在改变开源漏洞的攻防节奏——修复漏洞的 PR 提交后仅数分钟即出现针对性攻击，传统的「发现-修复-披露」窗口被大幅压缩。这意味着开源项目依赖人工响应周期的安全流程已难以应对自动化攻击。</description>
-  </item>
-  <item>
-    <title>Anthropic 公开反蒸馏防御战报：捕获量下降九成</title>
-    <link>https://www.oschina.net/news/502996/anthropic-distillation-defenses</link>
-    <guid isPermaLink="false">42-14</guid>
-    <pubDate>Tue, 13 Oct 2026 06:57:06 +0000</pubDate>
-    <source>开源中国</source>
-    <description>Anthropic 发布博客介绍其对抗「蒸馏攻击」的进展，称过去几个月通过技术手段让推理记录更难被窃取，相关捕获量下降约九成。蒸馏攻击指用大量非法账号从强模型批量抽取数百万条回复，用于训练更小的模仿模型，以极低成本逼近前沿能力。</description>
-  </item>
-  <item>
-    <title>其域创新建成全球最大空地一体 3D 高斯模型「闽宁镇」</title>
-    <link>https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html</link>
-    <guid isPermaLink="false">42-15</guid>
-    <pubDate>Tue, 13 Oct 2026 05:50:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>其域创新（XGRIDS）以 62 亿个高斯椭球、150 亿个雷达点云、18.6 万张航拍与地面影像，建成覆盖 23.5 平方公里的全球最大空地一体 3D 高斯模型「闽宁镇」，并用于央视纪录片《闽宁大道》。项目使用自研采集设备、软件与大场景 3DGS 数据格式 LCC。</description>
-  </item>
-  <item>
-    <title>拓竹官宣首款 3D 扫描仪 S1，进军个人制造全品类</title>
-    <link>https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html</link>
-    <guid isPermaLink="false">42-16</guid>
-    <pubDate>Tue, 13 Oct 2026 05:38:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>拓竹科技宣布旗下首款 3D 扫描仪 S1 将于 11 月开售，首次进入 3D 扫描品类，产品版图从 3D 打印、激光切割、UV 打印延伸至「现实数字化」入口。行业数据显示 2025 年全球消费级 3D 扫描仪市场规模约 31 亿美元，预计 2035 年增至 68 亿美元以上。</description>
-  </item>
-  <item>
-    <title>字节最早天使投资方海纳亚洲首投国内 AI 音乐硬件公司 SUAVE</title>
-    <link>https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html</link>
-    <guid isPermaLink="false">42-17</guid>
-    <pubDate>Tue, 13 Oct 2026 09:20:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>AI 音乐生成创作硬件公司 SUAVE 完成千万级种子轮融资，投资方为海纳无限（海纳亚洲中国团队设立的人民币基金），这是其在国内市场的首笔投资。SUAVE 团队已组建完毕，成员来自字节跳动、华为鸿蒙、百度等，产品计划 2027 年初上市。</description>
-  </item>
-  <item>
-    <title>美陪审团认定 Arm 违反许可协议，高通仅获 2 美元象征性赔偿</title>
-    <link>https://www.ithome.com/1/012/617.htm</link>
-    <guid isPermaLink="false">42-18</guid>
-    <pubDate>Tue, 13 Oct 2026 22:47:10 +0000</pubDate>
-    <source>IT之家</source>
-    <description>美国特拉华州陪审团认定 Arm 违反与高通的许可协议，并故意干扰高通与 Meta 的业务往来，但仅裁定 2 美元象征性赔偿。判决后 Arm 股价下跌 1%、高通上涨 1%，部分核心争议仍悬而未决。这是两家公司两年内的第二次诉讼。</description>
-  </item>
-  <item>
-    <title>Character.AI 申请 Chapter 11 破产，部分资产 2000 万美元售予 Disney</title>
-    <link>https://blog.character.ai/an-update-on-character-ai</link>
-    <guid isPermaLink="false">41-1</guid>
-    <pubDate>Tue, 13 Oct 2026 07:28:34 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>成立仅五年的 AI 聊天机器人平台 Character.AI 已主动申请 Chapter 11 破产保护，并将部分资产以 2000 万美元出售给 Disney。多家媒体报道称，这笔交易价格远低于其巅峰期估值，标志着消费级 AI 陪伴类产品商业模式的重大挫败。</description>
-  </item>
-  <item>
-    <title>芯片股遭遇 16 个月来最差走势，AI 疲劳情绪笼罩市场</title>
-    <link>https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece</link>
-    <guid isPermaLink="false">41-2</guid>
-    <pubDate>Tue, 13 Oct 2026 21:02:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>受 AI 资本开支担忧与中国竞争加剧影响，芯片股经历近 16 个月来最差的一段连续下跌，多家媒体以「AI 交易正在转向」形容市场情绪。NYT、Reuters、MarketWatch 等均报道了这一轮抛售，反映投资者对 AI 基础设施投入回报周期的疑虑上升。</description>
   </item>
 </channel></rss>

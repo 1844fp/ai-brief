@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T09:26:16.819609",
+ "generated_at": "2026-10-16T18:20:19.249096",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 45,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-10-16",
+   "created_at": "2026-10-16T10:20:18.398859+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-16/news_daily-182018.html"
+  },
   {
    "id": 44,
    "task": "news_daily",
@@ -342,6 +351,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Meta 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行",
+   "url": "https://research.meta.ai/blog/muse-spark-open",
+   "source": "Hacker News",
+   "summary": "Meta 推出开源权重模型 Muse Spark Open（816B-A42B），宣称是迄今最强的美国开源权重模型，并与 Apple 合作通过 MLX 框架在两台 M5 Ultra Mac Studio 上本地运行。多家媒体报道称这是美国实验室在开源权重路线上的又一次重要推进。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-10-15T17:47:39+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Meta 与 Apple 联手，Muse Spark Open 可在 Apple Silicon 本地运行",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道 Meta 与 Apple 合作为 Muse Spark Open 提供本地运行支持，模型将直接在 Apple Silicon 上执行。这标志着 Meta 在开源权重策略上进一步绑定硬件生态。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-10-15T20:04:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Meta 与 Apple 合作优化 Muse 模型在 Mac 上的运行",
+   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+   "source": "The Verge AI",
+   "summary": "The Verge 报道 Meta 称 Muse Spark Open 是同类中首个可在两台搭载 M5 Ultra 的 Mac Studio 上通过 MLX 框架运行的模型。Meta 与 Apple 的合作细节随之曝光。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-15T18:15:36+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "台积电掌握主动权，Nvidia、Apple、AMD 争夺有限 AI 芯片产能",
+   "url": "https://www.benzinga.com/markets/tech/26/10/62404541/taiwan-semiconductor-holds-the-cards-as-nvidia-apple-and-amd-battle-for-limited-ai-chip-capacity",
+   "source": "Google News 英文",
+   "summary": "Benzinga 报道称在 AI 芯片需求持续高涨背景下，台积电成为 Nvidia、Apple 与 AMD 争夺产能的关键节点。先进制程与封装产能仍是整个 AI 供应链的瓶颈。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-16T09:35:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "台湾拟收紧对华 AI 芯片出口以配合美国",
+   "url": "https://www.investing.com/news/stock-market-news/taiwan-to-curb-ai-chip-sales-to-china-for-more-us-alignment-bloomberg-4953152",
+   "source": "Google News 英文",
+   "summary": "Bloomberg 报道称台湾计划进一步限制对中国的 AI 芯片销售，以加强与美国的政策对齐。此举可能影响区域 AI 芯片供应链与转口贸易。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-16T06:11:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "台湾拟在得州投资 40 亿美元建 Nvidia AI 供应链园区，并收紧对华芯片出口",
+   "url": "https://www.tradingview.com/news/seekingalpha:059b30792094b:0-taiwan-reportedly-plans-4b-texas-complex-for-nvidia-ai-supply-chain-tightens-china-ai-chip-exports/",
+   "source": "Google News 英文",
+   "summary": "报道称台湾计划在得克萨斯州建设价值约 40 亿美元的 Nvidia AI 供应链综合体，同时收紧对中国大陆的 AI 芯片出口。此举兼具产业外移与地缘政治双重意涵。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-16T06:11:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "西弗吉尼亚等多州起诉 OpenAI，称 ChatGPT 欺骗用户并危害儿童",
+   "url": "https://www.wvgazettemail.com/news/legal_affairs/wv-other-states-sue-openai-claiming-chatgpt-chatbot-deceives-users-harms-children/article_a0cc350f-c917-41be-af8b-cb99f8f9d7e7.html",
+   "source": "Google News 英文",
+   "summary": "西弗吉尼亚州等多州联合起诉 OpenAI，指控 ChatGPT 欺骗用户并对儿童造成伤害。这是美国州级监管对前沿 AI 公司发起的又一轮法律行动。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-16T09:15:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "马斯克旗下 AI 公司将在纽约市议会 AI 安全与监管听证会上作证",
+   "url": "https://abc7ny.com/post/elon-musks-ai-company-testify-nyc-council-hearing-artificial-intelligence-safety-regulations/19943220/",
+   "source": "Google News 英文",
+   "summary": "据 ABC7 New York 报道，Elon Musk 的 AI 公司将出席纽约市议会关于 AI 安全与监管的听证会。这是地方立法机构对前沿 AI 企业展开调查的一部分。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-16T09:33:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "SpaceX 政策负责人将就纽约市议会 AI 安全调查作证",
+   "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
+   "source": "Google News 英文",
+   "summary": "CNBC 报道 SpaceX 政策经理将作为纽约市议会 AI 安全调查的一部分出席作证。该调查聚焦 AI 安全与监管议题，涉及多家科技企业。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-16T08:00:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "Anthropic 向 METR 开放员工级访问权限，允许其独立发布评估",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 允许 METR 研究人员以员工级权限深入查看其内部运作，并放弃阻止 METR 发布评估报告的权利。METR 将独立发布对 Anthropic 风险、事件与实践的评估。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 4,
+   "published": "2026-10-15T19:14:26+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Google 开始向安全团队限量发布 Gemini 4 Argon",
+   "url": "https://cioafrica.co/google-starts-limited-release-of-gemini-4-argon-to-security-teams/",
+   "source": "Google News 英文",
+   "summary": "据 CIO Africa 报道，Google 已开始向安全团队限量发布 Gemini 4 Argon。该版本面向安全场景，具体能力与开放范围尚未完全公开。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-16T07:19:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Nvidia 发布 Nemotron 3.5 Super VL，美国开源权重阵营再进一步",
+   "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai",
+   "source": "ZDNet AI",
+   "summary": "ZDNet 报道 Nvidia 推出 Nemotron 3.5 Super VL，加入美国实验室在 Hugging Face 安全事件后的一波开源权重发布潮。该模型为视觉语言模型，进一步扩充了美国开源权重生态。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-15T15:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "OpenAI 推出 Rosalind 学术计划，向合格实验室开放 GPT-Rosalind",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布 Rosalind Academic Plan，为符合条件的学术实验室提供 GPT-Rosalind 的赞助访问权限及工具，用于推进生命科学研究。该计划旨在扩大前沿模型在学术科研中的使用。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-10-15T19:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Google DeepMind 用 Antigravity 加速抗菌肽发现",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 发布博客，介绍利用 Google Antigravity for Science 加速新型抗菌肽的搜索。该工作展示了 AI 在生物医药发现中的实际应用进展。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-10-15T16:08:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Amazon 旗下 Bee 发布两款个人 AI 设备，起售价 75 美元",
+   "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+   "source": "TechCrunch AI",
+   "summary": "被 Amazon 收购后，Bee 推出首款新 AI 设备，包括升级版可穿戴设备与信用卡大小的手机录音器，可总结对话、生成待办事项并接入 Alexa 与 Amazon 购物，起售价 74.99 美元。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-15T12:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "ChatGPT 现可读取你的 Chrome 标签页",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "source": "The Verge AI",
+   "summary": "OpenAI 为 ChatGPT 的 Chrome 扩展加入新功能，允许其在用户于网页或桌面应用中标记 Chrome 时查看已打开的浏览器标签页。此前 ChatGPT Atlas 浏览器已下线。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-15T22:43:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "Bluesky 的 AI 工具 Attie 支持制作可分享的游戏与应用",
+   "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+   "source": "The Verge AI",
+   "summary": "Bluesky 的 Attie AI 工具从生成信息流扩展至制作小型社交应用，如游戏、投票与仪表盘，并可作为独立网站分享。CEO Toni Schneider 在 TechCrunch Disrupt 上介绍了该方向。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-15T19:57:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Bluesky 扩展 Attie，允许用户构建网站与游戏",
+   "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道 Bluesky 将其 AI 驱动的 Attie 平台扩展至「社交 vibe coding」，用户可创建游戏、测验与网站并触达社交网络受众。该功能面向所有用户开放。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-15T18:56:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Amazon 设备负责人 Panos Panay：AI 设备将取代 App",
+   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+   "source": "TechCrunch AI",
+   "summary": "Amazon 设备负责人 Panos Panay 在 TechCrunch Disrupt 上表示，未来环境式 AI 设备将在后台运行、主动预判用户需求，而非等待指令，从而取代使用 App 的必要。",
+   "why": null,
+   "category": "行业观点",
+   "heat": 3,
+   "published": "2026-10-15T19:55:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "AI 智能体将进入 Rivian 汽车",
+   "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道 Rivian 将在其车辆中引入 AI 智能体，更多细节预计在公司 12 月的「AI & Autonomy Day」活动上公布。这标志着车载 AI 助手竞争升温。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-10-15T15:02:36+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
