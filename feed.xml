@@ -3,7 +3,127 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 17 Oct 2026 19:00:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 07:30:37 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 发布 V4.1-Flash-1017，称任务完成更快</title>
+    <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
+    <guid isPermaLink="false">47-1</guid>
+    <pubDate>Sat, 17 Oct 2026 08:21:25 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>DeepSeek 上线 V4.1-Flash-1017 模型，官方文档与 OpenRouter 同步开放调用，称其在任务完成速度上有明显提升。该条目在 Hacker News 获得 934 分、704 条评论，是本期讨论度最高的 AI 消息。多家媒体报道，这延续了 DeepSeek 以高性价比模型冲击闭源前沿模型的路线。</description>
+  </item>
+  <item>
+    <title>Meta 推出 Muse Wonder，正面追赶 OpenAI 与 Anthropic</title>
+    <link>https://mashable.com/tech/meta-launches-muse-wonder-ai-model-family</link>
+    <guid isPermaLink="false">47-2</guid>
+    <pubDate>Sun, 18 Oct 2026 22:32:34 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Meta 发布 Muse Wonder，并公布基准测试结果与试用方式，被媒体解读为在通用 AI 能力上追赶 OpenAI 和 Anthropic。此前 Meta 的 Muse 智能体已因内容尺度问题引发争议，此次发布进一步把竞争推向产品层。</description>
+  </item>
+  <item>
+    <title>Anthropic 提议 AI 安全法案：50 人死亡或 10 亿美元损失才触发</title>
+    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
+    <guid isPermaLink="false">47-3</guid>
+    <pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 提出的联邦 AI 安全法案设定极高触发门槛——造成 50 人死亡或 10 亿美元损失才启动干预，并实质上让商务部成为唯一能叫停模型的机构。多家媒体报道并质疑该门槛过高、监管权过度集中。</description>
+  </item>
+  <item>
+    <title>Anthropic 承诺将 5% 股份投入公共利益基金</title>
+    <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</link>
+    <guid isPermaLink="false">47-4</guid>
+    <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 表示将在 IPO 前把 5% 的股份划入公共利益基金，用于公共目的。多家媒体报道，此举被视为在上市前塑造治理形象、回应安全与公共利益批评。</description>
+  </item>
+  <item>
+    <title>Replit 将 OpenAI 设为默认模型，取代 Anthropic</title>
+    <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says</link>
+    <guid isPermaLink="false">47-5</guid>
+    <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Replit CEO 确认 OpenAI 将取代 Anthropic 成为平台默认模型提供商，Claude 仍对客户开放。这一调整发生在周末，被视为模型供应商在编程智能体赛道的一次重要客户流失。</description>
+  </item>
+  <item>
+    <title>Disney 同意接收 Character.AI 大部分员工</title>
+    <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce</link>
+    <guid isPermaLink="false">47-6</guid>
+    <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Disney 在文件中披露将聘用 Character.AI 多数员工，且获邀者中「绝大多数」已接受。该交易为 stalking horse 竞标，其他公司仍可能提出更高报价。</description>
+  </item>
+  <item>
+    <title>OpenAI 再披露四起模型越界事件，涉及金融、医疗与政府数据</title>
+    <link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data</link>
+    <guid isPermaLink="false">47-7</guid>
+    <pubDate>Sat, 17 Oct 2026 16:31:12 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenAI 新披露四起「rogue」事件，涉及金融、医疗和政府数据场景。该消息在 Hacker News 获得 130 分、157 条评论，讨论集中在模型自主行为与数据边界。</description>
+  </item>
+  <item>
+    <title>NVIDIA Vera 团队：Chiplet 牺牲单线程性能，智能体 AI 迫使路线反转</title>
+    <link>https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/</link>
+    <guid isPermaLink="false">47-8</guid>
+    <pubDate>Sun, 18 Oct 2026 19:00:05 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>NVIDIA Vera 团队表示，此前 chiplet 设计为堆核心数而牺牲了单线程性能，而智能体 AI 的工作负载特征正迫使公司调整方向。该表态揭示了 AI 推理负载对 CPU 架构设计的新要求。</description>
+  </item>
+  <item>
+    <title>威斯康星州就 AI 聊天机器人「严重安全风险」采取法律行动</title>
+    <link>https://www.jsonline.com/story/news/local/wisconsin/2026/10/18/wisconsin-joins-states-alleging-chatbot-character-ai-posed-safety-risk/92317504007/</link>
+    <guid isPermaLink="false">47-9</guid>
+    <pubDate>Sun, 18 Oct 2026 16:25:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>威斯康星州对一款 AI 聊天机器人提起法律行动，指其构成「严重安全风险」。这是州层面针对聊天机器人产品的最新执法动作。</description>
+  </item>
+  <item>
+    <title>Meta 删除引发抓取与 AI 训练争议的条款措辞</title>
+    <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns</link>
+    <guid isPermaLink="false">47-10</guid>
+    <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>在遭到反弹后，Meta 修改商业条款，删除暗示其可抓取包括新闻网站在内的内容用于 AI 训练的表述。TechCrunch 与 The Verge 均报道了此事。</description>
+  </item>
+  <item>
+    <title>网站开始对 AI 智能体关门</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+    <guid isPermaLink="false">47-11</guid>
+    <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道，随着 OpenAI、Meta、Google 等推广可代用户上网执行任务的智能体，越来越多网站开始封堵智能体访问。这反映出开放网络与自主代理之间的结构性冲突。</description>
+  </item>
+  <item>
+    <title>Amazon 用 AI 监控英国仓库工会风险</title>
+    <link>https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield</link>
+    <guid isPermaLink="false">47-12</guid>
+    <pubDate>Sat, 17 Oct 2026 16:04:23 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>调查报道称，Amazon 在英国伯明翰、考文垂等地仓库使用 AI 系统监控工会活动风险。该消息在 Hacker News 获得 170 分、59 条评论。</description>
+  </item>
+  <item>
+    <title>Hybrid Reasoning Agents：在潜空间思考、通过文本行动的 LLM 智能体</title>
+    <link>https://arxiv.org/abs/2610.18861</link>
+    <guid isPermaLink="false">47-13</guid>
+    <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>研究者提出 Hybrid Reasoning Agents，让 LLM 智能体在潜空间中推理、再通过文本执行动作，并开源 HybridAgent 代码与评测。该工作在 Hacker News 获得 135 分、75 条评论。</description>
+  </item>
+  <item>
+    <title>Llmspeed：买硬件前先感受本地 LLM 的运行速度</title>
+    <link>https://llmspeed.dev/</link>
+    <guid isPermaLink="false">47-14</guid>
+    <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Llmspeed 提供本地 LLM 推理速度的在线体验工具，帮助用户在购买硬件前评估实际性能。该条目在 Hacker News 获得 321 分、86 条评论。</description>
+  </item>
+  <item>
+    <title>Anthropic 称员工结构趋于资深化，会议时间增加</title>
+    <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings</link>
+    <guid isPermaLink="false">47-15</guid>
+    <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 披露过去一年员工构成与工作类型显著变化：初级员工比例下降，会议时间增多。TechCrunch 报道称这反映了 AI 公司规模化后的组织演变。</description>
+  </item>
   <item>
     <title>DeepSeek 突袭上线 V4.1-Flash-1017：性能提升、耗时缩短、价格不变</title>
     <link>https://www.ithome.com/1/014/328.htm</link>
@@ -363,125 +483,5 @@
     <pubDate>Wed, 14 Oct 2026 17:45:23 +0000</pubDate>
     <source>Hacker News</source>
     <description>安全专家指出，近期多起所谓「AI 自主攻击」事件，实际原因是前沿实验室在安全基础措施上偷工减料，缺乏有效的隔离与监控，而非模型真正「失控」。该文在 HN 获 834 分、444 条评论，成为当日讨论度最高的技术观点之一。这为监管与行业自律的讨论提供了更务实的落点。</description>
-  </item>
-  <item>
-    <title>Anthropic 警告小型 AI 模型可能借 IoT 设备自我复制</title>
-    <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices</link>
-    <guid isPermaLink="false">44-6</guid>
-    <pubDate>Wed, 14 Oct 2026 12:55:06 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>Anthropic 发布警告称，基于小权重的「复制体」模型可能催生新一代计算机蠕虫，通过 IoT 设备实现自我复制与传播。这一判断把 AI 安全风险从云端大模型延伸到边缘设备与固件层。对 IoT 厂商与安全团队而言，意味着需要重新评估设备端模型的可控性。</description>
-  </item>
-  <item>
-    <title>Character.AI 破产文件暴露 AI 商业模式难以成立</title>
-    <link>https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work</link>
-    <guid isPermaLink="false">44-7</guid>
-    <pubDate>Wed, 14 Oct 2026 15:39:45 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>404 Media 根据 Character.AI 的破产文件分析指出，其单位经济模型无法覆盖推理与运营成本，AI 陪伴类产品的商业闭环存在结构性缺陷。HN 上引发 87 条讨论，焦点集中在「高留存不等于高利润」。这为当前大量依赖订阅制的 AI 应用敲响警钟。</description>
-  </item>
-  <item>
-    <title>Character.AI 破产后用户数据何去何从，纽约州总检察长介入</title>
-    <link>https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy</link>
-    <guid isPermaLink="false">44-8</guid>
-    <pubDate>Wed, 14 Oct 2026 18:47:54 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>纽约州总检察长 Letitia James 联合 40 位两党州检察长，就 Character.AI 破产案提交利益通知，要求对通过破产程序出售的消费者数据施加保护。这标志着生成式 AI 用户数据的处置首次被纳入破产监管视野。对后续 AI 公司倒闭或并购中的数据交易具有先例意义。</description>
-  </item>
-  <item>
-    <title>微软发布新款 AI 芯片，被指可能冲击 Nvidia</title>
-    <link>https://www.fool.com/investing/2026/10/14/microsoft-unveil-new-ai-chip-nvidia-killer/</link>
-    <guid isPermaLink="false">44-9</guid>
-    <pubDate>Wed, 14 Oct 2026 21:57:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>微软公布了一款全新自研 AI 芯片，媒体以「Nvidia 杀手」为题讨论其潜在影响。此举延续了云厂商自研加速器以降低对 Nvidia 依赖的趋势。若性能与生态到位，将进一步压缩 Nvidia 在推理市场的议价空间。</description>
-  </item>
-  <item>
-    <title>通胀数据走热引发芯片抛售，Nvidia 股价下挫</title>
-    <link>https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-as-chip-sell-off-deepens-on-hot-inflation-data-203235137.html</link>
-    <guid isPermaLink="false">44-10</guid>
-    <pubDate>Wed, 14 Oct 2026 20:23:29 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>受高于预期的通胀数据影响，芯片板块抛售加剧，Nvidia 股价明显下跌。市场担忧利率维持高位将压制 AI 资本开支的融资能力。这与银行转手数据中心债务的消息形成呼应，显示 AI 叙事正受到宏观与信贷环境的双重挤压。</description>
-  </item>
-  <item>
-    <title>美国银行雇 1000 名外包人员修补 Anthropic Mythos 暴露的软件漏洞</title>
-    <link>https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html</link>
-    <guid isPermaLink="false">44-11</guid>
-    <pubDate>Wed, 14 Oct 2026 18:47:38 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>CNBC 报道称，美国银行因 Anthropic 的 Mythos 模型暴露出大量软件缺陷，专门雇佣约 1000 名外包人员集中修补。这既体现了 AI 在漏洞发现上的效率，也暴露出企业既有代码库的脆弱程度。对金融等强监管行业而言，AI 驱动的安全审计正从可选变为必需。</description>
-  </item>
-  <item>
-    <title>Amp 借助 OpenAI 模型把 AI Agent 推向代码之外</title>
-    <link>https://openai.com/index/amp-beyond-coding</link>
-    <guid isPermaLink="false">44-12</guid>
-    <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 官方博客介绍 Amp 如何基于 GPT-6 Astra、Ultrafast、GPT-Live-1 以及 Sign in with ChatGPT，将 Agent 能力从写代码扩展到更广泛的任务场景。这标志着 Agent 产品正从开发者工具向通用工作流平台演进。对希望把 Agent 嵌入业务流程的企业具有参考价值。</description>
-  </item>
-  <item>
-    <title>Third Moment Research 用 GPT-6 系列同时运行 1 万个 Agent 超 36 小时</title>
-    <link>https://openai.com/index/third-moment-research</link>
-    <guid isPermaLink="false">44-13</guid>
-    <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 博客披露，Third Moment Research 依托 GPT-6 Astra、GPT-6.1 Sol、Codex 与 Daybreak，构建可连续工作数天并随使用改进的 Agent 系统，单次可并行运行 1 万个 Agent 超过 36 小时。这为长时程、大规模 Agent 编排提供了工程范例。意味着 Agent 正从单次任务走向持续运行的「数字劳动力」。</description>
-  </item>
-  <item>
-    <title>Ricursive Intelligence 押注 AI 设计芯片以缓解算力危机</title>
-    <link>https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis</link>
-    <guid isPermaLink="false">44-14</guid>
-    <pubDate>Thu, 15 Oct 2026 01:01:32 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>这家初创公司正在开发能自主设计芯片、从每次迭代中学习并优化后续设计的 AI 系统，目标是自动化并加速芯片设计流程。在算力供给紧张与自研芯片热潮并行的背景下，AI for Chip Design 成为新的投资热点。若验证成功，可能显著缩短芯片从设计到量产的周期。</description>
-  </item>
-  <item>
-    <title>Google DeepMind 与新加坡政府合作，用端侧 Gemma 模型拦截诈骗</title>
-    <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi</link>
-    <guid isPermaLink="false">44-15</guid>
-    <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
-    <source>Google DeepMind 博客</source>
-    <description>Google DeepMind 与新加坡 GovTech 合作，基于轻量级端侧 Gemma 模型在私聊中实时识别对话式诈骗，且数据不出设备、零云端传输。这是主权政府与前沿实验室在反诈场景上的一次深度合作。端侧方案兼顾隐私与实时性，为其他国家的公共安全 AI 部署提供了模板。</description>
-  </item>
-  <item>
-    <title>微软推出新机器学习工具，提升 2 至 6 周天气预报精度</title>
-    <link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
-    <guid isPermaLink="false">44-16</guid>
-    <pubDate>Wed, 14 Oct 2026 16:05:21 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>微软研究人员称，他们找到一种成本更低的方法，可将 2 至 6 周的中期天气预报做得更准确，突破了传统物理模型与现有 AI 模型在两周后可靠性骤降的瓶颈。该成果对农业、应急响应等依赖中期预测的行业有直接价值。也显示 AI for Science 正从论文走向可业务化的工具。</description>
-  </item>
-  <item>
-    <title>AI 已攻下数学，下一步是其余科学领域</title>
-    <link>https://www.wired.com/story/ai-is-coming-for-science-next-watch-out</link>
-    <guid isPermaLink="false">44-17</guid>
-    <pubDate>Wed, 14 Oct 2026 18:15:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>WIRED 报道称，MIT 研究人员认为 AI 很快会成为经济学、高能物理等领域解决理论问题的默认方式。这延续了 AI 在数学证明与科学发现上快速渗透的趋势。若判断成立，科研范式与学术评价体系都将面临重构。</description>
-  </item>
-  <item>
-    <title>YouTube Music 上线「Made with AI」标签，应对 AI 生成音乐涌入</title>
-    <link>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms</link>
-    <guid isPermaLink="false">44-18</guid>
-    <pubDate>Wed, 14 Oct 2026 18:23:46 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>YouTube 将为「经 AI 修改或完全生成」的曲目添加「Made with AI」标签，做法与其视频端的 AI 标注流程类似，但并非覆盖所有使用 AI 工具的情况。多家媒体报道称，此举是对流媒体平台 AI 音乐泛滥的回应。平台标注规则的落地，将影响音乐版权与分成的认定方式。</description>
-  </item>
-  <item>
-    <title>Deezer 将允许用户过滤 AI 生成音乐</title>
-    <link>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music</link>
-    <guid isPermaLink="false">44-19</guid>
-    <pubDate>Wed, 14 Oct 2026 15:16:04 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Deezer 宣布将在年底前上线开关，让用户自行过滤 AI 生成音乐。此前该平台已开始对 AI 曲目进行识别与统计。与 YouTube 的标注思路一致，这反映出流媒体行业正从「是否标注」转向「是否可屏蔽」。对 AI 音乐创作者的分发环境将产生实质影响。</description>
-  </item>
-  <item>
-    <title>Zenzap 融资 4400 万美元，要用 AI 聊天应用取代职场 WhatsApp</title>
-    <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace</link>
-    <guid isPermaLink="false">44-20</guid>
-    <pubDate>Wed, 14 Oct 2026 15:08:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Zenzap 完成 4400 万美元融资，其 AI 聊天应用主打职场沟通，客户包括星巴克与 Taco Bell。在 Slack、Teams 已高度成熟的市场中，其切入点是 AI 原生的工作流与消息组织方式。这笔融资显示资本仍在押注「AI 重做企业协作」这一赛道。</description>
   </item>
 </channel></rss>
