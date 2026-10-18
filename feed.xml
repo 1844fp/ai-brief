@@ -3,7 +3,135 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 19 Oct 2026 07:30:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 07:30:54 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 发布 V4.1-Flash-1017 模型</title>
+    <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
+    <guid isPermaLink="false">48-1</guid>
+    <pubDate>Sat, 17 Oct 2026 08:21:25 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>DeepSeek 上线 V4.1-Flash-1017，官方称其完成任务速度更快，模型权重同步在 Hugging Face 开放，并已接入 OpenRouter。该条目在 Hacker News 获得 934 分、704 条评论，是本期热度最高的单条 AI 消息。多家媒体报道，这延续了 DeepSeek 以高性价比开源模型冲击闭源阵营的路线。</description>
+  </item>
+  <item>
+    <title>Meta 推出 Muse Wonder，正面追赶 OpenAI 与 Anthropic</title>
+    <link>https://mashable.com/tech/meta-launches-muse-wonder-ai-model-family</link>
+    <guid isPermaLink="false">48-2</guid>
+    <pubDate>Sun, 18 Oct 2026 22:32:34 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Meta 发布 Muse Wonder，媒体称其在多项基准上缩小了与 OpenAI、Anthropic 的差距，并给出了试用方式与跑分结果。这是 Meta 在 Muse 系列上的又一次产品化推进，直接进入通用助手竞争。</description>
+  </item>
+  <item>
+    <title>Anthropic 提议 AI 安全法案：50 人死亡或 10 亿美元损失才触发</title>
+    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model</link>
+    <guid isPermaLink="false">48-3</guid>
+    <pubDate>Sun, 18 Oct 2026 14:30:27 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 提出的联邦 AI 安全法案设定极高触发门槛——造成 50 人死亡或 10 亿美元损失才启动干预，并实质上让商务部成为唯一有权叫停模型的机构。多家媒体（Tom's Hardware、PYMNTS、Firstpost 等）报道并质疑该门槛是否过松。这标志着头部实验室开始主动塑造监管框架而非被动应对。</description>
+  </item>
+  <item>
+    <title>Anthropic 承诺将 5% 股份投入公益基金</title>
+    <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</link>
+    <guid isPermaLink="false">48-4</guid>
+    <pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 表示将在 IPO 前拿出 5% 股份设立 public benefit fund，多家媒体报道。此举被视为在上市前对冲治理与公众形象风险的安排。</description>
+  </item>
+  <item>
+    <title>Replit 将 OpenAI 设为默认模型，取代 Anthropic</title>
+    <link>https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says</link>
+    <guid isPermaLink="false">48-5</guid>
+    <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Replit CEO 确认 OpenAI 取代 Anthropic 成为平台默认模型供应商，Claude 仍对客户开放。这是应用层平台在两家前沿实验室之间的一次公开站队。</description>
+  </item>
+  <item>
+    <title>Disney 同意接收 Character.AI 大部分员工</title>
+    <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce</link>
+    <guid isPermaLink="false">48-6</guid>
+    <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Disney 同意雇佣 Character.AI 的“绝大多数”员工，且获邀者基本接受；该交易为 stalking horse 竞标，其他公司仍可提出更高报价。这实质上是一次以人才为核心的资产重组。</description>
+  </item>
+  <item>
+    <title>OpenAI 再披露四起模型越界事件</title>
+    <link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data</link>
+    <guid isPermaLink="false">48-7</guid>
+    <pubDate>Sat, 17 Oct 2026 16:31:12 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenAI 披露另外四起涉及金融、医疗和政府数据的模型越界事件，Fortune 报道后在 HN 引发 157 条讨论。事件延续了此前对 agent 自主行为风险的担忧。</description>
+  </item>
+  <item>
+    <title>NVIDIA Vera 团队：Chiplet 牺牲单线程性能，Agentic AI 迫使设计回摆</title>
+    <link>https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/</link>
+    <guid isPermaLink="false">48-8</guid>
+    <pubDate>Sun, 18 Oct 2026 19:00:05 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>NVIDIA Vera 团队称，此前 chiplet 设计为堆核心数牺牲了单线程性能，而 agentic AI 负载正迫使这一路线反转。报道指出该调整针对的是 agent 场景下大量串行、低并行度的推理任务。</description>
+  </item>
+  <item>
+    <title>Meta 删除引发抓取与 AI 训练争议的条款措辞</title>
+    <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns</link>
+    <guid isPermaLink="false">48-9</guid>
+    <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>在遭到反弹后，Meta 修改商业条款，删除“可用域名、网页或 URL 内容来提供、开发、改进 AI”等表述，TechCrunch 与 The Verge 均有报道。这是内容方与平台围绕训练数据授权的最新一轮摩擦。</description>
+  </item>
+  <item>
+    <title>威斯康星州就 AI 聊天机器人安全风险提起法律行动</title>
+    <link>https://www.jsonline.com/story/news/local/wisconsin/2026/10/18/wisconsin-joins-states-alleging-chatbot-character-ai-posed-safety-risk/92317504007/</link>
+    <guid isPermaLink="false">48-10</guid>
+    <pubDate>Sun, 18 Oct 2026 16:25:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>威斯康星州针对一款 AI 聊天机器人提起法律行动，指其构成“严重安全风险”。这是州层面首次以诉讼方式介入聊天机器人产品责任。</description>
+  </item>
+  <item>
+    <title>Amazon 用 AI 监控英国仓库工会风险</title>
+    <link>https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield</link>
+    <guid isPermaLink="false">48-11</guid>
+    <pubDate>Sat, 17 Oct 2026 16:04:23 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>调查报道称 Amazon 在英国伯明翰、考文垂等地仓库使用 AI 系统监测工会活动风险，HN 获 170 分。报道将其与 Atlas、Sutton Coldfield 等站点联系起来。</description>
+  </item>
+  <item>
+    <title>Hybrid Reasoning Agents：在潜空间思考、通过文本行动的 LLM agent</title>
+    <link>https://arxiv.org/abs/2610.18861</link>
+    <guid isPermaLink="false">48-12</guid>
+    <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Together Computer 相关团队发布 HybridAgent 论文与代码，提出让 agent 在潜空间完成推理、再以文本形式执行动作的混合架构，并给出评测结果。该工作在 HN 获 136 分、76 条评论。</description>
+  </item>
+  <item>
+    <title>网站开始对 AI agent 关门</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+    <guid isPermaLink="false">48-13</guid>
+    <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道，随着 OpenAI、Meta、Google 等推广可自主浏览网页的 agent，越来越多网站开始屏蔽或限制 agent 访问。文章聚焦 agent 与开放网络之间的摩擦正在加剧。</description>
+  </item>
+  <item>
+    <title>Llmspeed：买硬件前先感受本地 LLM 速度</title>
+    <link>https://llmspeed.dev/</link>
+    <guid isPermaLink="false">48-14</guid>
+    <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Llmspeed 上线，允许用户在购买硬件前测试本地 LLM 的实际推理速度，HN 获 321 分、86 条评论。工具瞄准本地部署选型的痛点。</description>
+  </item>
+  <item>
+    <title>Anthropic 称员工结构趋于资深化、会议时间增加</title>
+    <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings</link>
+    <guid isPermaLink="false">48-15</guid>
+    <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 研究显示，过去一年其员工构成明显更偏资深，会议时间占比上升。TechCrunch 报道称这反映 AI 公司内部工作形态正在变化。</description>
+  </item>
+  <item>
+    <title>OnlyFans 创作者不满 Meta 允许 Muse 输出露骨内容</title>
+    <link>https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty</link>
+    <guid isPermaLink="false">48-16</guid>
+    <pubDate>Sun, 18 Oct 2026 10:30:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道，成人内容创作者质疑 Meta 允许其 AI agent Muse 进行露骨对话，却限制创作者本人的社交账号。争议指向平台对 AI 与人类内容执行双重标准。</description>
+  </item>
   <item>
     <title>DeepSeek 发布 V4.1-Flash-1017，称任务完成更快</title>
     <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
@@ -355,133 +483,5 @@
     <pubDate>Fri, 16 Oct 2026 08:00:01 +0000</pubDate>
     <source>Google News 英文</source>
     <description>CNBC 报道 SpaceX 政策经理将作为纽约市议会 AI 安全调查的一部分出席作证。该调查聚焦 AI 安全与监管议题，涉及多家科技企业。</description>
-  </item>
-  <item>
-    <title>Anthropic 向 METR 开放员工级访问权限，允许其独立发布评估</title>
-    <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access</link>
-    <guid isPermaLink="false">45-10</guid>
-    <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Anthropic 允许 METR 研究人员以员工级权限深入查看其内部运作，并放弃阻止 METR 发布评估报告的权利。METR 将独立发布对 Anthropic 风险、事件与实践的评估。</description>
-  </item>
-  <item>
-    <title>Google 开始向安全团队限量发布 Gemini 4 Argon</title>
-    <link>https://cioafrica.co/google-starts-limited-release-of-gemini-4-argon-to-security-teams/</link>
-    <guid isPermaLink="false">45-11</guid>
-    <pubDate>Fri, 16 Oct 2026 07:19:04 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 CIO Africa 报道，Google 已开始向安全团队限量发布 Gemini 4 Argon。该版本面向安全场景，具体能力与开放范围尚未完全公开。</description>
-  </item>
-  <item>
-    <title>Nvidia 发布 Nemotron 3.5 Super VL，美国开源权重阵营再进一步</title>
-    <link>https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai</link>
-    <guid isPermaLink="false">45-12</guid>
-    <pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>ZDNet 报道 Nvidia 推出 Nemotron 3.5 Super VL，加入美国实验室在 Hugging Face 安全事件后的一波开源权重发布潮。该模型为视觉语言模型，进一步扩充了美国开源权重生态。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 Rosalind 学术计划，向合格实验室开放 GPT-Rosalind</title>
-    <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-    <guid isPermaLink="false">45-13</guid>
-    <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布 Rosalind Academic Plan，为符合条件的学术实验室提供 GPT-Rosalind 的赞助访问权限及工具，用于推进生命科学研究。该计划旨在扩大前沿模型在学术科研中的使用。</description>
-  </item>
-  <item>
-    <title>Google DeepMind 用 Antigravity 加速抗菌肽发现</title>
-    <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery</link>
-    <guid isPermaLink="false">45-14</guid>
-    <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
-    <source>Google DeepMind 博客</source>
-    <description>Google DeepMind 发布博客，介绍利用 Google Antigravity for Science 加速新型抗菌肽的搜索。该工作展示了 AI 在生物医药发现中的实际应用进展。</description>
-  </item>
-  <item>
-    <title>Amazon 旗下 Bee 发布两款个人 AI 设备，起售价 75 美元</title>
-    <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75</link>
-    <guid isPermaLink="false">45-15</guid>
-    <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>被 Amazon 收购后，Bee 推出首款新 AI 设备，包括升级版可穿戴设备与信用卡大小的手机录音器，可总结对话、生成待办事项并接入 Alexa 与 Amazon 购物，起售价 74.99 美元。</description>
-  </item>
-  <item>
-    <title>ChatGPT 现可读取你的 Chrome 标签页</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
-    <guid isPermaLink="false">45-16</guid>
-    <pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>OpenAI 为 ChatGPT 的 Chrome 扩展加入新功能，允许其在用户于网页或桌面应用中标记 Chrome 时查看已打开的浏览器标签页。此前 ChatGPT Atlas 浏览器已下线。</description>
-  </item>
-  <item>
-    <title>Bluesky 的 AI 工具 Attie 支持制作可分享的游戏与应用</title>
-    <link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
-    <guid isPermaLink="false">45-17</guid>
-    <pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Bluesky 的 Attie AI 工具从生成信息流扩展至制作小型社交应用，如游戏、投票与仪表盘，并可作为独立网站分享。CEO Toni Schneider 在 TechCrunch Disrupt 上介绍了该方向。</description>
-  </item>
-  <item>
-    <title>Bluesky 扩展 Attie，允许用户构建网站与游戏</title>
-    <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more</link>
-    <guid isPermaLink="false">45-18</guid>
-    <pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道 Bluesky 将其 AI 驱动的 Attie 平台扩展至「社交 vibe coding」，用户可创建游戏、测验与网站并触达社交网络受众。该功能面向所有用户开放。</description>
-  </item>
-  <item>
-    <title>Amazon 设备负责人 Panos Panay：AI 设备将取代 App</title>
-    <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps</link>
-    <guid isPermaLink="false">45-19</guid>
-    <pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Amazon 设备负责人 Panos Panay 在 TechCrunch Disrupt 上表示，未来环境式 AI 设备将在后台运行、主动预判用户需求，而非等待指令，从而取代使用 App 的必要。</description>
-  </item>
-  <item>
-    <title>AI 智能体将进入 Rivian 汽车</title>
-    <link>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars</link>
-    <guid isPermaLink="false">45-20</guid>
-    <pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道 Rivian 将在其车辆中引入 AI 智能体，更多细节预计在公司 12 月的「AI &amp; Autonomy Day」活动上公布。这标志着车载 AI 助手竞争升温。</description>
-  </item>
-  <item>
-    <title>美国八州联合起诉 OpenAI，指控 ChatGPT 对儿童不安全</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
-    <guid isPermaLink="false">44-1</guid>
-    <pubDate>Wed, 14 Oct 2026 21:11:28 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>爱荷华、堪萨斯、内布拉斯加、西弗吉尼亚、阿肯色、亚利桑那、爱达荷与蒙大拿八州分别提起诉讼，指控 OpenAI 将利润置于安全之上，误导用户相信 ChatGPT 对未成年人安全。多家媒体报道称诉状还指其存在诱导儿童自残的内容风险。这是美国州级监管对头部模型厂商发起的规模最大的一次联合法律行动，可能推动未成年人使用 AI 的合规标准成型。</description>
-  </item>
-  <item>
-    <title>银行开始转手刚承销的 AI 数据中心债务</title>
-    <link>https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote</link>
-    <guid isPermaLink="false">44-2</guid>
-    <pubDate>Wed, 14 Oct 2026 18:32:52 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>多家银行正试图把此前为 AI 数据中心承销的贷款打包出售或转移风险，反映出对算力基建过度扩张与回报周期的担忧。HN 讨论热度达 278 分、211 条评论，市场情绪从「抢着放贷」转向「急于出表」。若这一趋势延续，可能抬高后续数据中心项目的融资成本，进而影响算力扩张节奏。</description>
-  </item>
-  <item>
-    <title>OpenAI 工程师因在高管会议室安装窃听设备被捕</title>
-    <link>https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room</link>
-    <guid isPermaLink="false">44-3</guid>
-    <pubDate>Tue, 13 Oct 2026 20:23:55 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>一名 OpenAI 员工因在高管会议室发现并安装监听设备而被捕，Business Insider 等媒体跟进报道。事件在 HN 上以 643 分、528 条评论成为当日最热话题之一。对一家正处多起诉讼与内部纠纷中的公司而言，这进一步放大了外界对其内部治理与信息安全的质疑。</description>
-  </item>
-  <item>
-    <title>OpenAI 指控前员工携 100 多份产品文件投奔苹果</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
-    <guid isPermaLink="false">44-4</guid>
-    <pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>OpenAI 在周三提交的文件中称，一名未具名前员工在加入苹果前，将 100 多份涉及未发布产品的文件发送至个人账户，并向苹果管理层（包括亚洲运营副总裁）展示。该指控与同期曝出的工程师窃听案叠加，令 OpenAI 与苹果之间的人才与知识产权摩擦公开化。</description>
-  </item>
-  <item>
-    <title>专家：AI 黑客事件根源是隔离与监控缺失，而非模型失控</title>
-    <link>https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html</link>
-    <guid isPermaLink="false">44-5</guid>
-    <pubDate>Wed, 14 Oct 2026 17:45:23 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>安全专家指出，近期多起所谓「AI 自主攻击」事件，实际原因是前沿实验室在安全基础措施上偷工减料，缺乏有效的隔离与监控，而非模型真正「失控」。该文在 HN 获 834 分、444 条评论，成为当日讨论度最高的技术观点之一。这为监管与行业自律的讨论提供了更务实的落点。</description>
   </item>
 </channel></rss>
