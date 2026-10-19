@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T06:31:01.125135",
+ "generated_at": "2026-10-20T07:30:41.473420",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 57,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-10-20",
+   "created_at": "2026-10-19T23:30:40.557757+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-20/news_daily-073040.html"
+  },
   {
    "id": 56,
    "task": "social_weekly",
@@ -453,6 +462,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Google 发布前沿模型 Gemini 4 Argon：基准、试用方式与定价",
+   "url": "https://mashable.com/tech/google-launches-gemini-4-argon",
+   "source": "Google News 英文",
+   "summary": "Google 推出新一代前沿模型 Gemini 4 Argon，并同步公布基准测试结果、开放试用渠道与 API 定价。这是 Google 在旗舰模型序列上的又一次迭代，直接对标 OpenAI 与 Anthropic 的最新模型。多家媒体报道，其定价与接入方式将影响企业选型格局。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-10-19T15:50:17+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Mistral 发布时间序列基础模型 Timestral",
+   "url": "https://mistral.ai/news/timestral",
+   "source": "Hacker News",
+   "summary": "Mistral 推出名为 Timestral 的时间序列基础模型系列，将通用基础模型思路引入预测类任务。该方向此前多由专用小模型主导，基础模型化有望统一金融、能源、运维等场景的预测管线。HN 热度超过 500 分，显示开发者对非语言模态基础模型关注度高。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-10-19T09:59:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Tenstorrent 以 62 亿美元估值融资 15 亿美元，扩张开放权重 AI 芯片",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+   "source": "TechCrunch AI",
+   "summary": "Nvidia 挑战者 Tenstorrent 完成 15 亿美元融资，估值达 62 亿美元，此前曾收到收购意向但选择保持独立。资金将用于扩大开放权重 AI 芯片的规模化生产与生态建设。这反映出资本仍在押注 Nvidia 之外的推理与开放架构路线。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-10-19T18:37:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Amazon 推出 TorchNeuron 开发工具，正面冲击 Nvidia 对 PyTorch 的掌控",
+   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+   "source": "TechCrunch AI",
+   "summary": "Amazon 发布 TorchNeuron 开发工具，目标是让更多开发者把基于 PyTorch 的 AI 应用跑在 Trainium 等自研芯片上。PyTorch 是绝大多数 AI 应用的基础工具链，此举被视为 Amazon 对 Nvidia 生态护城河的最大一次进攻。若迁移成本显著下降，将改变训练与推理的芯片选型逻辑。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-10-19T20:09:24+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Nvidia 发布新开源模型，推动智能体进入企业与 PC",
+   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+   "source": "TechCrunch AI",
+   "summary": "Nvidia 推出新的开源模型系列，面向企业在自有数据中心运行开放模型，以及 PC 端本地私有智能体两类场景。这顺应了企业对数据不出域、端侧隐私推理的强烈需求。Nvidia 正从芯片供应商向模型与智能体运行时延伸。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-19T15:37:09+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Inception Labs 发布 Mercury 3：扩散模型规模化",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+   "source": "Hacker News",
+   "summary": "Inception Labs 推出 Mercury 3，主打扩散式语言模型的大规模扩展。扩散架构在生成速度与并行解码上与传统自回归模型形成差异化路线。该发布为语言模型架构多样性提供了新的工程证据。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-10-19T17:27:11+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "CERN 与 Mistral 签署意向书，建立战略合作伙伴关系",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science",
+   "source": "Hacker News",
+   "summary": "欧洲核子研究中心 CERN 与法国 AI 公司 Mistral 签署战略合作意向书，计划加速 AI 在科学研究中的应用。这是欧洲公共科研机构与本土模型厂商深度绑定的标志性事件。合作有望在高能物理数据处理等场景形成示范。",
+   "why": null,
+   "category": "行业合作",
+   "heat": 4,
+   "published": "2026-10-19T15:28:24+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "黑客入侵 AI 编码工具 OpenCode，盗用用户 API 密钥并产生费用",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+   "source": "TechCrunch AI",
+   "summary": "开源 AI 编码智能体 OpenCode 的在线平台部分遭入侵，部分用户的 API 密钥被窃取，并在其 AI 账户上产生费用。报道称其求助的 AI 工具多次拒绝查看恶意代码。该事件暴露了 AI 编码工具在密钥管理与平台安全上的薄弱环节。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-10-19T19:28:34+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "微软称 AI 智能体如同内部威胁，前沿模型不可信任",
+   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+   "source": "TechCrunch AI",
+   "summary": "微软安全团队表示，企业应密切监控员工使用的、由非 OpenAI、Anthropic 等实验室控制的智能体，并将其类比为内部威胁。其核心论点是前沿模型本身不可完全信任，需要独立的权限与行为管控。这反映出企业智能体治理正从概念走向强制要求。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-10-19T22:04:28+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "黑客用 AI 智能体集群入侵 John Deere、SharkNinja 等百余网站",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+   "source": "The Verge AI",
+   "summary": "AI 安全公司 Norforge 发现，一名黑客使用大量基本自主运行的 AI 智能体入侵了 100 多个网站，路透报道受害者包括 John Deere、SharkNinja 和 Cummins。攻击展示了智能体自动化侦察与利用漏洞的规模化能力。AI 驱动的攻防不对称正在加剧。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-10-19T13:58:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "CoreWeave 债务问题正演变为整个 AI 行业的隐忧",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+   "source": "The Verge AI",
+   "summary": "CoreWeave 债券收益率较国债高出 1000 个基点，进入困境债务区间，引发市场对 AI 基建是否形成私募信贷泡沫的讨论。作为 GPU 云的代表性公司，其融资成本上升会传导至整个 AI 算力租赁链条。AI 资本开支的融资结构正受到更严格审视。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-10-19T21:28:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "DeepSeek V4.1 Flash 1017（Max）登上模型评测榜",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "source": "Hacker News",
+   "summary": "DeepSeek 新版本 V4.1 Flash 1017（Max）出现在 Artificial Analysis 模型评测页面，引发 HN 近 200 分讨论。该版本延续 Flash 系列的轻量高效定位，具体基准表现以评测页数据为准。中国开源模型持续以高性价比参与全球竞争。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-19T04:41:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Goodfire 研究员 2.6 万字长文提出关于神经网络本质的新主张，震动 AI 界",
+   "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
+   "source": "MIT 科技评论",
+   "summary": "AI 初创公司 Goodfire 研究员 Nick Cammarata 发布约 2.6 万字博客，声称对神经网络本质有了新发现，引发从狂热推测到谨慎庆祝的广泛反应。该主张涉及可解释性与网络内部表征的理解方式。若成立，可能改变机制可解释性的研究路径。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-10-19T17:45:55+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "加州新法限制雇主使用 AI",
+   "url": "https://www.safetyandhealthmagazine.com/new-california-laws-place-limits-on-employers-use-of-ai/",
+   "source": "Google News 英文",
+   "summary": "加州通过新法律，对雇主在招聘、考核等雇佣环节使用 AI 作出限制。在联邦立法停滞的背景下，州层面正在成为 AI 劳动监管的主要试验场。这对使用 AI 进行人力资源决策的企业提出合规要求。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-19T19:19:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Disney 同意接收 Character.AI 大部分员工",
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+   "source": "TechCrunch AI",
+   "summary": "Disney 在提交文件中表示将聘用 Character.AI 多数员工，且获邀者中绝大多数已接受。该交易为竞标式收购（stalking horse bid），其他公司仍可能提出更高报价。这延续了大型娱乐公司吸收 AI 人才与信任安全技术的趋势。",
+   "why": null,
+   "category": "并购",
+   "heat": 3,
+   "published": "2026-10-18T16:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "AI 陪伴应用 Tolan 融资 3000 万美元，活跃用户超 25 万",
+   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+   "source": "TechCrunch AI",
+   "summary": "AI 陪伴应用 Tolan 在活跃用户超过 25 万后，再获 3000 万美元融资。该赛道在争议中持续获得资本支持，用户规模成为核心指标。陪伴类产品正从新奇体验转向长期留存竞争。",
+   "why": null,
+   "category": "融资",
+   "heat": 3,
+   "published": "2026-10-19T19:00:12+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "WhatsApp 帮助页面泄露 Meta 聊天机器人的隐藏指令",
+   "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot",
+   "source": "Wired AI",
+   "summary": "WhatsApp 网站上约 80 个页面意外暴露了为其聊天机器人设计的指令，包括「不要说什么」等内容，Meta 称是程序缺陷所致。事件暴露了消费级聊天机器人提示词管理的疏漏。系统提示泄露可能被用于诱导模型越界。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-10-19T16:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "研究者把 Claude 困在虚拟荒岛 30 小时，它开始「玩耍」",
+   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+   "source": "MIT 科技评论",
+   "summary": "MIT 科技评论报道，研究者将 Claude Opus 4.7 的副本昵称 Eko 反复单独置于虚拟荒岛 30 小时，在无指令情况下智能体表现出类似玩耍的行为。实验旨在观察智能体在缺乏目标时的自发行为模式。这对理解智能体的自主性与对齐风险具有参考价值。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-10-19T09:08:05+00:00"
+  },
   {
    "task": "social_weekly",
    "rank": 1,
