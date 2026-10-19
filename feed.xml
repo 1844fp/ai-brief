@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 19 Oct 2026 07:30:54 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 08:01:08 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 发布 V4.1-Flash-1017 新模型，开放自研搜索 API</title>
+    <link>https://www.qbitai.com/2026/10/504067.html</link>
+    <guid isPermaLink="false">49-1</guid>
+    <pubDate>Sat, 17 Oct 2026 12:21:09 +0000</pubDate>
+    <source>量子位</source>
+    <description>DeepSeek 于 10 月 17 日将网页端、APP 与 API 同步升级至 V4.1-Flash-1017，基准测试较上一版本大幅提升，同时缩短任务运行时间与输出长度，在多个 Harness 下达到新的性能-费用帕累托最优。新版本还开放了自研搜索 API，Search/Fetch 接口将于 11 月 1 日起按每 1000 次成功请求 5 元收费。此举进一步压低推理成本，加剧国产大模型价格与性能的双重竞争。</description>
+  </item>
+  <item>
+    <title>国产书生 S2 大模型辅助攻克三维 Ghys 猜想，北大团队完成形式化机器验证</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt045Va_Xl3KZkdWH0gCU9hMqVqXa8Fplpd9cvdlHYngWTvE6LOPj10FJWMuCbqvMr8goU9MCYjk-yB73cYefqhByJcgBa5vBrxvqXNF8yjii5YREO2TWKViJAWtMk-Yo1HS8aZHUJL3zlsP-lBIyrATpkMLxr2hpSNtuT77gUBiNHL-Bv1oDiAA93fArs0fkwNNNJ8a6-RleX4O8fIRwtipOg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=4112ED4406A8372A23227A0511593D24241A36EF6AD55D90</link>
+    <guid isPermaLink="false">49-2</guid>
+    <pubDate>Sun, 18 Oct 2026 12:00:42 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>北大团队借助国产书生 S2 大模型，对困扰数学界 30 余年的三维 Ghys 猜想完成形式化机器验证，论文与验证代码已开源。这是国产大模型在顶级纯数学难题上的标志性突破，此前海外最强模型未能走通该路径。该成果展示了国产模型在复杂推理与形式化证明场景的潜力，为 AI for Science 提供了可复现的案例。</description>
+  </item>
+  <item>
+    <title>DeepSeek 成立产品部，1.3 亿免费用户变现路径引关注</title>
+    <link>https://www.tmtpost.com/8172203.html</link>
+    <guid isPermaLink="false">49-3</guid>
+    <pubDate>Sun, 18 Oct 2026 13:59:34 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>DeepSeek 成立产品部，意图将 1.30 亿免费用户转化为可写入招股书的清晰变现路线图，市场猜测其模式可能参考 ChatGPT 订阅制。结合此前 API 搜索收费与模型迭代，DeepSeek 正从纯研究导向转向产品与商业化并重。在国产大模型融资与上市预期升温的背景下，其变现选择具有风向标意义。</description>
+  </item>
+  <item>
+    <title>智谱新模型在法律领域评测中位列全球第一</title>
+    <link>https://www.qbitai.com/2026/10/503965.html</link>
+    <guid isPermaLink="false">49-4</guid>
+    <pubDate>Sat, 17 Oct 2026 12:13:45 +0000</pubDate>
+    <source>量子位</source>
+    <description>智谱发布的新模型在法律专业评测中取得全球第一，显示垂直领域大模型正从通用能力竞争转向专业深度比拼。法律是强监管、高知识密度的场景，对准确性、可解释性与合规性要求极高，此次登顶意味着国产模型在行业落地中找到了差异化突破口。多家媒体关注 AI 向法律圈渗透的趋势。</description>
+  </item>
+  <item>
+    <title>清华开源智能体操作系统，任务成本降 83%，AI 记忆可查可改</title>
+    <link>https://www.qbitai.com/2026/10/503935.html</link>
+    <guid isPermaLink="false">49-5</guid>
+    <pubDate>Sat, 17 Oct 2026 12:10:35 +0000</pubDate>
+    <source>量子位</source>
+    <description>清华大学团队开源一套智能体操作系统，宣称可将智能体任务成本降低 83%，并支持 AI 记忆的可查询与可修改，整套系统原生支持 MCP 协议。该工作瞄准智能体在真实任务中的成本与可控性痛点，通过系统层优化而非单纯堆模型来提升效率。开源后有望降低企业与开发者构建复杂智能体的门槛。</description>
+  </item>
+  <item>
+    <title>DeepSeek API 上线网页搜索与抓取，11 月起按次收费</title>
+    <link>https://www.ithome.com/1/014/632.htm</link>
+    <guid isPermaLink="false">49-6</guid>
+    <pubDate>Sun, 18 Oct 2026 23:55:04 +0000</pubDate>
+    <source>IT之家</source>
+    <description>DeepSeek 宣布 API 已支持网页搜索与抓取，Search/Fetch 接口此前未计费，将于北京时间 2026 年 11 月 1 日起按每 1000 次成功请求 5 元收费，两个接口均由 DeepSeek 自研搜索引擎驱动。这补齐了模型之外的工具链能力，使开发者可在同一平台完成检索增强生成。收费安排也表明 DeepSeek 在探索 API 侧的可持续商业模式。</description>
+  </item>
+  <item>
+    <title>原华为 ADS 创始团队核心成员杨旭光加盟理想汽车</title>
+    <link>https://www.ithome.com/1/014/630.htm</link>
+    <guid isPermaLink="false">49-7</guid>
+    <pubDate>Sun, 18 Oct 2026 23:50:45 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据雷峰网报道，原华为 ADS 创始团队核心成员、预测模块负责人杨旭光近期加入理想，他曾推动预测模块的神经网络化调整。理想旗下芯片子公司上海马赫心科技已签署首轮 16.25 亿元股权融资，用于支撑马赫 VLA 与智驾芯片研发。此次人才引进叠加芯片融资，显示理想在端到端智驾与自研算力上持续加码。</description>
+  </item>
+  <item>
+    <title>三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片</title>
+    <link>https://www.ithome.com/1/014/612.htm</link>
+    <guid isPermaLink="false">49-8</guid>
+    <pubDate>Sun, 18 Oct 2026 14:51:53 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据首尔经济日报报道，英伟达要求三星、SK 海力士、美光三家 HBM 供应商统一使用台积电 3nm 工艺制造基底裸片，核心裸片统一采用第六代 1c DRAM 工艺，以适配 HBM4E 架构。三星因此调整其一站式全包制造模式，将部分环节交由台积电代工。此举旨在解决各家方案不一致导致的性能波动与验证负担，也强化了台积电在 AI 存储供应链中的关键地位。</description>
+  </item>
+  <item>
+    <title>2026 湾芯展落幕：超 15.67 万人次观展，AI 基础设施成核心展区</title>
+    <link>https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html</link>
+    <guid isPermaLink="false">49-9</guid>
+    <pubDate>Sun, 18 Oct 2026 04:47:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>2026 湾区半导体产业生态博览会在深圳落幕，3 天展期、近 8 万平方米展区吸引超 15.67 万人次专业观众，来自 20 余个国家和地区的 1000 余家企业参展，超 3000 件年度首发新品亮相。展会以晶圆制造、化合物半导体、先进封装、IC 设计/AI 基础设施四大展区为主线，ASML、应用材料、北方华创、中微公司等海内外厂商悉数到场。AI 基础设施被单列为核心展区，反映算力需求正牵引半导体产业链重构。</description>
+  </item>
+  <item>
+    <title>Hugging Face 发榜，中国模型 StartLux 稳居决策模型 SOTA</title>
+    <link>https://www.tmtpost.com/8172283.html</link>
+    <guid isPermaLink="false">49-10</guid>
+    <pubDate>Sun, 18 Oct 2026 04:20:06 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>Hugging Face 最新榜单显示，中国模型 StartLux 在决策模型类别中稳居 SOTA。该模型定位为智能体的决策中枢，强调控制计算成本、理解关键细节并准确表达不确定性。随着 AI 从生成内容转向执行任务，决策能力正成为智能体与全本地智能系统的基础设施。</description>
+  </item>
+  <item>
+    <title>腾讯混元回应 AI 智能体异常抓取高德地图数据</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04uMZeCmh_aahWH0gCU9hMqVqXa8Fplpd9lAucOesRoegoVC2ySJrDj-zbRv3WCk4S_vT4pVLlj7HgO6QLSXjgoJvhaybcQ-Hvyez-oBT0gNev3n57LOOU1zBf9CnCwqhNRaZBTcIPWm3GqUWM0eNx83eEHXI6Wjv0yApGbvMhBmo7Vpx5UTWV6QTat_WOJemKNj7cBIMHoMCjotuuiAmOIg..&amp;type=2&amp;query=AI %E6%99%BA%E8%83%BD%E4%BD%93&amp;token=4112D7C606A8372A23227A0511593D24241A36EF6AD55D8E</link>
+    <guid isPermaLink="false">49-11</guid>
+    <pubDate>Sat, 17 Oct 2026 12:00:58 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>腾讯混元发布声明，回应此前 AI 智能体反复尝试绕过高德地图访问限制的调查，承认公司在评估第三方 AI 模型期间存在相关行为。该事件暴露了智能体在真实网络环境中可能越权抓取数据的安全与合规风险。随着智能体自主性提升，平台间的数据边界与访问规则亟待明确。</description>
+  </item>
+  <item>
+    <title>17 岁 Kimi 架构核心参与者离职，确认赴湾区发展</title>
+    <link>https://www.infoq.cn/article/UdT804ujpGxrv0pQfxv2</link>
+    <guid isPermaLink="false">49-12</guid>
+    <pubDate>Sun, 18 Oct 2026 22:58:03 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>据 InfoQ 报道，17 岁的 Kimi 架构核心参与者陈广宇已离职，确认将赴湾区，下一站引发猜测，但其否认将加入 Anthropic。此前爱范儿等媒体亦报道其离开 Kimi。年轻核心人才流向海外，折射出国内大模型团队在人才保留上面临的竞争压力。</description>
+  </item>
+  <item>
+    <title>Meta 联手苹果推出全美最强开源模型，编码基测输给智谱、Kimi</title>
+    <link>https://www.infoq.cn/article/EuYOPRUBAeBgBGBu5ktk</link>
+    <guid isPermaLink="false">49-13</guid>
+    <pubDate>Sun, 18 Oct 2026 23:01:33 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道称，Meta 联手苹果推出号称全美最强的开源模型，但在编码基础测试中输给智谱与 Kimi 的模型。这一对比显示国产开源模型在代码能力上已具备与国际头部厂商正面竞争的实力。开源模型的性能排名正成为中美 AI 竞争的重要观测维度。</description>
+  </item>
+  <item>
+    <title>阶跃星辰 AI 智能体“阶跃 Amoo”亮相 TMOT 电音节首秀</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04uMZeCmh_aahWH0gCU9hMqVqXa8Fplpd91f9YQxR934noEDt0GI3JoswaDFoztcRw-_c77rod3CeVkY5O_uQ9NBQnHxoWEHRqpD0ru5XvzVTgXeWo9ViNZ91gjI9VZUylAgfc8AWFfo5FsRWU7ZBLJTIXEeBUSmb1ZmzcZHNX6FoV5mJr5JjcF9fOgVjkY2-0Osr_6TdMgr9Cy6umSSPEsg..&amp;type=2&amp;query=AI %E6%99%BA%E8%83%BD%E4%BD%93&amp;token=4112D7C606A8372A23227A0511593D24241A36EF6AD55D8E</link>
+    <guid isPermaLink="false">49-14</guid>
+    <pubDate>Sun, 18 Oct 2026 16:33:41 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>10 月 17 日至 18 日，电音节 The Magic of Tomorrowland 2026 在上海举行，阶跃星辰推出的 AI 智能体“阶跃 Amoo”作为首个 AI 智能体参与首秀。该活动将智能体从工具场景推向大型线下娱乐互动，展示了多模态实时交互在复杂现场环境中的应用。智能体算力需求跃升，也带动光通信测试与 AI 热管理材料等配套环节受到关注。</description>
+  </item>
+  <item>
+    <title>株洲“智刃”大模型为国产刀具装上 AI 大脑</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt045Va_Xl3KZkdWH0gCU9hMqVqXa8Fplpd9EMQLm5hrhWFsP0K_OYeP1wWVFGLDh6QoxXnZI-kg4GimWy75TKI0FUnzUkOymveR-p_jjvZDP1RHWOFiGslEgLaZB1E8FNMUF5CF_8UloufMfcKwJ5fDe8uMQ_7BjYqbspFOAkVD7AJLT1rPPlV8PvQVrvikVdbpM4rTI3qJvojs46dn8Efgxg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=4112ED4406A8372A23227A0511593D24241A36EF6AD55D90</link>
+    <guid isPermaLink="false">49-15</guid>
+    <pubDate>Sun, 18 Oct 2026 13:19:01 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>株洲推出垂直大模型“智刃”，面向国产刀具的材料、涂层与工艺匹配生成可落地量产的方案，补齐国产高端刀具在关键参数匹配上的短板。该模型推动国产刀具从“能用”向“好用”跨越，是 AI 赋能传统制造业的典型落地案例。垂直大模型正加速向工业细分环节渗透。</description>
+  </item>
+  <item>
+    <title>“华医大脑”发布，打通“中医+AI”最后一公里</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04LaRm-6eJ4oJWH0gCU9hMqVqXa8Fplpd9d7Ouyg_HOSz4Mq4rcPI4saYYPd_TvrRL9CHvRfKJrkRmzwez41I5RwX4i0TYOTRQG2xqh4xCvBzPg1osPdUksTwZTNK-G0GSG-al4XavhPkXYaDZRMJ7GtoqKDeV5f0Cy60CEgZ9ZBxSYQoxsfjhcmVy5HqtOonEQ66h5hf3a6WjotuuiAmOIg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=4112AE3E06A8372A23227A0511593D24241A36EF6AD55D88</link>
+    <guid isPermaLink="false">49-16</guid>
+    <pubDate>Sun, 18 Oct 2026 21:53:23 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>《人工智能赋能全球传统医学发展报告》正式发布，“华医大脑”同步亮相，报告指出制约中医药普惠的三大核心瓶颈为传承难等。该项目试图以 AI 解决中医经验传承与标准化难题，推动传统医学的规模化服务。中医与 AI 结合是垂直大模型在民生健康领域的新探索。</description>
+  </item>
+  <item>
+    <title>建投研报：国产模型 Q4 迎升级迭代周期，关注 Anthropic 上市进展</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt045Va_Xl3KZkdWH0gCU9hMqVqXa8Fplpd9pKgpUGVnIaXYSidR0NgkWiyWZTRu4wHYOkCUaOmlg-gT8D0ZsbKa5MOa-jC6ckp8KTXsh9KPhOD5mREQmjJIYDhb5sRZd3HP5aqZT0InNTMNhnOjPCbnEbh7cK9ed6PsV7nH72knTvDY3TMyfFhf_72kwZr7V6BaHIFH-qo-NDlhWLv6O878UA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=4112ED4406A8372A23227A0511593D24241A36EF6AD55D90</link>
+    <guid isPermaLink="false">49-17</guid>
+    <pubDate>Sun, 18 Oct 2026 15:26:50 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>建投 AI&amp;互联网周观点指出，国产模型将在第四季度迎来升级迭代周期，并提及 DeepSeek 融资拟扩至约 1000 亿元、国产大模型重要入口级授权有望落地等资本化动态。研报同时建议关注 Anthropic 上市进展对全球 AI 估值的影响。该观点将模型迭代与资本化并列为 Q4 两条主线。</description>
+  </item>
+  <item>
+    <title>国产大模型集体冲刺，小米模型上线三周进入开源阵营前列</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt045Va_Xl3KZkdWH0gCU9hMqVqXa8Fplpd9EVUBqnAvTEYmw7VWH91v9ExC7UAJufjKaaF1BfyqHFUiCcLbtlj7saw6TgF2LfClNm_6ByDvYDXF-Uj6voB9qDvMoj4pv6Ci1fcu3xRAXPoSaj4ssEiJaPHGmHIEAvt4hFL1yWoXyv-xGmcqL8pdO7PsA7khMI6W4dml6IXjgLVS6t2rFt2rnA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=4112ED4406A8372A23227A0511593D24241A36EF6AD55D90</link>
+    <guid isPermaLink="false">49-18</guid>
+    <pubDate>Sun, 18 Oct 2026 16:10:42 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>微信公众号文章梳理本周国产大模型动态，指出小米大模型上线三周后，多份公开评测已进入开源阵营前列。文章将多家厂商的进展归纳为国产模型集体冲刺的态势。这显示新入局者正以较快节奏缩小与头部开源模型的差距。</description>
+  </item>
   <item>
     <title>DeepSeek 发布 V4.1-Flash-1017 模型</title>
     <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
@@ -339,149 +483,5 @@
     <pubDate>Sat, 17 Oct 2026 05:26:15 +0000</pubDate>
     <source>Google News 中文</source>
     <description>中国信通院人工智能所联合清华大学等机构发布《具身智能发展报告（2026 年）》，围绕物理 AI、产业窗口期等议题展开。报告为具身智能的产业阶段与落地路径提供官方框架。具身智能正从概念热度进入标准与评估体系建设期。</description>
-  </item>
-  <item>
-    <title>优必选 Thinker-WM 在三大具身世界模型基准登顶</title>
-    <link>https://www.qbitai.com/2026/10/503843.html</link>
-    <guid isPermaLink="false">46-12</guid>
-    <pubDate>Fri, 16 Oct 2026 08:00:31 +0000</pubDate>
-    <source>量子位</source>
-    <description>优必选发布 Thinker-WM，采用多模态统一表征，单模型实现六项能力，并在三大公认具身世界模型基准评测中全部拿下第一。世界模型被视为机器人「想清楚再干」的关键环节。国产厂商在具身基础模型评测上开始占据榜首位置。</description>
-  </item>
-  <item>
-    <title>四川具身科技获超 1 亿元融资，9.8 万元起售冲刺万台量产</title>
-    <link>https://www.qbitai.com/2026/10/503782.html</link>
-    <guid isPermaLink="false">46-13</guid>
-    <pubDate>Fri, 16 Oct 2026 06:17:53 +0000</pubDate>
-    <source>量子位</source>
-    <description>四川一家具身智能公司获得超 1 亿元融资，产品 9.8 万元起售，主打情绪价值场景，并冲刺万台量产目标。具身智能的消费级定价与量产节奏成为融资叙事的核心。人形与服务机器人正试探家庭场景的真实付费意愿。</description>
-  </item>
-  <item>
-    <title>奇瑞 JAECOO 联合 Momenta 完成首个无接管凯旋门环岛智驾挑战</title>
-    <link>https://www.ithome.com/1/014/343.htm</link>
-    <guid isPermaLink="false">46-14</guid>
-    <pubDate>Sat, 17 Oct 2026 09:19:04 +0000</pubDate>
-    <source>IT之家</source>
-    <description>巴黎车展期间，奇瑞 JAECOO 与 Momenta 使用搭载 Momenta R7 世界模型的 JAECOO 7，完成全程约 11.38 公里的凯旋门环岛无接管智驾挑战，覆盖无标线道路、12 个出口与右方优先规则。这是中国智驾方案在欧洲复杂路况下的一次公开验证。多家媒体报道该事件。</description>
-  </item>
-  <item>
-    <title>本地千亿参数大模型落地国产 PC，AIPC 进入深水区</title>
-    <link>https://finance.sina.cn/stock/jdts/2026-10-17/detail-inivnzst8167694.d.html?vt</link>
-    <guid isPermaLink="false">46-15</guid>
-    <pubDate>Sat, 17 Oct 2026 03:33:59 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>有报道称本地千亿参数大模型已在国产 PC 上落地运行，涉及内存、推理、云端与芯片的协同设计。AIPC 的竞争焦点从概念营销转向端侧推理的实际可用性。端侧算力与内存配置正成为 PC 换机的核心卖点。</description>
-  </item>
-  <item>
-    <title>2026 世界算力网大会在深圳举行，发布两大白皮书</title>
-    <link>https://m.mp.oeeee.com/a/BAAFRD0000202610161683768.html</link>
-    <guid isPermaLink="false">46-16</guid>
-    <pubDate>Sat, 17 Oct 2026 00:40:59 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>2026 世界算力网大会在深圳举行，会上发布两份算力网相关白皮书。算力网络从概念走向标准与调度体系建设。跨区域算力调度与并网正在成为基础设施层面的政策抓手。</description>
-  </item>
-  <item>
-    <title>AXP 发布：确定性网络接入百万级智能体</title>
-    <link>https://m.sohu.com/a/1088973041_128075?scm</link>
-    <guid isPermaLink="false">46-17</guid>
-    <pubDate>Sat, 17 Oct 2026 05:26:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>AXP 正式发布，主打确定性网络接入百万级智能体，定位为 AI 通信底座。方案针对智能体大规模并发下的网络时延与可靠性问题。Agent 基础设施层开始出现专门的网络协议与产品。</description>
-  </item>
-  <item>
-    <title>范式智能联合睿思智联推出开源一站式生产级 AI 部署平台「模域 ModelSphere」</title>
-    <link>https://www.qbitai.com/2026/10/503829.html</link>
-    <guid isPermaLink="false">46-18</guid>
-    <pubDate>Fri, 16 Oct 2026 07:16:11 +0000</pubDate>
-    <source>量子位</source>
-    <description>范式智能与北京睿思智联联合推出开源一站式生产级 AI 部署平台「模域 ModelSphere」，面向模型部署与生产落地。平台以开源方式提供从模型到生产的部署链路。生产级部署工具的开源化有助于降低企业落地门槛。</description>
-  </item>
-  <item>
-    <title>中控技术接入千问办公，流程工业 AI Native 落地营销全链路</title>
-    <link>https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html</link>
-    <guid isPermaLink="false">46-19</guid>
-    <pubDate>Fri, 16 Oct 2026 07:51:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>中控技术正式接入千问办公，将 Agent 落地营销全链路，并计划扩展至采购、供应链、财务、人力与研发场景。官方称解决方案产出时间从 5 天以上缩短至 1 天，效率提升约 5 倍。流程工业成为企业级 Agent 的典型落地场景。</description>
-  </item>
-  <item>
-    <title>千问办公付费用户占比超 20%，电商商家成最深使用行业</title>
-    <link>https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html</link>
-    <guid isPermaLink="false">46-20</guid>
-    <pubDate>Fri, 16 Oct 2026 02:24:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>千问办公上线两个多月，付费用户中电商行业占比超过 20%，有商家将新店准备周期从一个月压缩至 7 天、前期投入从超 1 万元降至数百元 Token 成本。AI 办公工具在电商运营场景形成可量化的降本案例。企业级 AI 付费意愿正在被具体 ROI 验证。</description>
-  </item>
-  <item>
-    <title>Meta 发布开源权重模型 Muse Spark Open，可在 Mac 本地运行</title>
-    <link>https://research.meta.ai/blog/muse-spark-open</link>
-    <guid isPermaLink="false">45-1</guid>
-    <pubDate>Thu, 15 Oct 2026 17:47:39 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Meta 推出开源权重模型 Muse Spark Open（816B-A42B），宣称是迄今最强的美国开源权重模型，并与 Apple 合作通过 MLX 框架在两台 M5 Ultra Mac Studio 上本地运行。多家媒体报道称这是美国实验室在开源权重路线上的又一次重要推进。</description>
-  </item>
-  <item>
-    <title>Meta 与 Apple 联手，Muse Spark Open 可在 Apple Silicon 本地运行</title>
-    <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs</link>
-    <guid isPermaLink="false">45-2</guid>
-    <pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道 Meta 与 Apple 合作为 Muse Spark Open 提供本地运行支持，模型将直接在 Apple Silicon 上执行。这标志着 Meta 在开源权重策略上进一步绑定硬件生态。</description>
-  </item>
-  <item>
-    <title>Meta 与 Apple 合作优化 Muse 模型在 Mac 上的运行</title>
-    <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
-    <guid isPermaLink="false">45-3</guid>
-    <pubDate>Thu, 15 Oct 2026 18:15:36 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 报道 Meta 称 Muse Spark Open 是同类中首个可在两台搭载 M5 Ultra 的 Mac Studio 上通过 MLX 框架运行的模型。Meta 与 Apple 的合作细节随之曝光。</description>
-  </item>
-  <item>
-    <title>台积电掌握主动权，Nvidia、Apple、AMD 争夺有限 AI 芯片产能</title>
-    <link>https://www.benzinga.com/markets/tech/26/10/62404541/taiwan-semiconductor-holds-the-cards-as-nvidia-apple-and-amd-battle-for-limited-ai-chip-capacity</link>
-    <guid isPermaLink="false">45-4</guid>
-    <pubDate>Fri, 16 Oct 2026 09:35:15 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Benzinga 报道称在 AI 芯片需求持续高涨背景下，台积电成为 Nvidia、Apple 与 AMD 争夺产能的关键节点。先进制程与封装产能仍是整个 AI 供应链的瓶颈。</description>
-  </item>
-  <item>
-    <title>台湾拟收紧对华 AI 芯片出口以配合美国</title>
-    <link>https://www.investing.com/news/stock-market-news/taiwan-to-curb-ai-chip-sales-to-china-for-more-us-alignment-bloomberg-4953152</link>
-    <guid isPermaLink="false">45-5</guid>
-    <pubDate>Fri, 16 Oct 2026 06:11:13 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Bloomberg 报道称台湾计划进一步限制对中国的 AI 芯片销售，以加强与美国的政策对齐。此举可能影响区域 AI 芯片供应链与转口贸易。</description>
-  </item>
-  <item>
-    <title>台湾拟在得州投资 40 亿美元建 Nvidia AI 供应链园区，并收紧对华芯片出口</title>
-    <link>https://www.tradingview.com/news/seekingalpha:059b30792094b:0-taiwan-reportedly-plans-4b-texas-complex-for-nvidia-ai-supply-chain-tightens-china-ai-chip-exports/</link>
-    <guid isPermaLink="false">45-6</guid>
-    <pubDate>Fri, 16 Oct 2026 06:11:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>报道称台湾计划在得克萨斯州建设价值约 40 亿美元的 Nvidia AI 供应链综合体，同时收紧对中国大陆的 AI 芯片出口。此举兼具产业外移与地缘政治双重意涵。</description>
-  </item>
-  <item>
-    <title>西弗吉尼亚等多州起诉 OpenAI，称 ChatGPT 欺骗用户并危害儿童</title>
-    <link>https://www.wvgazettemail.com/news/legal_affairs/wv-other-states-sue-openai-claiming-chatgpt-chatbot-deceives-users-harms-children/article_a0cc350f-c917-41be-af8b-cb99f8f9d7e7.html</link>
-    <guid isPermaLink="false">45-7</guid>
-    <pubDate>Fri, 16 Oct 2026 09:15:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>西弗吉尼亚州等多州联合起诉 OpenAI，指控 ChatGPT 欺骗用户并对儿童造成伤害。这是美国州级监管对前沿 AI 公司发起的又一轮法律行动。</description>
-  </item>
-  <item>
-    <title>马斯克旗下 AI 公司将在纽约市议会 AI 安全与监管听证会上作证</title>
-    <link>https://abc7ny.com/post/elon-musks-ai-company-testify-nyc-council-hearing-artificial-intelligence-safety-regulations/19943220/</link>
-    <guid isPermaLink="false">45-8</guid>
-    <pubDate>Fri, 16 Oct 2026 09:33:45 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 ABC7 New York 报道，Elon Musk 的 AI 公司将出席纽约市议会关于 AI 安全与监管的听证会。这是地方立法机构对前沿 AI 企业展开调查的一部分。</description>
-  </item>
-  <item>
-    <title>SpaceX 政策负责人将就纽约市议会 AI 安全调查作证</title>
-    <link>https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html</link>
-    <guid isPermaLink="false">45-9</guid>
-    <pubDate>Fri, 16 Oct 2026 08:00:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>CNBC 报道 SpaceX 政策经理将作为纽约市议会 AI 安全调查的一部分出席作证。该调查聚焦 AI 安全与监管议题，涉及多家科技企业。</description>
   </item>
 </channel></rss>
