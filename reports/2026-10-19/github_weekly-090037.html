@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitHub 每周 AI 高星项目 · 2026-10-19</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1a1d24;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--warn:#b45309}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:16px/1.75 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+.wrap{max-width:920px;margin:0 auto;padding:28px 20px 80px}
+header.top{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;
+ padding:26px 28px;margin-bottom:22px}
+header.top h1{margin:0 0 6px;font-size:26px;line-height:1.3}
+header.top .sub{opacity:.9;font-size:14px}
+.overview{background:#eef4ff;border-left:4px solid var(--accent);border-radius:8px;
+ padding:16px 18px;margin:0 0 22px;white-space:pre-wrap}
+h2.group{font-size:19px;margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--accent)}
+article{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:18px 20px;margin-bottom:14px;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+article h3{margin:0 0 8px;font-size:18px;line-height:1.45}
+article h3 .idx{color:var(--accent);font-weight:700;margin-right:6px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px}
+.summary{margin:0 0 10px}
+.why{color:#334155;background:#f8fafc;border-radius:8px;padding:8px 12px;font-size:14px;margin:0 0 10px}
+.why b{color:var(--accent)}
+.link{font-size:14px;word-break:break-all}
+.link a{color:var(--accent);text-decoration:none}
+.link a:hover{text-decoration:underline}
+.orig{color:var(--muted);font-size:12px;margin-top:6px}
+.badge{display:inline-block;background:#fee2e2;color:#b91c1c;border-radius:6px;
+ padding:0 6px;font-size:12px;margin-left:6px}
+footer{color:var(--muted);font-size:13px;margin-top:34px}
+details.health{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-top:26px}
+details.health summary{cursor:pointer;font-weight:600}
+table{border-collapse:collapse;width:100%;margin-top:12px;font-size:13px}
+th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+th{background:#f3f4f6}
+.notes{background:#fffbeb;border-left:4px solid var(--warn);border-radius:8px;padding:12px 16px;margin-top:22px;font-size:14px}
+nav a{color:var(--accent);margin-right:14px;text-decoration:none;font-size:14px}
+</style></head><body><div class="wrap">
+<header class="top">
+  <h1>GitHub 每周 AI 高星项目 · 2026-10-19</h1>
+  <div class="sub">统计区间：最近 7 天新创建/活跃的 AI 相关仓库，按 Star 排序取前十 ｜ 生成于 2026-10-19 09:00</div>
+  <div class="sub">生成时间 2026-10-19 09:00（北京时间） ｜
+    抓取 70 条 ｜ 入选 10 条 ｜ 大模型摘要 ｜ 网络：境外源经代理 http://127.0.0.1:7897</div>
+  <nav style="margin-top:10px"><a href="../../index.html">首页</a><a href="../../index.html">← 返回看板首页</a></nav>
+</header>
+<div class="overview">本周 GitHub AI 新项目呈现两条主线：一是「智能体基础设施」继续下沉，浏览器智能体、Agent Runtime、上下文压缩与 AI 网关等组件密集出现；二是本地化与垂直场景加速落地，从 CPU OCR、Blender 3D 助手到跨境电商 SOP 工作流，开源项目正把模型能力封装成可直接使用的工具。值得注意的是，MCP 已成为编辑器、3D 软件与游戏 Mod 的通用接入层，而围绕 Claude Code 等编码智能体的技能与优化工具形成新的小生态。</div><article>
+<h3><span class="idx">1.</span>Scout：Outcrawl 开源浏览器智能体<span class="badge">★★★★★</span></h3>
+<div class="meta">⭐ 945 · TypeScript · GitHub</div>
+<p class="summary">Scout 是一个用真实浏览器完成任务的智能体，用户用自然语言描述需求，它自动读页面、点击、输入和滚动，完成后返回结果，失败时说明缺什么。项目以 TypeScript 实现，基于 CDP 驱动浏览器，并提供云端一键接入（含验证码处理与运行回放）和本地运行两种模式。适合需要网页自动化但不想维护爬虫脚本的开发者与运营团队，文档含 Quickstart 与示例，但云端能力依赖商业服务。</p>
+<p class="why"><b>为什么重要</b>：浏览器智能体是本周最热方向，Scout 以「任务即结果」的产品化形态降低了使用门槛。</p>
+<div class="link">原文链接：<a href="https://github.com/outcrawlai/scout" target="_blank" rel="noopener">https://github.com/outcrawlai/scout</a></div>
+<div class="orig">原标题：outcrawlai/scout</div>
+</article><article>
+<h3><span class="idx">2.</span>Indra OCR：CPU 上每秒 49 页的文档解析模型<span class="badge">★★★★★</span></h3>
+<div class="meta">⭐ 627 · Python · GitHub</div>
+<p class="summary">Datalab 发布 100 万参数的 Indra OCR，在 CPU 上实现最高 49 页/秒的吞吐，单页延迟约 230ms，比 Tesseract 和 PaddleOCR 快 11~24 倍。它支持行检测、CTC 识别、阅读顺序还原，可把 PDF 和图片输出为 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合需要低成本批量解析文档的 RAG 与数据工程团队，项目开源且提供 ONNX 推理路径。</p>
+<p class="why"><b>为什么重要</b>：在 GPU 之外把 OCR 做到实用级吞吐，直接降低文档入库成本。</p>
+<div class="link">原文链接：<a href="https://github.com/datalab-to/indra" target="_blank" rel="noopener">https://github.com/datalab-to/indra</a></div>
+<div class="orig">原标题：datalab-to/indra</div>
+</article><article>
+<h3><span class="idx">3.</span>Blender AI MCP 插件：在 3D 场景里对话式建模<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 787 · Python · GitHub</div>
+<p class="summary">该项目为 Blender 4.2+ 提供 AI 助手与内置 MCP 服务器，可检查场景、创建物体、编辑材质、查找资产并执行多步工作流，支持 OpenAI、Claude、Gemini、Ollama 等多种模型。提供可视化聊天工作区与 Windows 安装包，采用 MIT 协议，适合 3D 艺术家和技术美术用自然语言驱动 bpy 脚本。Fork 数较高，说明社区二次开发活跃。</p>
+<p class="why"><b>为什么重要</b>：MCP 进入 3D 创作工具，展示了智能体操作专业软件而非仅聊天的新范式。</p>
+<div class="link">原文链接：<a href="https://github.com/LiCinCan/blender-ai-mcp-addon" target="_blank" rel="noopener">https://github.com/LiCinCan/blender-ai-mcp-addon</a></div>
+<div class="orig">原标题：LiCinCan/blender-ai-mcp-addon</div>
+</article><article>
+<h3><span class="idx">4.</span>AI 跨境电商运营智能体工具箱<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 389 · Python · GitHub</div>
+<p class="summary">项目把跨境电商运营 SOP 拆成 7 个可复用的 AI Agent 工作流，每个包含标准 Prompt、输入模板和真实案例，覆盖商品素材生成等运营环节。它不是 SaaS 软件，而是方法论加提示词与模板的交付物，采用 MIT 协议，v0.3 beta 状态。适合中小跨境卖家与运营人员直接套用，Fork 数远超 Star 数，反映实际落地需求强烈。</p>
+<p class="why"><b>为什么重要</b>：把提示词工程沉淀为可复制的运营 SOP，是 Agent 在垂直行业落地的务实样本。</p>
+<div class="link">原文链接：<a href="https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit" target="_blank" rel="noopener">https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit</a></div>
+<div class="orig">原标题：heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit</div>
+</article><article>
+<h3><span class="idx">5.</span>Antirion：单二进制 Rust AI 网关<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 23 · Rust · GitHub</div>
+<p class="summary">Antirion 用单个 Rust 二进制在应用与 OpenAI、Anthropic、Gemini、Bedrock 等模型提供商之间做路由、鉴权、预算控制和可观测，内置管理控制台，宣称性能快于 Bifrost 和 LiteLLM。项目采用 Apache-2.0 协议，提供部署文档与架构说明，适合需要统一 LLM 接入层和控制成本的企业平台团队。</p>
+<p class="why"><b>为什么重要</b>：AI 网关是模型多供应商时代的刚需组件，Rust 实现带来性能与部署优势。</p>
+<div class="link">原文链接：<a href="https://github.com/eliasbiondo/antirion" target="_blank" rel="noopener">https://github.com/eliasbiondo/antirion</a></div>
+<div class="orig">原标题：eliasbiondo/antirion</div>
+</article><article>
+<h3><span class="idx">6.</span>MyAgent：从零实现的通用 Agent Runtime<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 78 · Python · GitHub</div>
+<p class="summary">MyAgent 用 Python 从零实现通用 Agent 运行时，包含 Agent Loop、权限控制、MCP 接入、子 Agent 调度、上下文折叠与 Skills 自进化等机制。项目定位为学习与二次开发底座，适合想理解智能体内核或自建运行时框架的开发者。代码结构清晰但生态尚早期，文档以仓库说明为主。</p>
+<p class="why"><b>为什么重要</b>：在框架林立的当下，一个可读的从零实现有助于厘清 Agent Runtime 的核心抽象。</p>
+<div class="link">原文链接：<a href="https://github.com/ztt0216/MyAgent" target="_blank" rel="noopener">https://github.com/ztt0216/MyAgent</a></div>
+<div class="orig">原标题：ztt0216/MyAgent</div>
+</article><article>
+<h3><span class="idx">7.</span>TokenForge：为编码智能体压缩上下文窗口<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 31 · JavaScript · GitHub</div>
+<p class="summary">TokenForge 针对 AI 编码智能体的上下文膨胀问题，将工具输出沙箱化以减少约 98% 的 token，并用 SQLite + FTS5 持久化会话记忆，通过 MCP 与 hooks 在 17 个平台上做路由。它兼容 Claude Code、Gemini CLI、VS Code Copilot、OpenCode 和 Codex CLI，适合重度使用编码智能体的开发者控制成本与提升长会话稳定性。</p>
+<p class="why"><b>为什么重要</b>：上下文管理正成为编码智能体的关键瓶颈，TokenForge 给出了可量化的工程解法。</p>
+<div class="link">原文链接：<a href="https://github.com/speedydivid/TokenForge" target="_blank" rel="noopener">https://github.com/speedydivid/TokenForge</a></div>
+<div class="orig">原标题：speedydivid/TokenForge</div>
+</article><article>
+<h3><span class="idx">8.</span>NPCTalk：让任意游戏 NPC 用克隆语音对话<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 167 · Python · GitHub</div>
+<p class="summary">NPCTalk 结合 Fish Audio 语音与 LLM，让玩家开口说话后 NPC 以角色口吻、克隆音色在约一秒内回应并做出反应，提供自托管语音服务器和面向 Claude Code、Codex、Cursor 等编码智能体的技能工具。项目以 GTA V 为完整示例，MIT 协议，适合游戏 Mod 开发者与互动叙事创作者。</p>
+<p class="why"><b>为什么重要</b>：语音克隆加智能体把游戏 Mod 推向实时对话，展示了消费级 AI 创作的新玩法。</p>
+<div class="link">原文链接：<a href="https://github.com/christos-antono/NPCTalk" target="_blank" rel="noopener">https://github.com/christos-antono/NPCTalk</a></div>
+<div class="orig">原标题：christos-antono/NPCTalk</div>
+</article><article>
+<h3><span class="idx">9.</span>im-mcp：微信与钉钉聊天记录本地 MCP 服务<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 29 · Python · GitHub</div>
+<p class="summary">im-mcp 是一个快速、本地、只读的 MCP 服务器，支持微信 4.x/3.x 与钉钉 7.x 聊天记录，基于 FTS5 提供全文检索，可接入 Claude Desktop、Cursor 等客户端。它解决的是个人聊天数据难以被 AI 利用的问题，适合希望用本地数据做个人知识管理的用户，项目为 Python 实现且强调只读安全。</p>
+<p class="why"><b>为什么重要</b>：把封闭的即时通讯数据以 MCP 方式开放给 AI，是个人数据工具化的典型切口。</p>
+<div class="link">原文链接：<a href="https://github.com/stkoecn/im-mcp" target="_blank" rel="noopener">https://github.com/stkoecn/im-mcp</a></div>
+<div class="orig">原标题：stkoecn/im-mcp</div>
+</article><article>
+<h3><span class="idx">10.</span>Malvex：AI 驱动的恶意软件分析框架<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 24 · Rust · GitHub</div>
+<p class="summary">Malvex 用 Rust 构建，集成 30 多个分析工具，提供 Web REPL 与 MCP 服务器，覆盖动态分析、事件响应等场景，让 AI 智能体可调用工具链完成恶意软件研判。项目适合安全分析师与应急响应团队，开源但生态较新，文档与社区仍在建设中。</p>
+<p class="why"><b>为什么重要</b>：安全运营是智能体高价值落地场景，Malvex 把工具编排与 MCP 结合得较为完整。</p>
+<div class="link">原文链接：<a href="https://github.com/JoasASantos/Malvex" target="_blank" rel="noopener">https://github.com/JoasASantos/Malvex</a></div>
+<div class="orig">原标题：JoasASantos/Malvex</div>
+</article>
+<details class="health"><summary>数据源健康（1 个源）</summary>
+<table><tr><th>来源</th><th>类型</th><th>抓取</th><th>保留</th><th>耗时</th><th>状态</th></tr>
+<tr><td>GitHub</td><td>github</td><td>70</td><td>70</td><td>8.5s</td><td>正常</td></tr></table></details>
+<footer>由 AI 情报助手生成 · 2026-10-19 09:00:37</footer>
+</div></body></html>

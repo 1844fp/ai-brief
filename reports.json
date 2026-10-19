@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T08:01:22.477415",
+ "generated_at": "2026-10-19T09:00:38.176855",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 51,
+   "task": "github_weekly",
+   "title": "GitHub 每周 AI 高星项目 · 2026-10-19",
+   "created_at": "2026-10-19T01:00:37.095080+00:00",
+   "item_count": 10,
+   "llm_ok": true,
+   "url": "reports/2026-10-19/github_weekly-090037.html"
+  },
   {
    "id": 50,
    "task": "news_daily_cn",
@@ -396,6 +405,126 @@
   }
  ],
  "items": [
+  {
+   "task": "github_weekly",
+   "rank": 1,
+   "title": "Scout：Outcrawl 开源浏览器智能体",
+   "url": "https://github.com/outcrawlai/scout",
+   "source": "GitHub",
+   "summary": "Scout 是一个用真实浏览器完成任务的智能体，用户用自然语言描述需求，它自动读页面、点击、输入和滚动，完成后返回结果，失败时说明缺什么。项目以 TypeScript 实现，基于 CDP 驱动浏览器，并提供云端一键接入（含验证码处理与运行回放）和本地运行两种模式。适合需要网页自动化但不想维护爬虫脚本的开发者与运营团队，文档含 Quickstart 与示例，但云端能力依赖商业服务。",
+   "why": null,
+   "category": "智能体 / 浏览器自动化",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 2,
+   "title": "Indra OCR：CPU 上每秒 49 页的文档解析模型",
+   "url": "https://github.com/datalab-to/indra",
+   "source": "GitHub",
+   "summary": "Datalab 发布 100 万参数的 Indra OCR，在 CPU 上实现最高 49 页/秒的吞吐，单页延迟约 230ms，比 Tesseract 和 PaddleOCR 快 11~24 倍。它支持行检测、CTC 识别、阅读顺序还原，可把 PDF 和图片输出为 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合需要低成本批量解析文档的 RAG 与数据工程团队，项目开源且提供 ONNX 推理路径。",
+   "why": null,
+   "category": "多模态 / 文档解析",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 3,
+   "title": "Blender AI MCP 插件：在 3D 场景里对话式建模",
+   "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+   "source": "GitHub",
+   "summary": "该项目为 Blender 4.2+ 提供 AI 助手与内置 MCP 服务器，可检查场景、创建物体、编辑材质、查找资产并执行多步工作流，支持 OpenAI、Claude、Gemini、Ollama 等多种模型。提供可视化聊天工作区与 Windows 安装包，采用 MIT 协议，适合 3D 艺术家和技术美术用自然语言驱动 bpy 脚本。Fork 数较高，说明社区二次开发活跃。",
+   "why": null,
+   "category": "智能体 / 3D 创作",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 4,
+   "title": "AI 跨境电商运营智能体工具箱",
+   "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+   "source": "GitHub",
+   "summary": "项目把跨境电商运营 SOP 拆成 7 个可复用的 AI Agent 工作流，每个包含标准 Prompt、输入模板和真实案例，覆盖商品素材生成等运营环节。它不是 SaaS 软件，而是方法论加提示词与模板的交付物，采用 MIT 协议，v0.3 beta 状态。适合中小跨境卖家与运营人员直接套用，Fork 数远超 Star 数，反映实际落地需求强烈。",
+   "why": null,
+   "category": "智能体 / 电商运营",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 5,
+   "title": "Antirion：单二进制 Rust AI 网关",
+   "url": "https://github.com/eliasbiondo/antirion",
+   "source": "GitHub",
+   "summary": "Antirion 用单个 Rust 二进制在应用与 OpenAI、Anthropic、Gemini、Bedrock 等模型提供商之间做路由、鉴权、预算控制和可观测，内置管理控制台，宣称性能快于 Bifrost 和 LiteLLM。项目采用 Apache-2.0 协议，提供部署文档与架构说明，适合需要统一 LLM 接入层和控制成本的企业平台团队。",
+   "why": null,
+   "category": "推理加速 / AI 基础设施",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 6,
+   "title": "MyAgent：从零实现的通用 Agent Runtime",
+   "url": "https://github.com/ztt0216/MyAgent",
+   "source": "GitHub",
+   "summary": "MyAgent 用 Python 从零实现通用 Agent 运行时，包含 Agent Loop、权限控制、MCP 接入、子 Agent 调度、上下文折叠与 Skills 自进化等机制。项目定位为学习与二次开发底座，适合想理解智能体内核或自建运行时框架的开发者。代码结构清晰但生态尚早期，文档以仓库说明为主。",
+   "why": null,
+   "category": "智能体 / 运行时框架",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 7,
+   "title": "TokenForge：为编码智能体压缩上下文窗口",
+   "url": "https://github.com/speedydivid/TokenForge",
+   "source": "GitHub",
+   "summary": "TokenForge 针对 AI 编码智能体的上下文膨胀问题，将工具输出沙箱化以减少约 98% 的 token，并用 SQLite + FTS5 持久化会话记忆，通过 MCP 与 hooks 在 17 个平台上做路由。它兼容 Claude Code、Gemini CLI、VS Code Copilot、OpenCode 和 Codex CLI，适合重度使用编码智能体的开发者控制成本与提升长会话稳定性。",
+   "why": null,
+   "category": "智能体 / 上下文优化",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 8,
+   "title": "NPCTalk：让任意游戏 NPC 用克隆语音对话",
+   "url": "https://github.com/christos-antono/NPCTalk",
+   "source": "GitHub",
+   "summary": "NPCTalk 结合 Fish Audio 语音与 LLM，让玩家开口说话后 NPC 以角色口吻、克隆音色在约一秒内回应并做出反应，提供自托管语音服务器和面向 Claude Code、Codex、Cursor 等编码智能体的技能工具。项目以 GTA V 为完整示例，MIT 协议，适合游戏 Mod 开发者与互动叙事创作者。",
+   "why": null,
+   "category": "多模态 / 游戏 Mod",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 9,
+   "title": "im-mcp：微信与钉钉聊天记录本地 MCP 服务",
+   "url": "https://github.com/stkoecn/im-mcp",
+   "source": "GitHub",
+   "summary": "im-mcp 是一个快速、本地、只读的 MCP 服务器，支持微信 4.x/3.x 与钉钉 7.x 聊天记录，基于 FTS5 提供全文检索，可接入 Claude Desktop、Cursor 等客户端。它解决的是个人聊天数据难以被 AI 利用的问题，适合希望用本地数据做个人知识管理的用户，项目为 Python 实现且强调只读安全。",
+   "why": null,
+   "category": "RAG / 数据工具",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 10,
+   "title": "Malvex：AI 驱动的恶意软件分析框架",
+   "url": "https://github.com/JoasASantos/Malvex",
+   "source": "GitHub",
+   "summary": "Malvex 用 Rust 构建，集成 30 多个分析工具，提供 Web REPL 与 MCP 服务器，覆盖动态分析、事件响应等场景，让 AI 智能体可调用工具链完成恶意软件研判。项目适合安全分析师与应急响应团队，开源但生态较新，文档与社区仍在建设中。",
+   "why": null,
+   "category": "智能体 / 网络安全",
+   "heat": 3,
+   "published": null
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
