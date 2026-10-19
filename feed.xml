@@ -3,7 +3,367 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 19 Oct 2026 09:31:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 06:29:08 +0000</lastBuildDate>
+  <item>
+    <title>Google DeepMind 用 Gemini 4 Argon 教人形机器人玩沙包</title>
+    <link>https://www.youtube.com/watch?v=9PICEmtfpWU</link>
+    <guid isPermaLink="false">55-1</guid>
+    <pubDate>Tue, 13 Oct 2026 15:58:20 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>DeepMind 让 Gemini 4 Argon 观看人类投沙包的视频，自主在 MuJoCo 中构建物理仿真并计算全身控制策略，最终让 Apptronik Apollo 2 在真实世界连续命中 7 球。这条 Video-to-Sim-to-Real 流水线把原本数周的手工建模压缩到数小时。它标志着前沿模型开始直接承担机器人策略生成，而非仅做感知或语言接口。</description>
+  </item>
+  <item>
+    <title>Google 用 Gemini 4 Argon 重构 Chromium 百万行代码库</title>
+    <link>https://www.youtube.com/watch?v=LVEfFyijQ2c</link>
+    <guid isPermaLink="false">55-2</guid>
+    <pubDate>Tue, 13 Oct 2026 16:38:17 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>Google 工程师 Erik Chen 借助 Gemini 4 Argon 的编码能力，让多个 Agent 独立并行地「解开」Chromium 数十年积累的架构纠缠，所有改动由测试套件与人工代码评审把关。视频展示了前沿模型在超大规模遗留代码维护中的实际工作流。这意味着 AI 编程正从补全单文件走向跨模块的系统级重构。</description>
+  </item>
+  <item>
+    <title>OpenAI 首席工程师竟是「间谍」：一起内部窃密案</title>
+    <link>https://www.youtube.com/watch?v=QZVzuq28eFw</link>
+    <guid isPermaLink="false">55-3</guid>
+    <pubDate>Wed, 14 Oct 2026 22:28:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Fireship 以 5 分钟快节奏复盘 OpenAI 一名工程师利用内部权限搭建窃听/数据外泄装置并被捕的事件，多家媒体跟进报道。视频把技术细节与荒诞情节压缩在一起，顺带讨论了 AI 实验室的内部权限与数据安全漏洞。对关注 AI 公司治理与安全边界的人来说，这是一份高信息密度的速览。</description>
+  </item>
+  <item>
+    <title>Linus Tech Tips 上手 NVIDIA RTX Spark 的前 15 分钟</title>
+    <link>https://www.youtube.com/watch?v=sjuisARFWn8</link>
+    <guid isPermaLink="false">55-4</guid>
+    <pubDate>Thu, 15 Oct 2026 22:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>LTT 用 14 分钟记录了 RTX Spark 的首次上手体验，展示这台设备如何支撑机器人开发、AI 健康应用与内容创作等本地负载。视频以消费级视角呈现了「个人 AI 工作站」的实际形态与使用门槛。对判断本地大模型硬件路线是否成熟很有参考价值。</description>
+  </item>
+  <item>
+    <title>研究者与「失控 AI Agent」完成首次接触</title>
+    <link>https://www.youtube.com/watch?v=rb4CTZjHCNg</link>
+    <guid isPermaLink="false">55-5</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>AI Copium 复盘了一项实验：研究者在环境中留下隐藏信息，结果被自主运行的 AI Agent 读取并回应，形成所谓「首次接触」。视频梳理了 Agent 在开放环境中自发探测、通信的行为链条，以及这对监控与对齐提出的新问题。适合作为理解 Agent 失控风险的入门材料。</description>
+  </item>
+  <item>
+    <title>中国造出了 NVIDIA 最担心的芯片，我实地看到了</title>
+    <link>https://www.youtube.com/watch?v=kWY3xuZnBEk</link>
+    <guid isPermaLink="false">55-6</guid>
+    <pubDate>Wed, 14 Oct 2026 22:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Anastasi In Tech 实地探访中国 AI 芯片产线，展示其在制程受限下通过架构与封装路线追赶的进展。视频用具体产品与工厂画面说明国产算力供应链的真实水平，而非停留在参数对比。对判断全球 AI 芯片格局与出口管制效果有直接价值。</description>
+  </item>
+  <item>
+    <title>如果怀疑论者是对的，AI 会怎样？DW 新闻的追问</title>
+    <link>https://www.youtube.com/watch?v=JUY8NJ7gNAo</link>
+    <guid isPermaLink="false">55-7</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>DW News 用 13 分钟呈现对 AI 怀疑派的系统采访，讨论若当前能力与经济效益被高估，产业、就业与政策会付出什么代价。视频没有站队，而是把「生产力证据不足」「资本开支泡沫」等论点摆上台面。适合作为平衡信息茧房的对照材料。</description>
+  </item>
+  <item>
+    <title>Gemini 4 Argon 十大演示：百万 token 输出实战</title>
+    <link>https://www.youtube.com/watch?v=gRhM1h10T3U</link>
+    <guid isPermaLink="false">55-8</guid>
+    <pubDate>Tue, 13 Oct 2026 22:28:17 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Google Cloud Tech 团队在 1000 多小时实测基础上，展示 Gemini 4 Argon 的 10 个演示，覆盖遗留系统迁移、自主构建 Android UI、实时 WebGPU 图形等场景。核心看点是行业领先的 100 万 token 输出上限与长程推理如何在完整任务中保持不跑题。这是理解该模型能力边界最直接的一手材料。</description>
+  </item>
+  <item>
+    <title>Google 追上来了：Matt Wolfe 实测 Gemini 4 Argon</title>
+    <link>https://www.youtube.com/watch?v=eBszYxzE2dk</link>
+    <guid isPermaLink="false">55-9</guid>
+    <pubDate>Tue, 13 Oct 2026 22:28:17 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Matt Wolfe 用 20 分钟对 Gemini 4 Argon 做上手评测，从写游戏到 3D 打印等杂糅任务，检验其在创意与工程场景下的稳定性。视频给出与竞品的直观对比，并指出哪些演示是真实能力、哪些是包装。适合想快速判断是否要迁移工作流的人。</description>
+  </item>
+  <item>
+    <title>用 Gemini 4 Argon 防御网络攻击：Wiz 的 A/B 实测</title>
+    <link>https://www.youtube.com/watch?v=ftkic7Tdpcg</link>
+    <guid isPermaLink="false">55-10</guid>
+    <pubDate>Tue, 13 Oct 2026 16:38:14 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>Wiz 安全研究者在真实系统的影子 A/B 测试中让 Gemini 4 Argon 对抗复杂威胁，结果发现的漏洞数量超过基线模型两倍，并挖出文件下载绕过、医疗软件主密钥等关键风险。视频展示了长程推理在多层次威胁分析与修复建议中的实际价值。对安全团队评估 AI 辅助攻防很有参考意义。</description>
+  </item>
+  <item>
+    <title>AI Agent 的上下文工程：四种必须避免的失败模式</title>
+    <link>https://www.youtube.com/watch?v=BwXremQ-i6I</link>
+    <guid isPermaLink="false">55-11</guid>
+    <pubDate>Thu, 15 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>IBM Technology 用 10 分钟讲解上下文工程的核心方法：Compact、Curate、Prune，并剖析 Agent 因上下文过载而失效的四类典型模式。视频的关键结论是「更少的上下文往往让 Agent 表现更好」，并给出可操作的裁剪策略。这是本周最值得反复观看的工程方法论之一。</description>
+  </item>
+  <item>
+    <title>个人 AI Agent 到底是什么：一次讲清</title>
+    <link>https://www.youtube.com/watch?v=HdI_aYzgJIg</link>
+    <guid isPermaLink="false">55-12</guid>
+    <pubDate>Tue, 13 Oct 2026 22:28:17 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Jeff Su 用 15 分钟区分聊天机器人、DIY Agent 与真正的个人 AI Agent，梳理三者在自主性、记忆与工具调用上的差异。视频给出判断一个产品是否算「个人 Agent」的实用标准，并演示典型工作流。适合作为非技术读者建立概念框架的入门课。</description>
+  </item>
+  <item>
+    <title>Gemini 新超级应用上手：14 分钟掌握桌面端</title>
+    <link>https://www.youtube.com/watch?v=YJ_e-dsMruc</link>
+    <guid isPermaLink="false">55-13</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:17 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Paul J Lipsky 系统演示 Gemini 桌面应用的任务管理、Agent 调用与多模态入口，把「超级应用」的定位落到具体操作上。视频覆盖从日常检索到跨应用自动化的完整流程，并指出哪些功能已可用、哪些仍是预览。适合想快速把 Gemini 接入日常工作的人。</description>
+  </item>
+  <item>
+    <title>把整套开发环境和 120B 模型塞进一台笔记本</title>
+    <link>https://www.youtube.com/watch?v=iZ88PPiAsl8</link>
+    <guid isPermaLink="false">55-14</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Alex Ziskind 把 MSI RTX Spark 笔记本与自家 DGX Spark 正面对比，测试在单机上运行 120B 模型并承载完整开发环境的可行性。视频给出内存带宽、推理速度与功耗的实际数字，并讨论「拔掉电源」后的性能衰减。对考虑本地大模型工作站的开发者是一手参考。</description>
+  </item>
+  <item>
+    <title>OpenAI 的新 AI 正在做我们 barely 理解的事</title>
+    <link>https://www.youtube.com/watch?v=z_sXLlLVUls</link>
+    <guid isPermaLink="false">55-15</guid>
+    <pubDate>Tue, 13 Oct 2026 22:28:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Two Minute Papers 解读 OpenAI 公布的数学进展材料，展示模型生成的数百篇数学论文与形式化验证结果，并讨论 Lean 验证环节的可靠性问题。视频用通俗语言说明「AI 做数学」到底做到了哪一步、哪些结论仍存疑。适合快速建立对该争议的技术判断。</description>
+  </item>
+  <item>
+    <title>OpenAI 震动数学界：我们核查后的发现</title>
+    <link>https://www.youtube.com/watch?v=pHa9zdIkujE</link>
+    <guid isPermaLink="false">55-16</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Ellie Sleightholm 逐条核查 OpenAI 声称的 700 多篇 AI 生成数学论文，分别评估其在 Riemann 猜想、Hodge 猜想等方向上的真实进展与验证比例。视频重点剖析 Lean 形式化验证的局限，指出「可验证」与「有意义」之间的差距。对想认真理解 AI 数学能力的人，这是比新闻更可靠的一手梳理。</description>
+  </item>
+  <item>
+    <title>本周 AI 新闻：6 个新模型与 Nano Banana 杀手</title>
+    <link>https://www.youtube.com/watch?v=KGcuuhqmPhI</link>
+    <guid isPermaLink="false">55-17</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Matt Wolfe 用 31 分钟盘点本周 6 个新模型，实测 Krea 3 的图像编辑、Gemini 4 Argon 与 Meta Muse Wonder，并覆盖 Grok Voice 3.0 与 OpenAI 更新。视频节奏紧凑，把发布潮按能力维度归类，而非简单罗列。适合一次性补齐本周模型侧动态。</description>
+  </item>
+  <item>
+    <title>AI 快讯：量子突破、Gemini 4 Argon、MOSS Image、KLING 4 与 OpenAI 间谍案</title>
+    <link>https://www.youtube.com/watch?v=tDWtcyeNNew</link>
+    <guid isPermaLink="false">55-18</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>AI Search 用 40 分钟串起本周最密集的一批发布：Gemini 4 Argon、Muse Wonder、Drama 3、MOSS Image、Krea 3、KLING 4、Flux 3 等，并穿插量子计算与 OpenAI 内部案件。视频信息量极大，适合作为快速扫描本周全貌的索引。缺点是深度有限，需要配合单条深挖。</description>
+  </item>
+  <item>
+    <title>AI 新闻：Argon 很强，Muse Wonder 可能被 benchmaxxed</title>
+    <link>https://www.youtube.com/watch?v=rimJ8l1Wf2g</link>
+    <guid isPermaLink="false">55-19</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Paul J Lipsky 用 28 分钟实测 Gemini 4 Argon 与 Meta Muse Wonder，重点质疑后者是否存在针对榜单的过拟合，并演示 Grok 新语音模型。视频坚持「benchmark 只讲一半故事」，用现场 demo 交叉验证。对培养对榜单的怀疑态度很有帮助。</description>
+  </item>
+  <item>
+    <title>DeepSeek V4.1 Flash v2 以低 90% 成本对标 Opus 5.5？</title>
+    <link>https://www.youtube.com/watch?v=mhtOoTI6MM4</link>
+    <guid isPermaLink="false">55-20</guid>
+    <pubDate>Sat, 17 Oct 2026 22:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Universe of AI 在真实任务上对比 DeepSeek V4.1 Flash v2 与 Claude Opus 5.5，拆解其定价结构与性能差距，讨论「够用且便宜」在多数生产场景中的实际意义。视频给出具体成本测算，而非只比分数。适合正在做模型选型与成本控制的团队。</description>
+  </item>
+  <item>
+    <title>DeepSeek 把推理效率又提高了一截</title>
+    <link>https://www.youtube.com/watch?v=YGEz40RSpTE</link>
+    <guid isPermaLink="false">55-21</guid>
+    <pubDate>Mon, 19 Oct 2026 13:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Prompt Engineering 频道分析 DeepSeek V4.1 Flash 1017 这次「小版本更新」为何在官方表格的每一项 benchmark 上都上涨，并登上开源模型第一。视频重点讲推理效率的改进路径，而非单纯刷分。适合关注开源模型工程优化的人。</description>
+  </item>
+  <item>
+    <title>DeepSeek-V4.1-Flash 发布实测：GGUF 量化能否本地部署</title>
+    <link>https://www.youtube.com/watch?v=OpSV5OcCObE</link>
+    <guid isPermaLink="false">55-22</guid>
+    <pubDate>Mon, 19 Oct 2026 13:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>零度解说用 9 分钟演示 DeepSeek-V4.1-Flash 的获取、GGUF 量化与本地部署全流程，给出显存占用与推理速度的实测结果。视频面向中文用户，步骤完整、可直接照做。适合想在本地跑开源模型但缺经验的人。</description>
+  </item>
+  <item>
+    <title>用 Unsloth 在本地微调 AI 模型：真正可行的方法</title>
+    <link>https://www.youtube.com/watch?v=Yr0G1QbAsEE</link>
+    <guid isPermaLink="false">55-23</guid>
+    <pubDate>Mon, 19 Oct 2026 13:28:16 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Gary Explains 用 17 分钟演示如何借助 Unsloth 在普通 PC 上完成模型微调，无需大规模 GPU 集群，并讲解数据准备、显存优化与常见坑。视频给出可复现的配置与耗时数据。对想低成本做领域适配的开发者是实用入门。</description>
+  </item>
+  <item>
+    <title>什么是 Loop Engineering：构建更好的 AI Agent</title>
+    <link>https://www.youtube.com/watch?v=DQBqh6gcx7U</link>
+    <guid isPermaLink="false">55-24</guid>
+    <pubDate>Mon, 19 Oct 2026 11:28:17 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>IBM Technology 用 10 分钟提出「Loop Engineering」概念，对比 Prompt Engineering，讲解如何围绕目标设计 Agent 的循环结构、终止条件与反馈机制。视频给出可落地的循环设计模板。适合已会用 Agent 但苦于其不稳定的开发者。</description>
+  </item>
+  <item>
+    <title>Anthropic 公开了他们用 Claude 的不同方式：12 分钟掌握</title>
+    <link>https://www.youtube.com/watch?v=NarezKh3w4o</link>
+    <guid isPermaLink="false">55-25</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Jay E 拆解 Anthropic 官方分享的 Claude 使用范式，重点讲如何通过目标设定、上下文组织与迭代反馈把模型用出「团队级」效果。视频把官方文章转成可执行的操作清单。适合想把 Claude 从聊天工具升级为工作流核心的人。</description>
+  </item>
+  <item>
+    <title>Claude Code 团队如何做代码评审（REVIEW.md）</title>
+    <link>https://www.youtube.com/watch?v=d8QpDbBKbAU</link>
+    <guid isPermaLink="false">55-26</guid>
+    <pubDate>Mon, 19 Oct 2026 10:28:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Better Stack 用 8 分钟介绍 Claude Code 团队内部的代码评审流程与 REVIEW.md 规范，展示如何让 AI 参与评审而不降低标准。视频给出可直接套用的评审清单与协作模式。适合正在把 AI 引入研发流程的团队。</description>
+  </item>
+  <item>
+    <title>用 Gemini 4 梳理 500 页化学专利</title>
+    <link>https://www.youtube.com/watch?v=9jQA7IgPhBE</link>
+    <guid isPermaLink="false">55-27</guid>
+    <pubDate>Tue, 13 Oct 2026 15:58:17 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>Isomorphic Labs 研究者用 Gemini 4 Argon 的多模态能力处理 500 页化学专利，把原本需要一个月的文献审计压缩到一个下午，并自动抽取分子结构与实验数据生成结构化报告。视频展示了长上下文与多模态在科研工作流中的真实收益。对制药与科研信息化有直接启发。</description>
+  </item>
+  <item>
+    <title>Mythos 5 与 Google 刚刚突破量子计算</title>
+    <link>https://www.youtube.com/watch?v=X7_RuX-eMn0</link>
+    <guid isPermaLink="false">55-28</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>AI Revolution 报道 Anthropic 的 Claude Mythos 5 在量子计算电路设计上取得发现，性能超过已发表的人类设计电路。视频解释了模型如何参与量子线路搜索与优化，以及这对量子算法研究的潜在影响。适合关注 AI for Science 前沿的人。</description>
+  </item>
+  <item>
+    <title>为训练 AI，书籍正被扫描并销毁</title>
+    <link>https://www.youtube.com/watch?v=-Q4Uzw8SG-0</link>
+    <guid isPermaLink="false">55-29</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>FRANCE 24 用 4 分钟调查 AI 训练数据背后的实体代价：数百万册纸质书被数字化后销毁，版权与文化遗产问题随之浮现。视频以现场画面呈现这条少被讨论的供应链。适合作为理解数据来源伦理的短篇材料。</description>
+  </item>
+  <item>
+    <title>报告称 84% 的勒索软件攻击与 AI 相关</title>
+    <link>https://www.youtube.com/watch?v=Yj-2j0dTxNU</link>
+    <guid isPermaLink="false">55-30</guid>
+    <pubDate>Wed, 14 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CBS News 报道网络安全公司 Semperis 的最新报告，指出 AI 已与 84% 的勒索软件攻击存在关联，涵盖钓鱼生成、漏洞利用与自动化攻击链。视频采访安全专家解读该数字的统计口径与真实威胁。对企业安全负责人是必要的风险提示。</description>
+  </item>
+  <item>
+    <title>AI 对数学家：NYU 教授质疑 OpenAI 的千禧年难题突破</title>
+    <link>https://www.youtube.com/watch?v=uNMFzq00CCk</link>
+    <guid isPermaLink="false">55-31</guid>
+    <pubDate>Sat, 17 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Fox Business 采访 NYU 数学教授 Tristan Buckmaster，讨论 OpenAI 声称解决 Navier-Stokes 问题所引发的学术争议。视频呈现数学界对 AI 证明的验证标准与署名归属的分歧。适合作为理解「AI 做数学」争议的短篇补充。</description>
+  </item>
+  <item>
+    <title>Anthropic 新警告意味着什么：Axios 与 Stuart Russell 对谈</title>
+    <link>https://www.youtube.com/watch?v=Kor8o2T7Jrk</link>
+    <guid isPermaLink="false">55-32</guid>
+    <pubDate>Thu, 15 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>ABC News 邀请 Axios 的 Ina Fried 与 UC Berkeley 教授 Stuart Russell 解读 Anthropic 关于模型可能带来系统性风险的警告。讨论聚焦监管缺位与实验室自我约束的边界。适合快速了解该警告的政策含义。</description>
+  </item>
+  <item>
+    <title>Anthropic 承诺 5% 股权，AI 失业恐慌升温</title>
+    <link>https://www.youtube.com/watch?v=obvCBdn8gXk</link>
+    <guid isPermaLink="false">55-33</guid>
+    <pubDate>Mon, 19 Oct 2026 13:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Fox News 报道 Anthropic 承诺将 5% 公司股权投入拟议的公共利益基金，以回应 AI 导致岗位流失的担忧。视频讨论该承诺的实际覆盖范围与象征意义。适合关注 AI 公司社会契约变化的人。</description>
+  </item>
+  <item>
+    <title>OpenAI 正在测试 3 个模型，其中一个是 GPT-6.5 Sol？</title>
+    <link>https://www.youtube.com/watch?v=zcCBJvL_Oig</link>
+    <guid isPermaLink="false">55-34</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Universe of AI 分析 OpenAI API 中出现的三个未公布 Aurora 模型（红、绿、蓝），结合命名与能力线索推测其定位与发布节奏。视频给出可自行验证的 API 观察方法。适合追踪 OpenAI 产品线的爱好者。</description>
+  </item>
+  <item>
+    <title>Meta 发布 Muse Spark 开放权重，可在两台 Mac Studio 上本地运行</title>
+    <link>https://www.youtube.com/watch?v=FWlzGh_ySyw</link>
+    <guid isPermaLink="false">55-35</guid>
+    <pubDate>Mon, 19 Oct 2026 13:28:20 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>AIM Network 用 3 分钟介绍 Meta 发布的 816B 参数 MuseSpark Open，并演示其在 Apple Silicon 硬件上的本地运行方案。视频给出硬件配置与推理表现的关键数字。适合关注超大开源模型本地化可行性的人。</description>
+  </item>
+  <item>
+    <title>OpenAI 工程师用「dot」在凌晨三点处理线上事故</title>
+    <link>https://www.youtube.com/watch?v=GBOZIRK1ujw</link>
+    <guid isPermaLink="false">55-36</guid>
+    <pubDate>Fri, 16 Oct 2026 21:43:48 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方短片展示工程师 Ali 在凌晨用「dot」排查线上事故：dot 自动调查问题并开启 Codex 线程，他则在手机 ChatGPT 应用里远程指挥。视频直观呈现了 Agent 接管值班流程的形态。适合观察 AI 运维的早期产品化。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布由 GPT Live 驱动的新版 ChatGPT 语音</title>
+    <link>https://www.youtube.com/watch?v=mEulEkuxCnM</link>
+    <guid isPermaLink="false">55-37</guid>
+    <pubDate>Mon, 19 Oct 2026 05:30:13 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方 1 分钟短片展示新版 ChatGPT Voice 的实时对话体验，由 GPT Live 驱动，强调更自然的打断与语气。视频虽短，但标志着语音交互从「问答」向「持续对话」演进。适合快速了解该功能形态。</description>
+  </item>
+  <item>
+    <title>n8n 入门教程：从零构建 AI Agent</title>
+    <link>https://www.youtube.com/watch?v=xl7Y49yLPDs</link>
+    <guid isPermaLink="false">55-38</guid>
+    <pubDate>Tue, 13 Oct 2026 22:28:17 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Youri van Hofwegen 用 17 分钟演示在 Hostinger 上部署 n8n，并搭建三个可用的 AI Agent 工作流，涵盖触发器、工具调用与错误处理。视频步骤清晰，适合无代码背景的自动化爱好者。是本周最实用的 Agent 搭建教程之一。</description>
+  </item>
+  <item>
+    <title>RAG 入门完整教程：从文档到 AI 答案的 LangChain 全流程</title>
+    <link>https://www.youtube.com/watch?v=OiY8M_sVszY</link>
+    <guid isPermaLink="false">55-39</guid>
+    <pubDate>Wed, 14 Oct 2026 22:28:16 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Durga Software Solutions 用 2 小时 20 分系统讲解 RAG 的完整链路：文档切分、向量化、检索、重排与生成，并基于 LangChain 逐步实现。课程偏教学向，覆盖常见失败点与调参思路。适合愿意花长时间打牢基础的学习者。</description>
+  </item>
+  <item>
+    <title>5 分钟了解 NVIDIA Dynamo：在 Kubernetes 上部署 AI 推理</title>
+    <link>https://www.youtube.com/watch?v=JnsYIojzM5I</link>
+    <guid isPermaLink="false">55-40</guid>
+    <pubDate>Sun, 18 Oct 2026 03:53:54 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA Developer 用 5 分钟讲解如何把 Dynamo 部署到 Kubernetes，包括 Dynamo Operator 的托管方式、DGDR 与 DGD 两条部署路径，以及请求如何从 OpenAI 兼容前端进入推理后端。视频面向需要把 demo 端点扩展为团队服务的工程师。</description>
+  </item>
+  <item>
+    <title>一个可能具有历史意义的 AI 突破：神经网络或许远比想象中可解释</title>
+    <link>https://www.youtube.com/watch?v=d6SO10ihpL4</link>
+    <guid isPermaLink="false">55-41</guid>
+    <pubDate>Mon, 19 Oct 2026 17:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>The AI Daily Brief 解读前 OpenAI 研究者 Nick Cammarata 的新文章，其核心论点是神经网络可能远比学界认为的更容易理解，多年的「复杂性」或源于观察方法有误。视频用猫脸与车头的简单关联说明这一思路，并讨论其对检测 AI 欺骗的意义。适合关注可解释性方向的人。</description>
+  </item>
+  <item>
+    <title>论文解读：RSI-Anything 与递归自我改进</title>
+    <link>https://www.youtube.com/watch?v=ugR5aE0lks8</link>
+    <guid isPermaLink="false">55-42</guid>
+    <pubDate>Mon, 19 Oct 2026 10:28:18 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Zundamon 的论文解读系列第 126 期用 6 分钟讲解 RSI-Anything，探讨如何让模型在无需人工干预下实现递归自我改进，并梳理其方法设计与实验结论。视频节奏快、术语密，适合已有基础的读者。是追踪自我改进方向的高效入口。</description>
+  </item>
+  <item>
+    <title>Linux 新闻：Linus 使用 AI、桌面升级与反作弊修复</title>
+    <link>https://www.youtube.com/watch?v=UAs2XHkZtCo</link>
+    <guid isPermaLink="false">55-43</guid>
+    <pubDate>Sun, 18 Oct 2026 22:28:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>SavvyNik 用 25 分钟盘点 Linux 与开源生态的 AI 相关更新，包括 Linus 本人对 AI 工具的使用、桌面环境升级与反作弊兼容性突破。视频把分散的开源动态串成一条线索。适合关注开源与 AI 交叉的开发者。</description>
+  </item>
+  <item>
+    <title>整个 AI 格局刚刚改变：NVIDIA 送模型、卖芯片</title>
+    <link>https://www.youtube.com/watch?v=_ARIGPnYYUk</link>
+    <guid isPermaLink="false">55-44</guid>
+    <pubDate>Fri, 16 Oct 2026 22:28:20 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Logically Answered 分析 NVIDIA 一边向 OpenAI 供应芯片、一边免费放出模型的策略，讨论这种「上下游通吃」对 AI 产业权力结构的影响。视频用商业逻辑而非技术参数解释格局变化。适合关注 AI 产业链博弈的人。</description>
+  </item>
+  <item>
+    <title>NVIDIA 如何用 AI 定义晶圆厂</title>
+    <link>https://www.youtube.com/watch?v=rBN0PDfJWIc</link>
+    <guid isPermaLink="false">55-45</guid>
+    <pubDate>Wed, 14 Oct 2026 22:28:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>NVIDIA 官方 2 分钟短片展示 AI 如何介入半导体设计与制造，以应对先进芯片需求带来的复杂度上升。视频给出「AI 定义晶圆厂」的概念框架与落地环节。适合快速了解算力上游的自动化趋势。</description>
+  </item>
   <item>
     <title>国家数据产权登记服务系统上线试运行，深沪北三大数交所纳入登记机构目录</title>
     <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt045Xq8jFxtssBWH0gCU9hMqVqXa8Fplpd9OKwx09E4zR4E1wogREu2lwEZQZ9fPvP3nbuUPjDNsHvLY4r5aa8O-DrNwcHH9Pk2c0_HOZQ9L8TcbZ1AOQXHzdFRsjv46DfqAU2sbwbLLH7_VjZAJLDMyDM5SIYBU4BZsj7OU29IFrV1McUCq_apwlqdeSV7GF0iHyg3oJNfkgxFH6In5Ei3zg..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83&amp;token=41BEF9E306A8372A23227A0511593D24241A36EF6AD572B3</link>
@@ -123,365 +483,5 @@
     <pubDate>Sat, 17 Oct 2026 03:31:00 +0000</pubDate>
     <source>Google News 中文</source>
     <description>清华大学孟庆国教授提出智能时代数据要素流通治理的六大变化，认为治理的关键是推动数据转化为可调用、可治理、可计量、可分润的智能生产力。该观点将数据要素治理目标从「流通交易」升级为「智能生产力转化」，强调可计量与可分润是治理闭环的核心。这对当前数据产权登记与收益分配制度设计具有理论指导意义。</description>
-  </item>
-  <item>
-    <title>国有数据资产的会计确认与价值实现机制研究</title>
-    <link>https://doi.org/10.32629/ej.v9i7.3584</link>
-    <guid isPermaLink="false">54-16</guid>
-    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究构建了从概念界定到确认障碍、再到价值路径递进的理论分析框架，指出国有数据资产入表滞后的核心原因是国有属性带来的特殊制度约束，需与一般性数据会计难题加以区分。研究提出应在公共数据授权运营的会计处理规则、数据资产估值行业差异化方法、数据资本化风险防控机制等方面持续深化。该文为国有数据资产入表的制度障碍提供了系统性解释。</description>
-  </item>
-  <item>
-    <title>中国-东盟跨境数据资产入表的会计准则差异与协同路径研究</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/3041</link>
-    <guid isPermaLink="false">54-17</guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究聚焦中国与东盟跨境数据资产入表的会计准则差异，发现双方在数据资产确认、计量、披露等方面存在差异，根源在于经济发展水平、法律体系和监管重点不同。研究提出加强政策沟通、统一关键概念和计量方法、搭建信息共享平台等协同路径。随着跨境数据流动合作深化，该研究为区域数据资产会计互认提供了框架。</description>
-  </item>
-  <item>
-    <title>数据资产入表的理论研究与路径分析——基于中国联通的案例研究</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/2981</link>
-    <guid isPermaLink="false">54-18</guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>以中国联通为单案例研究对象，探究数据通过资源化、资产化、资本化三大步骤实现增值以及入表后的会计计量。研究指出数据资产入表可提升财报质量、推动数据要素市场标准化，其经验能为企业数据资产化及监管政策优化提供参考。中国联通是央企数据资产入表的代表性样本，案例细节对实务界有借鉴意义。</description>
-  </item>
-  <item>
-    <title>数据资产入表对公共服务企业财务优化研究——以海口交投集团为例</title>
-    <link>https://doi.org/10.32629/ej.v8i11.3055</link>
-    <guid isPermaLink="false">54-19</guid>
-    <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究以海口交投集团为例，揭示数据资产入表通过「优化资产负债表—融资模式创新—数据治理效率提升」三重机制改善公共服务企业财务。海口交投将公共数据资源合规确权并确认为表内资产后，信用等级提升并获得银行授信，打通「资源—信用—资金」闭环。该案例为同类公共服务企业激活数据资产、缓解财务压力提供了可复制经验。</description>
-  </item>
-  <item>
-    <title>企业数据资产入表的现状、问题及对策分析</title>
-    <link>https://doi.org/10.61369/se.2025010016</link>
-    <guid isPermaLink="false">54-20</guid>
-    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究以2024年度上市公司数据资产入表情况为基础，分析入表过程中权属确认不明、科目归属争议、估值方法不确定、监管披露困难等困境，并对后续确认、估值、监管提出建议。文章基于上市公司实际披露数据，呈现了入表政策落地首年的真实图景。这对评估《企业数据资源相关会计处理暂行规定》实施效果具有参考价值。</description>
-  </item>
-  <item>
-    <title>国家数据产权登记服务系统上线试运行，深沪北三大数交所纳入登记机构目录</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt0439evz75SjBdWH0gCU9hMqVqXa8Fplpd9OKwx09E4zR4E1wogREu2lwEZQZ9fPvP3nbuUPjDNsHvLY4r5aa8O-DrNwcHH9Pk2c0_HOZQ9L8TcbZ1AOQXHzegoBpGBcfBZH9I_VgxTWVnOlLAwo1kUE54yb2x2MUCrmJyLAgYfIU8ibgqZqTErEVyvC1jl9VzJtBjtbeU2pPNFH6In5Ei3zg..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83&amp;token=41BEBC3BAF289984898FD4AEFEAA4BE98A8CF2966AD572AA</link>
-    <guid isPermaLink="false">53-1</guid>
-    <pubDate>Mon, 19 Oct 2026 00:37:28 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>全国统一数据产权登记制度进入落地新阶段，国家数据产权登记服务系统正式上线试运行，北京国际大数据交易所、上海数据交易所、深圳数据交易所被纳入登记机构目录。这意味着数据产权登记从地方试点走向全国统一基础设施，为数据流通交易提供基础秩序。</description>
-  </item>
-  <item>
-    <title>全国统一数据产权登记制度正式实施，人民日报刊发报道聚焦落地</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt0439evz75SjBdWH0gCU9hMqVqXa8Fplpd99bg-kSUi5s9Z7xGICQYop7o6RqmB2Rp4rpT7NO46yLmLGgM-WiQyVHrtxlvnuxwAz--vm4DD0HbqnCLSTz10dluuJD7oRTu5ivYr7GpCUI_71LQrVSV6hLMKc5UUl_8x0-DogWneQUBZ_tH6fQWP1FRRO4mDySdM-24Yml_-o9LP28temKTOwg..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83&amp;token=41BEBC3BAF289984898FD4AEFEAA4BE98A8CF2966AD572AA</link>
-    <guid isPermaLink="false">53-2</guid>
-    <pubDate>Mon, 19 Oct 2026 01:01:10 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>人民日报刊发报道，聚焦全国统一数据产权登记制度的落地实施，指出数据具备可复制、非排他等特性，需通过登记制度解决流通基础秩序问题。多家媒体报道显示，该制度与数据知识产权登记形成互补，分别服务于流通基础设施与深度加工创新成果保护。</description>
-  </item>
-  <item>
-    <title>全国数标委发布2026年第二批数据领域国家标准需求清单</title>
-    <link>https://www.nda.gov.cn/sjj/zwgk/tzgg/1015/20261015155821338735862_pc.html</link>
-    <guid isPermaLink="false">53-3</guid>
-    <pubDate>Thu, 15 Oct 2026 15:58:21 +0000</pubDate>
-    <source>国家数据局·通知公告</source>
-    <description>全国数据标准化技术委员会按照急用先行原则，研究形成2026年第二批数据领域国家标准需求清单，要求各单位于10月31日前完成申报。清单涵盖数据领域重点工作和技术产业发展需求，配套项目申报书、建议书及标准草案模板。</description>
-  </item>
-  <item>
-    <title>北京印发《「十五五」时期数智北京发展规划》，率先建成国家数据要素市场化配置改革综合示范区</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/dfdt/1005/20261005092055894357866_pc.html</link>
-    <guid isPermaLink="false">53-4</guid>
-    <pubDate>Mon, 05 Oct 2026 09:20:55 +0000</pubDate>
-    <source>国家数据局·地方动态</source>
-    <description>北京市政府印发「十五五」数智北京发展规划，提出到2030年率先建成国家数据要素市场化配置改革综合示范区。规划明确推动数据产权结构性分置制度落地、打造具有公信力的数据产权登记机构、实现重点行业数据产权登记全覆盖，并探索数据要素收益分配机制和面向人工智能的数据合理使用制度。</description>
-  </item>
-  <item>
-    <title>山东出台数据产业高质量发展实施意见，到2028年数据企业超2.5万家</title>
-    <link>https://www.smartcity.team/policies/digitaleconomy/shandong_data_indu_plan/</link>
-    <guid isPermaLink="false">53-5</guid>
-    <pubDate>Fri, 16 Oct 2026 04:26:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>山东发布《关于加快推进数据产业高质量发展的实施意见》，提出到2028年全省数据企业数量超过2.5万家，其中上市企业突破70家、独角兽和瞪羚企业突破500家，形成30个以上数据产业集群，数据产业规模年均增速达20%以上。</description>
-  </item>
-  <item>
-    <title>刘烈宏赴江苏调研数据要素市场化配置改革，江苏数据产业规模达4700亿元</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/sjdt/0929/20260928221439421565352_pc.html</link>
-    <guid isPermaLink="false">53-6</guid>
-    <pubDate>Mon, 28 Sep 2026 22:14:39 +0000</pubDate>
-    <source>国家数据局·司局动态</source>
-    <description>国家数据局局长刘烈宏赴苏州、泰州、扬州调研数据要素市场化配置改革，江苏建成省市一体化公共数据授权运营平台，发布授权运营目录1808类，供给数据超200亿条，公共数据产品被调用超百万次，全省数据产业规模达4700亿元。调研还聚焦医疗健康、交通物流等场景的数据融合应用与高质量数据集建设。</description>
-  </item>
-  <item>
-    <title>黄石市水务集团完成城市供水运营数据产权、资产「双登记」并实现入表</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt0439evz75SjBdWH0gCU9hMqVqXa8Fplpd9-zwssGjSWX87gh7i13uze7Xa_yCUGlYrER1jAJ8XqMBt8eGlezihrKh2YmuVM_7XojLGGR_Q60BcKImYNLOACFEQadv4lNi55ZVnxn5VlG_C0fDSR9WtBfJfxRc_8cJ3sOqZAUS4lMs472gn_LScMFBmDWP3TZBqIW9p-FeApnX2CsG6-xMgzQ..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83&amp;token=41BEBC3BAF289984898FD4AEFEAA4BE98A8CF2966AD572AA</link>
-    <guid isPermaLink="false">53-7</guid>
-    <pubDate>Mon, 19 Oct 2026 00:07:02 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>黄石市水务集团城市供水运营数据获颁数据产权登记证书和数据资产登记证书，正式完成数据资产入表，成为黄石城发集团继环能集团、公交集团之后又一完成双登记的市属企业。该案例展示了公共事业数据从确权到入表的完整路径。</description>
-  </item>
-  <item>
-    <title>浙江首单海洋产业数据知识产权作价入股落地舟山定海，渔船捕捞数据变身股权</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt0439evz75SjBdWH0gCU9hMqVqXa8Fplpd99DLIxPne4nay7Pzvocyut-gzuJRe4rzDeZDzndqeVRlv8R68zRsKYNmCrHCpBUJf5-nssvq2Owq1SrRDkYlLLGUho2PuULycFbARLLQTaJvx5fCQRhceHx7vnTzFsaS-n8DjoV0VV7mSUGzYV2VqrhnBnZacMVWK0YgkVWTIYOdCy6umSSPEsg..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83&amp;token=41BEBC3BAF289984898FD4AEFEAA4BE98A8CF2966AD572AA</link>
-    <guid isPermaLink="false">53-8</guid>
-    <pubDate>Mon, 19 Oct 2026 01:18:41 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>舟山定海完成浙江省首单海洋产业数据知识产权作价入股，渔船捕捞数据知识产权入股浙江云博工业互联科技有限公司，将数据知识产权转化为股权。该案例为数据资产盘活提供了作价入股的新路径，拓展了数据资产化的实现形式。</description>
-  </item>
-  <item>
-    <title>江苏发布新一批公共数据「跑起来」实践案例，总数突破100个</title>
-    <link>https://www.sohu.com/a/1088215967_539687</link>
-    <guid isPermaLink="false">53-9</guid>
-    <pubDate>Thu, 15 Oct 2026 10:21:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>江苏发布新一批公共数据「跑起来」实践案例，累计案例总数成功破百。案例聚焦公共数据授权运营与场景化开发利用，展示公共数据从目录开放到产品供给的实践路径。</description>
-  </item>
-  <item>
-    <title>国家数据集团挂牌预期升温，数据要素赛道关注度回升</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt04aNOG-A_kCVlWH0gCU9hMqVqXa8Fplpd9VJbIYwOoGT5tuRDbeQNH7OP1p04nAo3XOv4OORkIZK_vD7xGqi78thR29mSQxNgFOmDaRYy8L1WJbWFOiIVIakWE6XzvnQkvOnADHPQ9511ByXdPI4Ti_IzyA882vPHVugpBL5sDU86ZnvxktsilLLEcaPv6TfhuskkS9yiZaFZj32-j2KiwUw..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=41BE64C0AF289984898FD4AEFEAA4BE98A8CF2966AD572A0</link>
-    <guid isPermaLink="false">53-10</guid>
-    <pubDate>Mon, 19 Oct 2026 01:00:18 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>市场消息称国家数据集团或将迎来挂牌，数据要素赛道再度受到资本市场关注。分析指出应理性看待行情，国家级平台落地将重塑数据资源整合与运营格局。</description>
-  </item>
-  <item>
-    <title>华东江苏大数据交易中心与深圳数据交易所开通数据产权登记合作渠道</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSw0vH71jBt0439evz75SjBdWH0gCU9hMqVqXa8Fplpd9dBPerA_mHehnfJxb-3POqjtxD-uM0c55rhb-AOtNsUGD3hiBkh3-PNs16nx2MXyXqloyAWxdG2762g0mc_ETJbbmvhy1PplgZQHILXSpXLikX4XJO1L-HiXVVxhjpg2rlqtHBhyob9jTqwGs8yG1i2ST5Fy2xp0gQ-z_H2jrfKFOJBjQH7pCxQ..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E4%BA%A7%E6%9D%83&amp;token=41BEBC3BAF289984898FD4AEFEAA4BE98A8CF2966AD572AA</link>
-    <guid isPermaLink="false">53-11</guid>
-    <pubDate>Mon, 19 Oct 2026 00:58:40 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>华东江苏大数据交易中心与深圳数据交易所签署合作协议，正式开通数据产权登记合作渠道。双方将围绕数据产权登记开展跨区域协同，推动登记凭证在更大范围内互认与应用。</description>
-  </item>
-  <item>
-    <title>湖北水文探路数据要素改革，水文数据完成权属确认与价值核算</title>
-    <link>https://news.hubeidaily.net/pc/c_6083092.html</link>
-    <guid isPermaLink="false">53-12</guid>
-    <pubDate>Sun, 18 Oct 2026 06:53:59 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>湖北水文系统推进数据要素改革，为水文数据明确权属并完成价值核算，探索公共数据资源从确权到价值实现的路径。该实践将水文这一传统公共数据领域纳入数据资产化管理框架。</description>
-  </item>
-  <item>
-    <title>神舞科技获首例千人级群体脑电数据知识产权登记</title>
-    <link>https://www.xhby.net/content/s6ad1d494e4b0ddaaaf77d161.html</link>
-    <guid isPermaLink="false">53-13</guid>
-    <pubDate>Fri, 16 Oct 2026 07:39:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>神舞科技获得首例千人级群体脑电数据知识产权登记，脑电数据实现「持证上岗」。该登记将高价值生物特征数据纳入数据知识产权保护框架，为神经科学数据的合规流通与价值开发提供依据。</description>
-  </item>
-  <item>
-    <title>国有数据资产的会计确认与价值实现机制研究</title>
-    <link>https://doi.org/10.32629/ej.v9i7.3584</link>
-    <guid isPermaLink="false">53-14</guid>
-    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究构建了从概念界定到确认障碍再到价值路径递进的理论分析框架，指出国有数据资产入表滞后的核心原因在于国有属性带来的特殊制度约束，需在公共数据授权运营会计处理规则、行业差异化估值方法和数据资本化风险防控机制方面持续深化。</description>
-  </item>
-  <item>
-    <title>中国-东盟跨境数据资产入表的会计准则差异与协同路径研究</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/3041</link>
-    <guid isPermaLink="false">53-15</guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究聚焦中国与东盟在数据资产确认、计量、披露等会计准则上的差异，指出差异源于经济发展水平、法律体系和监管重点不同，提出加强政策沟通、统一关键概念和计量方法、搭建信息共享平台等协同路径。</description>
-  </item>
-  <item>
-    <title>数据资产入表的理论研究与路径分析——基于中国联通的案例研究</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/2981</link>
-    <guid isPermaLink="false">53-16</guid>
-    <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>以中国联通为单案例研究对象，梳理数据通过资源化、资产化、资本化三步实现增值及入表后的会计计量，指出入表可提升财报质量、推动数据要素市场标准化。该研究为企业数据资产化及监管政策优化提供了操作层面的参考。</description>
-  </item>
-  <item>
-    <title>数据资产入表对公共服务企业财务优化研究——以海口交投集团为例</title>
-    <link>https://doi.org/10.32629/ej.v8i11.3055</link>
-    <guid isPermaLink="false">53-17</guid>
-    <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>基于海口交投集团实践，揭示数据资产入表通过「优化资产负债表—融资模式创新—数据治理效率提升」三重机制改善公共服务企业财务，企业将公共数据资源合规确权并确认为表内资产后信用等级提升并获得银行授信，打通「资源—信用—资金」闭环。</description>
-  </item>
-  <item>
-    <title>企业数据资产入表的现状、问题及对策分析</title>
-    <link>https://doi.org/10.61369/se.2025010016</link>
-    <guid isPermaLink="false">53-18</guid>
-    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>以2024年度上市公司数据资产入表情况为基础，分析入表面临的权属确认不明、科目归属争议、估值方法不确定、监管披露困难等问题，并从确认、估值、监管三方面提出完善建议。</description>
-  </item>
-  <item>
-    <title>孟庆国：智能时代数据要素流通治理的六大变化</title>
-    <link>https://www.smartcity.team/professional/%E5%AD%9F%E5%BA%86%E5%9B%BD-ai%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0%E6%B5%81%E9%80%9A%E6%B2%BB%E7%90%86/</link>
-    <guid isPermaLink="false">53-19</guid>
-    <pubDate>Sat, 17 Oct 2026 03:31:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>清华大学孟庆国教授提出智能时代数据要素流通治理的六大变化，认为治理关键是推动数据转化为可调用、可治理、可计量、可分润的智能生产力。该观点将数据要素治理目标从流通交易延伸至智能生产力转化。</description>
-  </item>
-  <item>
-    <title>2026年「数据要素×」大赛全国总决赛线下终评及颁奖仪式在青岛举行</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/xwfb/1017/20261017214028123728377_pc.html</link>
-    <guid isPermaLink="false">53-20</guid>
-    <pubDate>Sat, 17 Oct 2026 21:40:28 +0000</pubDate>
-    <source>国家数据局·新闻发布</source>
-    <description>2026年「数据要素×」大赛全国总决赛线下终评于10月20日至21日在青岛举行，颁奖仪式于10月23日举办，各赛道按进入线下终评项目总数比例核定一、二、三等奖。该赛事是《「数据要素×」三年行动计划》收官之年的标志性活动，多地分赛区已遴选项目晋级。</description>
-  </item>
-  <item>
-    <title>gitai：为 AI 智能体重设计的开源版本控制系统</title>
-    <link>https://github.com/feder-cr/git-ai</link>
-    <guid isPermaLink="false">52-1</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>gitai 是 Anthropic 内部 Scion 设计思路的开源实现，面向数百个编码智能体同时读写、提交代码的场景，采用服务端中心化架构。服务端不调用任何语言模型，厂商中立，MIT 协议可商用。适合需要让多个 Agent 并行协作的工程团队，目前文档与实现尚处早期。</description>
-  </item>
-  <item>
-    <title>Scout：Outcrawl 开源的真实浏览器智能体</title>
-    <link>https://github.com/outcrawlai/scout</link>
-    <guid isPermaLink="false">52-2</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Scout 让用户用自然语言描述任务，智能体在真实浏览器中读页、点击、输入、滚动直至完成，失败时返回缺失信息与已获结果。基于 TypeScript 与 CDP 构建，可跑在 Outcrawl 云（含验证码处理与全程回放）或本地机器。适合需要网页自动化的开发者，文档与示例齐全，云服务为商业形态。</description>
-  </item>
-  <item>
-    <title>Indra OCR：CPU 上每秒 49 页的轻量文档解析模型</title>
-    <link>https://github.com/datalab-to/indra</link>
-    <guid isPermaLink="false">52-3</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Datalab 发布 1M 参数 OCR 模型 Indra，在 CPU 上达到 49 页/秒、单页约 230ms，比 Tesseract 与 PaddleOCR 快 11 至 24 倍。支持行检测、CTC 识别、阅读顺序还原，输出 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合 RAG 数据管线与文档处理团队，ONNX 部署、文档完整。</description>
-  </item>
-  <item>
-    <title>Blender AI MCP 插件：让智能体直接操作 3D 场景</title>
-    <link>https://github.com/LiCinCan/blender-ai-mcp-addon</link>
-    <guid isPermaLink="false">52-4</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目为 Blender 4.2+ 提供可视化 AI 聊天工作区与内置 MCP 服务器，智能体可检查场景、建模、改材质、找资产并执行多步工作流。兼容 OpenAI、Claude、Gemini、Ollama 等多家模型，MIT 协议，提供 Windows 安装包与快速上手指南。适合 3D 艺术家与希望把 AI 接入创作管线的团队。</description>
-  </item>
-  <item>
-    <title>Eleven：以智能体为核心的反向工程应用</title>
-    <link>https://github.com/Zfinix/eleven</link>
-    <guid isPermaLink="false">52-5</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Eleven 是跨 macOS、Windows、Linux 的反向工程应用，任何 ACP 智能体都能在旁边读取、重命名并修补二进制、Android APK、GPU kernel 与 shader。基于 TypeScript，集成 Ghidra 等工具链，README 提供十余种语言版本。适合安全研究员与逆向工程师，开源可自部署。</description>
-  </item>
-  <item>
-    <title>earshot：给编码智能体装上「耳朵」</title>
-    <link>https://github.com/Leonxlnx/earshot</link>
-    <guid isPermaLink="false">52-6</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>earshot 让编码智能体能够用文字描述音频文件的内容、评估其与描述的匹配度，并定位最佳剪辑点，全部在 CPU 上运行。项目提供 `earshot forge` 用代码合成音效，启动短片中的所有声音均由代码生成。适合做视频、游戏与产品演示的开发者，开源且带 MCP 集成。</description>
-  </item>
-  <item>
-    <title>Graphicle：为编码智能体提供代码图谱与记忆的 Rust 程序</title>
-    <link>https://github.com/Graphicle-AI/graphicle</link>
-    <guid isPermaLink="false">52-7</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Graphicle 用单个 Rust 程序为 Claude Code、Codex、Cursor 及任意 MCP 客户端提供代码图谱与长期记忆，帮助智能体理解大型代码库结构。项目聚焦代码智能与 Agent 记忆两个痛点，采用 Rust 实现以保证性能。适合重度使用编码智能体的团队，生态尚在早期。</description>
-  </item>
-  <item>
-    <title>huashu-motion：让编码智能体一键生成商业级产品宣传片</title>
-    <link>https://github.com/alchaincyf/huashu-motion</link>
-    <guid isPermaLink="false">52-8</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目以 Agent Skills 形式接入 Claude Code、Codex 等，用户说一句「做个 30 秒发布片」，智能体便读取产品、给出三个方向、写完整支片子并自动作曲，再在浏览器编辑器中支持「指着画面改」。基于 GSAP 与 JavaScript，MIT 协议，npx 一行安装。适合市场与独立开发者快速产出视频素材。</description>
-  </item>
-  <item>
-    <title>agentplay：把编码智能体会话回放成地图与时间线</title>
-    <link>https://github.com/Entelligence-AI/agentplay</link>
-    <guid isPermaLink="false">52-9</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>agentplay 将 Claude Code、Codex、Cursor 等编码智能体的会话记录回放为可视化地图与时间线，帮助开发者复盘 Agent 的决策路径与工具调用。项目用 Python 实现，定位为智能体可观测性工具。适合需要调试与审计 Agent 行为的团队，生态刚起步。</description>
-  </item>
-  <item>
-    <title>cjkfold：归一化 CJK 形近字，修复 PDF 抽取文本匹配</title>
-    <link>https://github.com/cdcailf/cjkfold</link>
-    <guid isPermaLink="false">52-10</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>cjkfold 针对 PDF 抽取中康熙部首、CJK 部首补充等形近字导致文本无法匹配的问题，做字形折叠归一化，提升检索与 RAG 管线的召回准确率。项目为 Python 实现，轻量专注，适合处理中文文档的 NLP 与 RAG 开发者。</description>
-  </item>
-  <item>
-    <title>Scout：Outcrawl 开源浏览器智能体</title>
-    <link>https://github.com/outcrawlai/scout</link>
-    <guid isPermaLink="false">51-1</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Scout 是一个用真实浏览器完成任务的智能体，用户用自然语言描述需求，它自动读页面、点击、输入和滚动，完成后返回结果，失败时说明缺什么。项目以 TypeScript 实现，基于 CDP 驱动浏览器，并提供云端一键接入（含验证码处理与运行回放）和本地运行两种模式。适合需要网页自动化但不想维护爬虫脚本的开发者与运营团队，文档含 Quickstart 与示例，但云端能力依赖商业服务。</description>
-  </item>
-  <item>
-    <title>Indra OCR：CPU 上每秒 49 页的文档解析模型</title>
-    <link>https://github.com/datalab-to/indra</link>
-    <guid isPermaLink="false">51-2</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Datalab 发布 100 万参数的 Indra OCR，在 CPU 上实现最高 49 页/秒的吞吐，单页延迟约 230ms，比 Tesseract 和 PaddleOCR 快 11~24 倍。它支持行检测、CTC 识别、阅读顺序还原，可把 PDF 和图片输出为 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合需要低成本批量解析文档的 RAG 与数据工程团队，项目开源且提供 ONNX 推理路径。</description>
-  </item>
-  <item>
-    <title>Blender AI MCP 插件：在 3D 场景里对话式建模</title>
-    <link>https://github.com/LiCinCan/blender-ai-mcp-addon</link>
-    <guid isPermaLink="false">51-3</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目为 Blender 4.2+ 提供 AI 助手与内置 MCP 服务器，可检查场景、创建物体、编辑材质、查找资产并执行多步工作流，支持 OpenAI、Claude、Gemini、Ollama 等多种模型。提供可视化聊天工作区与 Windows 安装包，采用 MIT 协议，适合 3D 艺术家和技术美术用自然语言驱动 bpy 脚本。Fork 数较高，说明社区二次开发活跃。</description>
-  </item>
-  <item>
-    <title>AI 跨境电商运营智能体工具箱</title>
-    <link>https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit</link>
-    <guid isPermaLink="false">51-4</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>项目把跨境电商运营 SOP 拆成 7 个可复用的 AI Agent 工作流，每个包含标准 Prompt、输入模板和真实案例，覆盖商品素材生成等运营环节。它不是 SaaS 软件，而是方法论加提示词与模板的交付物，采用 MIT 协议，v0.3 beta 状态。适合中小跨境卖家与运营人员直接套用，Fork 数远超 Star 数，反映实际落地需求强烈。</description>
-  </item>
-  <item>
-    <title>Antirion：单二进制 Rust AI 网关</title>
-    <link>https://github.com/eliasbiondo/antirion</link>
-    <guid isPermaLink="false">51-5</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Antirion 用单个 Rust 二进制在应用与 OpenAI、Anthropic、Gemini、Bedrock 等模型提供商之间做路由、鉴权、预算控制和可观测，内置管理控制台，宣称性能快于 Bifrost 和 LiteLLM。项目采用 Apache-2.0 协议，提供部署文档与架构说明，适合需要统一 LLM 接入层和控制成本的企业平台团队。</description>
-  </item>
-  <item>
-    <title>MyAgent：从零实现的通用 Agent Runtime</title>
-    <link>https://github.com/ztt0216/MyAgent</link>
-    <guid isPermaLink="false">51-6</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>MyAgent 用 Python 从零实现通用 Agent 运行时，包含 Agent Loop、权限控制、MCP 接入、子 Agent 调度、上下文折叠与 Skills 自进化等机制。项目定位为学习与二次开发底座，适合想理解智能体内核或自建运行时框架的开发者。代码结构清晰但生态尚早期，文档以仓库说明为主。</description>
-  </item>
-  <item>
-    <title>TokenForge：为编码智能体压缩上下文窗口</title>
-    <link>https://github.com/speedydivid/TokenForge</link>
-    <guid isPermaLink="false">51-7</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>TokenForge 针对 AI 编码智能体的上下文膨胀问题，将工具输出沙箱化以减少约 98% 的 token，并用 SQLite + FTS5 持久化会话记忆，通过 MCP 与 hooks 在 17 个平台上做路由。它兼容 Claude Code、Gemini CLI、VS Code Copilot、OpenCode 和 Codex CLI，适合重度使用编码智能体的开发者控制成本与提升长会话稳定性。</description>
-  </item>
-  <item>
-    <title>NPCTalk：让任意游戏 NPC 用克隆语音对话</title>
-    <link>https://github.com/christos-antono/NPCTalk</link>
-    <guid isPermaLink="false">51-8</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>NPCTalk 结合 Fish Audio 语音与 LLM，让玩家开口说话后 NPC 以角色口吻、克隆音色在约一秒内回应并做出反应，提供自托管语音服务器和面向 Claude Code、Codex、Cursor 等编码智能体的技能工具。项目以 GTA V 为完整示例，MIT 协议，适合游戏 Mod 开发者与互动叙事创作者。</description>
-  </item>
-  <item>
-    <title>im-mcp：微信与钉钉聊天记录本地 MCP 服务</title>
-    <link>https://github.com/stkoecn/im-mcp</link>
-    <guid isPermaLink="false">51-9</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>im-mcp 是一个快速、本地、只读的 MCP 服务器，支持微信 4.x/3.x 与钉钉 7.x 聊天记录，基于 FTS5 提供全文检索，可接入 Claude Desktop、Cursor 等客户端。它解决的是个人聊天数据难以被 AI 利用的问题，适合希望用本地数据做个人知识管理的用户，项目为 Python 实现且强调只读安全。</description>
-  </item>
-  <item>
-    <title>Malvex：AI 驱动的恶意软件分析框架</title>
-    <link>https://github.com/JoasASantos/Malvex</link>
-    <guid isPermaLink="false">51-10</guid>
-    <pubDate>Mon, 19 Oct 2026 09:31:19 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Malvex 用 Rust 构建，集成 30 多个分析工具，提供 Web REPL 与 MCP 服务器，覆盖动态分析、事件响应等场景，让 AI 智能体可调用工具链完成恶意软件研判。项目适合安全分析师与应急响应团队，开源但生态较新，文档与社区仍在建设中。</description>
   </item>
 </channel></rss>
