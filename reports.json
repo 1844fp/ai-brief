@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T09:00:38.176855",
+ "generated_at": "2026-10-19T09:01:01.293669",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -16,6 +16,15 @@
   }
  },
  "reports": [
+  {
+   "id": 52,
+   "task": "github_weekly",
+   "title": "GitHub 每周 AI 高星项目 · 2026-10-19",
+   "created_at": "2026-10-19T01:01:00.228510+00:00",
+   "item_count": 10,
+   "llm_ok": true,
+   "url": "reports/2026-10-19/github_weekly-090100.html"
+  },
   {
    "id": 51,
    "task": "github_weekly",
@@ -405,6 +414,126 @@
   }
  ],
  "items": [
+  {
+   "task": "github_weekly",
+   "rank": 1,
+   "title": "gitai：为 AI 智能体重设计的开源版本控制系统",
+   "url": "https://github.com/feder-cr/git-ai",
+   "source": "GitHub",
+   "summary": "gitai 是 Anthropic 内部 Scion 设计思路的开源实现，面向数百个编码智能体同时读写、提交代码的场景，采用服务端中心化架构。服务端不调用任何语言模型，厂商中立，MIT 协议可商用。适合需要让多个 Agent 并行协作的工程团队，目前文档与实现尚处早期。",
+   "why": null,
+   "category": "智能体基础设施",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 2,
+   "title": "Scout：Outcrawl 开源的真实浏览器智能体",
+   "url": "https://github.com/outcrawlai/scout",
+   "source": "GitHub",
+   "summary": "Scout 让用户用自然语言描述任务，智能体在真实浏览器中读页、点击、输入、滚动直至完成，失败时返回缺失信息与已获结果。基于 TypeScript 与 CDP 构建，可跑在 Outcrawl 云（含验证码处理与全程回放）或本地机器。适合需要网页自动化的开发者，文档与示例齐全，云服务为商业形态。",
+   "why": null,
+   "category": "浏览器智能体",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 3,
+   "title": "Indra OCR：CPU 上每秒 49 页的轻量文档解析模型",
+   "url": "https://github.com/datalab-to/indra",
+   "source": "GitHub",
+   "summary": "Datalab 发布 1M 参数 OCR 模型 Indra，在 CPU 上达到 49 页/秒、单页约 230ms，比 Tesseract 与 PaddleOCR 快 11 至 24 倍。支持行检测、CTC 识别、阅读顺序还原，输出 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合 RAG 数据管线与文档处理团队，ONNX 部署、文档完整。",
+   "why": null,
+   "category": "文档解析 / OCR",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 4,
+   "title": "Blender AI MCP 插件：让智能体直接操作 3D 场景",
+   "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+   "source": "GitHub",
+   "summary": "该项目为 Blender 4.2+ 提供可视化 AI 聊天工作区与内置 MCP 服务器，智能体可检查场景、建模、改材质、找资产并执行多步工作流。兼容 OpenAI、Claude、Gemini、Ollama 等多家模型，MIT 协议，提供 Windows 安装包与快速上手指南。适合 3D 艺术家与希望把 AI 接入创作管线的团队。",
+   "why": null,
+   "category": "多模态 / 3D 创作",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 5,
+   "title": "Eleven：以智能体为核心的反向工程应用",
+   "url": "https://github.com/Zfinix/eleven",
+   "source": "GitHub",
+   "summary": "Eleven 是跨 macOS、Windows、Linux 的反向工程应用，任何 ACP 智能体都能在旁边读取、重命名并修补二进制、Android APK、GPU kernel 与 shader。基于 TypeScript，集成 Ghidra 等工具链，README 提供十余种语言版本。适合安全研究员与逆向工程师，开源可自部署。",
+   "why": null,
+   "category": "安全 / 逆向工程",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 6,
+   "title": "earshot：给编码智能体装上「耳朵」",
+   "url": "https://github.com/Leonxlnx/earshot",
+   "source": "GitHub",
+   "summary": "earshot 让编码智能体能够用文字描述音频文件的内容、评估其与描述的匹配度，并定位最佳剪辑点，全部在 CPU 上运行。项目提供 `earshot forge` 用代码合成音效，启动短片中的所有声音均由代码生成。适合做视频、游戏与产品演示的开发者，开源且带 MCP 集成。",
+   "why": null,
+   "category": "多模态 / 音频",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 7,
+   "title": "Graphicle：为编码智能体提供代码图谱与记忆的 Rust 程序",
+   "url": "https://github.com/Graphicle-AI/graphicle",
+   "source": "GitHub",
+   "summary": "Graphicle 用单个 Rust 程序为 Claude Code、Codex、Cursor 及任意 MCP 客户端提供代码图谱与长期记忆，帮助智能体理解大型代码库结构。项目聚焦代码智能与 Agent 记忆两个痛点，采用 Rust 实现以保证性能。适合重度使用编码智能体的团队，生态尚在早期。",
+   "why": null,
+   "category": "智能体记忆 / 代码智能",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 8,
+   "title": "huashu-motion：让编码智能体一键生成商业级产品宣传片",
+   "url": "https://github.com/alchaincyf/huashu-motion",
+   "source": "GitHub",
+   "summary": "该项目以 Agent Skills 形式接入 Claude Code、Codex 等，用户说一句「做个 30 秒发布片」，智能体便读取产品、给出三个方向、写完整支片子并自动作曲，再在浏览器编辑器中支持「指着画面改」。基于 GSAP 与 JavaScript，MIT 协议，npx 一行安装。适合市场与独立开发者快速产出视频素材。",
+   "why": null,
+   "category": "Agent Skills / 视频生成",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 9,
+   "title": "agentplay：把编码智能体会话回放成地图与时间线",
+   "url": "https://github.com/Entelligence-AI/agentplay",
+   "source": "GitHub",
+   "summary": "agentplay 将 Claude Code、Codex、Cursor 等编码智能体的会话记录回放为可视化地图与时间线，帮助开发者复盘 Agent 的决策路径与工具调用。项目用 Python 实现，定位为智能体可观测性工具。适合需要调试与审计 Agent 行为的团队，生态刚起步。",
+   "why": null,
+   "category": "智能体可观测性",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 10,
+   "title": "cjkfold：归一化 CJK 形近字，修复 PDF 抽取文本匹配",
+   "url": "https://github.com/cdcailf/cjkfold",
+   "source": "GitHub",
+   "summary": "cjkfold 针对 PDF 抽取中康熙部首、CJK 部首补充等形近字导致文本无法匹配的问题，做字形折叠归一化，提升检索与 RAG 管线的召回准确率。项目为 Python 实现，轻量专注，适合处理中文文档的 NLP 与 RAG 开发者。",
+   "why": null,
+   "category": "数据工具 / RAG",
+   "heat": 3,
+   "published": null
+  },
   {
    "task": "github_weekly",
    "rank": 1,

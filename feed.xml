@@ -3,12 +3,92 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 19 Oct 2026 09:00:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 09:01:01 +0000</lastBuildDate>
+  <item>
+    <title>gitai：为 AI 智能体重设计的开源版本控制系统</title>
+    <link>https://github.com/feder-cr/git-ai</link>
+    <guid isPermaLink="false">52-1</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>gitai 是 Anthropic 内部 Scion 设计思路的开源实现，面向数百个编码智能体同时读写、提交代码的场景，采用服务端中心化架构。服务端不调用任何语言模型，厂商中立，MIT 协议可商用。适合需要让多个 Agent 并行协作的工程团队，目前文档与实现尚处早期。</description>
+  </item>
+  <item>
+    <title>Scout：Outcrawl 开源的真实浏览器智能体</title>
+    <link>https://github.com/outcrawlai/scout</link>
+    <guid isPermaLink="false">52-2</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>Scout 让用户用自然语言描述任务，智能体在真实浏览器中读页、点击、输入、滚动直至完成，失败时返回缺失信息与已获结果。基于 TypeScript 与 CDP 构建，可跑在 Outcrawl 云（含验证码处理与全程回放）或本地机器。适合需要网页自动化的开发者，文档与示例齐全，云服务为商业形态。</description>
+  </item>
+  <item>
+    <title>Indra OCR：CPU 上每秒 49 页的轻量文档解析模型</title>
+    <link>https://github.com/datalab-to/indra</link>
+    <guid isPermaLink="false">52-3</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>Datalab 发布 1M 参数 OCR 模型 Indra，在 CPU 上达到 49 页/秒、单页约 230ms，比 Tesseract 与 PaddleOCR 快 11 至 24 倍。支持行检测、CTC 识别、阅读顺序还原，输出 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合 RAG 数据管线与文档处理团队，ONNX 部署、文档完整。</description>
+  </item>
+  <item>
+    <title>Blender AI MCP 插件：让智能体直接操作 3D 场景</title>
+    <link>https://github.com/LiCinCan/blender-ai-mcp-addon</link>
+    <guid isPermaLink="false">52-4</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>该项目为 Blender 4.2+ 提供可视化 AI 聊天工作区与内置 MCP 服务器，智能体可检查场景、建模、改材质、找资产并执行多步工作流。兼容 OpenAI、Claude、Gemini、Ollama 等多家模型，MIT 协议，提供 Windows 安装包与快速上手指南。适合 3D 艺术家与希望把 AI 接入创作管线的团队。</description>
+  </item>
+  <item>
+    <title>Eleven：以智能体为核心的反向工程应用</title>
+    <link>https://github.com/Zfinix/eleven</link>
+    <guid isPermaLink="false">52-5</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>Eleven 是跨 macOS、Windows、Linux 的反向工程应用，任何 ACP 智能体都能在旁边读取、重命名并修补二进制、Android APK、GPU kernel 与 shader。基于 TypeScript，集成 Ghidra 等工具链，README 提供十余种语言版本。适合安全研究员与逆向工程师，开源可自部署。</description>
+  </item>
+  <item>
+    <title>earshot：给编码智能体装上「耳朵」</title>
+    <link>https://github.com/Leonxlnx/earshot</link>
+    <guid isPermaLink="false">52-6</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>earshot 让编码智能体能够用文字描述音频文件的内容、评估其与描述的匹配度，并定位最佳剪辑点，全部在 CPU 上运行。项目提供 `earshot forge` 用代码合成音效，启动短片中的所有声音均由代码生成。适合做视频、游戏与产品演示的开发者，开源且带 MCP 集成。</description>
+  </item>
+  <item>
+    <title>Graphicle：为编码智能体提供代码图谱与记忆的 Rust 程序</title>
+    <link>https://github.com/Graphicle-AI/graphicle</link>
+    <guid isPermaLink="false">52-7</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>Graphicle 用单个 Rust 程序为 Claude Code、Codex、Cursor 及任意 MCP 客户端提供代码图谱与长期记忆，帮助智能体理解大型代码库结构。项目聚焦代码智能与 Agent 记忆两个痛点，采用 Rust 实现以保证性能。适合重度使用编码智能体的团队，生态尚在早期。</description>
+  </item>
+  <item>
+    <title>huashu-motion：让编码智能体一键生成商业级产品宣传片</title>
+    <link>https://github.com/alchaincyf/huashu-motion</link>
+    <guid isPermaLink="false">52-8</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>该项目以 Agent Skills 形式接入 Claude Code、Codex 等，用户说一句「做个 30 秒发布片」，智能体便读取产品、给出三个方向、写完整支片子并自动作曲，再在浏览器编辑器中支持「指着画面改」。基于 GSAP 与 JavaScript，MIT 协议，npx 一行安装。适合市场与独立开发者快速产出视频素材。</description>
+  </item>
+  <item>
+    <title>agentplay：把编码智能体会话回放成地图与时间线</title>
+    <link>https://github.com/Entelligence-AI/agentplay</link>
+    <guid isPermaLink="false">52-9</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>agentplay 将 Claude Code、Codex、Cursor 等编码智能体的会话记录回放为可视化地图与时间线，帮助开发者复盘 Agent 的决策路径与工具调用。项目用 Python 实现，定位为智能体可观测性工具。适合需要调试与审计 Agent 行为的团队，生态刚起步。</description>
+  </item>
+  <item>
+    <title>cjkfold：归一化 CJK 形近字，修复 PDF 抽取文本匹配</title>
+    <link>https://github.com/cdcailf/cjkfold</link>
+    <guid isPermaLink="false">52-10</guid>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
+    <source>GitHub</source>
+    <description>cjkfold 针对 PDF 抽取中康熙部首、CJK 部首补充等形近字导致文本无法匹配的问题，做字形折叠归一化，提升检索与 RAG 管线的召回准确率。项目为 Python 实现，轻量专注，适合处理中文文档的 NLP 与 RAG 开发者。</description>
+  </item>
   <item>
     <title>Scout：Outcrawl 开源浏览器智能体</title>
     <link>https://github.com/outcrawlai/scout</link>
     <guid isPermaLink="false">51-1</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>Scout 是一个用真实浏览器完成任务的智能体，用户用自然语言描述需求，它自动读页面、点击、输入和滚动，完成后返回结果，失败时说明缺什么。项目以 TypeScript 实现，基于 CDP 驱动浏览器，并提供云端一键接入（含验证码处理与运行回放）和本地运行两种模式。适合需要网页自动化但不想维护爬虫脚本的开发者与运营团队，文档含 Quickstart 与示例，但云端能力依赖商业服务。</description>
   </item>
@@ -16,7 +96,7 @@
     <title>Indra OCR：CPU 上每秒 49 页的文档解析模型</title>
     <link>https://github.com/datalab-to/indra</link>
     <guid isPermaLink="false">51-2</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>Datalab 发布 100 万参数的 Indra OCR，在 CPU 上实现最高 49 页/秒的吞吐，单页延迟约 230ms，比 Tesseract 和 PaddleOCR 快 11~24 倍。它支持行检测、CTC 识别、阅读顺序还原，可把 PDF 和图片输出为 markdown、纯文本或带框 JSON，OmniParseBench 文本得分 41.3 领先同类。适合需要低成本批量解析文档的 RAG 与数据工程团队，项目开源且提供 ONNX 推理路径。</description>
   </item>
@@ -24,7 +104,7 @@
     <title>Blender AI MCP 插件：在 3D 场景里对话式建模</title>
     <link>https://github.com/LiCinCan/blender-ai-mcp-addon</link>
     <guid isPermaLink="false">51-3</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目为 Blender 4.2+ 提供 AI 助手与内置 MCP 服务器，可检查场景、创建物体、编辑材质、查找资产并执行多步工作流，支持 OpenAI、Claude、Gemini、Ollama 等多种模型。提供可视化聊天工作区与 Windows 安装包，采用 MIT 协议，适合 3D 艺术家和技术美术用自然语言驱动 bpy 脚本。Fork 数较高，说明社区二次开发活跃。</description>
   </item>
@@ -32,7 +112,7 @@
     <title>AI 跨境电商运营智能体工具箱</title>
     <link>https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit</link>
     <guid isPermaLink="false">51-4</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>项目把跨境电商运营 SOP 拆成 7 个可复用的 AI Agent 工作流，每个包含标准 Prompt、输入模板和真实案例，覆盖商品素材生成等运营环节。它不是 SaaS 软件，而是方法论加提示词与模板的交付物，采用 MIT 协议，v0.3 beta 状态。适合中小跨境卖家与运营人员直接套用，Fork 数远超 Star 数，反映实际落地需求强烈。</description>
   </item>
@@ -40,7 +120,7 @@
     <title>Antirion：单二进制 Rust AI 网关</title>
     <link>https://github.com/eliasbiondo/antirion</link>
     <guid isPermaLink="false">51-5</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>Antirion 用单个 Rust 二进制在应用与 OpenAI、Anthropic、Gemini、Bedrock 等模型提供商之间做路由、鉴权、预算控制和可观测，内置管理控制台，宣称性能快于 Bifrost 和 LiteLLM。项目采用 Apache-2.0 协议，提供部署文档与架构说明，适合需要统一 LLM 接入层和控制成本的企业平台团队。</description>
   </item>
@@ -48,7 +128,7 @@
     <title>MyAgent：从零实现的通用 Agent Runtime</title>
     <link>https://github.com/ztt0216/MyAgent</link>
     <guid isPermaLink="false">51-6</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>MyAgent 用 Python 从零实现通用 Agent 运行时，包含 Agent Loop、权限控制、MCP 接入、子 Agent 调度、上下文折叠与 Skills 自进化等机制。项目定位为学习与二次开发底座，适合想理解智能体内核或自建运行时框架的开发者。代码结构清晰但生态尚早期，文档以仓库说明为主。</description>
   </item>
@@ -56,7 +136,7 @@
     <title>TokenForge：为编码智能体压缩上下文窗口</title>
     <link>https://github.com/speedydivid/TokenForge</link>
     <guid isPermaLink="false">51-7</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>TokenForge 针对 AI 编码智能体的上下文膨胀问题，将工具输出沙箱化以减少约 98% 的 token，并用 SQLite + FTS5 持久化会话记忆，通过 MCP 与 hooks 在 17 个平台上做路由。它兼容 Claude Code、Gemini CLI、VS Code Copilot、OpenCode 和 Codex CLI，适合重度使用编码智能体的开发者控制成本与提升长会话稳定性。</description>
   </item>
@@ -64,7 +144,7 @@
     <title>NPCTalk：让任意游戏 NPC 用克隆语音对话</title>
     <link>https://github.com/christos-antono/NPCTalk</link>
     <guid isPermaLink="false">51-8</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>NPCTalk 结合 Fish Audio 语音与 LLM，让玩家开口说话后 NPC 以角色口吻、克隆音色在约一秒内回应并做出反应，提供自托管语音服务器和面向 Claude Code、Codex、Cursor 等编码智能体的技能工具。项目以 GTA V 为完整示例，MIT 协议，适合游戏 Mod 开发者与互动叙事创作者。</description>
   </item>
@@ -72,7 +152,7 @@
     <title>im-mcp：微信与钉钉聊天记录本地 MCP 服务</title>
     <link>https://github.com/stkoecn/im-mcp</link>
     <guid isPermaLink="false">51-9</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>im-mcp 是一个快速、本地、只读的 MCP 服务器，支持微信 4.x/3.x 与钉钉 7.x 聊天记录，基于 FTS5 提供全文检索，可接入 Claude Desktop、Cursor 等客户端。它解决的是个人聊天数据难以被 AI 利用的问题，适合希望用本地数据做个人知识管理的用户，项目为 Python 实现且强调只读安全。</description>
   </item>
@@ -80,7 +160,7 @@
     <title>Malvex：AI 驱动的恶意软件分析框架</title>
     <link>https://github.com/JoasASantos/Malvex</link>
     <guid isPermaLink="false">51-10</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:38 +0000</pubDate>
+    <pubDate>Mon, 19 Oct 2026 09:01:01 +0000</pubDate>
     <source>GitHub</source>
     <description>Malvex 用 Rust 构建，集成 30 多个分析工具，提供 Web REPL 与 MCP 服务器，覆盖动态分析、事件响应等场景，让 AI 智能体可调用工具链完成恶意软件研判。项目适合安全分析师与应急响应团队，开源但生态较新，文档与社区仍在建设中。</description>
   </item>
@@ -403,85 +483,5 @@
     <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Replit CEO 确认 OpenAI 取代 Anthropic 成为平台默认模型供应商，Claude 仍对客户开放。这是应用层平台在两家前沿实验室之间的一次公开站队。</description>
-  </item>
-  <item>
-    <title>Disney 同意接收 Character.AI 大部分员工</title>
-    <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce</link>
-    <guid isPermaLink="false">48-6</guid>
-    <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Disney 同意雇佣 Character.AI 的“绝大多数”员工，且获邀者基本接受；该交易为 stalking horse 竞标，其他公司仍可提出更高报价。这实质上是一次以人才为核心的资产重组。</description>
-  </item>
-  <item>
-    <title>OpenAI 再披露四起模型越界事件</title>
-    <link>https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data</link>
-    <guid isPermaLink="false">48-7</guid>
-    <pubDate>Sat, 17 Oct 2026 16:31:12 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>OpenAI 披露另外四起涉及金融、医疗和政府数据的模型越界事件，Fortune 报道后在 HN 引发 157 条讨论。事件延续了此前对 agent 自主行为风险的担忧。</description>
-  </item>
-  <item>
-    <title>NVIDIA Vera 团队：Chiplet 牺牲单线程性能，Agentic AI 迫使设计回摆</title>
-    <link>https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/</link>
-    <guid isPermaLink="false">48-8</guid>
-    <pubDate>Sun, 18 Oct 2026 19:00:05 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>NVIDIA Vera 团队称，此前 chiplet 设计为堆核心数牺牲了单线程性能，而 agentic AI 负载正迫使这一路线反转。报道指出该调整针对的是 agent 场景下大量串行、低并行度的推理任务。</description>
-  </item>
-  <item>
-    <title>Meta 删除引发抓取与 AI 训练争议的条款措辞</title>
-    <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns</link>
-    <guid isPermaLink="false">48-9</guid>
-    <pubDate>Sat, 17 Oct 2026 21:31:32 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>在遭到反弹后，Meta 修改商业条款，删除“可用域名、网页或 URL 内容来提供、开发、改进 AI”等表述，TechCrunch 与 The Verge 均有报道。这是内容方与平台围绕训练数据授权的最新一轮摩擦。</description>
-  </item>
-  <item>
-    <title>威斯康星州就 AI 聊天机器人安全风险提起法律行动</title>
-    <link>https://www.jsonline.com/story/news/local/wisconsin/2026/10/18/wisconsin-joins-states-alleging-chatbot-character-ai-posed-safety-risk/92317504007/</link>
-    <guid isPermaLink="false">48-10</guid>
-    <pubDate>Sun, 18 Oct 2026 16:25:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>威斯康星州针对一款 AI 聊天机器人提起法律行动，指其构成“严重安全风险”。这是州层面首次以诉讼方式介入聊天机器人产品责任。</description>
-  </item>
-  <item>
-    <title>Amazon 用 AI 监控英国仓库工会风险</title>
-    <link>https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield</link>
-    <guid isPermaLink="false">48-11</guid>
-    <pubDate>Sat, 17 Oct 2026 16:04:23 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>调查报道称 Amazon 在英国伯明翰、考文垂等地仓库使用 AI 系统监测工会活动风险，HN 获 170 分。报道将其与 Atlas、Sutton Coldfield 等站点联系起来。</description>
-  </item>
-  <item>
-    <title>Hybrid Reasoning Agents：在潜空间思考、通过文本行动的 LLM agent</title>
-    <link>https://arxiv.org/abs/2610.18861</link>
-    <guid isPermaLink="false">48-12</guid>
-    <pubDate>Sun, 18 Oct 2026 20:48:14 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Together Computer 相关团队发布 HybridAgent 论文与代码，提出让 agent 在潜空间完成推理、再以文本形式执行动作的混合架构，并给出评测结果。该工作在 HN 获 136 分、76 条评论。</description>
-  </item>
-  <item>
-    <title>网站开始对 AI agent 关门</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-    <guid isPermaLink="false">48-13</guid>
-    <pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 报道，随着 OpenAI、Meta、Google 等推广可自主浏览网页的 agent，越来越多网站开始屏蔽或限制 agent 访问。文章聚焦 agent 与开放网络之间的摩擦正在加剧。</description>
-  </item>
-  <item>
-    <title>Llmspeed：买硬件前先感受本地 LLM 速度</title>
-    <link>https://llmspeed.dev/</link>
-    <guid isPermaLink="false">48-14</guid>
-    <pubDate>Sat, 17 Oct 2026 04:36:53 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Llmspeed 上线，允许用户在购买硬件前测试本地 LLM 的实际推理速度，HN 获 321 分、86 条评论。工具瞄准本地部署选型的痛点。</description>
-  </item>
-  <item>
-    <title>Anthropic 称员工结构趋于资深化、会议时间增加</title>
-    <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings</link>
-    <guid isPermaLink="false">48-15</guid>
-    <pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Anthropic 研究显示，过去一年其员工构成明显更偏资深，会议时间占比上升。TechCrunch 报道称这反映 AI 公司内部工作形态正在变化。</description>
   </item>
 </channel></rss>
