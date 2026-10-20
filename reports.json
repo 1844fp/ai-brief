@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T08:01:38.945554",
+ "generated_at": "2026-10-20T08:02:46.252446",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -13,9 +13,21 @@
   },
   "data_asset_weekly": {
    "label": "国内数据资产周报"
+  },
+  "social_weekly": {
+   "label": "推特 / 油管 AI 热门"
   }
  },
  "reports": [
+  {
+   "id": 60,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-20",
+   "created_at": "2026-10-20T00:02:45.325369+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-20/news_daily_cn-080245.html"
+  },
   {
    "id": 59,
    "task": "news_daily_cn",
@@ -477,6 +489,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "英伟达面临 DeepSeek 与华为合作的 AI 芯片挑战",
+   "url": "https://www.moomoo.com/hans/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei",
+   "source": "Google News 中文",
+   "summary": "市场消息称 DeepSeek 与华为在 AI 芯片领域展开合作，可能对英伟达在中国市场的地位构成挑战。双方具体合作形式与芯片型号尚未披露，但已引发资本市场关注。若合作落地，将推动国产算力软硬协同生态进一步成熟。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-10-19T17:00:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "豆包刘星回应“国内超一半算力造爽剧”；MiniMax M3.1 Flash 上线",
+   "url": "https://www.mrjjxw.com/articles/2026-10-19/4608758.html",
+   "source": "Google News 中文",
+   "summary": "针对“国内超一半算力用于生成爽剧”的说法，豆包相关负责人刘星作出回应，澄清算力分配情况。同日 MiniMax M3.1 Flash 上线，主打速度与成本优化。两则消息共同反映国产大模型在应用场景与推理效率上的竞争加剧。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-10-19T22:30:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "DeepSeek V4.1 Flash 新版本发布；英伟达优化 Kimi K3 推理速度提升 1.68 倍",
+   "url": "https://www.leiphone.com/category/zaobao/DlLESyleeLkyq5Dy.html",
+   "source": "雷锋网",
+   "summary": "DeepSeek V4.1 Flash 新版本发布，网友评价积极；英伟达同时对 Kimi K3 模型推理进行优化，速度提升 1.68 倍。国产模型迭代与海外芯片适配优化并行，反映模型与算力协同优化成为竞争焦点。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-10-19T01:40:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "上半年我国人形机器人产量超 4 万台，全年预计突破 10 万台",
+   "url": "https://finance.sina.cn/tech/2026-10-19/detail-inivumaf7654133.d.html?oid",
+   "source": "Google News 中文",
+   "summary": "工信部在国务院新闻办发布会上披露，今年上半年我国人形机器人产量超过 4 万台，预计全年将突破 10 万台。具身智能被列为重点方向，产业规模扩张速度超出预期。这标志着人形机器人从样机展示进入批量制造阶段。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 5,
+   "published": "2026-10-19T12:31:36+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "工信部：我国人形机器人整机产品产量预计全年突破 10 万台",
+   "url": "http://k.sina.com.cn/article_1496814565_593793e50200276n0.html",
+   "source": "Google News 中文",
+   "summary": "工信部再次确认人形机器人整机产品全年产量预计突破 10 万台，与上半年超 4 万台的数据形成呼应。官方定调强化了具身智能作为制造业升级抓手的地位。多家券商与产业资本正加速布局核心零部件环节。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-10-19T18:33:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "北京大模型芯片创企获超 4 亿元融资，米哈游、小米、兆易创新参投",
+   "url": "https://m.zhidx.com/p/602102.html",
+   "source": "Google News 中文",
+   "summary": "北京一家大模型芯片初创公司完成超 4 亿元融资，投资方包括米哈游、小米、兆易创新等产业资本。资金将用于大模型专用芯片研发与量产。产业资本密集入局，显示大模型芯片赛道正从概念走向产品化竞争。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-19T11:19:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "MemSilicon 完成超 4 亿元 A 轮融资，芯片老将卢涛出任 CEO",
+   "url": "https://finance.sina.cn/2026-10-19/detail-inivtynm7633430.d.html?vt",
+   "source": "Google News 中文",
+   "summary": "MemSilicon 宣布完成超 4 亿元 A 轮融资，并任命芯片行业资深人士卢涛为 CEO。公司聚焦存储与计算相关芯片方向，融资将用于产品研发与团队扩张。这是近期国内半导体领域又一笔较大规模早期融资。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-19T20:33:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "国产算力应用实现重大突破，多项前沿成果集中发布",
+   "url": "https://finance.eastmoney.com/a/202610193900014015.html",
+   "source": "Google News 中文",
+   "summary": "国产算力应用领域宣布取得重大突破，多项前沿成果集中发布，涉及算力基础设施与行业应用。具体技术细节与参与机构在报道中未完全展开，但官方与产业界同步发声。这被视为国产算力从建设期向应用落地期过渡的信号。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-19T19:38:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "字节跳动数据智能体 iDA 将整体并入豆包工作",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2IWaKvLNEwRsg30VqyH5x-FqXa8Fplpd9NxWpP0g9hJ22DM5sKmKg_No7dgROm7EcOHfa1U8XqdfuAcm3iLZGqEnuyGAogd2Tr2kf3sz0jtUAJGfnUojZYPUDGUxQ3SZVMiLbvo0_qYGgWw78uNaMj19G7H8ihYkyF3JBEEjj71FRNKrHDz-Mb1apI-qRLm-bbh90lH68nufyPfCoem7FzA..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=4B7A6FB81663EB213036710A601C46FF30CAAD636AD6AF0B",
+   "source": "微信公众号",
+   "summary": "字节跳动数据 AI 智能体 iDA 将整体并入豆包工作，本月已启动合并，相关员工组织迁移同步进行。这是字节近期 AI 产品线整合的一部分，旨在集中资源打造统一智能体入口。大厂智能体产品从分散试水转向收敛整合。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 4,
+   "published": "2026-10-19T10:27:47+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "AI 引爆 BAT 薪酬倒挂潮，老员工称“人麻了”",
+   "url": "https://www.leiphone.com/category/industrynews/uCsyLxONvXeV9qXc.html",
+   "source": "雷锋网",
+   "summary": "多家互联网大厂因争夺 AI 人才出现严重薪酬倒挂，基础模型岗位员工薪资超过职级更高的老员工。猎头称大厂 HC 整体收缩，但对 OpenAI 等顶尖人才仍不设预算上限。薪酬体系失衡正成为大厂留住传统技术骨干的新难题。",
+   "why": null,
+   "category": "行业人才",
+   "heat": 4,
+   "published": "2026-10-19T08:51:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "财跃星辰联合上海交大开源 Alpha-R1：8B 金融推理大模型",
+   "url": "https://www.cls.cn/detail/2479084",
+   "source": "Google News 中文",
+   "summary": "财跃星辰与上海交通大学联合开源 Alpha-R1，这是一个 8B 参数的金融推理大模型，面向资产配置等场景。模型强调让资产配置跟上市场节奏，以开源方式降低金融行业使用门槛。金融垂直模型的开源化趋势进一步明显。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-19T12:59:29+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "国产大模型首次证明世界级数学难题，三维 Ghys 猜想被攻破",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2KWMWA0KfKpAg30VqyH5x-FqXa8Fplpd99qzBWTGdHeTTLVLHSO8P3XDNqPN6Mcv5Chh54ryM828g_-RrgrGJS_4fW1lsCtBlK0enTTnPxVQAan5ST3K8gveMUzakyFvWkFB071yQEnkAB5v_nls4PKSv7KWXgLeJwu1jAV8NphQdGDnzotFa0Ja0WrREBlSsLaglAR_pr71OJBjQH7pCxQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=4B7A82C11663EB213036710A601C46FF30CAAD636AD6AF0E",
+   "source": "微信公众号",
+   "summary": "国产大模型首次在数学领域证明世界级难题，三维 Ghys 猜想被攻破。测试中三家国产模型与人类选手同场答题，上一代书生-S1 曾获 102 分。此次成果显示国产模型在形式化推理与数学证明方向取得实质进展。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 3,
+   "published": "2026-10-19T01:27:54+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "英特尔 CEO 陈立武称中国芯片制造“目前并未落后太多”",
+   "url": "https://www.ithome.com/1/015/039.htm",
+   "source": "IT之家",
+   "summary": "英特尔 CEO 陈立武接受《日经亚洲》采访时表示，中国在芯片制造技术上与美国的差距并不大。他回应“中国能否在 5 至 10 年追赶上”时称“就目前而言，差距没有那么大”。这一表态与部分欧洲半导体高管的悲观判断形成对比。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-10-19T14:00:40+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "开源数据智能体 YOLO Data Agent v1.0.2 发布",
+   "url": "https://www.oschina.net/news/503098",
+   "source": "开源中国",
+   "summary": "YOLO Data Agent 发布 v1.0.2 版本，针对大模型直接生成 SQL 不可信的问题，提供更可控的数据智能体方案。项目强调解决业务问数与报表对不上、口径遗忘等痛点。开源数据智能体在 BI 场景的落地尝试增多。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-19T11:20:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "速卖通参与 AI 硬件品牌天使轮融资，目标孵化 100 多个品牌",
+   "url": "https://www.leiphone.com/category/industrynews/prCErk1x9AsQgxw1.html",
+   "source": "雷锋网",
+   "summary": "速卖通在年度峰会上宣布与天猫联合发布“中国品牌全球增长计划”，将拿出专项资金参与优秀 AI 硬件品牌的天使轮融资，目标孵化 100 多个品牌。平台从给流量、给补贴转向更早期投资，押注 AI 硬件出海。这是电商平台首次以天使投资方式介入品牌诞生阶段。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-19T12:04:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "北京市教委发布 2026 版教育领域人工智能应用指南",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS27yBh3vuss2oYska1ndjcEg30VqyH5x-FqXa8Fplpd9-KmgYvcPbu4wrKDFv59g-Udyjk5varE_8uVNRJeLxJ2284maNe1X4SN35JtXzrSDEXRJYEjRKP-8cJEgdjvC83XfMVtuJIXf8TEHsbUMcWywAlayrB5f4GpUAi4pbLqO1r4slWcQXAp7gogmACDFiWvJRFM-XUi4f3qk616XLeWFW6cwuUnkdA..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=4B7A49C51663EB213036710A601C46FF30CAAD636AD6AF06",
+   "source": "微信公众号",
+   "summary": "北京市教委发布 2026 版《北京市教育领域人工智能应用指南》，为不同年龄段学生使用 AI 划定红线，小学阶段不建议独自使用。指南同时涉及 AI 生成内容标识等义务。这是地方教育主管部门对校园 AI 使用给出更细化的操作规范。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-10-19T21:40:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "Anthropic 换掉 Git：AI 编码开始反噬传统工具链",
+   "url": "https://www.leiphone.com/category/ai/wHcf2tZUiQkXGM0i.html",
+   "source": "雷锋网",
+   "summary": "Anthropic 因 Claude 生成代码量激增，7 名工程师耗时 5 个月开发出版本控制系统 Scion 并迁移核心仓库。其每日合并代码变更从 5 月的约 2500 项增至 9 月的超 3 万项，CI 每天执行约 2500 万次代码检出。GitHub 同期用微调 ModernBERT 替换密钥扫描中的通用 LLM。AI 编码正在倒逼传统开发工具链改造。",
+   "why": null,
+   "category": "AI 编码",
+   "heat": 3,
+   "published": "2026-10-19T04:27:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "四个 Gemini 4 Argon 智能体自主通关《我的世界》，耗时 27 小时",
+   "url": "https://www.ithome.com/1/015/048.htm",
+   "source": "IT之家",
+   "summary": "谷歌研究人员用四个 Gemini 4 Argon 智能体在随机世界中自主通关《我的世界》，耗时 27 小时击败末影龙。智能体通过聊天框协调分工，共发送 229 条消息、运行 2783 个程序、死亡 605 次，消耗 13.5 亿输入 Token，成本约 1620 美元。这是 AI 智能体首次完全自主从头到尾通关该游戏。",
+   "why": null,
+   "category": "AI 智能体",
+   "heat": 3,
+   "published": "2026-10-19T15:03:29+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
