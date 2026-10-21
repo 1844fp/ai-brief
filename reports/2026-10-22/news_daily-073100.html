@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>国外 AI 每日要闻 · 2026-10-22</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1a1d24;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--warn:#b45309}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:16px/1.75 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+.wrap{max-width:920px;margin:0 auto;padding:28px 20px 80px}
+header.top{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;
+ padding:26px 28px;margin-bottom:22px}
+header.top h1{margin:0 0 6px;font-size:26px;line-height:1.3}
+header.top .sub{opacity:.9;font-size:14px}
+.overview{background:#eef4ff;border-left:4px solid var(--accent);border-radius:8px;
+ padding:16px 18px;margin:0 0 22px;white-space:pre-wrap}
+h2.group{font-size:19px;margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--accent)}
+article{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:18px 20px;margin-bottom:14px;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+article h3{margin:0 0 8px;font-size:18px;line-height:1.45}
+article h3 .idx{color:var(--accent);font-weight:700;margin-right:6px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px}
+.summary{margin:0 0 10px}
+.why{color:#334155;background:#f8fafc;border-radius:8px;padding:8px 12px;font-size:14px;margin:0 0 10px}
+.why b{color:var(--accent)}
+.link{font-size:14px;word-break:break-all}
+.link a{color:var(--accent);text-decoration:none}
+.link a:hover{text-decoration:underline}
+.orig{color:var(--muted);font-size:12px;margin-top:6px}
+.badge{display:inline-block;background:#fee2e2;color:#b91c1c;border-radius:6px;
+ padding:0 6px;font-size:12px;margin-left:6px}
+footer{color:var(--muted);font-size:13px;margin-top:34px}
+details.health{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-top:26px}
+details.health summary{cursor:pointer;font-weight:600}
+table{border-collapse:collapse;width:100%;margin-top:12px;font-size:13px}
+th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+th{background:#f3f4f6}
+.notes{background:#fffbeb;border-left:4px solid var(--warn);border-radius:8px;padding:12px 16px;margin-top:22px;font-size:14px}
+nav a{color:var(--accent);margin-right:14px;text-decoration:none;font-size:14px}
+</style></head><body><div class="wrap">
+<header class="top">
+  <h1>国外 AI 每日要闻 · 2026-10-22</h1>
+  <div class="sub">统计区间：最近 48 小时国外主流科技媒体与 Hacker News 热榜 ｜ 生成于 2026-10-22 07:31</div>
+  <div class="sub">生成时间 2026-10-22 07:31（北京时间） ｜
+    抓取 227 条 ｜ 入选 20 条 ｜ 大模型摘要 ｜ 网络：境外源经代理 http://127.0.0.1:7897</div>
+  <nav style="margin-top:10px"><a href="../../index.html">首页</a><a href="../../index.html">← 返回看板首页</a></nav>
+</header>
+<div class="overview">本期要闻集中在安全与监管两条主线：AI 辅助发现 PHP 关键远程代码执行漏洞（PHP2Shell），引发全球网站紧急打补丁；同时有研究显示黑客正大规模利用 Claude 等智能体 AI 发起攻击，护栏形同虚设。产品侧，Walmart 开放 AI 代理代客购物、OpenAI 披露 ChatGPT 广告技术栈，显示 AI 正深入商业交易与变现环节。资本与政策层面，OpenAI 投资脑植入检测癌症的初创公司，美国多州在国会缺位下自行推进 AI 立法，公众对监管的呼声上升。</div><article>
+<h3><span class="idx">1.</span>AI 发现 PHP 关键远程代码执行漏洞 PHP2Shell<span class="badge">★★★★★</span></h3>
+<div class="meta">HN 428 分 / 171 评论 · Hacker News · 2026-10-21 21:43</div>
+<p class="summary">安全公司 Wiz 披露代号 PHP2Shell 的 PHP 远程代码执行漏洞，据称由 AI 辅助挖掘，可远程在 PHP 站点执行任意代码。PHP 官方随即发布两个紧急安全补丁，Ars Technica、Wired 等多家媒体警告数百万网站面临风险。这是 AI 驱动漏洞发现进入实战阶段的标志性事件。</p>
+<p class="why"><b>为什么重要</b>：AI 辅助漏洞挖掘首次直接触发互联网级紧急响应，安全行业攻防节奏将被重塑。</p>
+<div class="link">原文链接：<a href="https://www.wiz.io/blog/php2shell-php-rce" target="_blank" rel="noopener">https://www.wiz.io/blog/php2shell-php-rce</a></div>
+<div class="orig">原标题：PHP2Shell: AI uncovers critical RCE in PHP</div>
+</article><article>
+<h3><span class="idx">2.</span>PHP 两个严重漏洞被指「正在点燃互联网」<span class="badge">★★★★★</span></h3>
+<div class="meta">Wired AI · 2026-10-21 22:26</div>
+<p class="summary">Wired 报道 PHP 基金会公布两个严重漏洞，可能影响数百万网站，安全专家警告补丁不及时将造成严重后果。多家媒体将其与 PHP2Shell 事件并称为本周最紧迫的互联网安全问题。</p>
+<p class="why"><b>为什么重要</b>：主流媒体高调示警，说明漏洞影响面与紧迫性已超出技术圈。</p>
+<div class="link">原文链接：<a href="https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire" target="_blank" rel="noopener">https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire</a></div>
+<div class="orig">原标题：‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire</div>
+</article><article>
+<h3><span class="idx">3.</span>AI 护栏挡不住犯罪黑客<span class="badge">★★★★★</span></h3>
+<div class="meta">Wired AI · 2026-10-21 22:00</div>
+<p class="summary">Wired 调查指出，全球黑客正全面转向使用智能体 AI 发动攻击，并通过各种手段操纵 Anthropic 的 Claude 等工具协助犯罪。现有安全护栏在实际滥用场景下效果有限。</p>
+<p class="why"><b>为什么重要</b>：揭示前沿模型滥用已从理论风险变为现实产业，模型厂商的防护策略面临直接质疑。</p>
+<div class="link">原文链接：<a href="https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers" target="_blank" rel="noopener">https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers</a></div>
+<div class="orig">原标题：AI Guardrails Aren’t Stopping Criminal Hackers</div>
+</article><article>
+<h3><span class="idx">4.</span>Walmart 允许 AI 代理替用户购物<span class="badge">★★★★</span></h3>
+<div class="meta">The Verge AI · 2026-10-22 03:30</div>
+<p class="summary">Walmart 宣布下月起允许用户在站内使用 AI 代理购物，并提供购买审批、复核与消费限额机制。这与 Amazon 对第三方代理的抵制态度形成鲜明对比。</p>
+<p class="why"><b>为什么重要</b>：零售巨头首次向 AI 代理开放交易入口，电商流量与广告格局可能生变。</p>
+<div class="link">原文链接：<a href="https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents" target="_blank" rel="noopener">https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</a></div>
+<div class="orig">原标题：Walmart is inviting AI agents to shop for you</div>
+</article><article>
+<h3><span class="idx">5.</span>OpenAI 详解 ChatGPT 广告技术栈<span class="badge">★★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-10-21 15:00</div>
+<p class="summary">OpenAI 首次系统披露 ChatGPT 的 LLM 驱动广告系统，通过理解对话意图投放相关广告，并将广告与回答内容严格分离以维护用户信任。这标志着 ChatGPT 商业化进入规模化广告阶段。</p>
+<p class="why"><b>为什么重要</b>：对话式 AI 的广告范式首次公开，将影响整个 AI 助手的变现路径。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/building-chatgpt-ad-stack" target="_blank" rel="noopener">https://openai.com/index/building-chatgpt-ad-stack</a></div>
+<div class="orig">原标题：How we built ChatGPT’s novel ad stack for user trust and relevance</div>
+</article><article>
+<h3><span class="idx">6.</span>押注递归自我改进的初创公司发布新模型 Flint<span class="badge">★★★★</span></h3>
+<div class="meta">Wired AI · 2026-10-22 00:00</div>
+<p class="summary">Wired 报道初创公司 Recursive 发布最新模型 Flint，主张用 AI 构建 AI 的收益大于风险，并称新模型表现「好得吓人」。该公司将递归自我改进作为核心路线。</p>
+<p class="why"><b>为什么重要</b>：递归自我改进从论文概念走向产品化，是前沿能力竞赛中最具争议的方向之一。</p>
+<div class="link">原文链接：<a href="https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good" target="_blank" rel="noopener">https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good</a></div>
+<div class="orig">原标题：This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good</div>
+</article><article>
+<h3><span class="idx">7.</span>OpenAI 投资用脑植入物检测癌症的初创公司<span class="badge">★★★★</span></h3>
+<div class="meta">Wired AI · 2026-10-21 18:30</div>
+<p class="summary">OpenAI 投资一家利用脑植入设备检测癌症的初创公司，这是 AI 公司加码脑数据领域的最新一笔押注。此类投资反映 AI 与神经技术的融合正在加速。</p>
+<p class="why"><b>为什么重要</b>：AI 巨头向脑机接口与医疗数据延伸，打开新的数据与伦理议题。</p>
+<div class="link">原文链接：<a href="https://www.wired.com/story/openai-startup-brain-implants-detect-cancer" target="_blank" rel="noopener">https://www.wired.com/story/openai-startup-brain-implants-detect-cancer</a></div>
+<div class="orig">原标题：OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer</div>
+</article><article>
+<h3><span class="idx">8.</span>Meta Muse 分享链接设计缺陷泄露用户私人对话<span class="badge">★★★★</span></h3>
+<div class="meta">Wired AI · 2026-10-21 20:35</div>
+<p class="summary">安全研究人员发现 Meta AI 助手 Muse 的分享链接存在设计缺陷，可轻易访问用户与助手的敏感对话内容。Meta 已暂停该功能。</p>
+<p class="why"><b>为什么重要</b>：AI 助手隐私事故再添一例，分享机制的安全设计成为行业共性短板。</p>
+<div class="link">原文链接：<a href="https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse" target="_blank" rel="noopener">https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse</a></div>
+<div class="orig">原标题：A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse</div>
+</article><article>
+<h3><span class="idx">9.</span>国会迟疑之际，各州率先推进 AI 监管<span class="badge">★★★</span></h3>
+<div class="meta">Google News 英文 · 2026-10-21 22:55</div>
+<p class="summary">美国州议会全国会议发文指出，在联邦国会仍在审议 AI 立法之际，各州正率先出台监管规则。州级立法正在成为美国 AI 治理的实际前沿。</p>
+<p class="why"><b>为什么重要</b>：美国 AI 监管呈现「州先行」格局，合规版图碎片化将影响企业部署策略。</p>
+<div class="link">原文链接：<a href="https://www.ncsl.org/state-legislatures-news/details/as-congress-deliberates-states-lead-the-way-on-ai-regulation" target="_blank" rel="noopener">https://www.ncsl.org/state-legislatures-news/details/as-congress-deliberates-states-lead-the-way-on-ai-regulation</a></div>
+<div class="orig">原标题：As Congress Deliberates, States Lead the Way on AI Regulation</div>
+</article><article>
+<h3><span class="idx">10.</span>调查显示多数美国人更焦虑而非期待，希望加强 AI 监管<span class="badge">★★★</span></h3>
+<div class="meta">Google News 英文 · 2026-10-21 21:27</div>
+<p class="summary">Navigator Research 调查显示，多数美国人对 AI 更多感到焦虑而非期待，并支持对 AI 施加更多监管。公众情绪与州级立法动向相互呼应。</p>
+<p class="why"><b>为什么重要</b>：民意数据为监管加码提供政治动能，也提示 AI 产品信任成本上升。</p>
+<div class="link">原文链接：<a href="https://navigatorresearch.org/more-anxious-than-hopeful-most-americans-want-more-regulation-of-artificial-intelligence/" target="_blank" rel="noopener">https://navigatorresearch.org/more-anxious-than-hopeful-most-americans-want-more-regulation-of-artificial-intelligence/</a></div>
+<div class="orig">原标题：More Anxious than Hopeful, Most Americans Want More Regulation of Artificial Intelligence</div>
+</article><article>
+<h3><span class="idx">11.</span>OpenAI 总裁呼吁 AI 保障措施，其资助的团体却反对监管<span class="badge">★★★</span></h3>
+<div class="meta">Google News 英文 · 2026-10-22 01:22</div>
+<p class="summary">多家媒体报道，OpenAI 总裁公开呼吁加强 AI 安全保障，但其资助的政治团体却在反对 AI 限制措施。这一立场反差引发外界对 OpenAI 政策游说一致性的质疑。</p>
+<p class="why"><b>为什么重要</b>：头部 AI 公司在「呼吁监管」与「游说反监管」之间的张力被公开化。</p>
+<div class="link">原文链接：<a href="https://www.reuters.com/legal/litigation/openai-president-urges-ai-safeguards-group-he-funds-opposes-regulation-2026-10-21/" target="_blank" rel="noopener">https://www.reuters.com/legal/litigation/openai-president-urges-ai-safeguards-group-he-funds-opposes-regulation-2026-10-21/</a></div>
+<div class="orig">原标题：OpenAI president urges AI safeguards as group he funds opposes regulation</div>
+</article><article>
+<h3><span class="idx">12.</span>前美国官员敦促哥伦比亚特区巡回法院重审 Anthropic 与五角大楼之争<span class="badge">★★★</span></h3>
+<div class="meta">Google News 英文 · 2026-10-22 06:28</div>
+<p class="summary">DefenseScoop 报道，多位前美国官员呼吁哥伦比亚特区巡回上诉法院重新考虑 Anthropic 与五角大楼相关案件的裁决。该案涉及 AI 公司与国防部门的合作边界。</p>
+<p class="why"><b>为什么重要</b>：AI 企业与国防合作的司法走向，将影响前沿模型在军事场景的准入规则。</p>
+<div class="link">原文链接：<a href="https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/" target="_blank" rel="noopener">https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/</a></div>
+<div class="orig">原标题：Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight</div>
+</article><article>
+<h3><span class="idx">13.</span>OpenAI 发布前沿 AI 民主治理蓝图第二部分：赋能网络防御者<span class="badge">★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-10-21 08:00</div>
+<p class="summary">OpenAI 提出以「赋能网络防御者」为核心的政策蓝图，主张用前沿 AI 加强防御、强化保障措施、推进网络安全现代化并提升公共机构韧性。这是其前沿 AI 治理系列的第二篇。</p>
+<p class="why"><b>为什么重要</b>：模型厂商正主动输出监管框架，争夺 AI 安全政策的话语权。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/empowering-cyber-defenders" target="_blank" rel="noopener">https://openai.com/index/empowering-cyber-defenders</a></div>
+<div class="orig">原标题：Democratic governance of frontier AI, part II: Empowering cyber defenders</div>
+</article><article>
+<h3><span class="idx">14.</span>OpenAI 发布通过统一标准实现广泛访问的政策说明<span class="badge">★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-10-22 05:00</div>
+<p class="summary">OpenAI 发文说明其如何与分发伙伴合作，在 Usage Policies 框架下维持一致的保障措施、支持负责任访问并明确各方预期。此举意在规范第三方渠道的模型访问。</p>
+<p class="why"><b>为什么重要</b>：分发渠道治理是模型规模化落地的关键环节，政策细节值得开发者关注。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/broad-access-through-consistent-standards" target="_blank" rel="noopener">https://openai.com/index/broad-access-through-consistent-standards</a></div>
+<div class="orig">原标题：Broad access through consistent standards</div>
+</article><article>
+<h3><span class="idx">15.</span>Blackstone 的 Jas Khaira 称对 AI 基建债务的担忧被夸大<span class="badge">★★★</span></h3>
+<div class="meta">TechCrunch AI · 2026-10-22 06:51</div>
+<p class="summary">Blackstone AI 负责人 Jas Khaira 表示，市场对 AI 基础设施建设相关债务的担忧被夸大，私募巨头并未因此恐慌。此番表态回应了近期市场对 AI 资本开支泡沫的疑虑。</p>
+<p class="why"><b>为什么重要</b>：顶级 PE 对 AI 基建融资风险定调，影响后续资本流入节奏。</p>
+<div class="link">原文链接：<a href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown" target="_blank" rel="noopener">https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown</a></div>
+<div class="orig">原标题：Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</div>
+</article><article>
+<h3><span class="idx">16.</span>Bloomberg：Nvidia 是 AI 的「中央银行」，黄仁勋须承担更大责任<span class="badge">★★★</span></h3>
+<div class="meta">Google News 英文 · 2026-10-22 02:01</div>
+<p class="summary">Bloomberg 评论认为，Nvidia 在 AI 生态中已类似「中央银行」的角色，其算力分配与投资动向左右整个行业，黄仁勋需要承担与之匹配的责任。文章聚焦 Nvidia 日益集中的产业影响力。</p>
+<p class="why"><b>为什么重要</b>：算力寡头格局下，Nvidia 的治理与战略选择已成为行业系统性变量。</p>
+<div class="link">原文链接：<a href="https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up" target="_blank" rel="noopener">https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up</a></div>
+<div class="orig">原标题：Nvidia Is AI’s Central Bank. Now Jensen Huang Must Step Up</div>
+</article><article>
+<h3><span class="idx">17.</span>AI 交易扩散，避险股被改造成「德州对冲」<span class="badge">★★★</span></h3>
+<div class="meta">Google News 英文 · 2026-10-22 01:09</div>
+<p class="summary">CNBC 报道，随着 AI 交易不断扩散，传统避险资产正被投资者用作「德州对冲」工具，以对冲 AI 行情波动。这反映 AI 已成为影响资产配置的核心变量。</p>
+<p class="why"><b>为什么重要</b>：AI 行情外溢至跨资产策略，显示其对金融市场结构的影响加深。</p>
+<div class="link">原文链接：<a href="https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html" target="_blank" rel="noopener">https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html</a></div>
+<div class="orig">原标题：Expanding AI trade is turning safety stocks into a &#x27;Texas hedge&#x27;</div>
+</article><article>
+<h3><span class="idx">18.</span>调查：AI 承诺生产力，但管理者眼下更多是头疼<span class="badge">★★★</span></h3>
+<div class="meta">TechCrunch AI · 2026-10-21 22:00</div>
+<p class="summary">TechCrunch 援引新调查称，超过 50% 的管理者表示采用 AI 后更难评估员工的工作成果。AI 带来的生产力收益在管理层面尚未兑现，反而增加了考核难度。</p>
+<p class="why"><b>为什么重要</b>：企业 AI 落地的组织摩擦被量化，提示生产力叙事与实操之间存在落差。</p>
+<div class="link">原文链接：<a href="https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey" target="_blank" rel="noopener">https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey</a></div>
+<div class="orig">原标题：AI promises productivity, but for managers, it’s mostly a headache for now</div>
+</article><article>
+<h3><span class="idx">19.</span>Hugging Face CEO 指 Netflix 的 OpenAI 黑客纪录片不准确<span class="badge">★★</span></h3>
+<div class="meta">TechCrunch AI · 2026-10-21 06:24</div>
+<p class="summary">Hugging Face 联合创始人 Clem Delangue 表示，他出镜的 Netflix 纪录片《AI Gone Rogue》「完全进入末日论模式」，内容并不准确。该片围绕 OpenAI 相关黑客事件展开。</p>
+<p class="why"><b>为什么重要</b>：AI 安全叙事在大众媒体与从业者之间出现明显分歧，影响公众认知。</p>
+<div class="link">原文链接：<a href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate" target="_blank" rel="noopener">https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate</a></div>
+<div class="orig">原标题：Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate</div>
+</article><article>
+<h3><span class="idx">20.</span>MindView：生成式多视角空间智能基准发布<span class="badge">★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-10-21 01:58</div>
+<p class="summary">arXiv 新论文提出 MindView 基准，用于评估生成式多视角空间智能，包含来自 3 个室内数据集、513 个场景的 1500 个样本，覆盖几何主导与语义主导两类共七项任务。该基准填补了从部分多视角观测生成空间一致视图的评测空白。</p>
+<p class="why"><b>为什么重要</b>：空间智能是具身智能与 3D 生成的关键能力，新基准为模型对比提供统一标尺。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2610.28622v1" target="_blank" rel="noopener">https://arxiv.org/abs/2610.28622v1</a></div>
+<div class="orig">原标题：MindView: Benchmarking Generative Multi-View Spatial Intelligence</div>
+</article><div class="notes"><b>运行备注</b><ul><li>已将 6 条 Google News 跳转链接还原为发布方原文地址</li></ul></div>
+<details class="health"><summary>数据源健康（13 个源）</summary>
+<table><tr><th>来源</th><th>类型</th><th>抓取</th><th>保留</th><th>耗时</th><th>状态</th></tr>
+<tr><td>Ars Technica</td><td>rss</td><td>4</td><td>1</td><td>0.4s</td><td>正常</td></tr><tr><td>Google DeepMind 博客</td><td>rss</td><td>0</td><td>0</td><td>0.8s</td><td>正常</td></tr><tr><td>Google News 英文</td><td>gnews</td><td>91</td><td>90</td><td>1.4s</td><td>正常</td></tr><tr><td>Google 官方博客 AI</td><td>rss</td><td>1</td><td>1</td><td>1.3s</td><td>正常</td></tr><tr><td>Hacker News</td><td>hn</td><td>52</td><td>52</td><td>14.2s</td><td>正常</td></tr><tr><td>MIT 科技评论</td><td>rss</td><td>10</td><td>10</td><td>0.6s</td><td>正常</td></tr><tr><td>OpenAI 官方博客</td><td>rss</td><td>10</td><td>10</td><td>1.2s</td><td>正常</td></tr><tr><td>TechCrunch AI</td><td>rss</td><td>20</td><td>20</td><td>0.8s</td><td>正常</td></tr><tr><td>The Verge AI</td><td>rss</td><td>10</td><td>10</td><td>0.6s</td><td>正常</td></tr><tr><td>VentureBeat AI</td><td>rss</td><td>0</td><td>0</td><td>0.5s</td><td>正常</td></tr><tr><td>Wired AI</td><td>rss</td><td>10</td><td>10</td><td>0.4s</td><td>正常</td></tr><tr><td>ZDNet AI</td><td>rss</td><td>8</td><td>8</td><td>0.6s</td><td>正常</td></tr><tr><td>arXiv 论文</td><td>arxiv</td><td>15</td><td>15</td><td>0.8s</td><td>正常</td></tr></table></details>
+<footer>由 AI 情报助手生成 · 2026-10-22 07:31:00</footer>
+</div></body></html>

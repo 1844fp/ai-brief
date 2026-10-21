@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T07:30:39.700257",
+ "generated_at": "2026-10-22T07:31:01.453937",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 63,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-10-22",
+   "created_at": "2026-10-21T23:31:00.626735+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-22/news_daily-073100.html"
+  },
   {
    "id": 62,
    "task": "news_daily",
@@ -507,6 +516,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "AI 发现 PHP 关键远程代码执行漏洞 PHP2Shell",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "source": "Hacker News",
+   "summary": "安全公司 Wiz 披露代号 PHP2Shell 的 PHP 远程代码执行漏洞，据称由 AI 辅助挖掘，可远程在 PHP 站点执行任意代码。PHP 官方随即发布两个紧急安全补丁，Ars Technica、Wired 等多家媒体警告数百万网站面临风险。这是 AI 驱动漏洞发现进入实战阶段的标志性事件。",
+   "why": null,
+   "category": "安全",
+   "heat": 5,
+   "published": "2026-10-21T13:43:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "PHP 两个严重漏洞被指「正在点燃互联网」",
+   "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire",
+   "source": "Wired AI",
+   "summary": "Wired 报道 PHP 基金会公布两个严重漏洞，可能影响数百万网站，安全专家警告补丁不及时将造成严重后果。多家媒体将其与 PHP2Shell 事件并称为本周最紧迫的互联网安全问题。",
+   "why": null,
+   "category": "安全",
+   "heat": 5,
+   "published": "2026-10-21T14:26:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "AI 护栏挡不住犯罪黑客",
+   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
+   "source": "Wired AI",
+   "summary": "Wired 调查指出，全球黑客正全面转向使用智能体 AI 发动攻击，并通过各种手段操纵 Anthropic 的 Claude 等工具协助犯罪。现有安全护栏在实际滥用场景下效果有限。",
+   "why": null,
+   "category": "安全",
+   "heat": 5,
+   "published": "2026-10-21T14:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Walmart 允许 AI 代理替用户购物",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "source": "The Verge AI",
+   "summary": "Walmart 宣布下月起允许用户在站内使用 AI 代理购物，并提供购买审批、复核与消费限额机制。这与 Amazon 对第三方代理的抵制态度形成鲜明对比。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-10-21T19:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "OpenAI 详解 ChatGPT 广告技术栈",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 首次系统披露 ChatGPT 的 LLM 驱动广告系统，通过理解对话意图投放相关广告，并将广告与回答内容严格分离以维护用户信任。这标志着 ChatGPT 商业化进入规模化广告阶段。",
+   "why": null,
+   "category": "产品与商业化",
+   "heat": 4,
+   "published": "2026-10-21T07:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "押注递归自我改进的初创公司发布新模型 Flint",
+   "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good",
+   "source": "Wired AI",
+   "summary": "Wired 报道初创公司 Recursive 发布最新模型 Flint，主张用 AI 构建 AI 的收益大于风险，并称新模型表现「好得吓人」。该公司将递归自我改进作为核心路线。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-10-21T16:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "OpenAI 投资用脑植入物检测癌症的初创公司",
+   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer",
+   "source": "Wired AI",
+   "summary": "OpenAI 投资一家利用脑植入设备检测癌症的初创公司，这是 AI 公司加码脑数据领域的最新一笔押注。此类投资反映 AI 与神经技术的融合正在加速。",
+   "why": null,
+   "category": "投融资",
+   "heat": 4,
+   "published": "2026-10-21T10:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Meta Muse 分享链接设计缺陷泄露用户私人对话",
+   "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
+   "source": "Wired AI",
+   "summary": "安全研究人员发现 Meta AI 助手 Muse 的分享链接存在设计缺陷，可轻易访问用户与助手的敏感对话内容。Meta 已暂停该功能。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-10-21T12:35:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "国会迟疑之际，各州率先推进 AI 监管",
+   "url": "https://www.ncsl.org/state-legislatures-news/details/as-congress-deliberates-states-lead-the-way-on-ai-regulation",
+   "source": "Google News 英文",
+   "summary": "美国州议会全国会议发文指出，在联邦国会仍在审议 AI 立法之际，各州正率先出台监管规则。州级立法正在成为美国 AI 治理的实际前沿。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-21T14:55:39+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "调查显示多数美国人更焦虑而非期待，希望加强 AI 监管",
+   "url": "https://navigatorresearch.org/more-anxious-than-hopeful-most-americans-want-more-regulation-of-artificial-intelligence/",
+   "source": "Google News 英文",
+   "summary": "Navigator Research 调查显示，多数美国人对 AI 更多感到焦虑而非期待，并支持对 AI 施加更多监管。公众情绪与州级立法动向相互呼应。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-21T13:27:09+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "OpenAI 总裁呼吁 AI 保障措施，其资助的团体却反对监管",
+   "url": "https://www.reuters.com/legal/litigation/openai-president-urges-ai-safeguards-group-he-funds-opposes-regulation-2026-10-21/",
+   "source": "Google News 英文",
+   "summary": "多家媒体报道，OpenAI 总裁公开呼吁加强 AI 安全保障，但其资助的政治团体却在反对 AI 限制措施。这一立场反差引发外界对 OpenAI 政策游说一致性的质疑。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-21T17:22:06+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "前美国官员敦促哥伦比亚特区巡回法院重审 Anthropic 与五角大楼之争",
+   "url": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/",
+   "source": "Google News 英文",
+   "summary": "DefenseScoop 报道，多位前美国官员呼吁哥伦比亚特区巡回上诉法院重新考虑 Anthropic 与五角大楼相关案件的裁决。该案涉及 AI 公司与国防部门的合作边界。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-21T22:28:48+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "OpenAI 发布前沿 AI 民主治理蓝图第二部分：赋能网络防御者",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 提出以「赋能网络防御者」为核心的政策蓝图，主张用前沿 AI 加强防御、强化保障措施、推进网络安全现代化并提升公共机构韧性。这是其前沿 AI 治理系列的第二篇。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-21T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "OpenAI 发布通过统一标准实现广泛访问的政策说明",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发文说明其如何与分发伙伴合作，在 Usage Policies 框架下维持一致的保障措施、支持负责任访问并明确各方预期。此举意在规范第三方渠道的模型访问。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-21T21:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Blackstone 的 Jas Khaira 称对 AI 基建债务的担忧被夸大",
+   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+   "source": "TechCrunch AI",
+   "summary": "Blackstone AI 负责人 Jas Khaira 表示，市场对 AI 基础设施建设相关债务的担忧被夸大，私募巨头并未因此恐慌。此番表态回应了近期市场对 AI 资本开支泡沫的疑虑。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-10-21T22:51:22+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Bloomberg：Nvidia 是 AI 的「中央银行」，黄仁勋须承担更大责任",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-10-21/nvidia-is-ai-s-central-bank-now-jensen-huang-must-step-up",
+   "source": "Google News 英文",
+   "summary": "Bloomberg 评论认为，Nvidia 在 AI 生态中已类似「中央银行」的角色，其算力分配与投资动向左右整个行业，黄仁勋需要承担与之匹配的责任。文章聚焦 Nvidia 日益集中的产业影响力。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-10-21T18:01:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "AI 交易扩散，避险股被改造成「德州对冲」",
+   "url": "https://www.cnbc.com/2026/10/21/expanding-ai-trade-is-turning-safety-stocks-into-a-texas-hedge.html",
+   "source": "Google News 英文",
+   "summary": "CNBC 报道，随着 AI 交易不断扩散，传统避险资产正被投资者用作「德州对冲」工具，以对冲 AI 行情波动。这反映 AI 已成为影响资产配置的核心变量。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-10-21T17:09:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "调查：AI 承诺生产力，但管理者眼下更多是头疼",
+   "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 援引新调查称，超过 50% 的管理者表示采用 AI 后更难评估员工的工作成果。AI 带来的生产力收益在管理层面尚未兑现，反而增加了考核难度。",
+   "why": null,
+   "category": "行业研究",
+   "heat": 3,
+   "published": "2026-10-21T14:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Hugging Face CEO 指 Netflix 的 OpenAI 黑客纪录片不准确",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+   "source": "TechCrunch AI",
+   "summary": "Hugging Face 联合创始人 Clem Delangue 表示，他出镜的 Netflix 纪录片《AI Gone Rogue》「完全进入末日论模式」，内容并不准确。该片围绕 OpenAI 相关黑客事件展开。",
+   "why": null,
+   "category": "行业观点",
+   "heat": 2,
+   "published": "2026-10-20T22:24:02+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "MindView：生成式多视角空间智能基准发布",
+   "url": "https://arxiv.org/abs/2610.28622v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 新论文提出 MindView 基准，用于评估生成式多视角空间智能，包含来自 3 个室内数据集、513 个场景的 1500 个样本，覆盖几何主导与语义主导两类共七项任务。该基准填补了从部分多视角观测生成空间一致视图的评测空白。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-10-20T17:58:25+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
