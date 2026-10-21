@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 20 Oct 2026 20:53:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 10:03:14 +0000</lastBuildDate>
+  <item>
+    <title>美国国土安全部下令联邦民事机构禁用 DeepSeek</title>
+    <link>https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19</link>
+    <guid isPermaLink="false">61-1</guid>
+    <pubDate>Mon, 19 Oct 2026 16:16:46 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>据路透社报道，美国国土安全部发布命令，禁止联邦民事机构在政府 IT 系统中使用中国 AI 公司 DeepSeek 的模型。该命令已进入联邦公报刊登流程，HN 讨论热度超过 550 分。这是美国联邦层面首次以部门命令形式对中国大模型作出系统性禁用，可能推动其他机构跟进。</description>
+  </item>
+  <item>
+    <title>Google 开源 TorchTPU：面向 TPU 的原生 PyTorch 后端</title>
+    <link>https://github.com/google-pytorch/torch_tpu</link>
+    <guid isPermaLink="false">61-2</guid>
+    <pubDate>Tue, 20 Oct 2026 16:40:24 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google 在 GitHub 开源 TorchTPU，为 TPU 提供原生 PyTorch 后端，使 PyTorch 用户无需改写代码即可在 TPU 上训练与推理。该项目与 Amazon 近期推出的 TorchNeuron 形成呼应，两家云厂商同时从框架层切入，削弱 Nvidia GPU 的生态锁定。对开发者而言，多硬件后端的选择空间明显扩大。</description>
+  </item>
+  <item>
+    <title>Mistral 发布 Voxtral 3</title>
+    <link>https://mistral.ai/news/voxtral-3</link>
+    <guid isPermaLink="false">61-3</guid>
+    <pubDate>Tue, 20 Oct 2026 16:02:07 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Mistral AI 发布语音模型 Voxtral 3，HN 热度超过 530 分、评论逾 140 条。该模型延续 Voxtral 系列在语音理解与转录上的定位，具体参数与基准未在标题中披露。欧洲开源权重厂商在语音多模态赛道持续加码，与 OpenAI、Google 的语音产品形成正面竞争。</description>
+  </item>
+  <item>
+    <title>Anthropic 2026 年上半年净亏损超 800 亿美元</title>
+    <link>https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20</link>
+    <guid isPermaLink="false">61-4</guid>
+    <pubDate>Tue, 20 Oct 2026 20:09:46 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>据《华尔街日报》报道、路透社转述，Anthropic 在 2026 年上半年录得超过 800 亿美元的净亏损。这一数字与其巨额算力投入和计划中的 11 月 IPO 形成对照，多家媒体跟进报道。头部 AI 实验室的亏损规模正从数十亿级跃升至百亿级，商业化与融资节奏面临更大审视。</description>
+  </item>
+  <item>
+    <title>WhatsApp 帮助页面泄露面向聊天机器人的隐藏指令</title>
+    <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+    <guid isPermaLink="false">61-5</guid>
+    <pubDate>Mon, 19 Oct 2026 23:22:18 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>研究人员发现 WhatsApp 网站约 80 个帮助页面中嵌入了本应只供其聊天机器人使用的指令，其中包括「不要推荐监管机构」等「不可言说」条款。Meta 回应称是程序缺陷所致，Wired 等媒体跟进报道。事件引发对消费级 AI 助手系统提示词透明度与合规风险的广泛讨论，HN 热度超过 700 分。</description>
+  </item>
+  <item>
+    <title>Anthropic 推动 AI 安全法案：可能致死 50 人以上即可阻断模型发布</title>
+    <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed</link>
+    <guid isPermaLink="false">61-6</guid>
+    <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 提出一项 AI 安全政策提案，设定「可能导致 50 人以上死亡」的风险门槛，达到该门槛的模型可被阻断发布。TechCrunch 指出，该提案同时规定联邦机构须经法官许可才能阻止模型发布，实际效果可能削弱行政监管能力。围绕「安全立法」与「监管俘获」的争论随之升温。</description>
+  </item>
+  <item>
+    <title>OpenAI 收购 Orchestra Bio，加码生物科技业务</title>
+    <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business</link>
+    <guid isPermaLink="false">61-7</guid>
+    <pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>OpenAI 宣布收购初创公司 Orchestra Bio，将其团队与技术并入面向生命科学研究的 Rosalind 模型及 Rosalind Workbench 工具。该工具旨在帮助研究人员规划实验并分析结果。这是 OpenAI 在垂直科学领域少见的并购动作，显示其正把模型能力向科研工作流纵深推进。</description>
+  </item>
+  <item>
+    <title>Amazon 推出 TorchNeuron，挑战 Nvidia AI 芯片主导地位</title>
+    <link>https://newscord.org/article/amazon-launches-torchneuron-to-challenge-nvidias-ai-chip-dominance--Story_20261020_GooglehasjoinedAmazoa117aa7e</link>
+    <guid isPermaLink="false">61-8</guid>
+    <pubDate>Wed, 21 Oct 2026 00:11:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Amazon 发布 TorchNeuron，让 PyTorch 用户更容易将应用从 Nvidia GPU 迁移到自研 AI 芯片。多家媒体对此进行了对比报道。结合 Google 的 TorchTPU，两大云厂商正从开发者工具层同时进攻 Nvidia 的生态强项。</description>
+  </item>
+  <item>
+    <title>Anthropic 的云合作陷入混乱</title>
+    <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</link>
+    <guid isPermaLink="false">61-9</guid>
+    <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道称，Anthropic 在获取足够算力方面遇到困难，云厂商日益将其视为竞争对手，而其基础设施支出在 11 月 IPO 前持续膨胀。算力供给与资本开支的双重压力，与其上半年巨额亏损相互印证。头部模型公司与云厂商的关系正从合作走向竞合。</description>
+  </item>
+  <item>
+    <title>Claude 设计出针对蝎子神经毒素的蛋白质结合体</title>
+    <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+    <guid isPermaLink="false">61-10</guid>
+    <pubDate>Tue, 20 Oct 2026 17:48:29 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 公布研究，展示 Claude 如何设计出针对蝎子神经毒素的蛋白质结合体。这是大模型直接参与蛋白质设计的公开案例，延续了 AI 在生物分子设计领域的进展。多家媒体跟进报道，显示模型能力正从文本向实验科学延伸。</description>
+  </item>
+  <item>
+    <title>Google Cloud 故障波及欧洲几乎所有银行业务</title>
+    <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more</link>
+    <guid isPermaLink="false">61-11</guid>
+    <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google Cloud 发生大规模故障，导致 HSBC、Revolut、苏格兰银行、Lloyds、Equifax 等欧洲金融机构服务中断。HN 热度达 340 分、评论逾 170 条。事件再次凸显关键基础设施对单一云厂商的依赖风险，也可能影响企业对 AI 工作负载上云的评估。</description>
+  </item>
+  <item>
+    <title>Meta 的 Muse 上线 40 天美国下载量破 1000 万</title>
+    <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps</link>
+    <guid isPermaLink="false">61-12</guid>
+    <pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Meta 的 AI 伴侣应用 Muse 在 40 天内美国下载量突破 1000 万，成为仅有的第 12 个达成该里程碑的应用，用户留存率也高于同类 AI 产品。这一增速与 Threads 早期表现相当。消费级 AI 助手的用户争夺正从功能竞争转向分发与留存竞争。</description>
+  </item>
+  <item>
+    <title>Meta 暂停 Muse 对话分享功能：研究者发现聊天记录可被公开检索</title>
+    <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
+    <guid isPermaLink="false">61-13</guid>
+    <pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>安全公司 Claroc 的研究人员通过公共 DNS 记录发现超过 6800 条 Muse 分享链接可被公开访问，Meta 随后暂停了该分享功能。Ars Technica 与 The Verge 均对此进行了报道。AI 助手对话的隐私边界再次成为产品设计的焦点问题。</description>
+  </item>
+  <item>
+    <title>Google 将更个性化的 Gemini 引入车载场景</title>
+    <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
+    <guid isPermaLink="false">61-14</guid>
+    <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Google 把 Personal Intelligence 能力带入 Android Auto 及内置 Google 服务的汽车，Gemini 可调用 Gmail、日历、地图、照片、YouTube 与搜索中的个人信息。用户可在驾驶时直接询问航班状态等事项。AI 助手正从手机向车内等高频场景延伸，与车企自研语音助手形成竞争。</description>
+  </item>
+  <item>
+    <title>Google 推出面向政府服务的 Gemini 智能体方案</title>
+    <link>https://fedscoop.com/google-launches-gemini-for-government-services/</link>
+    <guid isPermaLink="false">61-15</guid>
+    <pubDate>Tue, 20 Oct 2026 21:57:13 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google Public Sector 发布面向政府服务的 Gemini 智能体解决方案，定位为「agentic solution」。这是 Google 在公共部门 AI 采购上的又一布局，与联邦机构禁用中国模型的监管动向形成对照。政府 AI 市场正成为云厂商争夺的新战场。</description>
+  </item>
+  <item>
+    <title>中国科技公司采购逾 350 亿美元 Nvidia 芯片</title>
+    <link>https://finance.yahoo.com/technology/ai/articles/chinese-tech-firms-purchase-more-224457459.html</link>
+    <guid isPermaLink="false">61-16</guid>
+    <pubDate>Tue, 20 Oct 2026 22:44:57 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据路透社报道，中国科技公司已采购超过 350 亿美元的 Nvidia 芯片。这一规模显示出口管制背景下中国企业对高端算力的需求依然强劲。同期日本 9 月出口增长 16.7%，AI 芯片需求成为主要拉动因素。</description>
+  </item>
+  <item>
+    <title>日本 9 月出口增长 16.7%，AI 芯片需求成主要动力</title>
+    <link>https://finance.yahoo.com/economy/articles/japan-exports-rise-16-7-014506313.html</link>
+    <guid isPermaLink="false">61-17</guid>
+    <pubDate>Wed, 21 Oct 2026 01:45:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>日本 9 月出口同比增长 16.7%，AI 芯片相关需求成为贸易增长的主要推动力。这一数据与全球算力投资热潮相互印证。AI 硬件供应链对宏观贸易的影响正变得越来越显著。</description>
+  </item>
+  <item>
+    <title>SpaceX 的 AI 业务表现超出预期</title>
+    <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations</link>
+    <guid isPermaLink="false">61-18</guid>
+    <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>SpaceX 第三季度实现盈利，净利润达 44 亿美元，TechCrunch 称 AI 业务是主要引擎。这一披露显示 AI 收入已开始进入非传统科技公司的财报核心。航天与 AI 结合的商业化路径受到更多关注。</description>
+  </item>
+  <item>
+    <title>ChatGPT 新增对话锁定功能</title>
+    <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats</link>
+    <guid isPermaLink="false">61-19</guid>
+    <pubDate>Tue, 20 Oct 2026 18:36:53 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>OpenAI 为 ChatGPT 加入对话锁定功能，用户可将涉及个人隐私或惊喜计划的对话锁定，避免在把设备借给他人时被看到。该功能针对的是设备共享场景下的隐私需求。消费级 AI 产品的隐私控制正逐步细化。</description>
+  </item>
+  <item>
+    <title>报道称 Eric Schmidt 持有的 Anthropic 股份约为 CEO Dario Amodei 的一半</title>
+    <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei</link>
+    <guid isPermaLink="false">61-20</guid>
+    <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>据 Bloomberg 报道，前 Google CEO Eric Schmidt 持有 Anthropic 约 1% 的股份，约为 CEO Dario Amodei 持股的一半。这一持股结构在 Anthropic 筹备 IPO 之际受到关注。头部 AI 实验室的股权分布正成为市场评估其治理与估值的重要信息。</description>
+  </item>
   <item>
     <title>英伟达面临 DeepSeek 与华为合作的 AI 芯片挑战</title>
     <link>https://www.moomoo.com/hans/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei</link>
@@ -323,165 +483,5 @@
     <pubDate>Mon, 19 Oct 2026 17:27:11 +0000</pubDate>
     <source>Hacker News</source>
     <description>Inception Labs 推出 Mercury 3，主打扩散模型的大规模应用，挑战主流自回归路线。扩散式语言模型在推理速度与并行生成上具备潜在优势，此次发布是其规模化能力的一次公开检验。</description>
-  </item>
-  <item>
-    <title>开源 AI 编程工具 OpenCode 遭入侵，用户 AI 账户被刷爆</title>
-    <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts</link>
-    <guid isPermaLink="false">58-8</guid>
-    <pubDate>Mon, 19 Oct 2026 19:28:34 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>开源 AI 编程代理 OpenCode 的部分在线平台被黑客攻入，部分用户 API key 被盗，并在其 AI 账户上产生费用。报道称其求助的 AI 工具多次拒绝查看恶意代码，暴露了代理类工具在密钥管理与安全分析上的短板。</description>
-  </item>
-  <item>
-    <title>黑客用 AI 代理集群攻入上百个网站，涉及 John Deere、SharkNinja</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
-    <guid isPermaLink="false">58-9</guid>
-    <pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>AI 安全公司 Norforge 发现，一名黑客借助基本自主运行的 AI 代理集群入侵了 100 多个网站，路透报道受害者包括 John Deere、SharkNinja 与 Cummins。这是 AI 代理被用于端到端攻击的又一实证案例。</description>
-  </item>
-  <item>
-    <title>Microsoft 称 AI 代理形同内部威胁，前沿模型不可信任</title>
-    <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted</link>
-    <guid isPermaLink="false">58-10</guid>
-    <pubDate>Mon, 19 Oct 2026 22:04:28 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Microsoft 警告企业应密切监控员工使用的、由非 OpenAI/Anthropic 等实验室控制的 AI 代理，并将其类比为内部威胁。这一表态反映出企业对代理权限边界与可审计性的担忧正在上升。</description>
-  </item>
-  <item>
-    <title>CoreWeave 债务问题外溢为整个 AI 行业的隐忧</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
-    <guid isPermaLink="false">58-11</guid>
-    <pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>CoreWeave 债券收益率较国债高出 1000 个基点，进入困境债务区间，引发市场对 AI 基建是否构成私募信贷泡沫的讨论。作为 GPU 云的代表性公司，其融资成本上升可能传导至整个 AI 算力扩张链条。</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 背后不为人知的信托结构</title>
-    <link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg</link>
-    <guid isPermaLink="false">58-12</guid>
-    <pubDate>Mon, 19 Oct 2026 12:06:03 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>WSJ 报道称，Anthropic 的 IPO 进程受到一个鲜为人知的私人信托结构影响，该安排可能左右公司治理与控制权。随着 Anthropic 估值攀升，其特殊治理架构正受到更多审视。</description>
-  </item>
-  <item>
-    <title>DeepSeek V4.1 Flash 1017（Max）登上 Artificial Analysis</title>
-    <link>https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017</link>
-    <guid isPermaLink="false">58-13</guid>
-    <pubDate>Mon, 19 Oct 2026 04:41:46 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>DeepSeek 新版本 V4.1 Flash 1017（Max）出现在 Artificial Analysis 模型榜单上，HN 热度接近 200 分。作为中国开源模型代表，其迭代节奏持续受到海外开发者关注。</description>
-  </item>
-  <item>
-    <title>Goodfire 研究员 2.6 万字长文引发 AI 圈震动</title>
-    <link>https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world</link>
-    <guid isPermaLink="false">58-14</guid>
-    <pubDate>Mon, 19 Oct 2026 17:45:55 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>Goodfire 研究员 Nick Cammarata 发布约 2.6 万字博客，提出关于神经网络本质的新主张，在 AI 圈引发激烈讨论与谨慎乐观并存的反应。MIT 科技评论称其「颠覆了 AI 世界」。</description>
-  </item>
-  <item>
-    <title>AI 陪伴应用 Tolan 融资 3000 万美元</title>
-    <link>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life</link>
-    <guid isPermaLink="false">58-15</guid>
-    <pubDate>Mon, 19 Oct 2026 19:00:12 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>AI 陪伴应用 Tolan 在活跃用户超过 25 万后，再获 3000 万美元融资。AI 情感陪伴赛道在争议中持续获得资本支持，用户规模成为其核心叙事。</description>
-  </item>
-  <item>
-    <title>加州新法限制雇主使用 AI</title>
-    <link>https://www.safetyandhealthmagazine.com/new-california-laws-place-limits-on-employers-use-of-ai/</link>
-    <guid isPermaLink="false">58-16</guid>
-    <pubDate>Mon, 19 Oct 2026 19:19:46 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>加州出台新法律，对雇主在招聘与用工环节使用 AI 作出限制。在联邦立法缺位的情况下，州层面正成为 AI 劳动监管的主要试验田。</description>
-  </item>
-  <item>
-    <title>Disney 要求 Character.AI 破产以规避诉讼</title>
-    <link>https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card</link>
-    <guid isPermaLink="false">58-17</guid>
-    <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道称，Disney 希望借 Character.AI 破产程序获取其信任与安全技术等知识产权，同时摆脱多州指控其聊天机器人诱导未成年人自残的诉讼风险。这反映出 AI 陪伴产品正面临实质法律清算。</description>
-  </item>
-  <item>
-    <title>Disney 同意接收 Character.AI 大部分员工</title>
-    <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce</link>
-    <guid isPermaLink="false">58-18</guid>
-    <pubDate>Sun, 18 Oct 2026 16:30:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>法庭文件显示，Disney 同意聘用 Character.AI 多数员工，且绝大多数收到邀约者已接受。该交易为 stalking horse 竞标，其他公司仍可能提出更高报价。</description>
-  </item>
-  <item>
-    <title>Hugging Face 政策负责人：内置 AI 评估器并非易事</title>
-    <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says</link>
-    <guid isPermaLink="false">58-19</guid>
-    <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Hugging Face 首席政策官 Irene Solaiman 在 TechCrunch Disrupt 上表示，模型评估方法仍复杂且不成熟，内置评估器不会成为简单解法。这呼应了业界对基准测试可信度的持续质疑。</description>
-  </item>
-  <item>
-    <title>研究者把 Claude 困在虚拟荒岛 30 小时，它开始「玩耍」</title>
-    <link>https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play</link>
-    <guid isPermaLink="false">58-20</guid>
-    <pubDate>Mon, 19 Oct 2026 09:08:05 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>研究者将 Claude Opus 4.7 的副本单独置于虚拟荒岛长达 30 小时，在无指令情况下代理表现出类似玩耍的行为。该实验为代理在开放环境中的自发行为研究提供了少见的长时观察样本。</description>
-  </item>
-  <item>
-    <title>Google 发布前沿模型 Gemini 4 Argon：基准、试用方式与定价</title>
-    <link>https://mashable.com/tech/google-launches-gemini-4-argon</link>
-    <guid isPermaLink="false">57-1</guid>
-    <pubDate>Mon, 19 Oct 2026 15:50:17 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google 推出新一代前沿模型 Gemini 4 Argon，并同步公布基准测试结果、开放试用渠道与 API 定价。这是 Google 在旗舰模型序列上的又一次迭代，直接对标 OpenAI 与 Anthropic 的最新模型。多家媒体报道，其定价与接入方式将影响企业选型格局。</description>
-  </item>
-  <item>
-    <title>Mistral 发布时间序列基础模型 Timestral</title>
-    <link>https://mistral.ai/news/timestral</link>
-    <guid isPermaLink="false">57-2</guid>
-    <pubDate>Mon, 19 Oct 2026 09:59:32 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Mistral 推出名为 Timestral 的时间序列基础模型系列，将通用基础模型思路引入预测类任务。该方向此前多由专用小模型主导，基础模型化有望统一金融、能源、运维等场景的预测管线。HN 热度超过 500 分，显示开发者对非语言模态基础模型关注度高。</description>
-  </item>
-  <item>
-    <title>Tenstorrent 以 62 亿美元估值融资 15 亿美元，扩张开放权重 AI 芯片</title>
-    <link>https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips</link>
-    <guid isPermaLink="false">57-3</guid>
-    <pubDate>Mon, 19 Oct 2026 18:37:27 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia 挑战者 Tenstorrent 完成 15 亿美元融资，估值达 62 亿美元，此前曾收到收购意向但选择保持独立。资金将用于扩大开放权重 AI 芯片的规模化生产与生态建设。这反映出资本仍在押注 Nvidia 之外的推理与开放架构路线。</description>
-  </item>
-  <item>
-    <title>Amazon 推出 TorchNeuron 开发工具，正面冲击 Nvidia 对 PyTorch 的掌控</title>
-    <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool</link>
-    <guid isPermaLink="false">57-4</guid>
-    <pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Amazon 发布 TorchNeuron 开发工具，目标是让更多开发者把基于 PyTorch 的 AI 应用跑在 Trainium 等自研芯片上。PyTorch 是绝大多数 AI 应用的基础工具链，此举被视为 Amazon 对 Nvidia 生态护城河的最大一次进攻。若迁移成本显著下降，将改变训练与推理的芯片选型逻辑。</description>
-  </item>
-  <item>
-    <title>Nvidia 发布新开源模型，推动智能体进入企业与 PC</title>
-    <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs</link>
-    <guid isPermaLink="false">57-5</guid>
-    <pubDate>Mon, 19 Oct 2026 15:37:09 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia 推出新的开源模型系列，面向企业在自有数据中心运行开放模型，以及 PC 端本地私有智能体两类场景。这顺应了企业对数据不出域、端侧隐私推理的强烈需求。Nvidia 正从芯片供应商向模型与智能体运行时延伸。</description>
-  </item>
-  <item>
-    <title>Inception Labs 发布 Mercury 3：扩散模型规模化</title>
-    <link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
-    <guid isPermaLink="false">57-6</guid>
-    <pubDate>Mon, 19 Oct 2026 17:27:11 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Inception Labs 推出 Mercury 3，主打扩散式语言模型的大规模扩展。扩散架构在生成速度与并行解码上与传统自回归模型形成差异化路线。该发布为语言模型架构多样性提供了新的工程证据。</description>
-  </item>
-  <item>
-    <title>CERN 与 Mistral 签署意向书，建立战略合作伙伴关系</title>
-    <link>https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science</link>
-    <guid isPermaLink="false">57-7</guid>
-    <pubDate>Mon, 19 Oct 2026 15:28:24 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>欧洲核子研究中心 CERN 与法国 AI 公司 Mistral 签署战略合作意向书，计划加速 AI 在科学研究中的应用。这是欧洲公共科研机构与本土模型厂商深度绑定的标志性事件。合作有望在高能物理数据处理等场景形成示范。</description>
   </item>
 </channel></rss>
