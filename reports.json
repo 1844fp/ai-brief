@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T08:01:00.776156",
+ "generated_at": "2026-10-22T08:01:11.649090",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 65,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-22",
+   "created_at": "2026-10-22T00:01:10.830619+00:00",
+   "item_count": 17,
+   "llm_ok": true,
+   "url": "reports/2026-10-22/news_daily_cn-080110.html"
+  },
   {
    "id": 64,
    "task": "news_daily_cn",
@@ -525,6 +534,210 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "DeepSeek 与华为合作设计 AI 芯片，训练环节推进去英伟达化",
+   "url": "https://www.oschina.net/news/503127",
+   "source": "开源中国",
+   "summary": "据 The Information 报道，华为工程师长期驻点 DeepSeek，将大模型训练的实际需求直接纳入芯片设计，双方合作已超出供应商与客户关系。这意味着国产大模型与国产算力开始从底层协同设计，对英伟达在中国训练市场的份额构成更深远冲击。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-10-21T04:04:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "DeepSeek 开源推理框架 DeepInfer：单集群日吞吐 155 万亿 Token，KVCache 可保存 7 天",
+   "url": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf",
+   "source": "InfoQ 中文",
+   "summary": "DeepSeek 将内部推理框架 DeepInfer 全面开源，基于该框架已实现 V4.1 Flash 的高吞吐、低延迟大规模推理服务，单集群日吞吐达 155 万亿 Token，KVCache 可保存 7 天。开源推理栈有望降低云服务成本，并推动国产芯片适配。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 5,
+   "published": "2026-10-21T12:06:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "MiniMax M3.1 Flash 发布：Automation-Bench 复杂 Agent 任务排名第一",
+   "url": "https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html",
+   "source": "雷锋网",
+   "summary": "MiniMax 正式发布 M3.1 Flash，并认领此前匿名模型 Space Bunny。评测显示其在 Automation-Bench 复杂 Agent 任务中位居第一，BankerToolBench 与 Opus 5 并列第一，Coding 性价比仅次于 DeepSeek。国产 Flash 模型竞争从价格战转向 Agent 能力比拼。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 5,
+   "published": "2026-10-21T04:09:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "中办、国办部署“人工智能+”：算力、先进封装、人形机器人迎政策利好",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwb4Lb5ufyCygsaVNVAd8lKGYDa2qHcjF1qXa8Fplpd9gjtajPdaaftU13a18Ye4GIhIJKM_iiBiq54KKpV2jiFWxp96lJFXVfSybM6rwx1j64tC5MhOSHvDXvAIlEIFNbULEr71FXX1CfSNiW91i4FV8eFXiPhjUytMJuHDRm4rhVU_TqQbKWnaGX5ljNSkmscgNnSHO-QA7toFgfnAUd5FkDr8IT4KYw..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=6123078BFF0E9D818F88D0ED02D2F8EE8F26194F6AD9520E",
+   "source": "微信公众号",
+   "summary": "中办、国办最新部署推动科技创新和产业创新深度融合，明确“人工智能+”方向，算力、先进封装、人形机器人等环节被机构视为直接受益领域。政策定调有望带动地方配套投入与产业资金加速落地。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 5,
+   "published": "2026-10-21T15:08:37+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "理想汽车宣布对外销售芯片，马赫心科技首轮融资 16.25 亿元",
+   "url": "https://k.sina.com.cn/article_7879923942_m1d5ae18e6033029tmo.html?from",
+   "source": "Google News 中文",
+   "summary": "理想汽车宣布将对外销售自研芯片，其芯片业务主体马赫心科技完成首轮 16.25 亿元融资。车企自研芯片从自用走向外供，反映智能驾驶算力需求外溢与国产车规芯片商业化提速。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-21T22:47:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "DeepSeek 开源推理软件：同一代码库同时构建华为与英伟达加速器",
+   "url": "https://www.tmtpost.com/8176740.html",
+   "source": "钛媒体",
+   "summary": "DeepSeek 发布的 serving 软件可从同一代码库为华为加速器和英伟达 GPU 构建推理服务。在中国加速卡稀缺、Token 流量上升的背景下，这一选择可能改变团队选型硬件的逻辑，但实际效果仍需线上流量验证。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-21T10:29:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "腾讯内测 AI 互动社区“懂了鸭”：自然语言生成 3D 课件与互动绘本",
+   "url": "https://www.ithome.com/1/016/145.htm",
+   "source": "IT之家",
+   "summary": "腾讯正在内测面向少儿与青少年的 AI 互动内容社区“懂了鸭”，用户输入自然语言即可由内置智能体生成 3D 演示、动态课件、互动绘本等“奇妙卡”，无需编程。产品覆盖学前到高中四个学段，尝试把内容消费与生产放在同一社区。",
+   "why": null,
+   "category": "AI 产品",
+   "heat": 4,
+   "published": "2026-10-21T15:10:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "IDC：阿里云占中国汽车公共云市场 45.1%，连续 11 期第一",
+   "url": "https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html",
+   "source": "雷锋网",
+   "summary": "IDC 报告显示，2026 年上半年中国汽车公共云基础设施市场规模约 83.4 亿元，阿里云份额达 45.1%，收入同比增长 111%，自 2021 年起连续 11 期位居第一。大模型在智能座舱与辅助驾驶落地，持续拉动车企算力需求。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-10-21T09:28:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "生数科技 Motubrain 2.0 公开直播 Physical AI 训练全流程，持续半个月",
+   "url": "https://www.qbitai.com/2026/10/504730.html",
+   "source": "量子位",
+   "summary": "生数科技世界模型团队于 10 月 21 日开启 Motubrain 2.0 训练全流程公开直播，持续半个月。公开训练过程在具身智能领域较为少见，有助于外界理解世界模型的数据与训练方法。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-21T09:45:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "清华系公司千诀将世界模型做进机器人：隐变量可辨识性研究早于 LeCun 相近工作",
+   "url": "https://www.qbitai.com/2026/10/504653.html",
+   "source": "量子位",
+   "summary": "量子位报道，清华系公司千诀在世界模型方向采用隐变量可辨识性路线，不堆画面预测，主打物理规律与跨本体复用，相关研究比 LeCun 相近工作早一年。该路线已应用于机器人，显示国内世界模型研究进入工程化阶段。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-21T07:15:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "OpenAI 牵头协调修复 PHP 两项高危漏洞，影响约 70% 网站",
+   "url": "https://www.ithome.com/1/016/173.htm",
+   "source": "IT之家",
+   "summary": "OpenAI 通过“修补地球”计划协助发现 PHP 两项严重漏洞（统称 PHP2Shell），并联合 PHP 维护团队、云服务商与多国网络安全机构完成约两个月的协调修复。安全公司 Calif 借助 GPT-5.6 Sol 模型发现其中一项关键缺陷，谷歌 Wiz 独立报告相关漏洞。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-10-21T23:11:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "电商巨头 AI 战略分野：阿里抢算力，京东抢扳手",
+   "url": "https://www.tmtpost.com/8176414.html",
+   "source": "钛媒体",
+   "summary": "钛媒体分析指出，阿里与京东在 AI 战略上出现明显分野：阿里侧重算力基础设施，京东侧重以工具和场景切入。表面是技术路线不同，实际是两家公司各自从最熟悉的资产出发延伸 AI 能力。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 3,
+   "published": "2026-10-21T09:36:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "首都在线账面扭亏，AI 算力投入持续",
+   "url": "https://www.tmtpost.com/8176619.html",
+   "source": "钛媒体",
+   "summary": "首都在线财报显示公司账面扭亏，毛利修复但资金仍紧，AI 算力投入持续。作为算力租赁服务商，其业绩变化反映中小云厂商在 AI 需求带动下的经营改善与资金压力并存。",
+   "why": null,
+   "category": "AI 算力",
+   "heat": 3,
+   "published": "2026-10-21T13:11:59+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "英伟达 RTX PRO 5500 国内遭疯抢：传订单达数百万张，有厂商计划采购 100 万张",
+   "url": "https://www.leiphone.com/category/chips/STx9ZzfDNh5W80Bm.html",
+   "source": "雷锋网",
+   "summary": "雷锋网报道，英伟达尚未批量交付的 RTX PRO 5500 在中国市场引发抢购，有服务器产品经理称订购规模已达数百万张，接近英伟达预计的全球产能，有大厂被传计划采购 100 万张。同时有爆料称英伟达将把 GB202 芯片产能转向 RTX PRO 系列，RTX 5090 渠道价已升至约 5.7 万元。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-10-20T10:27:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+   "url": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb",
+   "source": "InfoQ 中文",
+   "summary": "Cloudflare 开源了面向 AI 智能体的决策模型 Clef，用于智能体在运行过程中的判断与决策。该开源项目为智能体基础设施再添一块拼图，有助于开发者构建更可控的 Agent 工作流。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-21T13:47:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏延期，预计 11 月初分批推送",
+   "url": "https://www.ithome.com/1/016/144.htm",
+   "source": "IT之家",
+   "summary": "华为客户服务确认，HarmonyOS 7 的小艺 AI 快捷栏功能预计 11 月初分批推送，较此前 10 月底的计划有所延期。该功能开启后小艺将常驻桌面底部 Dock 栏，是鸿蒙系统智能体入口的重要更新。",
+   "why": null,
+   "category": "AI 产品",
+   "heat": 2,
+   "published": "2026-10-21T15:10:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "国内首个通过国家备案的渔业大模型将正式对外发布",
+   "url": "https://m.mp.oeeee.com/a/BAAFRD0000202610211686431.html",
+   "source": "Google News 中文",
+   "summary": "国内首个通过国家备案的渔业垂直大模型即将正式对外发布。垂直行业大模型通过备案并落地，显示大模型在农业等传统产业的合规化应用正在推进。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 2,
+   "published": "2026-10-21T13:57:26+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
