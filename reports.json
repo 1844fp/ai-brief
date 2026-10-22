@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T07:31:01.453937",
+ "generated_at": "2026-10-22T08:01:00.776156",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 64,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-22",
+   "created_at": "2026-10-22T00:00:59.999088+00:00",
+   "item_count": 16,
+   "llm_ok": true,
+   "url": "reports/2026-10-22/news_daily_cn-080059.html"
+  },
   {
    "id": 63,
    "task": "news_daily",
@@ -516,6 +525,198 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "DeepSeek 与华为合作设计 AI 芯片，训练环节推进「去英伟达化」",
+   "url": "https://www.oschina.net/news/503127",
+   "source": "开源中国",
+   "summary": "据 The Information 报道，华为工程师长期驻点 DeepSeek，将大模型训练的实际需求直接纳入芯片设计，双方合作已超出供应商与客户关系。这意味着国产大模型与国产算力开始协同定义芯片架构，对英伟达在中国训练市场的份额构成实质冲击。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-10-21T04:04:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "DeepSeek 开源推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存 7 天",
+   "url": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf",
+   "source": "InfoQ 中文",
+   "summary": "DeepSeek 开源最新推理框架 DeepInfer，单集群日吞吐达 155 万亿 Token，KVCache 支持保存 7 天，直接决定算力成本与电费开销。推理框架是模型服务成本的核心中间层，此次开源将降低全行业部署大模型的单位成本。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 5,
+   "published": "2026-10-21T12:06:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "中办、国办定调「人工智能+」，算力、先进封装、人形机器人迎政策利好",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwb4Lb5ufyCyLduJ0XAhF5mGYDa2qHcjF1qXa8Fplpd9gjtajPdaaftU13a18Ye4GIhIJKM_iiBiq54KKpV2jiFWxp96lJFXVfSybM6rwx1j64tC5MhOSHvDXvAIlEIFNZEbuDJXjix5TcY7u9JIWHTW0y_HC-uQRBLpaD_Dl5kNeARCANwqVk2T78XOFpNchR06xJ9vlb_J7nENStwrf6dQL0Hr9Gyd3Q..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=6122BCAF772A32ADA4A2FDC628745EF3A4044D2B6AD95206",
+   "source": "微信公众号",
+   "summary": "中办、国办最新部署推动科技创新和产业创新深度融合，明确「人工智能+」方向，算力、先进封装、人形机器人等环节被列为受益领域。政策定调将引导地方资金与产业资源向 AI 基础设施和具身智能倾斜。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 5,
+   "published": "2026-10-21T15:08:37+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "MiniMax M3.1 Flash 发布，Automation-Bench 复杂 Agent 任务排名第一",
+   "url": "https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html",
+   "source": "雷锋网",
+   "summary": "MiniMax 正式发布 M3.1 Flash，认领此前匿名模型 Space Bunny，在 Automation-Bench 复杂 Agent 任务对比中位居第一，BankerToolBench 与 Opus 5 并列第一，Coding 性价比仅次于 DeepSeek。国产 Flash 模型在 Agent 任务上展开正面竞争，价格战之外开始比拼任务完成能力。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-21T04:09:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "理想汽车宣布对外销售芯片，马赫心科技首轮融资 16.25 亿元",
+   "url": "https://k.sina.com.cn/article_7879923942_m1d5ae18e6033029tmo.html?from",
+   "source": "Google News 中文",
+   "summary": "理想汽车宣布对外销售自研芯片，其芯片业务主体马赫心科技完成首轮 16.25 亿元融资。车企自研芯片从自用走向外供，反映智能驾驶算力需求外溢为独立芯片生意。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-21T22:47:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "IDC：阿里云占中国汽车公共云市场份额 45.1%，连续 11 期第一",
+   "url": "https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html",
+   "source": "雷锋网",
+   "summary": "IDC 报告显示 2026 年上半年中国汽车公共云基础设施市场规模约 83.4 亿元，阿里云份额达 45.1%，收入同比增长 111%，自 2021 年起连续 11 期位居第一。大模型在智能座舱与辅助驾驶落地，推动车企对算力和 AI 基础设施的采购持续放量。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-10-21T09:28:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "腾讯内测 AI 互动社区「懂了鸭」：自然语言生成动态课件与 3D 演示",
+   "url": "https://www.ithome.com/1/016/145.htm",
+   "source": "IT之家",
+   "summary": "腾讯正在内测面向少儿与青少年的 AI 互动内容社区「懂了鸭」，用户输入自然语言即可由内置智能体生成 3D 演示、动态课件、互动绘本等「奇妙卡」作品，无需编程。产品覆盖学前至高中四个学段，尝试把内容消费与内容生产放在同一社区闭环。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-21T15:10:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "清华 AIR 孵化团队用多智能体协同重构医疗 AI，医生 AI 分身进入医院坐诊",
+   "url": "https://www.qbitai.com/2026/10/504734.html",
+   "source": "量子位",
+   "summary": "清华 AIR 孵化的团队以多智能体协同方式重构医疗 AI，让医生 AI 分身在医院实际场景中「坐诊」。医疗 AI 从单点辅助工具走向多智能体协作的诊疗流程，对分诊、随访等环节的效率提升值得观察。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-21T11:30:59+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "国内首个通过国家备案的渔业大模型将正式对外发布",
+   "url": "https://m.mp.oeeee.com/a/BAAFRD0000202610211686431.html",
+   "source": "Google News 中文",
+   "summary": "国内首个通过国家备案的渔业垂直大模型即将正式对外发布。垂直大模型在农业细分场景通过备案并对外服务，说明大模型备案制度正在向行业纵深推进。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-21T13:57:26+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "全国首个聚焦两岸文化融合的垂直大模型「同源观澜」发布",
+   "url": "https://fjrb.fjdaily.com/pc/con/202610/22/content_571883.html",
+   "source": "Google News 中文",
+   "summary": "全国首个聚焦两岸文化融合的垂直大模型「同源观澜」正式发布。文化类垂直大模型的出现，延续了行业大模型向细分领域渗透的趋势。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 2,
+   "published": "2026-10-21T22:37:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "首都在线账面扭亏，AI 算力投入持续",
+   "url": "https://www.tmtpost.com/8176619.html",
+   "source": "钛媒体",
+   "summary": "首都在线财报显示公司账面实现扭亏，毛利修复但资金面仍偏紧，AI 算力投入继续。算力租赁与云服务商在 AI 需求带动下改善盈利，但资本开支压力仍在。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 2,
+   "published": "2026-10-21T13:11:59+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "电商巨头 AI 战略分野：阿里抢算力，京东抢工具",
+   "url": "https://www.tmtpost.com/8176414.html",
+   "source": "钛媒体",
+   "summary": "分析指出阿里与京东在 AI 战略上出现分野，阿里侧重算力基础设施，京东侧重工具与场景应用，差异源于两家公司各自最熟悉的资产。电商巨头的 AI 投入路径分化，将影响其长期成本结构与服务形态。",
+   "why": null,
+   "category": "大厂战略",
+   "heat": 2,
+   "published": "2026-10-21T09:36:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "生数科技 Motubrain 团队直播 Physical AI 训练全流程，持续半个月",
+   "url": "https://www.qbitai.com/2026/10/504730.html",
+   "source": "量子位",
+   "summary": "生数科技世界模型团队开启 Motubrain 2.0 训练全流程公开直播，持续半个月。公开直播训练过程在具身智能领域较为少见，有助于外界理解世界模型的数据与训练方法。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 2,
+   "published": "2026-10-21T09:45:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "清华系公司千诀将世界模型做进机器人，主打物理规律与跨本体复用",
+   "url": "https://www.qbitai.com/2026/10/504653.html",
+   "source": "量子位",
+   "summary": "清华系公司千诀在隐变量可辨识性方向的研究比 LeCun 相近工作早一年，不堆画面预测，主打物理规律与跨本体复用，并已将世界模型做进机器人。世界模型从论文走向机器人本体，是国内具身智能的一条差异化路线。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 2,
+   "published": "2026-10-21T07:15:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "具身智能训练转向「实景实训平台」，高质量真机语料缺口约一个数量级",
+   "url": "https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html",
+   "source": "雷锋网",
+   "summary": "信通院报告显示全国已建成超 70 家具身智能训练场，但通用具身模型至少需千万小时级真实交互数据，目前全球高质量真机语料仅百万小时量级，相差约一个数量级。行业探索把训练放进真实工位，以数据流水线弥补语料饥渴。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 2,
+   "published": "2026-10-21T06:53:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+   "url": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb",
+   "source": "InfoQ 中文",
+   "summary": "Cloudflare 开源面向 AI 智能体的决策模型 Clef。智能体决策层的开源工具增多，有助于降低企业构建可控 Agent 的门槛。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-10-21T13:47:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,

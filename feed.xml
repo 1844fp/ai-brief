@@ -3,7 +3,135 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Thu, 22 Oct 2026 07:31:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 08:01:00 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 与华为合作设计 AI 芯片，训练环节推进「去英伟达化」</title>
+    <link>https://www.oschina.net/news/503127</link>
+    <guid isPermaLink="false">64-1</guid>
+    <pubDate>Wed, 21 Oct 2026 04:04:23 +0000</pubDate>
+    <source>开源中国</source>
+    <description>据 The Information 报道，华为工程师长期驻点 DeepSeek，将大模型训练的实际需求直接纳入芯片设计，双方合作已超出供应商与客户关系。这意味着国产大模型与国产算力开始协同定义芯片架构，对英伟达在中国训练市场的份额构成实质冲击。</description>
+  </item>
+  <item>
+    <title>DeepSeek 开源推理框架：单集群日吞吐 155 万亿 Token，KVCache 可保存 7 天</title>
+    <link>https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf</link>
+    <guid isPermaLink="false">64-2</guid>
+    <pubDate>Wed, 21 Oct 2026 12:06:48 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>DeepSeek 开源最新推理框架 DeepInfer，单集群日吞吐达 155 万亿 Token，KVCache 支持保存 7 天，直接决定算力成本与电费开销。推理框架是模型服务成本的核心中间层，此次开源将降低全行业部署大模型的单位成本。</description>
+  </item>
+  <item>
+    <title>中办、国办定调「人工智能+」，算力、先进封装、人形机器人迎政策利好</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwb4Lb5ufyCyLduJ0XAhF5mGYDa2qHcjF1qXa8Fplpd9gjtajPdaaftU13a18Ye4GIhIJKM_iiBiq54KKpV2jiFWxp96lJFXVfSybM6rwx1j64tC5MhOSHvDXvAIlEIFNZEbuDJXjix5TcY7u9JIWHTW0y_HC-uQRBLpaD_Dl5kNeARCANwqVk2T78XOFpNchR06xJ9vlb_J7nENStwrf6dQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=6122BCAF772A32ADA4A2FDC628745EF3A4044D2B6AD95206</link>
+    <guid isPermaLink="false">64-3</guid>
+    <pubDate>Wed, 21 Oct 2026 15:08:37 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>中办、国办最新部署推动科技创新和产业创新深度融合，明确「人工智能+」方向，算力、先进封装、人形机器人等环节被列为受益领域。政策定调将引导地方资金与产业资源向 AI 基础设施和具身智能倾斜。</description>
+  </item>
+  <item>
+    <title>MiniMax M3.1 Flash 发布，Automation-Bench 复杂 Agent 任务排名第一</title>
+    <link>https://www.leiphone.com/category/yanxishe/IMOE7FfuhC0qGxZk.html</link>
+    <guid isPermaLink="false">64-4</guid>
+    <pubDate>Wed, 21 Oct 2026 04:09:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>MiniMax 正式发布 M3.1 Flash，认领此前匿名模型 Space Bunny，在 Automation-Bench 复杂 Agent 任务对比中位居第一，BankerToolBench 与 Opus 5 并列第一，Coding 性价比仅次于 DeepSeek。国产 Flash 模型在 Agent 任务上展开正面竞争，价格战之外开始比拼任务完成能力。</description>
+  </item>
+  <item>
+    <title>理想汽车宣布对外销售芯片，马赫心科技首轮融资 16.25 亿元</title>
+    <link>https://k.sina.com.cn/article_7879923942_m1d5ae18e6033029tmo.html?from</link>
+    <guid isPermaLink="false">64-5</guid>
+    <pubDate>Wed, 21 Oct 2026 22:47:23 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>理想汽车宣布对外销售自研芯片，其芯片业务主体马赫心科技完成首轮 16.25 亿元融资。车企自研芯片从自用走向外供，反映智能驾驶算力需求外溢为独立芯片生意。</description>
+  </item>
+  <item>
+    <title>IDC：阿里云占中国汽车公共云市场份额 45.1%，连续 11 期第一</title>
+    <link>https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html</link>
+    <guid isPermaLink="false">64-6</guid>
+    <pubDate>Wed, 21 Oct 2026 09:28:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>IDC 报告显示 2026 年上半年中国汽车公共云基础设施市场规模约 83.4 亿元，阿里云份额达 45.1%，收入同比增长 111%，自 2021 年起连续 11 期位居第一。大模型在智能座舱与辅助驾驶落地，推动车企对算力和 AI 基础设施的采购持续放量。</description>
+  </item>
+  <item>
+    <title>腾讯内测 AI 互动社区「懂了鸭」：自然语言生成动态课件与 3D 演示</title>
+    <link>https://www.ithome.com/1/016/145.htm</link>
+    <guid isPermaLink="false">64-7</guid>
+    <pubDate>Wed, 21 Oct 2026 15:10:22 +0000</pubDate>
+    <source>IT之家</source>
+    <description>腾讯正在内测面向少儿与青少年的 AI 互动内容社区「懂了鸭」，用户输入自然语言即可由内置智能体生成 3D 演示、动态课件、互动绘本等「奇妙卡」作品，无需编程。产品覆盖学前至高中四个学段，尝试把内容消费与内容生产放在同一社区闭环。</description>
+  </item>
+  <item>
+    <title>清华 AIR 孵化团队用多智能体协同重构医疗 AI，医生 AI 分身进入医院坐诊</title>
+    <link>https://www.qbitai.com/2026/10/504734.html</link>
+    <guid isPermaLink="false">64-8</guid>
+    <pubDate>Wed, 21 Oct 2026 11:30:59 +0000</pubDate>
+    <source>量子位</source>
+    <description>清华 AIR 孵化的团队以多智能体协同方式重构医疗 AI，让医生 AI 分身在医院实际场景中「坐诊」。医疗 AI 从单点辅助工具走向多智能体协作的诊疗流程，对分诊、随访等环节的效率提升值得观察。</description>
+  </item>
+  <item>
+    <title>国内首个通过国家备案的渔业大模型将正式对外发布</title>
+    <link>https://m.mp.oeeee.com/a/BAAFRD0000202610211686431.html</link>
+    <guid isPermaLink="false">64-9</guid>
+    <pubDate>Wed, 21 Oct 2026 13:57:26 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>国内首个通过国家备案的渔业垂直大模型即将正式对外发布。垂直大模型在农业细分场景通过备案并对外服务，说明大模型备案制度正在向行业纵深推进。</description>
+  </item>
+  <item>
+    <title>全国首个聚焦两岸文化融合的垂直大模型「同源观澜」发布</title>
+    <link>https://fjrb.fjdaily.com/pc/con/202610/22/content_571883.html</link>
+    <guid isPermaLink="false">64-10</guid>
+    <pubDate>Wed, 21 Oct 2026 22:37:07 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>全国首个聚焦两岸文化融合的垂直大模型「同源观澜」正式发布。文化类垂直大模型的出现，延续了行业大模型向细分领域渗透的趋势。</description>
+  </item>
+  <item>
+    <title>首都在线账面扭亏，AI 算力投入持续</title>
+    <link>https://www.tmtpost.com/8176619.html</link>
+    <guid isPermaLink="false">64-11</guid>
+    <pubDate>Wed, 21 Oct 2026 13:11:59 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>首都在线财报显示公司账面实现扭亏，毛利修复但资金面仍偏紧，AI 算力投入继续。算力租赁与云服务商在 AI 需求带动下改善盈利，但资本开支压力仍在。</description>
+  </item>
+  <item>
+    <title>电商巨头 AI 战略分野：阿里抢算力，京东抢工具</title>
+    <link>https://www.tmtpost.com/8176414.html</link>
+    <guid isPermaLink="false">64-12</guid>
+    <pubDate>Wed, 21 Oct 2026 09:36:12 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>分析指出阿里与京东在 AI 战略上出现分野，阿里侧重算力基础设施，京东侧重工具与场景应用，差异源于两家公司各自最熟悉的资产。电商巨头的 AI 投入路径分化，将影响其长期成本结构与服务形态。</description>
+  </item>
+  <item>
+    <title>生数科技 Motubrain 团队直播 Physical AI 训练全流程，持续半个月</title>
+    <link>https://www.qbitai.com/2026/10/504730.html</link>
+    <guid isPermaLink="false">64-13</guid>
+    <pubDate>Wed, 21 Oct 2026 09:45:22 +0000</pubDate>
+    <source>量子位</source>
+    <description>生数科技世界模型团队开启 Motubrain 2.0 训练全流程公开直播，持续半个月。公开直播训练过程在具身智能领域较为少见，有助于外界理解世界模型的数据与训练方法。</description>
+  </item>
+  <item>
+    <title>清华系公司千诀将世界模型做进机器人，主打物理规律与跨本体复用</title>
+    <link>https://www.qbitai.com/2026/10/504653.html</link>
+    <guid isPermaLink="false">64-14</guid>
+    <pubDate>Wed, 21 Oct 2026 07:15:05 +0000</pubDate>
+    <source>量子位</source>
+    <description>清华系公司千诀在隐变量可辨识性方向的研究比 LeCun 相近工作早一年，不堆画面预测，主打物理规律与跨本体复用，并已将世界模型做进机器人。世界模型从论文走向机器人本体，是国内具身智能的一条差异化路线。</description>
+  </item>
+  <item>
+    <title>具身智能训练转向「实景实训平台」，高质量真机语料缺口约一个数量级</title>
+    <link>https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html</link>
+    <guid isPermaLink="false">64-15</guid>
+    <pubDate>Wed, 21 Oct 2026 06:53:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>信通院报告显示全国已建成超 70 家具身智能训练场，但通用具身模型至少需千万小时级真实交互数据，目前全球高质量真机语料仅百万小时量级，相差约一个数量级。行业探索把训练放进真实工位，以数据流水线弥补语料饥渴。</description>
+  </item>
+  <item>
+    <title>Cloudflare 开源面向 AI 智能体的决策模型 Clef</title>
+    <link>https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb</link>
+    <guid isPermaLink="false">64-16</guid>
+    <pubDate>Wed, 21 Oct 2026 13:47:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>Cloudflare 开源面向 AI 智能体的决策模型 Clef。智能体决策层的开源工具增多，有助于降低企业构建可控 Agent 的门槛。</description>
+  </item>
   <item>
     <title>AI 发现 PHP 关键远程代码执行漏洞 PHP2Shell</title>
     <link>https://www.wiz.io/blog/php2shell-php-rce</link>
@@ -355,133 +483,5 @@
     <pubDate>Tue, 20 Oct 2026 23:01:23 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Anthropic 提出一项 AI 安全政策提案，设定「可能导致 50 人以上死亡」的风险门槛，达到该门槛的模型可被阻断发布。TechCrunch 指出，该提案同时规定联邦机构须经法官许可才能阻止模型发布，实际效果可能削弱行政监管能力。围绕「安全立法」与「监管俘获」的争论随之升温。</description>
-  </item>
-  <item>
-    <title>OpenAI 收购 Orchestra Bio，加码生物科技业务</title>
-    <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business</link>
-    <guid isPermaLink="false">61-7</guid>
-    <pubDate>Tue, 20 Oct 2026 20:35:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI 宣布收购初创公司 Orchestra Bio，将其团队与技术并入面向生命科学研究的 Rosalind 模型及 Rosalind Workbench 工具。该工具旨在帮助研究人员规划实验并分析结果。这是 OpenAI 在垂直科学领域少见的并购动作，显示其正把模型能力向科研工作流纵深推进。</description>
-  </item>
-  <item>
-    <title>Amazon 推出 TorchNeuron，挑战 Nvidia AI 芯片主导地位</title>
-    <link>https://newscord.org/article/amazon-launches-torchneuron-to-challenge-nvidias-ai-chip-dominance--Story_20261020_GooglehasjoinedAmazoa117aa7e</link>
-    <guid isPermaLink="false">61-8</guid>
-    <pubDate>Wed, 21 Oct 2026 00:11:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Amazon 发布 TorchNeuron，让 PyTorch 用户更容易将应用从 Nvidia GPU 迁移到自研 AI 芯片。多家媒体对此进行了对比报道。结合 Google 的 TorchTPU，两大云厂商正从开发者工具层同时进攻 Nvidia 的生态强项。</description>
-  </item>
-  <item>
-    <title>Anthropic 的云合作陷入混乱</title>
-    <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy</link>
-    <guid isPermaLink="false">61-9</guid>
-    <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道称，Anthropic 在获取足够算力方面遇到困难，云厂商日益将其视为竞争对手，而其基础设施支出在 11 月 IPO 前持续膨胀。算力供给与资本开支的双重压力，与其上半年巨额亏损相互印证。头部模型公司与云厂商的关系正从合作走向竞合。</description>
-  </item>
-  <item>
-    <title>Claude 设计出针对蝎子神经毒素的蛋白质结合体</title>
-    <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
-    <guid isPermaLink="false">61-10</guid>
-    <pubDate>Tue, 20 Oct 2026 17:48:29 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 公布研究，展示 Claude 如何设计出针对蝎子神经毒素的蛋白质结合体。这是大模型直接参与蛋白质设计的公开案例，延续了 AI 在生物分子设计领域的进展。多家媒体跟进报道，显示模型能力正从文本向实验科学延伸。</description>
-  </item>
-  <item>
-    <title>Google Cloud 故障波及欧洲几乎所有银行业务</title>
-    <link>https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more</link>
-    <guid isPermaLink="false">61-11</guid>
-    <pubDate>Tue, 20 Oct 2026 10:26:02 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Google Cloud 发生大规模故障，导致 HSBC、Revolut、苏格兰银行、Lloyds、Equifax 等欧洲金融机构服务中断。HN 热度达 340 分、评论逾 170 条。事件再次凸显关键基础设施对单一云厂商的依赖风险，也可能影响企业对 AI 工作负载上云的评估。</description>
-  </item>
-  <item>
-    <title>Meta 的 Muse 上线 40 天美国下载量破 1000 万</title>
-    <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps</link>
-    <guid isPermaLink="false">61-12</guid>
-    <pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Meta 的 AI 伴侣应用 Muse 在 40 天内美国下载量突破 1000 万，成为仅有的第 12 个达成该里程碑的应用，用户留存率也高于同类 AI 产品。这一增速与 Threads 早期表现相当。消费级 AI 助手的用户争夺正从功能竞争转向分发与留存竞争。</description>
-  </item>
-  <item>
-    <title>Meta 暂停 Muse 对话分享功能：研究者发现聊天记录可被公开检索</title>
-    <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
-    <guid isPermaLink="false">61-13</guid>
-    <pubDate>Tue, 20 Oct 2026 18:07:34 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>安全公司 Claroc 的研究人员通过公共 DNS 记录发现超过 6800 条 Muse 分享链接可被公开访问，Meta 随后暂停了该分享功能。Ars Technica 与 The Verge 均对此进行了报道。AI 助手对话的隐私边界再次成为产品设计的焦点问题。</description>
-  </item>
-  <item>
-    <title>Google 将更个性化的 Gemini 引入车载场景</title>
-    <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
-    <guid isPermaLink="false">61-14</guid>
-    <pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Google 把 Personal Intelligence 能力带入 Android Auto 及内置 Google 服务的汽车，Gemini 可调用 Gmail、日历、地图、照片、YouTube 与搜索中的个人信息。用户可在驾驶时直接询问航班状态等事项。AI 助手正从手机向车内等高频场景延伸，与车企自研语音助手形成竞争。</description>
-  </item>
-  <item>
-    <title>Google 推出面向政府服务的 Gemini 智能体方案</title>
-    <link>https://fedscoop.com/google-launches-gemini-for-government-services/</link>
-    <guid isPermaLink="false">61-15</guid>
-    <pubDate>Tue, 20 Oct 2026 21:57:13 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google Public Sector 发布面向政府服务的 Gemini 智能体解决方案，定位为「agentic solution」。这是 Google 在公共部门 AI 采购上的又一布局，与联邦机构禁用中国模型的监管动向形成对照。政府 AI 市场正成为云厂商争夺的新战场。</description>
-  </item>
-  <item>
-    <title>中国科技公司采购逾 350 亿美元 Nvidia 芯片</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/chinese-tech-firms-purchase-more-224457459.html</link>
-    <guid isPermaLink="false">61-16</guid>
-    <pubDate>Tue, 20 Oct 2026 22:44:57 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据路透社报道，中国科技公司已采购超过 350 亿美元的 Nvidia 芯片。这一规模显示出口管制背景下中国企业对高端算力的需求依然强劲。同期日本 9 月出口增长 16.7%，AI 芯片需求成为主要拉动因素。</description>
-  </item>
-  <item>
-    <title>日本 9 月出口增长 16.7%，AI 芯片需求成主要动力</title>
-    <link>https://finance.yahoo.com/economy/articles/japan-exports-rise-16-7-014506313.html</link>
-    <guid isPermaLink="false">61-17</guid>
-    <pubDate>Wed, 21 Oct 2026 01:45:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>日本 9 月出口同比增长 16.7%，AI 芯片相关需求成为贸易增长的主要推动力。这一数据与全球算力投资热潮相互印证。AI 硬件供应链对宏观贸易的影响正变得越来越显著。</description>
-  </item>
-  <item>
-    <title>SpaceX 的 AI 业务表现超出预期</title>
-    <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations</link>
-    <guid isPermaLink="false">61-18</guid>
-    <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>SpaceX 第三季度实现盈利，净利润达 44 亿美元，TechCrunch 称 AI 业务是主要引擎。这一披露显示 AI 收入已开始进入非传统科技公司的财报核心。航天与 AI 结合的商业化路径受到更多关注。</description>
-  </item>
-  <item>
-    <title>ChatGPT 新增对话锁定功能</title>
-    <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats</link>
-    <guid isPermaLink="false">61-19</guid>
-    <pubDate>Tue, 20 Oct 2026 18:36:53 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI 为 ChatGPT 加入对话锁定功能，用户可将涉及个人隐私或惊喜计划的对话锁定，避免在把设备借给他人时被看到。该功能针对的是设备共享场景下的隐私需求。消费级 AI 产品的隐私控制正逐步细化。</description>
-  </item>
-  <item>
-    <title>报道称 Eric Schmidt 持有的 Anthropic 股份约为 CEO Dario Amodei 的一半</title>
-    <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei</link>
-    <guid isPermaLink="false">61-20</guid>
-    <pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>据 Bloomberg 报道，前 Google CEO Eric Schmidt 持有 Anthropic 约 1% 的股份，约为 CEO Dario Amodei 持股的一半。这一持股结构在 Anthropic 筹备 IPO 之际受到关注。头部 AI 实验室的股权分布正成为市场评估其治理与估值的重要信息。</description>
-  </item>
-  <item>
-    <title>英伟达面临 DeepSeek 与华为合作的 AI 芯片挑战</title>
-    <link>https://www.moomoo.com/hans/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei</link>
-    <guid isPermaLink="false">60-1</guid>
-    <pubDate>Mon, 19 Oct 2026 17:00:07 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>市场消息称 DeepSeek 与华为在 AI 芯片领域展开合作，可能对英伟达在中国市场的地位构成挑战。双方具体合作形式与芯片型号尚未披露，但已引发资本市场关注。若合作落地，将推动国产算力软硬协同生态进一步成熟。</description>
-  </item>
-  <item>
-    <title>豆包刘星回应“国内超一半算力造爽剧”；MiniMax M3.1 Flash 上线</title>
-    <link>https://www.mrjjxw.com/articles/2026-10-19/4608758.html</link>
-    <guid isPermaLink="false">60-2</guid>
-    <pubDate>Mon, 19 Oct 2026 22:30:03 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>针对“国内超一半算力用于生成爽剧”的说法，豆包相关负责人刘星作出回应，澄清算力分配情况。同日 MiniMax M3.1 Flash 上线，主打速度与成本优化。两则消息共同反映国产大模型在应用场景与推理效率上的竞争加剧。</description>
   </item>
 </channel></rss>
