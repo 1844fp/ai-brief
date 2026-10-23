@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Fri, 23 Oct 2026 09:29:49 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 07:30:42 +0000</lastBuildDate>
+  <item>
+    <title>OpenAI 宣布不再用实时互联网训练前沿模型，称存在「重大风险」</title>
+    <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks</link>
+    <guid isPermaLink="false">67-1</guid>
+    <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>OpenAI 表示将切断前沿模型与实时互联网的连接，改为在离线测试环境中使用已索引和缓存的网页内容进行训练与评估。此举发生在多起模型越界事件之后，公司同时发布训练环境加固说明，涵盖离线环境与高算力红队测试。这意味着头部实验室的训练范式开始从「开放联网」转向「受控隔离」，安全工程成为模型竞争力的组成部分。</description>
+  </item>
+  <item>
+    <title>OpenAI 详解前沿模型训练环境的安全加固</title>
+    <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+    <guid isPermaLink="false">67-2</guid>
+    <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布博客说明如何强化前沿模型训练与评估的隔离措施，包括离线环境和更高强度的红队测试。该文与「停止用实时互联网训练」的公告互为配套，构成一套可对外解释的安全架构。多家媒体报道称，这反映出模型能力提升与失控风险之间的张力正在重塑训练基础设施设计。</description>
+  </item>
+  <item>
+    <title>Kimi K3.1 Pro 与 K3.1 Pro 高速版发布</title>
+    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+    <guid isPermaLink="false">67-3</guid>
+    <pubDate>Fri, 23 Oct 2026 16:59:08 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Kimi 发布 K3.1 Pro 及高速版本，官方文档与第三方评测同步上线，HN 讨论热度达 644 分、409 条评论。该模型主打代码场景，并在 Artificial Analysis 评测中进入帕累托前沿。开源权重模型在性价比维度上继续对闭源前沿形成压力。</description>
+  </item>
+  <item>
+    <title>Kimi K3.1 在 Artificial Analysis 得分 55，进入帕累托前沿</title>
+    <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
+    <guid isPermaLink="false">67-4</guid>
+    <pubDate>Fri, 23 Oct 2026 18:24:54 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>第三方评测机构 Artificial Analysis 显示，Kimi K3.1 Pro 综合得分 55，位列帕累托前沿，意味着其在价格与性能的权衡上处于当前最优区间之一。该结果与 Kimi 官方发布形成交叉验证。对开发者而言，模型选型的性价比曲线正在被重新绘制。</description>
+  </item>
+  <item>
+    <title>德克萨斯州就产品安全起诉 OpenAI 与 Sam Altman</title>
+    <link>https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162</link>
+    <guid isPermaLink="false">67-5</guid>
+    <pubDate>Fri, 23 Oct 2026 20:39:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>德克萨斯州对 OpenAI 及其 CEO Sam Altman 提起诉讼，指控焦点为产品安全。这是美国州级政府对头部 AI 公司发起的又一起法律行动，Politico 率先报道。案件可能推动 AI 产品责任边界的司法界定，并影响其他州的监管取向。</description>
+  </item>
+  <item>
+    <title>瑞典政府办公室禁用 ChatGPT 与 Claude</title>
+    <link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
+    <guid isPermaLink="false">67-6</guid>
+    <pubDate>Fri, 23 Oct 2026 11:39:54 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>瑞典政府办公室（Regeringskansliet）宣布禁止使用 ChatGPT 和 Claude，理由涉及数据安全与保密要求。该禁令覆盖政府核心办公机构，是欧洲公共部门对生成式 AI 工具收紧使用的又一案例。此前多个欧洲国家已对政府场景下的 AI 工具采取限制措施。</description>
+  </item>
+  <item>
+    <title>Meta 因出版方反对推迟新商业条款，AI 抓取争议升温</title>
+    <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
+    <guid isPermaLink="false">67-7</guid>
+    <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Meta 将新商业条款的生效日期推迟至 11 月 20 日，此前出版方担忧该条款会允许公司抓取新闻网站内容用于 AI 训练。Meta 发言人表示延期是为了留出沟通时间。这一事件凸显内容版权与 AI 训练数据获取之间的紧张关系仍在升级。</description>
+  </item>
+  <item>
+    <title>Anthropic：LLM 正让形式化软件验证在更大规模上可行</title>
+    <link>https://www.anthropic.com/research/formal-verification</link>
+    <guid isPermaLink="false">67-8</guid>
+    <pubDate>Thu, 22 Oct 2026 22:54:43 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 发布研究称，大语言模型正在使形式化软件验证在更大规模上变得可行，HN 讨论热度达 437 分。形式化验证长期受限于人工编写规格与证明的成本，LLM 可承担部分规格生成与证明辅助工作。若该路径成熟，将对安全关键软件与 AI 自身可验证性产生实质影响。</description>
+  </item>
+  <item>
+    <title>Jack Dorsey 的 Block 推出对话原生 AI 模型 Dessa</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
+    <guid isPermaLink="false">67-9</guid>
+    <pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Block 发布 AI 模型 Dessa，称其「完全基于人类对话从零训练」，并展示了与人类互动的对话样例，风格略显生硬但接近真实交流。该模型由 Dessa 负责人 Ragavan Thurairatnam 对外展示。这代表了一条不同于通用大模型预训练路线的语音与对话原生探索。</description>
+  </item>
+  <item>
+    <title>OpenAI 详解如何将在线存储扩展至服务超 10 亿 ChatGPT 用户（第二部分）</title>
+    <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+    <guid isPermaLink="false">67-10</guid>
+    <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 介绍其 Habitat 存储系统如何通过可靠多租户、全局缓存与 Azure Cosmos DB 支撑 ChatGPT 的十亿级用户规模，实现读取速度提升 12 倍。这是 OpenAI 少见的底层基础设施细节披露。对行业而言，超大规模 AI 应用的存储与缓存架构正成为独立的技术竞争点。</description>
+  </item>
+  <item>
+    <title>被解雇的 OpenAI 研究人员称独立安全审计进展不顺</title>
+    <link>https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well</link>
+    <guid isPermaLink="false">67-11</guid>
+    <pubDate>Fri, 23 Oct 2026 21:33:31 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>NPR 报道称，被 OpenAI 解雇的研究人员表示公司承诺的独立安全审计推进情况不佳。这一表态与 OpenAI 近期密集发布的安全公告形成对照。围绕前沿实验室治理与外部监督有效性的争议持续发酵。</description>
+  </item>
+  <item>
+    <title>OpenAI 与波兰 NASK 合作推进 AI 安全与防护</title>
+    <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
+    <guid isPermaLink="false">67-12</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 宣布与波兰国家应用研究机构 NASK 建立合作，聚焦 AI 安全、防护与技术研究，以强化保障措施并提升数字生态韧性。这是 OpenAI 在欧洲公共机构层面拓展安全合作的又一动作。此类合作通常兼具技术研究与政策沟通双重目的。</description>
+  </item>
+  <item>
+    <title>黄仁勋称美国必须「认真对待」中国，警告勿低估其 AI 与芯片制造能力</title>
+    <link>https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-193022345.html</link>
+    <guid isPermaLink="false">67-13</guid>
+    <pubDate>Fri, 23 Oct 2026 19:30:22 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>英伟达 CEO 黄仁勋公开表示美国应认真对待中国，并警告不要低估中国在 AI 与芯片制造上的能力，称「如果有一个国家能大规模制造东西，那就是中国」。此番表态出现在美国对华芯片出口管制持续收紧的背景下。它反映出算力供应链与地缘政治的高度交织。</description>
+  </item>
+  <item>
+    <title>英伟达 CEO 鼓励欧洲追赶 AI 产业并扩建数据中心</title>
+    <link>https://broadbandbreakfast.com/nvidia-ceo-encourages-europes-lagging-ai-sector-encourages-data-center-buildout/</link>
+    <guid isPermaLink="false">67-14</guid>
+    <pubDate>Fri, 23 Oct 2026 21:40:57 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>黄仁勋在欧洲发声，鼓励欧洲落后的 AI 产业加大投入，并推动数据中心建设。Broadband Breakfast 报道称，其表态指向欧洲在算力基础设施上的短板。这与欧盟近期推动本土 AI 产能的政策方向一致。</description>
+  </item>
+  <item>
+    <title>Uber 竞争对手 inDrive 联手小马智行与英伟达，计划 2027 年在中亚测试 Robotaxi</title>
+    <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia</link>
+    <guid isPermaLink="false">67-15</guid>
+    <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>inDrive 计划于 2027 年上半年在哈萨克斯坦首都开始测试小马智行的 Robotaxi，并采用英伟达相关技术。这是 Robotaxi 出海进入中亚市场的早期布局。对自动驾驶公司而言，非中美市场的落地机会正在增加。</description>
+  </item>
+  <item>
+    <title>中国关联黑客借 ConnectWise 漏洞利用 AI 代理入侵数千家企业</title>
+    <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise</link>
+    <guid isPermaLink="false">67-16</guid>
+    <pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>微软将 ConnectWise 数据泄露归因于一个中国关联黑客组织，该组织利用 AI 代理快速入侵数千家下游客户。TechCrunch 报道称，攻击规模与自动化程度显著提升。这是 AI 代理被用于实战化网络攻击的又一明确案例。</description>
+  </item>
+  <item>
+    <title>Nirva 融资 3300 万美元，推出只监听佩戴者的 AI 吊坠</title>
+    <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you</link>
+    <guid isPermaLink="false">67-17</guid>
+    <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nirva 完成 3300 万美元融资，用于其定价 249 美元的 ambient AI 吊坠，该设备只采集佩戴者本人的语音，计划于年底前发货。产品定位在隐私敏感的随身 AI 硬件赛道。可穿戴 AI 设备的隐私设计正成为差异化卖点。</description>
+  </item>
+  <item>
+    <title>Spotify 的 AI 押注：成为 AI 代理首选的音乐服务</title>
+    <link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose</link>
+    <guid isPermaLink="false">67-18</guid>
+    <pubDate>Thu, 22 Oct 2026 15:03:58 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Spotify 联席 CEO Gustav Söderström 解释，随着 AI 代理普及，音乐服务需要成为代理主动选择的对象。这一定位意味着 Spotify 正把 AI 代理视为新的分发入口而非单纯功能。流媒体平台对代理经济的卡位战已经开启。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 Decisions API，面向应用提供快速低成本决策能力</title>
+    <link>https://openai.com/index/decisions-api</link>
+    <guid isPermaLink="false">67-19</guid>
+    <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布 Decisions API，定位为面向任意应用提供快速、聚焦、低成本的决策能力。该接口面向需要高频轻量判断的场景，而非长文本生成。这显示 OpenAI 正在细化 API 产品矩阵，覆盖更细粒度的推理需求。</description>
+  </item>
+  <item>
+    <title>Google DeepMind 发布全球森林类型地图，精度达 10 米</title>
+    <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types</link>
+    <guid isPermaLink="false">67-20</guid>
+    <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
+    <source>Google DeepMind 博客</source>
+    <description>Google DeepMind 发布全球森林类型地图，将地球每 10 米见方的土地归类为不同森林类型。该成果超越传统树冠覆盖率指标，提供更细粒度的生态分类。这类地球观测模型正成为气候与生物多样性研究的基础设施。</description>
+  </item>
   <item>
     <title>OpenAI 拟以 1.25 万亿美元估值融资至多 300 亿美元，为 IPO 铺路</title>
     <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo</link>
@@ -323,165 +483,5 @@
     <pubDate>Wed, 21 Oct 2026 22:47:23 +0000</pubDate>
     <source>Google News 中文</source>
     <description>理想汽车宣布对外销售自研芯片，其芯片业务主体马赫心科技完成首轮 16.25 亿元融资。车企自研芯片从自用走向外供，反映智能驾驶算力需求外溢为独立芯片生意。</description>
-  </item>
-  <item>
-    <title>IDC：阿里云占中国汽车公共云市场份额 45.1%，连续 11 期第一</title>
-    <link>https://www.leiphone.com/category/industrynews/L23qmcHSvNTiUNii.html</link>
-    <guid isPermaLink="false">64-6</guid>
-    <pubDate>Wed, 21 Oct 2026 09:28:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>IDC 报告显示 2026 年上半年中国汽车公共云基础设施市场规模约 83.4 亿元，阿里云份额达 45.1%，收入同比增长 111%，自 2021 年起连续 11 期位居第一。大模型在智能座舱与辅助驾驶落地，推动车企对算力和 AI 基础设施的采购持续放量。</description>
-  </item>
-  <item>
-    <title>腾讯内测 AI 互动社区「懂了鸭」：自然语言生成动态课件与 3D 演示</title>
-    <link>https://www.ithome.com/1/016/145.htm</link>
-    <guid isPermaLink="false">64-7</guid>
-    <pubDate>Wed, 21 Oct 2026 15:10:22 +0000</pubDate>
-    <source>IT之家</source>
-    <description>腾讯正在内测面向少儿与青少年的 AI 互动内容社区「懂了鸭」，用户输入自然语言即可由内置智能体生成 3D 演示、动态课件、互动绘本等「奇妙卡」作品，无需编程。产品覆盖学前至高中四个学段，尝试把内容消费与内容生产放在同一社区闭环。</description>
-  </item>
-  <item>
-    <title>清华 AIR 孵化团队用多智能体协同重构医疗 AI，医生 AI 分身进入医院坐诊</title>
-    <link>https://www.qbitai.com/2026/10/504734.html</link>
-    <guid isPermaLink="false">64-8</guid>
-    <pubDate>Wed, 21 Oct 2026 11:30:59 +0000</pubDate>
-    <source>量子位</source>
-    <description>清华 AIR 孵化的团队以多智能体协同方式重构医疗 AI，让医生 AI 分身在医院实际场景中「坐诊」。医疗 AI 从单点辅助工具走向多智能体协作的诊疗流程，对分诊、随访等环节的效率提升值得观察。</description>
-  </item>
-  <item>
-    <title>国内首个通过国家备案的渔业大模型将正式对外发布</title>
-    <link>https://m.mp.oeeee.com/a/BAAFRD0000202610211686431.html</link>
-    <guid isPermaLink="false">64-9</guid>
-    <pubDate>Wed, 21 Oct 2026 13:57:26 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>国内首个通过国家备案的渔业垂直大模型即将正式对外发布。垂直大模型在农业细分场景通过备案并对外服务，说明大模型备案制度正在向行业纵深推进。</description>
-  </item>
-  <item>
-    <title>全国首个聚焦两岸文化融合的垂直大模型「同源观澜」发布</title>
-    <link>https://fjrb.fjdaily.com/pc/con/202610/22/content_571883.html</link>
-    <guid isPermaLink="false">64-10</guid>
-    <pubDate>Wed, 21 Oct 2026 22:37:07 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>全国首个聚焦两岸文化融合的垂直大模型「同源观澜」正式发布。文化类垂直大模型的出现，延续了行业大模型向细分领域渗透的趋势。</description>
-  </item>
-  <item>
-    <title>首都在线账面扭亏，AI 算力投入持续</title>
-    <link>https://www.tmtpost.com/8176619.html</link>
-    <guid isPermaLink="false">64-11</guid>
-    <pubDate>Wed, 21 Oct 2026 13:11:59 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>首都在线财报显示公司账面实现扭亏，毛利修复但资金面仍偏紧，AI 算力投入继续。算力租赁与云服务商在 AI 需求带动下改善盈利，但资本开支压力仍在。</description>
-  </item>
-  <item>
-    <title>电商巨头 AI 战略分野：阿里抢算力，京东抢工具</title>
-    <link>https://www.tmtpost.com/8176414.html</link>
-    <guid isPermaLink="false">64-12</guid>
-    <pubDate>Wed, 21 Oct 2026 09:36:12 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>分析指出阿里与京东在 AI 战略上出现分野，阿里侧重算力基础设施，京东侧重工具与场景应用，差异源于两家公司各自最熟悉的资产。电商巨头的 AI 投入路径分化，将影响其长期成本结构与服务形态。</description>
-  </item>
-  <item>
-    <title>生数科技 Motubrain 团队直播 Physical AI 训练全流程，持续半个月</title>
-    <link>https://www.qbitai.com/2026/10/504730.html</link>
-    <guid isPermaLink="false">64-13</guid>
-    <pubDate>Wed, 21 Oct 2026 09:45:22 +0000</pubDate>
-    <source>量子位</source>
-    <description>生数科技世界模型团队开启 Motubrain 2.0 训练全流程公开直播，持续半个月。公开直播训练过程在具身智能领域较为少见，有助于外界理解世界模型的数据与训练方法。</description>
-  </item>
-  <item>
-    <title>清华系公司千诀将世界模型做进机器人，主打物理规律与跨本体复用</title>
-    <link>https://www.qbitai.com/2026/10/504653.html</link>
-    <guid isPermaLink="false">64-14</guid>
-    <pubDate>Wed, 21 Oct 2026 07:15:05 +0000</pubDate>
-    <source>量子位</source>
-    <description>清华系公司千诀在隐变量可辨识性方向的研究比 LeCun 相近工作早一年，不堆画面预测，主打物理规律与跨本体复用，并已将世界模型做进机器人。世界模型从论文走向机器人本体，是国内具身智能的一条差异化路线。</description>
-  </item>
-  <item>
-    <title>具身智能训练转向「实景实训平台」，高质量真机语料缺口约一个数量级</title>
-    <link>https://www.leiphone.com/category/industrynews/uxVZGVMwc8JuD0Px.html</link>
-    <guid isPermaLink="false">64-15</guid>
-    <pubDate>Wed, 21 Oct 2026 06:53:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>信通院报告显示全国已建成超 70 家具身智能训练场，但通用具身模型至少需千万小时级真实交互数据，目前全球高质量真机语料仅百万小时量级，相差约一个数量级。行业探索把训练放进真实工位，以数据流水线弥补语料饥渴。</description>
-  </item>
-  <item>
-    <title>Cloudflare 开源面向 AI 智能体的决策模型 Clef</title>
-    <link>https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb</link>
-    <guid isPermaLink="false">64-16</guid>
-    <pubDate>Wed, 21 Oct 2026 13:47:00 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>Cloudflare 开源面向 AI 智能体的决策模型 Clef。智能体决策层的开源工具增多，有助于降低企业构建可控 Agent 的门槛。</description>
-  </item>
-  <item>
-    <title>AI 发现 PHP 关键远程代码执行漏洞 PHP2Shell</title>
-    <link>https://www.wiz.io/blog/php2shell-php-rce</link>
-    <guid isPermaLink="false">63-1</guid>
-    <pubDate>Wed, 21 Oct 2026 13:43:19 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>安全公司 Wiz 披露代号 PHP2Shell 的 PHP 远程代码执行漏洞，据称由 AI 辅助挖掘，可远程在 PHP 站点执行任意代码。PHP 官方随即发布两个紧急安全补丁，Ars Technica、Wired 等多家媒体警告数百万网站面临风险。这是 AI 驱动漏洞发现进入实战阶段的标志性事件。</description>
-  </item>
-  <item>
-    <title>PHP 两个严重漏洞被指「正在点燃互联网」</title>
-    <link>https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire</link>
-    <guid isPermaLink="false">63-2</guid>
-    <pubDate>Wed, 21 Oct 2026 14:26:19 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道 PHP 基金会公布两个严重漏洞，可能影响数百万网站，安全专家警告补丁不及时将造成严重后果。多家媒体将其与 PHP2Shell 事件并称为本周最紧迫的互联网安全问题。</description>
-  </item>
-  <item>
-    <title>AI 护栏挡不住犯罪黑客</title>
-    <link>https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers</link>
-    <guid isPermaLink="false">63-3</guid>
-    <pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 调查指出，全球黑客正全面转向使用智能体 AI 发动攻击，并通过各种手段操纵 Anthropic 的 Claude 等工具协助犯罪。现有安全护栏在实际滥用场景下效果有限。</description>
-  </item>
-  <item>
-    <title>Walmart 允许 AI 代理替用户购物</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
-    <guid isPermaLink="false">63-4</guid>
-    <pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Walmart 宣布下月起允许用户在站内使用 AI 代理购物，并提供购买审批、复核与消费限额机制。这与 Amazon 对第三方代理的抵制态度形成鲜明对比。</description>
-  </item>
-  <item>
-    <title>OpenAI 详解 ChatGPT 广告技术栈</title>
-    <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-    <guid isPermaLink="false">63-5</guid>
-    <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 首次系统披露 ChatGPT 的 LLM 驱动广告系统，通过理解对话意图投放相关广告，并将广告与回答内容严格分离以维护用户信任。这标志着 ChatGPT 商业化进入规模化广告阶段。</description>
-  </item>
-  <item>
-    <title>押注递归自我改进的初创公司发布新模型 Flint</title>
-    <link>https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good</link>
-    <guid isPermaLink="false">63-6</guid>
-    <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道初创公司 Recursive 发布最新模型 Flint，主张用 AI 构建 AI 的收益大于风险，并称新模型表现「好得吓人」。该公司将递归自我改进作为核心路线。</description>
-  </item>
-  <item>
-    <title>OpenAI 投资用脑植入物检测癌症的初创公司</title>
-    <link>https://www.wired.com/story/openai-startup-brain-implants-detect-cancer</link>
-    <guid isPermaLink="false">63-7</guid>
-    <pubDate>Wed, 21 Oct 2026 10:30:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>OpenAI 投资一家利用脑植入设备检测癌症的初创公司，这是 AI 公司加码脑数据领域的最新一笔押注。此类投资反映 AI 与神经技术的融合正在加速。</description>
-  </item>
-  <item>
-    <title>Meta Muse 分享链接设计缺陷泄露用户私人对话</title>
-    <link>https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse</link>
-    <guid isPermaLink="false">63-8</guid>
-    <pubDate>Wed, 21 Oct 2026 12:35:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>安全研究人员发现 Meta AI 助手 Muse 的分享链接存在设计缺陷，可轻易访问用户与助手的敏感对话内容。Meta 已暂停该功能。</description>
-  </item>
-  <item>
-    <title>国会迟疑之际，各州率先推进 AI 监管</title>
-    <link>https://www.ncsl.org/state-legislatures-news/details/as-congress-deliberates-states-lead-the-way-on-ai-regulation</link>
-    <guid isPermaLink="false">63-9</guid>
-    <pubDate>Wed, 21 Oct 2026 14:55:39 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美国州议会全国会议发文指出，在联邦国会仍在审议 AI 立法之际，各州正率先出台监管规则。州级立法正在成为美国 AI 治理的实际前沿。</description>
   </item>
 </channel></rss>
