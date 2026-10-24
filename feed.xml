@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 24 Oct 2026 08:01:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 08:01:56 +0000</lastBuildDate>
+  <item>
+    <title>月之暗面发布 Kimi K3.1 Pro，3 万亿参数、100 万上下文</title>
+    <link>https://www.ithome.com/1/017/291.htm</link>
+    <guid isPermaLink="false">70-1</guid>
+    <pubDate>Fri, 23 Oct 2026 23:49:34 +0000</pubDate>
+    <source>IT之家</source>
+    <description>月之暗面于 10 月 24 日凌晨正式推出 Kimi K3.1 系列首个模型 K3.1 Pro，参数规模达 3 万亿，支持 100 万上下文，号称公司迄今能力最强。此前官方先导片已泄露 K3.1 在 3D 生成与 Three.js 代码任务上的表现，成本据称仅为 K3 的 70%。这是国产旗舰模型在参数规模与长上下文能力上对标国际一线的最新动作。</description>
+  </item>
+  <item>
+    <title>DeepSeek 被曝完成约 1000 亿元新一轮融资，腾讯、宁德时代参投</title>
+    <link>http://www.geekpark.net/news/372767</link>
+    <guid isPermaLink="false">70-2</guid>
+    <pubDate>Fri, 23 Oct 2026 00:49:03 +0000</pubDate>
+    <source>极客公园</source>
+    <description>多家媒体报道，DeepSeek 最新一轮融资筹得约 1000 亿元人民币（约 150 亿美元），腾讯和宁德时代为出资最多的投资方，交易预计数日内完成。募资目标最初为 500 亿元，后经多轮上调，资金将用于模型训练、算力建设与人才招募，并可能为科创板 IPO 铺路。若属实，这将是国内大模型公司最大规模单轮融资。</description>
+  </item>
+  <item>
+    <title>MiniMax 开源 M3.1 Flash，Flash 类模型成 AI 新潮流</title>
+    <link>https://finance.eastmoney.com/a/202610233905949688.html</link>
+    <guid isPermaLink="false">70-3</guid>
+    <pubDate>Fri, 23 Oct 2026 18:20:50 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>MiniMax 开源 M3.1 Flash 模型，主打轻量高速推理，延续了近期多家厂商推出 Flash 系列模型的趋势。报道指出，Flash 类模型正成为 AI 行业新潮流，以更低成本满足高并发、低延迟场景需求。开源策略有助于 MiniMax 扩大开发者生态，与闭源旗舰模型形成分层竞争。</description>
+  </item>
+  <item>
+    <title>AI 大算力芯片公司亿铸科技完成超 10 亿元融资</title>
+    <link>https://www.donews.com/news/detail/1/6752119.html</link>
+    <guid isPermaLink="false">70-4</guid>
+    <pubDate>Fri, 23 Oct 2026 13:35:42 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>亿铸科技宣布完成超 10 亿元人民币融资，该公司专注于 AI 大算力芯片。多家媒体报道了这轮融资，显示在国产算力自主化背景下，存算一体等新型架构芯片仍受资本青睐。资金预计将用于产品研发与量产推进。</description>
+  </item>
+  <item>
+    <title>MiniMax 入驻天猫开卖 Token 套餐，双 11 大模型厂商试水电商</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd93Z3XlBUrfceXl3uTPjTugn6ORNiEbqMvHTDUnnAah_ocOGY_YdPGv8LFZqhaxRp9o3Gqm4K7Pe1VFE9e5HYlXq2Le7hqVsjfaW9nfTeRIT3_OVqR0gJWdU9dNtpEt5GdeBY57BzbOkFKYEj7_axXOxPA4hDVHNPeZ21iynJHnd36zvkPgoArRQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516</link>
+    <guid isPermaLink="false">70-5</guid>
+    <pubDate>Fri, 23 Oct 2026 12:10:12 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>MiniMax 开设天猫旗舰店，在双 11 期间开卖 Token 套餐，成为又一家入驻电商平台的国产头部大模型厂商。此前淘宝已宣布引入国产大模型厂商，天猫方面表示今年双 11 想卖的不仅是货，还有 Token。这标志着大模型 API 调用量开始以消费品形式面向中小商家和开发者销售。</description>
+  </item>
+  <item>
+    <title>硅基流动提出 Token 生产力公式，助力央国企大模型规模化落地</title>
+    <link>https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html</link>
+    <guid isPermaLink="false">70-6</guid>
+    <pubDate>Fri, 23 Oct 2026 08:32:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>硅基流动在央国企 CIO 峰会上分享推理基础设施与 ROI 实践，提出「Token 生产力 = 产能 × 利用率 × 交付质量」的核心公式。公司通过自研推理引擎统一纳管算力，既在公有云建设 Token 工厂，也帮助央国企在内部搭建自有 Token 工厂。这反映企业侧大模型落地正从买算力转向追求单位 Token 的产出效率。</description>
+  </item>
+  <item>
+    <title>超算产业从实验室走向企业主战场，算力中立供应商受关注</title>
+    <link>https://www.leiphone.com/category/chips/weZAv8C0bQZltLxn.html</link>
+    <guid isPermaLink="false">70-7</guid>
+    <pubDate>Fri, 23 Oct 2026 08:52:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>报道指出，超算需求结构发生逆转：五六年前科研与高校场景占比超 70%-80%，今年企业需求已占主导，汽车制造、大模型、航空航天、生物医药成为活跃用户。内蒙古、宁夏、新疆等地的大规模算力中心正从象牙塔转向产业服务，行业需要更多算力中立供应商。这显示算力消费正从集中科研走向分散的产业仿真与训练需求。</description>
+  </item>
+  <item>
+    <title>国产 AI 3D 大模型 Hi3D V3.0 开源可商用，支持 2048³ 精度</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9bM0uTquR6wjnnO35A2adt6eOaqYfzCaGCA4szBWcx0m7k-23pRR9SIdY9OY3RX3-R5pTzswFdV-BvpwcrfyhkxvuFglenXN1oQohA8QA59H60M3L0FJDKhng_GFsyjDH8YGkUgq3OW856ejCSC2tQDPlJ3vGLJtercR8n2ccTRjRtmyIGw2VAg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516</link>
+    <guid isPermaLink="false">70-8</guid>
+    <pubDate>Fri, 23 Oct 2026 05:26:35 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>国产自研 AI 3D 模型 Hi3D V3.0 发布，号称业界首个可商用的 2048³ 超高精度 3D 模型，并开源可商用。报道称其在大模型 3D 生成任务上可与 GPT-6 竞争，体现大语言模型与 3D 生成模型的分工协作。高精度可商用开源有望降低工业级 3D 资产的生产门槛。</description>
+  </item>
+  <item>
+    <title>国产大模型从拼模型转向抢入口，进军消费硬件</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9U6PQjOY77WD1cFIut6KZVYL3L-5m4q6cx4RZJk9JQaX8P1mFLICp7314bTEram_6fB-lKF5x_nwtduUifp-KKTnZ_3d7JRg5kbfx4Ag382ewLNsqqX8yynvc-JrdXmo3ptf1t5dgcL9TchnhPYaNh1JQ9EbKbjaNq9DryBq41eLvzHZXxeLdyg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516</link>
+    <guid isPermaLink="false">70-9</guid>
+    <pubDate>Fri, 23 Oct 2026 13:59:54 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>报道称 2026 年国产大模型开始「不务正业」，阶跃星辰与阿里千问在同一天发布主打 AI 的手机和眼镜等硬件产品。大模型厂商正从模型能力竞争转向争夺用户入口，将模型嵌入手机、眼镜、耳机等消费硬件。这标志着国产大模型商业化从 API 调用向终端设备延伸。</description>
+  </item>
+  <item>
+    <title>国产大模型出海模式生变：从免费使用转向收入分成</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9Sfb-K3zc0orLBPAY3oH4U4jfEHat7RL_4i-hJhURd7tnkYeMBAWC8yFVqQxm-HzMTOb0Z7J0ZBIrzQse4yIpN7GZ97KpPeejYSYFZmo3TKLNj7OFfonZUU9PGJizNb5OmGTcnw_etCov43y2DWLnwq29Gqg5Q9xoYH0a0N-xHuI89kyxDwoXvg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516</link>
+    <guid isPermaLink="false">70-10</guid>
+    <pubDate>Fri, 23 Oct 2026 18:22:06 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>报道指出国产大模型出海方式正在转变，从「免费给人用」变成「进账分钱」。9 月底，经 Baseten 通道，Kimi K3 和智谱 GLM-5.3 进入 OpenAI 相关生态并参与收入分成。这显示国产模型在海外推理平台上的分发开始形成可计量的商业回报。</description>
+  </item>
+  <item>
+    <title>科大讯飞、火山引擎、豆包：国产大模型开始卷落地</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9O8bgAS0FJF_I0gvE-cxvdRs4Ko8fz0gyEnutYyUJBb31jHsaHGsgizRLVemo5hx6XMdm7a-h93Sp12a9rrbQvGdPglwvUI-UZyCHxWTDUFqDwgwwxO7Aio1H-m9pkke1neanKQVnA9BA0MrNFL1LexhHajCJXlHzVdVydg7pAazvzHZXxeLdyg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516</link>
+    <guid isPermaLink="false">70-11</guid>
+    <pubDate>Fri, 23 Oct 2026 12:01:23 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>报道称国产大模型赛道主旋律已从比拼参数量、刷评测榜单，转向科大讯飞、火山引擎、豆包等厂商的落地能力竞争。厂商开始围绕具体行业场景和交付效果展开较量，而非单纯强调基座参数。这反映大模型竞争进入以应用渗透率和客户留存为指标的阶段。</description>
+  </item>
+  <item>
+    <title>AI 大算力芯片公司亿铸科技完成 10 亿元级融资</title>
+    <link>https://www.eet-china.com/mp/a533412.html</link>
+    <guid isPermaLink="false">70-12</guid>
+    <pubDate>Fri, 23 Oct 2026 12:30:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>电子工程专辑报道，AI 大算力芯片公司亿铸科技完成 10 亿元以上融资。该消息与另一来源的融资报道相互印证，显示资本市场对国产大算力芯片赛道的持续关注。资金将用于推进芯片研发与产业化。</description>
+  </item>
+  <item>
+    <title>智元两年投出 47 笔融资，多数投向自家机器人上游</title>
+    <link>https://www.tmtpost.com/8178163.html</link>
+    <guid isPermaLink="false">70-13</guid>
+    <pubDate>Fri, 23 Oct 2026 10:19:48 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>报道称智元机器人在两年内完成 47 笔对外投资，多数投向其自身机器人产品的上游供应链企业。公司通过铺生态、投上游的方式为后续上市做准备，成败仍待市场验证。这显示具身智能企业正以资本手段锁定核心零部件与产能。</description>
+  </item>
+  <item>
+    <title>DeepSeek 完成近 1000 亿元融资，宁德时代、腾讯参投</title>
+    <link>https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html</link>
+    <guid isPermaLink="false">70-14</guid>
+    <pubDate>Fri, 23 Oct 2026 11:16:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>雷锋网要闻汇总提到 DeepSeek 完成近 1000 亿元融资，宁德时代、腾讯参投，与上海证券报等来源的报道一致。同一汇总还包含字节 Seed 招聘具身智能岗位、起薪 55K 等信息。DeepSeek 融资为当日最受关注的资本事件。</description>
+  </item>
+  <item>
+    <title>天猫双 11 用 AI 挖掘沉睡需求，人群包转化率提升 3 倍</title>
+    <link>http://www.geekpark.net/news/372801</link>
+    <guid isPermaLink="false">70-15</guid>
+    <pubDate>Fri, 23 Oct 2026 05:56:53 +0000</pubDate>
+    <source>极客公园</source>
+    <description>天猫总裁家洛在双 11 发布会上表示，AI 的核心标准是更理解消费者，通过组合跨场景行为线索构建人群包，某运动品牌与足球品类购买转化率比日常高出 3 倍以上。平台试图用 AI 激活搜索之外的沉睡需求，而非仅做关键词匹配。这显示电商 AI 正从推荐算法走向需求发现。</description>
+  </item>
+  <item>
+    <title>AI 漫剧产能翻倍但赚钱变难，阅文推一站式平台</title>
+    <link>http://www.geekpark.net/news/372746</link>
+    <guid isPermaLink="false">70-16</guid>
+    <pubDate>Thu, 22 Oct 2026 08:20:34 +0000</pubDate>
+    <source>极客公园</source>
+    <description>阅文在创作大会上发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台。一线从业者表示，AI 漫剧产能翻了几倍，但营收并未同步增长，行业从风口期进入红海期。制作标准从每分钟 1000 元起步，成本与竞争压力同步上升。</description>
+  </item>
+  <item>
+    <title>中国 AI 球类机器人扎堆出海，多款产品众筹破百万美元</title>
+    <link>http://www.geekpark.net/news/372807</link>
+    <guid isPermaLink="false">70-17</guid>
+    <pubDate>Fri, 23 Oct 2026 06:15:58 +0000</pubDate>
+    <source>极客公园</source>
+    <description>过去一年至少四款中国团队打造的 AI 球类机器人在 Kickstarter 筹得百万美元级资金，庞伯特超募 26255% 筹得 265 万美元，SwitchBot 的 Acemate 30 天入账 180 万美元。AceiiLab 单台售价约 2000 美元，早鸟价 999 美元，首批量产正在交付。赛道定义仍模糊，硬件只是入场券。</description>
+  </item>
+  <item>
+    <title>奇安信针对 PHP2Shell 漏洞推出 AI 渗透测试一键速查</title>
+    <link>https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html</link>
+    <guid isPermaLink="false">70-18</guid>
+    <pubDate>Fri, 23 Oct 2026 03:03:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>PHP 被曝两项严重漏洞 CVE-2026-109618 与 CVE-2026-109619，统称 PHP2Shell，可实现无认证远程任意命令执行，潜在影响超百万级资产。奇安信天戟 AI 智能渗透测试系统提供一键速查方案，用户可在授权网站发起渗透测试。事件反映 AI 深度攻防背景下漏洞威胁常态化。</description>
+  </item>
+  <item>
+    <title>奇瑞董事长尹同跃称奇瑞是披着车企马甲的高科技公司</title>
+    <link>https://www.leiphone.com/category/transportation/j8cK1UDhub9VuCpu.html</link>
+    <guid isPermaLink="false">70-19</guid>
+    <pubDate>Fri, 23 Oct 2026 08:31:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>在 2026 奇瑞全球创新大会上，董事长尹同跃表示奇瑞是「披着汽车企业马甲」的高科技创新企业，真正的风险是拒绝 AI、不敢用 AI。报道认为判断奇瑞是否为 AI 公司应看其是否用 AI 重构造车方式并形成可复用底座。这反映传统车企正将 AI 能力从营销话术转向研发与制造流程。</description>
+  </item>
+  <item>
+    <title>SK 海力士取消存储子公司赴美 IPO，向 AI 交易发出警示</title>
+    <link>https://www.tmtpost.com/8179887.html</link>
+    <guid isPermaLink="false">70-20</guid>
+    <pubDate>Fri, 23 Oct 2026 13:51:37 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>SK 海力士取消其存储子公司赴美 IPO 计划，股价随后反弹。报道称这家内存芯片巨头此举向人工智能交易发出了一个警示信号。存储芯片是 AI 算力供应链的关键环节，IPO 计划变动可能影响市场对 AI 基建投资节奏的预期。</description>
+  </item>
   <item>
     <title>月之暗面发布 Kimi K3.1 Pro：3 万亿参数、100 万上下文，编程智能体测评超 GPT-6 Astra</title>
     <link>https://www.ithome.com/1/017/284.htm</link>
@@ -323,165 +483,5 @@
     <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
     <source>OpenAI 官方博客</source>
     <description>OpenAI 发布博客说明如何强化前沿模型训练与评估的隔离措施，包括离线环境和更高强度的红队测试。该文与「停止用实时互联网训练」的公告互为配套，构成一套可对外解释的安全架构。多家媒体报道称，这反映出模型能力提升与失控风险之间的张力正在重塑训练基础设施设计。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 Pro 与 K3.1 Pro 高速版发布</title>
-    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">67-3</guid>
-    <pubDate>Fri, 23 Oct 2026 16:59:08 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Kimi 发布 K3.1 Pro 及高速版本，官方文档与第三方评测同步上线，HN 讨论热度达 644 分、409 条评论。该模型主打代码场景，并在 Artificial Analysis 评测中进入帕累托前沿。开源权重模型在性价比维度上继续对闭源前沿形成压力。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 在 Artificial Analysis 得分 55，进入帕累托前沿</title>
-    <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">67-4</guid>
-    <pubDate>Fri, 23 Oct 2026 18:24:54 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>第三方评测机构 Artificial Analysis 显示，Kimi K3.1 Pro 综合得分 55，位列帕累托前沿，意味着其在价格与性能的权衡上处于当前最优区间之一。该结果与 Kimi 官方发布形成交叉验证。对开发者而言，模型选型的性价比曲线正在被重新绘制。</description>
-  </item>
-  <item>
-    <title>德克萨斯州就产品安全起诉 OpenAI 与 Sam Altman</title>
-    <link>https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162</link>
-    <guid isPermaLink="false">67-5</guid>
-    <pubDate>Fri, 23 Oct 2026 20:39:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>德克萨斯州对 OpenAI 及其 CEO Sam Altman 提起诉讼，指控焦点为产品安全。这是美国州级政府对头部 AI 公司发起的又一起法律行动，Politico 率先报道。案件可能推动 AI 产品责任边界的司法界定，并影响其他州的监管取向。</description>
-  </item>
-  <item>
-    <title>瑞典政府办公室禁用 ChatGPT 与 Claude</title>
-    <link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
-    <guid isPermaLink="false">67-6</guid>
-    <pubDate>Fri, 23 Oct 2026 11:39:54 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>瑞典政府办公室（Regeringskansliet）宣布禁止使用 ChatGPT 和 Claude，理由涉及数据安全与保密要求。该禁令覆盖政府核心办公机构，是欧洲公共部门对生成式 AI 工具收紧使用的又一案例。此前多个欧洲国家已对政府场景下的 AI 工具采取限制措施。</description>
-  </item>
-  <item>
-    <title>Meta 因出版方反对推迟新商业条款，AI 抓取争议升温</title>
-    <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
-    <guid isPermaLink="false">67-7</guid>
-    <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Meta 将新商业条款的生效日期推迟至 11 月 20 日，此前出版方担忧该条款会允许公司抓取新闻网站内容用于 AI 训练。Meta 发言人表示延期是为了留出沟通时间。这一事件凸显内容版权与 AI 训练数据获取之间的紧张关系仍在升级。</description>
-  </item>
-  <item>
-    <title>Anthropic：LLM 正让形式化软件验证在更大规模上可行</title>
-    <link>https://www.anthropic.com/research/formal-verification</link>
-    <guid isPermaLink="false">67-8</guid>
-    <pubDate>Thu, 22 Oct 2026 22:54:43 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 发布研究称，大语言模型正在使形式化软件验证在更大规模上变得可行，HN 讨论热度达 437 分。形式化验证长期受限于人工编写规格与证明的成本，LLM 可承担部分规格生成与证明辅助工作。若该路径成熟，将对安全关键软件与 AI 自身可验证性产生实质影响。</description>
-  </item>
-  <item>
-    <title>Jack Dorsey 的 Block 推出对话原生 AI 模型 Dessa</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
-    <guid isPermaLink="false">67-9</guid>
-    <pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Block 发布 AI 模型 Dessa，称其「完全基于人类对话从零训练」，并展示了与人类互动的对话样例，风格略显生硬但接近真实交流。该模型由 Dessa 负责人 Ragavan Thurairatnam 对外展示。这代表了一条不同于通用大模型预训练路线的语音与对话原生探索。</description>
-  </item>
-  <item>
-    <title>OpenAI 详解如何将在线存储扩展至服务超 10 亿 ChatGPT 用户（第二部分）</title>
-    <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-    <guid isPermaLink="false">67-10</guid>
-    <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 介绍其 Habitat 存储系统如何通过可靠多租户、全局缓存与 Azure Cosmos DB 支撑 ChatGPT 的十亿级用户规模，实现读取速度提升 12 倍。这是 OpenAI 少见的底层基础设施细节披露。对行业而言，超大规模 AI 应用的存储与缓存架构正成为独立的技术竞争点。</description>
-  </item>
-  <item>
-    <title>被解雇的 OpenAI 研究人员称独立安全审计进展不顺</title>
-    <link>https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well</link>
-    <guid isPermaLink="false">67-11</guid>
-    <pubDate>Fri, 23 Oct 2026 21:33:31 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>NPR 报道称，被 OpenAI 解雇的研究人员表示公司承诺的独立安全审计推进情况不佳。这一表态与 OpenAI 近期密集发布的安全公告形成对照。围绕前沿实验室治理与外部监督有效性的争议持续发酵。</description>
-  </item>
-  <item>
-    <title>OpenAI 与波兰 NASK 合作推进 AI 安全与防护</title>
-    <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-    <guid isPermaLink="false">67-12</guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 宣布与波兰国家应用研究机构 NASK 建立合作，聚焦 AI 安全、防护与技术研究，以强化保障措施并提升数字生态韧性。这是 OpenAI 在欧洲公共机构层面拓展安全合作的又一动作。此类合作通常兼具技术研究与政策沟通双重目的。</description>
-  </item>
-  <item>
-    <title>黄仁勋称美国必须「认真对待」中国，警告勿低估其 AI 与芯片制造能力</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-193022345.html</link>
-    <guid isPermaLink="false">67-13</guid>
-    <pubDate>Fri, 23 Oct 2026 19:30:22 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>英伟达 CEO 黄仁勋公开表示美国应认真对待中国，并警告不要低估中国在 AI 与芯片制造上的能力，称「如果有一个国家能大规模制造东西，那就是中国」。此番表态出现在美国对华芯片出口管制持续收紧的背景下。它反映出算力供应链与地缘政治的高度交织。</description>
-  </item>
-  <item>
-    <title>英伟达 CEO 鼓励欧洲追赶 AI 产业并扩建数据中心</title>
-    <link>https://broadbandbreakfast.com/nvidia-ceo-encourages-europes-lagging-ai-sector-encourages-data-center-buildout/</link>
-    <guid isPermaLink="false">67-14</guid>
-    <pubDate>Fri, 23 Oct 2026 21:40:57 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>黄仁勋在欧洲发声，鼓励欧洲落后的 AI 产业加大投入，并推动数据中心建设。Broadband Breakfast 报道称，其表态指向欧洲在算力基础设施上的短板。这与欧盟近期推动本土 AI 产能的政策方向一致。</description>
-  </item>
-  <item>
-    <title>Uber 竞争对手 inDrive 联手小马智行与英伟达，计划 2027 年在中亚测试 Robotaxi</title>
-    <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia</link>
-    <guid isPermaLink="false">67-15</guid>
-    <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>inDrive 计划于 2027 年上半年在哈萨克斯坦首都开始测试小马智行的 Robotaxi，并采用英伟达相关技术。这是 Robotaxi 出海进入中亚市场的早期布局。对自动驾驶公司而言，非中美市场的落地机会正在增加。</description>
-  </item>
-  <item>
-    <title>中国关联黑客借 ConnectWise 漏洞利用 AI 代理入侵数千家企业</title>
-    <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise</link>
-    <guid isPermaLink="false">67-16</guid>
-    <pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>微软将 ConnectWise 数据泄露归因于一个中国关联黑客组织，该组织利用 AI 代理快速入侵数千家下游客户。TechCrunch 报道称，攻击规模与自动化程度显著提升。这是 AI 代理被用于实战化网络攻击的又一明确案例。</description>
-  </item>
-  <item>
-    <title>Nirva 融资 3300 万美元，推出只监听佩戴者的 AI 吊坠</title>
-    <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you</link>
-    <guid isPermaLink="false">67-17</guid>
-    <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nirva 完成 3300 万美元融资，用于其定价 249 美元的 ambient AI 吊坠，该设备只采集佩戴者本人的语音，计划于年底前发货。产品定位在隐私敏感的随身 AI 硬件赛道。可穿戴 AI 设备的隐私设计正成为差异化卖点。</description>
-  </item>
-  <item>
-    <title>Spotify 的 AI 押注：成为 AI 代理首选的音乐服务</title>
-    <link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose</link>
-    <guid isPermaLink="false">67-18</guid>
-    <pubDate>Thu, 22 Oct 2026 15:03:58 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Spotify 联席 CEO Gustav Söderström 解释，随着 AI 代理普及，音乐服务需要成为代理主动选择的对象。这一定位意味着 Spotify 正把 AI 代理视为新的分发入口而非单纯功能。流媒体平台对代理经济的卡位战已经开启。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 Decisions API，面向应用提供快速低成本决策能力</title>
-    <link>https://openai.com/index/decisions-api</link>
-    <guid isPermaLink="false">67-19</guid>
-    <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布 Decisions API，定位为面向任意应用提供快速、聚焦、低成本的决策能力。该接口面向需要高频轻量判断的场景，而非长文本生成。这显示 OpenAI 正在细化 API 产品矩阵，覆盖更细粒度的推理需求。</description>
-  </item>
-  <item>
-    <title>Google DeepMind 发布全球森林类型地图，精度达 10 米</title>
-    <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types</link>
-    <guid isPermaLink="false">67-20</guid>
-    <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
-    <source>Google DeepMind 博客</source>
-    <description>Google DeepMind 发布全球森林类型地图，将地球每 10 米见方的土地归类为不同森林类型。该成果超越传统树冠覆盖率指标，提供更细粒度的生态分类。这类地球观测模型正成为气候与生物多样性研究的基础设施。</description>
-  </item>
-  <item>
-    <title>OpenAI 拟以 1.25 万亿美元估值融资至多 300 亿美元，为 IPO 铺路</title>
-    <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo</link>
-    <guid isPermaLink="false">66-1</guid>
-    <pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>多家媒体报道 OpenAI 正推进新一轮最高 300 亿美元融资，估值达 1.25 万亿美元，由阿联酋投资者领投。若成行，将刷新私募公司估值纪录，并为后续 IPO 奠定基础。</description>
-  </item>
-  <item>
-    <title>DeepSeek 据报融资 150 亿美元，距美国限制令仅数日</title>
-    <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions</link>
-    <guid isPermaLink="false">66-2</guid>
-    <pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>DeepSeek 据报完成 150 亿美元融资，为中国最大规模融资轮之一，距美国联邦机构被要求移除其技术仅数日。资金将用于继续推进模型研发与算力建设。</description>
   </item>
 </channel></rss>

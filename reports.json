@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T08:01:12.961641",
+ "generated_at": "2026-10-24T08:01:56.939816",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 70,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-24",
+   "created_at": "2026-10-24T00:01:56.134832+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-24/news_daily_cn-080156.html"
+  },
   {
    "id": 69,
    "task": "news_daily_cn",
@@ -570,6 +579,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "月之暗面发布 Kimi K3.1 Pro，3 万亿参数、100 万上下文",
+   "url": "https://www.ithome.com/1/017/291.htm",
+   "source": "IT之家",
+   "summary": "月之暗面于 10 月 24 日凌晨正式推出 Kimi K3.1 系列首个模型 K3.1 Pro，参数规模达 3 万亿，支持 100 万上下文，号称公司迄今能力最强。此前官方先导片已泄露 K3.1 在 3D 生成与 Three.js 代码任务上的表现，成本据称仅为 K3 的 70%。这是国产旗舰模型在参数规模与长上下文能力上对标国际一线的最新动作。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 5,
+   "published": "2026-10-23T23:49:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "DeepSeek 被曝完成约 1000 亿元新一轮融资，腾讯、宁德时代参投",
+   "url": "http://www.geekpark.net/news/372767",
+   "source": "极客公园",
+   "summary": "多家媒体报道，DeepSeek 最新一轮融资筹得约 1000 亿元人民币（约 150 亿美元），腾讯和宁德时代为出资最多的投资方，交易预计数日内完成。募资目标最初为 500 亿元，后经多轮上调，资金将用于模型训练、算力建设与人才招募，并可能为科创板 IPO 铺路。若属实，这将是国内大模型公司最大规模单轮融资。",
+   "why": null,
+   "category": "投融资",
+   "heat": 5,
+   "published": "2026-10-23T00:49:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "MiniMax 开源 M3.1 Flash，Flash 类模型成 AI 新潮流",
+   "url": "https://finance.eastmoney.com/a/202610233905949688.html",
+   "source": "Google News 中文",
+   "summary": "MiniMax 开源 M3.1 Flash 模型，主打轻量高速推理，延续了近期多家厂商推出 Flash 系列模型的趋势。报道指出，Flash 类模型正成为 AI 行业新潮流，以更低成本满足高并发、低延迟场景需求。开源策略有助于 MiniMax 扩大开发者生态，与闭源旗舰模型形成分层竞争。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 4,
+   "published": "2026-10-23T18:20:50+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "AI 大算力芯片公司亿铸科技完成超 10 亿元融资",
+   "url": "https://www.donews.com/news/detail/1/6752119.html",
+   "source": "Google News 中文",
+   "summary": "亿铸科技宣布完成超 10 亿元人民币融资，该公司专注于 AI 大算力芯片。多家媒体报道了这轮融资，显示在国产算力自主化背景下，存算一体等新型架构芯片仍受资本青睐。资金预计将用于产品研发与量产推进。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-10-23T13:35:42+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "MiniMax 入驻天猫开卖 Token 套餐，双 11 大模型厂商试水电商",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd93Z3XlBUrfceXl3uTPjTugn6ORNiEbqMvHTDUnnAah_ocOGY_YdPGv8LFZqhaxRp9o3Gqm4K7Pe1VFE9e5HYlXq2Le7hqVsjfaW9nfTeRIT3_OVqR0gJWdU9dNtpEt5GdeBY57BzbOkFKYEj7_axXOxPA4hDVHNPeZ21iynJHnd36zvkPgoArRQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516",
+   "source": "微信公众号",
+   "summary": "MiniMax 开设天猫旗舰店，在双 11 期间开卖 Token 套餐，成为又一家入驻电商平台的国产头部大模型厂商。此前淘宝已宣布引入国产大模型厂商，天猫方面表示今年双 11 想卖的不仅是货，还有 Token。这标志着大模型 API 调用量开始以消费品形式面向中小商家和开发者销售。",
+   "why": null,
+   "category": "商业化",
+   "heat": 4,
+   "published": "2026-10-23T12:10:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "硅基流动提出 Token 生产力公式，助力央国企大模型规模化落地",
+   "url": "https://www.leiphone.com/category/industrynews/DVoE94j80j6cboxE.html",
+   "source": "雷锋网",
+   "summary": "硅基流动在央国企 CIO 峰会上分享推理基础设施与 ROI 实践，提出「Token 生产力 = 产能 × 利用率 × 交付质量」的核心公式。公司通过自研推理引擎统一纳管算力，既在公有云建设 Token 工厂，也帮助央国企在内部搭建自有 Token 工厂。这反映企业侧大模型落地正从买算力转向追求单位 Token 的产出效率。",
+   "why": null,
+   "category": "算力基础设施",
+   "heat": 3,
+   "published": "2026-10-23T08:32:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "超算产业从实验室走向企业主战场，算力中立供应商受关注",
+   "url": "https://www.leiphone.com/category/chips/weZAv8C0bQZltLxn.html",
+   "source": "雷锋网",
+   "summary": "报道指出，超算需求结构发生逆转：五六年前科研与高校场景占比超 70%-80%，今年企业需求已占主导，汽车制造、大模型、航空航天、生物医药成为活跃用户。内蒙古、宁夏、新疆等地的大规模算力中心正从象牙塔转向产业服务，行业需要更多算力中立供应商。这显示算力消费正从集中科研走向分散的产业仿真与训练需求。",
+   "why": null,
+   "category": "算力产业",
+   "heat": 3,
+   "published": "2026-10-23T08:52:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "国产 AI 3D 大模型 Hi3D V3.0 开源可商用，支持 2048³ 精度",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9bM0uTquR6wjnnO35A2adt6eOaqYfzCaGCA4szBWcx0m7k-23pRR9SIdY9OY3RX3-R5pTzswFdV-BvpwcrfyhkxvuFglenXN1oQohA8QA59H60M3L0FJDKhng_GFsyjDH8YGkUgq3OW856ejCSC2tQDPlJ3vGLJtercR8n2ccTRjRtmyIGw2VAg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516",
+   "source": "微信公众号",
+   "summary": "国产自研 AI 3D 模型 Hi3D V3.0 发布，号称业界首个可商用的 2048³ 超高精度 3D 模型，并开源可商用。报道称其在大模型 3D 生成任务上可与 GPT-6 竞争，体现大语言模型与 3D 生成模型的分工协作。高精度可商用开源有望降低工业级 3D 资产的生产门槛。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 3,
+   "published": "2026-10-23T05:26:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "国产大模型从拼模型转向抢入口，进军消费硬件",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9U6PQjOY77WD1cFIut6KZVYL3L-5m4q6cx4RZJk9JQaX8P1mFLICp7314bTEram_6fB-lKF5x_nwtduUifp-KKTnZ_3d7JRg5kbfx4Ag382ewLNsqqX8yynvc-JrdXmo3ptf1t5dgcL9TchnhPYaNh1JQ9EbKbjaNq9DryBq41eLvzHZXxeLdyg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516",
+   "source": "微信公众号",
+   "summary": "报道称 2026 年国产大模型开始「不务正业」，阶跃星辰与阿里千问在同一天发布主打 AI 的手机和眼镜等硬件产品。大模型厂商正从模型能力竞争转向争夺用户入口，将模型嵌入手机、眼镜、耳机等消费硬件。这标志着国产大模型商业化从 API 调用向终端设备延伸。",
+   "why": null,
+   "category": "行业趋势",
+   "heat": 3,
+   "published": "2026-10-23T13:59:54+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "国产大模型出海模式生变：从免费使用转向收入分成",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9Sfb-K3zc0orLBPAY3oH4U4jfEHat7RL_4i-hJhURd7tnkYeMBAWC8yFVqQxm-HzMTOb0Z7J0ZBIrzQse4yIpN7GZ97KpPeejYSYFZmo3TKLNj7OFfonZUU9PGJizNb5OmGTcnw_etCov43y2DWLnwq29Gqg5Q9xoYH0a0N-xHuI89kyxDwoXvg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516",
+   "source": "微信公众号",
+   "summary": "报道指出国产大模型出海方式正在转变，从「免费给人用」变成「进账分钱」。9 月底，经 Baseten 通道，Kimi K3 和智谱 GLM-5.3 进入 OpenAI 相关生态并参与收入分成。这显示国产模型在海外推理平台上的分发开始形成可计量的商业回报。",
+   "why": null,
+   "category": "商业化",
+   "heat": 3,
+   "published": "2026-10-23T18:22:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "科大讯飞、火山引擎、豆包：国产大模型开始卷落地",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7oPEhfrL6Tw9NRmTWJ6GW3ZFqXa8Fplpd9O8bgAS0FJF_I0gvE-cxvdRs4Ko8fz0gyEnutYyUJBb31jHsaHGsgizRLVemo5hx6XMdm7a-h93Sp12a9rrbQvGdPglwvUI-UZyCHxWTDUFqDwgwwxO7Aio1H-m9pkke1neanKQVnA9BA0MrNFL1LexhHajCJXlHzVdVydg7pAazvzHZXxeLdyg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=77A6247DFF0E9D818F88D0ED02D2F8EE8F26194F6ADBF516",
+   "source": "微信公众号",
+   "summary": "报道称国产大模型赛道主旋律已从比拼参数量、刷评测榜单，转向科大讯飞、火山引擎、豆包等厂商的落地能力竞争。厂商开始围绕具体行业场景和交付效果展开较量，而非单纯强调基座参数。这反映大模型竞争进入以应用渗透率和客户留存为指标的阶段。",
+   "why": null,
+   "category": "行业趋势",
+   "heat": 3,
+   "published": "2026-10-23T12:01:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "AI 大算力芯片公司亿铸科技完成 10 亿元级融资",
+   "url": "https://www.eet-china.com/mp/a533412.html",
+   "source": "Google News 中文",
+   "summary": "电子工程专辑报道，AI 大算力芯片公司亿铸科技完成 10 亿元以上融资。该消息与另一来源的融资报道相互印证，显示资本市场对国产大算力芯片赛道的持续关注。资金将用于推进芯片研发与产业化。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-10-23T12:30:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "智元两年投出 47 笔融资，多数投向自家机器人上游",
+   "url": "https://www.tmtpost.com/8178163.html",
+   "source": "钛媒体",
+   "summary": "报道称智元机器人在两年内完成 47 笔对外投资，多数投向其自身机器人产品的上游供应链企业。公司通过铺生态、投上游的方式为后续上市做准备，成败仍待市场验证。这显示具身智能企业正以资本手段锁定核心零部件与产能。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-23T10:19:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "DeepSeek 完成近 1000 亿元融资，宁德时代、腾讯参投",
+   "url": "https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html",
+   "source": "雷锋网",
+   "summary": "雷锋网要闻汇总提到 DeepSeek 完成近 1000 亿元融资，宁德时代、腾讯参投，与上海证券报等来源的报道一致。同一汇总还包含字节 Seed 招聘具身智能岗位、起薪 55K 等信息。DeepSeek 融资为当日最受关注的资本事件。",
+   "why": null,
+   "category": "投融资",
+   "heat": 3,
+   "published": "2026-10-23T11:16:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "天猫双 11 用 AI 挖掘沉睡需求，人群包转化率提升 3 倍",
+   "url": "http://www.geekpark.net/news/372801",
+   "source": "极客公园",
+   "summary": "天猫总裁家洛在双 11 发布会上表示，AI 的核心标准是更理解消费者，通过组合跨场景行为线索构建人群包，某运动品牌与足球品类购买转化率比日常高出 3 倍以上。平台试图用 AI 激活搜索之外的沉睡需求，而非仅做关键词匹配。这显示电商 AI 正从推荐算法走向需求发现。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-23T05:56:53+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "AI 漫剧产能翻倍但赚钱变难，阅文推一站式平台",
+   "url": "http://www.geekpark.net/news/372746",
+   "source": "极客公园",
+   "summary": "阅文在创作大会上发布首批 AI 精品动画项目，将 DramaBuddy 漫剧助手升级为 OPC 一站式平台。一线从业者表示，AI 漫剧产能翻了几倍，但营收并未同步增长，行业从风口期进入红海期。制作标准从每分钟 1000 元起步，成本与竞争压力同步上升。",
+   "why": null,
+   "category": "AIGC 应用",
+   "heat": 2,
+   "published": "2026-10-22T08:20:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "中国 AI 球类机器人扎堆出海，多款产品众筹破百万美元",
+   "url": "http://www.geekpark.net/news/372807",
+   "source": "极客公园",
+   "summary": "过去一年至少四款中国团队打造的 AI 球类机器人在 Kickstarter 筹得百万美元级资金，庞伯特超募 26255% 筹得 265 万美元，SwitchBot 的 Acemate 30 天入账 180 万美元。AceiiLab 单台售价约 2000 美元，早鸟价 999 美元，首批量产正在交付。赛道定义仍模糊，硬件只是入场券。",
+   "why": null,
+   "category": "AI 硬件",
+   "heat": 2,
+   "published": "2026-10-23T06:15:58+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "奇安信针对 PHP2Shell 漏洞推出 AI 渗透测试一键速查",
+   "url": "https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html",
+   "source": "雷锋网",
+   "summary": "PHP 被曝两项严重漏洞 CVE-2026-109618 与 CVE-2026-109619，统称 PHP2Shell，可实现无认证远程任意命令执行，潜在影响超百万级资产。奇安信天戟 AI 智能渗透测试系统提供一键速查方案，用户可在授权网站发起渗透测试。事件反映 AI 深度攻防背景下漏洞威胁常态化。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 2,
+   "published": "2026-10-23T03:03:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "奇瑞董事长尹同跃称奇瑞是披着车企马甲的高科技公司",
+   "url": "https://www.leiphone.com/category/transportation/j8cK1UDhub9VuCpu.html",
+   "source": "雷锋网",
+   "summary": "在 2026 奇瑞全球创新大会上，董事长尹同跃表示奇瑞是「披着汽车企业马甲」的高科技创新企业，真正的风险是拒绝 AI、不敢用 AI。报道认为判断奇瑞是否为 AI 公司应看其是否用 AI 重构造车方式并形成可复用底座。这反映传统车企正将 AI 能力从营销话术转向研发与制造流程。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 2,
+   "published": "2026-10-23T08:31:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "SK 海力士取消存储子公司赴美 IPO，向 AI 交易发出警示",
+   "url": "https://www.tmtpost.com/8179887.html",
+   "source": "钛媒体",
+   "summary": "SK 海力士取消其存储子公司赴美 IPO 计划，股价随后反弹。报道称这家内存芯片巨头此举向人工智能交易发出了一个警示信号。存储芯片是 AI 算力供应链的关键环节，IPO 计划变动可能影响市场对 AI 基建投资节奏的预期。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 2,
+   "published": "2026-10-23T13:51:37+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
