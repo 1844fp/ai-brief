@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T07:31:00.635285",
+ "generated_at": "2026-10-24T08:01:12.961641",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 69,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-24",
+   "created_at": "2026-10-24T00:01:12.140010+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-24/news_daily_cn-080112.html"
+  },
   {
    "id": 68,
    "task": "news_daily",
@@ -561,6 +570,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "月之暗面发布 Kimi K3.1 Pro：3 万亿参数、100 万上下文，编程智能体测评超 GPT-6 Astra",
+   "url": "https://www.ithome.com/1/017/284.htm",
+   "source": "IT之家",
+   "summary": "月之暗面正式推出 Kimi K3.1 系列首个模型 K3.1 Pro，参数规模达 3 万亿，支持 100 万上下文，同步上线输出速度约 2~3 倍的 Highspeed 版本。在 Terminal-Bench 4.0 编程智能体测评中得分 65.7%，超过 GPT-6 Astra 的 58.2%，官方称完整权重将于 11 月 4 日前发布。这是国产模型在 Agent 与代码任务上首次公开对标并超越最强闭源模型，开源权重计划也将影响开发者生态格局。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 5,
+   "published": "2026-10-23T23:08:43+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "DeepSeek 近千亿元融资接近收官，结盟完美世界、中芯聚源等产业资本押注具身智能",
+   "url": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD",
+   "source": "InfoQ 中文",
+   "summary": "多家媒体报道 DeepSeek 完成近 1000 亿元融资，宁德时代、腾讯等参与，并结盟完美世界、中芯聚源等产业资本，募资规模较原计划翻倍。资金将重点投向具身智能方向，显示头部大模型公司正从纯模型研发向机器人与实体场景延伸。这一体量刷新国内 AI 单轮融资纪录，也意味着产业资本开始深度绑定基础模型公司。",
+   "why": null,
+   "category": "融资",
+   "heat": 5,
+   "published": "2026-10-23T08:46:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "科大讯飞发布星火 X2.6 大模型，强调全国产算力训练",
+   "url": "https://k.sina.com.cn/article_6246383202_174503e6200101ol10.html?from",
+   "source": "Google News 中文",
+   "summary": "科大讯飞正式发布星火 X2.6 大模型，董事长刘庆峰强调该模型在国产算力上完成训练，并谈及国产算力差距与发展前景。同期讯飞还发布新一代端到端交互模型，语音大模型调用量暴涨 20 倍，端侧已实现约 70% 的云端能力。全国产算力训练旗舰模型对自主可控路线具有标志意义，端云一体方案也指向规模化落地。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 5,
+   "published": "2026-10-23T09:13:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "MiniMax 开源 M3.1 Flash：428B 总参数、23B 激活，上线 72 小时处理超 100 万亿 Token",
+   "url": "https://www.oschina.net/news/503167",
+   "source": "开源中国",
+   "summary": "MiniMax 将 M3.1 Flash 权重开源，规格为 428B 总参数、23B 激活参数，能力较上一代 M3 全面提升。官方称上线 72 小时真实用户处理超过 100 万亿 Token，优化重点在全模型稀疏注意力与量化感知训练等推理效率环节。稀疏激活加开源的组合正在成为国产模型争夺开发者与推理成本优势的主流路径。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 4,
+   "published": "2026-10-23T02:44:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "国办发布首份 AI 就业友好型发展方式意见，系统回应“人往哪儿去”",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7owarQ8pUHwp9RmTWJ6GW3ZFqXa8Fplpd9YL4BhAvR0Pv4bqZvmAng_h9wIKsM0Lrs9ixvA5xDKR0rTOZQOuUP-dDFjT0qg8M8DZ6w17OQDj2u8SCD0JGQgdpIqakaf9ysUzJ8LpjkFaZUrMOu2HLUoIrHy4gOKG13oVYvb0hfBNmlhIY-QmO2cy-L131ieKuGy3QAAKMZl4g6Ebq8fk9diw..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=77A5784C57FA627C72772FFBB62D8901726098A96ADBF503",
+   "source": "微信公众号",
+   "summary": "国务院办公厅公开发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》（国办发〔2026〕29 号），首次从国家层面系统回应 AI 对就业结构的冲击。文件围绕就业友好型发展方式提出政策安排，涉及技能培训、岗位转型与社会保障等方向。这是国内 AI 治理从技术监管延伸到劳动力市场配套的标志性文件。",
+   "why": null,
+   "category": "政策监管",
+   "heat": 5,
+   "published": "2026-10-23T21:31:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "亿铸科技完成 10 亿元以上融资，加速通用存算一体 AI 大算力芯片产业化",
+   "url": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
+   "source": "雷锋网",
+   "summary": "国内首家通用存算一体架构（GP-IMC）AI 大算力芯片公司亿铸科技完成 10 亿元以上融资，资金将用于研发投入、产品迭代与产业化推进。公司坚持“通用存算一体+超异构”路线，围绕 3D DRAM 存算一体布局，产品兼容 CUDA、PyTorch 等主流生态。在 AI 算力需求持续增长背景下，新型存储与计算融合架构正获得资本与产业界双重关注。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-10-23T07:16:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "长鑫科技表态坚定看好 DRAM 中长期前景，LPDDR6 已量产商用",
+   "url": "https://www.ithome.com/1/017/262.htm",
+   "source": "IT之家",
+   "summary": "长鑫科技表示 AI 对数据吞吐的需求仍在迅速增长，DRAM 作为战略性基础设施的地位将进一步强化，对全球和中国 DRAM 产业中长期前景保持坚定信心。公司 LPDDR6 芯片已实现量产商用并首发搭载于小米 18 Fold，前三季度营收预告 2650 亿~2700 亿元，同比预增逾 700%。国产存储在大模型算力配套中的战略地位持续上升。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-10-23T13:27:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "智元发布具身智能作业平台 Genie Studio 2.0，最快 7 天完成新场景部署验证",
+   "url": "https://www.guandian.cn/article/20261023/617591.html",
+   "source": "Google News 中文",
+   "summary": "智元发布具身智能作业平台 Genie Studio 2.0，官方称最快 7 天即可完成新场景的部署验证。平台面向机器人作业场景的快速适配与规模化落地，降低从模型到真实产线的部署周期。具身智能正从单点演示转向可复制的工程化平台，部署效率成为竞争焦点。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-10-23T14:12:45+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "美团外卖发布“妙手外卖版·袋鼠管家”，向全国商家免费提供 AI 店长",
+   "url": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+   "source": "雷锋网",
+   "summary": "美团在 2026 外卖产业大会上发布“妙手外卖版·袋鼠管家”，宣布向全国餐饮商家免费提供一个懂外卖经营的 AI 店长，能力覆盖经营诊断、门店巡检、商品运营与新店运营。此前数万中小商家试用，部分商家周订单量环比上涨超 30%，益禾堂等 200 多家连锁品牌合作后新店首月单店产出提升 25%。这是 AI 智能体在本地生活场景规模化落地的典型案例。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-10-23T02:43:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "蚂蚁数科发布决策模型 LingDT-Decision-1.0，准确率超过微软等同类模型",
+   "url": "https://www.qbitai.com/2026/10/504879.html",
+   "source": "量子位",
+   "summary": "蚂蚁数科正式发布决策模型 LingDT-Decision-1.0，官方称其准确率超过微软及 Jev 等决策模型。该模型面向决策类任务而非通用对话，代表大模型向垂直专业能力分化的趋势。决策模型专用化正在成为企业级 AI 的新赛道。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 3,
+   "published": "2026-10-22T09:07:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "中电信星辰开源意图理解专用模型 Xing4.0-29B-Intent",
+   "url": "https://www.qbitai.com/2026/10/504832.html",
+   "source": "量子位",
+   "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室发布并开源意图理解专用模型 Xing4.0-29B-Intent，强调其既能“做选择题”也能“做填空题”。该模型聚焦意图理解这一智能体与对话系统的关键环节，以专用小模型替代通用大模型完成特定任务。运营商背景团队持续加码开源专用模型，丰富了国产模型生态。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 3,
+   "published": "2026-10-22T07:11:14+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "讯飞发布新一代端到端交互模型，语音大模型调用量暴涨 20 倍",
+   "url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg",
+   "source": "InfoQ 中文",
+   "summary": "讯飞发布新一代端到端交互模型，披露语音大模型调用量暴涨 20 倍，端侧已实现约 70% 的云端能力。端到端架构减少传统语音链路中的多级模块拼接，端侧能力提升则降低对云端的依赖。这与星火 X2.6 的端云一体策略形成配套，指向语音交互的规模化商用。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 3,
+   "published": "2026-10-23T11:39:27+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "信通院人工智能研究所联合中国人工智能产业发展联盟发布大模型词元服务报告",
+   "url": "https://www.guandian.cn/article/20261023/617523.html",
+   "source": "Google News 中文",
+   "summary": "中国信通院人工智能研究所与中国人工智能产业发展联盟联合发布大模型词元（Token）服务报告。报告聚焦词元服务的产业形态、计量方式与市场规范，为快速增长的推理服务市场提供参考框架。随着 Token 消耗量指数级增长，词元服务的标准化与统计口径正成为产业基础设施的一部分。",
+   "why": null,
+   "category": "政策监管",
+   "heat": 3,
+   "published": "2026-10-23T12:13:53+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "阿里千问蒋冠军：构建 Personal Agent 需模型、记忆与生态协同推进",
+   "url": "https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html",
+   "source": "雷锋网",
+   "summary": "在 2026 中国计算机大会上，阿里巴巴千问事业部 AI 算法负责人蒋冠军分享 Personal Agent 技术实践，认为模型、记忆与生态是构建核心能力的三要素。他表示 Personal Agent 解决日常问题的理论上限接近 100%，关键在于系统能力与问题解决路径的匹配。这反映大厂正把智能体竞争从单模型能力转向记忆与生态的系统级整合。",
+   "why": null,
+   "category": "技术趋势",
+   "heat": 3,
+   "published": "2026-10-23T07:38:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "智源众智 FlagOS 2.2 发布，推动前沿模型与多元算力协同演进",
+   "url": "https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs",
+   "source": "InfoQ 中文",
+   "summary": "智源众智 FlagOS 2.2 发布，聚焦前沿模型与多元算力之间的协同适配。该开源软件栈旨在降低模型在不同国产芯片上的迁移与运行成本，是国产算力生态中少见的跨硬件协同项目。在芯片供给多元化的背景下，软件栈的统一适配能力愈发关键。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-23T19:40:29+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "StartLux 开源决策模型推理引擎 Prism，单卡最高提速 5.3 倍",
+   "url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO",
+   "source": "InfoQ 中文",
+   "summary": "StartLux 开源面向决策模型的专用推理引擎 Prism，单卡最高提速 5.3 倍。该引擎针对决策模型的推理特征做专门优化，而非沿用通用大模型推理框架。决策模型专用推理引擎的出现，说明垂直模型正在形成配套的工程栈。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-10-23T12:03:49+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "海康机器人发布“明智”系列单体智能产品与箱式存拣全链路方案",
+   "url": "https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html",
+   "source": "雷锋网",
+   "summary": "海康机器人举办 2026 移动机器人新品发布会，聚焦“存、拣、运”全流程，发布箱式方案升级并推出“明智”系列单体智能产品。方案通过 STU 料箱机器人与 T50 潜伏机器人分工，使任务链距离缩短 50% 以上。公司称以 AI 为全业务基座，已在 1000 余个细分应用场景落地。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-23T10:15:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "InfoQ：AI Agent 正在改写 CPU 价值，算力竞争不再只拼 GPU",
+   "url": "https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 刊文指出，随着 AI Agent 把 Token 转化为实际行动，CPU 在调度、工具调用与环境交互中的价值被重新评估，算力竞争不再只围绕 GPU。文章认为智能体负载对通用计算与内存带宽提出新要求，系统级配比将影响推理成本。这一判断对算力采购与芯片设计方向具有参考意义。",
+   "why": null,
+   "category": "技术趋势",
+   "heat": 3,
+   "published": "2026-10-23T17:53:09+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
