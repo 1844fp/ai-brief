@@ -3,7 +3,295 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 24 Oct 2026 08:01:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 08:14:01 +0000</lastBuildDate>
+  <item>
+    <title>月之暗面发布新一代开源大模型 Kimi K3.1 Pro</title>
+    <link>https://finance.sina.cn/stock/jdts/2026-10-25/detail-iniwmany0020873.d.html?oid</link>
+    <guid isPermaLink="false">72-1</guid>
+    <pubDate>Sun, 25 Oct 2026 07:07:30 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>月之暗面发布 Kimi K3.1 Pro，在编程与金融复杂投研能力上明显提升，Terminal-Bench 4.0 取得 65.7 分，多家媒体称其终结了中国大模型数月的空窗期。该模型同步公布 Agent、缓存与计费方案，主打高性能与低价格比。这意味着国产开源旗舰重新回到与海外闭源模型正面竞争的节奏。</description>
+  </item>
+  <item>
+    <title>MiniMax 公开 M3.1 Flash 完整权重，总参数 4280 亿</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemFKrbL5dm5WBAHgdH-3ByCFqXa8Fplpd9Gtyw07gwnXcXxQ07l_rziriRyYZIQveqbPgKX_Q50--g5drn0-M88n-UJpd6_wSDKJ0o66Qap6_00tA_UR95EHPigsCQBNUfd2oN0-GXA4ngIzeHuiVupSR2oTQaXZdmDg04pa6-mtCVfrlAVVAv9vB2KSZ7dqnfWkj3myYbdMPP28temKTOwg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=8F0EFACDDF70E8F4FAFDA548D44D20A2FB8867236ADE9AF9</link>
+    <guid isPermaLink="false">72-2</guid>
+    <pubDate>Sun, 25 Oct 2026 16:59:46 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>MiniMax 于 10 月 23 日公开 M3.1 Flash 模型权重，总参数 4280 亿，采用混合专家架构，每次仅激活 230 亿参数。这是国产大模型又一次完整开放权重，延续了近期开源加速的趋势。稀疏激活设计在保持推理成本可控的同时抬高了能力上限，对开源社区与中小企业部署意义较大。</description>
+  </item>
+  <item>
+    <title>海淀发布新一代 3 万亿级开源大模型，规模继续居全球最大</title>
+    <link>https://m.sohu.com/a/1092547268_163278?scm</link>
+    <guid isPermaLink="false">72-3</guid>
+    <pubDate>Sun, 25 Oct 2026 10:38:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>海淀发布新一代 3 万亿级开源大模型，参数规模继续位居全球开源模型前列。该模型由区域创新体系推动，体现北京在开源大模型上的集中投入。超大规模开源模型的出现，将进一步拉动国产算力与推理优化需求。</description>
+  </item>
+  <item>
+    <title>国产 5B 生图模型 MOSS-Image 海外爆火，4 天下载 130 万</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemFKrbL5dm5WBAHgdH-3ByCFqXa8Fplpd9HPQRWzmAcHeHaI70FxsDAhGCjQ2CV0JQ3nG4AO98JyVMumT4S2BZRPGOFsjo1MYNt54nlW4Qy9meUMn59Ou2jGSbhSSggq4C_dYwVKNb57pWRfyD9rHkHEVUezIxD3-uc-O7UJlGWS4wx8rpLNhrZfn7j09dxkeIsCVcgyAT5XfFcvUoAZZH7Q..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=8F0EFACDDF70E8F4FAFDA548D44D20A2FB8867236ADE9AF9</link>
+    <guid isPermaLink="false">72-4</guid>
+    <pubDate>Sun, 25 Oct 2026 16:12:41 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>国产 5B 参数生图模型 MOSS-Image 开源后海外走红，4 天内下载量达 130 万，ComfyUI 社区主动为其制作加速版与 LoRA。该模型主打去除「AI 味」，在生成质感上获得社区认可。小参数模型在海外开发者生态中快速扩散，说明国产开源在图像生成领域已具备社区号召力。</description>
+  </item>
+  <item>
+    <title>十五五规划定调科技主线：AI 芯片与算力网成国家战略核心</title>
+    <link>https://finance.sina.com.cn/wm/2026-10-25/doc-iniwncyp6164752.shtml</link>
+    <guid isPermaLink="false">72-5</guid>
+    <pubDate>Sun, 25 Oct 2026 13:07:53 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>十五五规划将 AI 芯片与算力网列为国家战略核心，明确科技主线的中长期方向。规划层面的定调意味着算力基础设施与自主芯片将继续获得政策与资源倾斜。对国内 AI 产业链而言，这是未来五年投入节奏与国产替代路径的关键指引。</description>
+  </item>
+  <item>
+    <title>燧原科技登陆 A 股，科创板补强 DSA 架构算力拼图</title>
+    <link>https://www.cls.cn/detail/2480563</link>
+    <guid isPermaLink="false">72-6</guid>
+    <pubDate>Sun, 25 Oct 2026 14:02:21 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>燧原科技正式登陆 A 股科创板，成为国产 AI 芯片领域又一家上市公司，主打 DSA 架构算力产品。上市补强了科创板在 AI 算力芯片上的板块拼图，也为国产芯片企业提供了直接融资通道。在算力自主化背景下，二级市场对国产 AI 芯片的定价与期待同步升温。</description>
+  </item>
+  <item>
+    <title>科大讯飞发布星火智慧座舱 3.0 及星火汽车大模型</title>
+    <link>http://www.news18a.com/news/storys_308198.html</link>
+    <guid isPermaLink="false">72-7</guid>
+    <pubDate>Sun, 25 Oct 2026 23:05:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>科大讯飞发布星火智慧座舱 3.0 与星火汽车大模型，推动车载交互从信息应答向服务履约延伸。同期支付宝车载助手接入该座舱，双方启动「讯宝计划」，落地高速无感通行、停车无感支付、顺路取快递、智能点单等场景。汽车座舱正成为大模型智能体落地的高频入口。</description>
+  </item>
+  <item>
+    <title>阿里千问发布个人 AI 智能体三大核心要素</title>
+    <link>https://www.donews.com/news/detail/8/6752919.html</link>
+    <guid isPermaLink="false">72-8</guid>
+    <pubDate>Sun, 25 Oct 2026 10:46:03 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>阿里千问发布个人 AI 智能体的三大核心要素，明确其在个人智能体方向的产品框架。这是国内大厂在云端个人智能体赛道上的又一次明确布局，与近期 Anthropic 等海外厂商的动作形成呼应。个人智能体被视为大模型从工具走向常驻助手的关键形态。</description>
+  </item>
+  <item>
+    <title>讯飞星火医疗大模型 V3.7 升级，AI 患者管理 3.0 发布</title>
+    <link>http://m.eeo.com.cn/2026/1025/1075108.shtml</link>
+    <guid isPermaLink="false">72-9</guid>
+    <pubDate>Sun, 25 Oct 2026 02:50:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>讯飞星火医疗大模型升级至 V3.7，同步发布 AI 患者管理 3.0，并启动相关行业标准共建。医疗大模型从单点问答走向患者全流程管理，标准共建则有助于解决落地中的合规与评价问题。这是大模型在严肃医疗场景中少见的体系化推进。</description>
+  </item>
+  <item>
+    <title>百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵与健康相机</title>
+    <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
+    <guid isPermaLink="false">72-10</guid>
+    <pubDate>Sat, 24 Oct 2026 08:37:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>百度健康宣布其 AI 服务月活超过 5000 万，行业第一，并升级文心健康管家，发布「好医矩阵」与「健康相机」。健康相机支持视频拍摄、边拍边说等多模态输入，降低用户描述健康问题的门槛。百度健康强调「AI+真人」模式，由医生掌握诊疗决定权，走赋能而非替代路线。</description>
+  </item>
+  <item>
+    <title>政策发文减缓人工智能应用对就业的替代影响</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemI837JgbATOFAHgdH-3ByCFqXa8Fplpd9V2ySDWgdDOcz-QOfjyZCLywwmntc-qSKTAeq4u4bJ5oHEuJRHBadCRikyieQfMmusx9GQuAP12tatxR3PwpI4DH2fwtcbVXucU71Yzv6fL44XoEtJPctFvyWY5bsPNdoyujkd5r1dLuRQkyRS-3p440X1vfl4rdZvy84Zfa2AkI89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=8F0EAC3CDF70E8F4FAFDA548D44D20A2FB8867236ADE9AF1</link>
+    <guid isPermaLink="false">72-11</guid>
+    <pubDate>Sun, 25 Oct 2026 15:29:37 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>10 月 23 日发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，明确提出减缓 AI 应用带来的就业替代影响。文件将 AI 发展与就业友好型社会建设并列，意味着监管开始关注技术扩散的社会成本。这对企业部署 AI 时的用工安排与合规提出新的考量。</description>
+  </item>
+  <item>
+    <title>DeepSeek、MiniMax 完成大模型出海登记</title>
+    <link>https://www.mrjjxw.com/articles/2026-10-26/4617042.html</link>
+    <guid isPermaLink="false">72-12</guid>
+    <pubDate>Sun, 25 Oct 2026 23:48:44 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>DeepSeek 与 MiniMax 完成大模型出海登记，意味着国产大模型在合规框架下推进海外业务。出海登记涉及模型备案与跨境服务合规，是国产模型进入海外市场的前置环节。两家头部厂商完成登记，为国产模型国际化提供了可参照的路径。</description>
+  </item>
+  <item>
+    <title>AI 行情连跌四周：业绩爆表却杀估值，ETF 净流入近 700 亿</title>
+    <link>https://www.tmtpost.com/8179663.html</link>
+    <guid isPermaLink="false">72-13</guid>
+    <pubDate>Sun, 25 Oct 2026 03:10:00 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>AI 板块连跌四周，部分公司单季净赚 212 亿元、两天却跌去近 15%，同期股票型 ETF 净流入近 700 亿元。市场分析认为这轮调整杀的是估值而非业绩，AI 交易拥挤度与预期透支是主因。算力与芯片股的高估值正在接受重新定价。</description>
+  </item>
+  <item>
+    <title>AI 芯片遭进一步抛售，业绩超预期也难提振股价</title>
+    <link>https://www.moomoo.com/hans/community/discuss?discussion_id</link>
+    <guid isPermaLink="false">72-14</guid>
+    <pubDate>Sun, 25 Oct 2026 19:04:04 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>AI 芯片板块遭遇进一步抛售，即便部分公司业绩超出预期，股价仍未获得支撑。这与近期全球 AI 交易降温、数据中心开工不及预期等担忧相互叠加。芯片作为 AI 行情最拥挤的赛道，正在经历估值与预期的双重修正。</description>
+  </item>
+  <item>
+    <title>长沙造出国内首款 12 英寸多晶碳化硅衬底，破解大功率芯片散热痛点</title>
+    <link>https://hunan.voc.com.cn/news/202610/34083558.html</link>
+    <guid isPermaLink="false">72-15</guid>
+    <pubDate>Sun, 25 Oct 2026 22:57:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>长沙研发出国内首款 12 英寸多晶碳化硅衬底，针对大功率芯片的散热痛点。碳化硅衬底是功率器件与高散热场景的关键材料，12 英寸规格有助于提升单片产出、降低成本。这一突破对 AI 算力设备与功率半导体的国产材料供应链具有补链意义。</description>
+  </item>
+  <item>
+    <title>首程控股旗下基金投资辉羲智能，加速机器人全机算力平台落地</title>
+    <link>https://wap.eastmoney.com/a/202610263907416054.html</link>
+    <guid isPermaLink="false">72-16</guid>
+    <pubDate>Sun, 25 Oct 2026 23:14:04 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>首程控股宣布旗下基金投资辉羲智能，推动机器人全机算力平台落地。辉羲智能聚焦具身智能所需的车规级与机器人算力芯片，本轮融资将加速产品化。具身智能的算力平台正成为芯片与机器人两条产业链的交汇点。</description>
+  </item>
+  <item>
+    <title>Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是「AI 垃圾」</title>
+    <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB</link>
+    <guid isPermaLink="false">72-17</guid>
+    <pubDate>Sun, 25 Oct 2026 10:30:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>Linux 基金会发布报告称，AI 辅助写代码使开发速度提升 52%，但开源项目中约四分之一的 PR 属于低质量「AI 垃圾」，维护者负担反而加重。报告揭示了 AI 编程工具在效率与代码质量之间的失衡。对开源社区与工程团队而言，AI 生成内容的审核成本正成为新的瓶颈。</description>
+  </item>
+  <item>
+    <title>支付宝 AI 支付发起年度黑客松，20 万元奖池推动 AI 创意商业化</title>
+    <link>https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html</link>
+    <guid isPermaLink="false">72-18</guid>
+    <pubDate>Sat, 24 Oct 2026 08:49:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>支付宝 AI 支付联合观猹发起「PAYATHON 2026」年度黑客松，设置应用、技能两大主赛道及 Token Pay、Machine Pay、Agent Pay 等方向，总奖池 20 万元。大赛面向个人开发者与团队，要求作品接入支付并接受真实交易检验。这是支付平台降低 AI 产品商业化门槛、争夺开发者生态的具体动作。</description>
+  </item>
+  <item>
+    <title>Kimi K3.1 泄露：3D 生成成本仅为 GPT-6 Astra 的 1/14，视觉能力对标海外三巨头</title>
+    <link>https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html</link>
+    <guid isPermaLink="false">71-1</guid>
+    <pubDate>Fri, 23 Oct 2026 10:57:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>Kimi 官方先导片暗示 K3.1 即将发布，实测显示其在 Three.js 上可 15 分钟生成工业级可交互 3D 资产，成本仅为 K3 的 70%、GPT-6 Astra 的 1/14。该模型在视觉与 3D 生成任务上表现突出，Token 效率全面升级，被视为国产模型在视觉赛道的重要突破。</description>
+  </item>
+  <item>
+    <title>三万亿参数国产大模型宣布开源，完整权重 11 月初开放下载</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemHMjexCn8PYfzDcrSD_hwjVqXa8Fplpd9YI9txRLkI3Rh17QQ62siOIwThL-ZKjD6rNmFF1ez1t8t9NZUGBrT4J213K99icJiPG5ZGEz8ygAsRiGvIrkfJkYE8BFm-wP_yyWeJ5wmqoG34ITCJujxYffdM6dCQ9TSURbDmqkMdzB0YX4NFaLFSMf46p-KeBnUR3xIBC06WS-jotuuiAmOIg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=861F0F91297EEC4562673CC666B5303962AB8B496ADD9C81</link>
+    <guid isPermaLink="false">71-2</guid>
+    <pubDate>Sun, 25 Oct 2026 03:31:06 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>某国产三万亿参数大模型在第三方测评中获 55 分、排名全球第四，代码能力突出，并宣布 11 月初开放完整模型权重供任何人下载。这将是国产开源模型在参数规模上的新纪录，可能推动开源生态与下游应用加速。</description>
+  </item>
+  <item>
+    <title>MiniMax 开源 428B 模型，推理成本降低 70%</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemm5-VUfpE2TPzDcrSD_hwjVqXa8Fplpd9JNPm2xqOnYybtMY6R7kxMYokhpgYzN-AQDRDJEXjXOX4EOroLtLqozdbgAb-E1eKLQu7ebqkdcQR0Dk32O789Sm0hHacNvc7XoG2VuoTG8cl59WbJk3MEQM_rmIQNxj7068EhE6QqSMmgSl9YTCG80dCW0gr8hDy0pARGn5bURf0OK9DLfgmPA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=861EC2FE297EEC4562673CC666B5303962AB8B496ADD9C78</link>
+    <guid isPermaLink="false">71-3</guid>
+    <pubDate>Sun, 25 Oct 2026 03:30:32 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>MiniMax 开源 428B 参数模型，官方称推理成本下降 70%，同时英伟达加码物理 AI 方向。该模型在开源社区引发关注，被视为国产模型在效率与规模平衡上的重要尝试。</description>
+  </item>
+  <item>
+    <title>10 月国产大模型盘点：Kimi K3.1 Pro、DeepSeek V4.1-Flash、MiniMax M3.1 Flash 密集发布</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemHMjexCn8PYfzDcrSD_hwjVqXa8Fplpd9cQnSX6XnGoV_Ucq5vThO9HhvBE5ghjJVGoXN_ydk7NXwHSZlwuT2aWR10xRwZAYY4SvfxL4ua4n2XQNiFXRnD7RmRoQpUKDaUw5aJ3UTcrWOh3a_psekYVbOaat7obqW66BM5dKHRLlqnEzQYJFbC9mUhHDEoR3dPNHNM0DbdX3wdVqCwyPdzA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=861F0F91297EEC4562673CC666B5303962AB8B496ADD9C81</link>
+    <guid isPermaLink="false">71-4</guid>
+    <pubDate>Sat, 24 Oct 2026 08:40:25 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>10 月国产大模型密集更新，Kimi K3.1 Pro、DeepSeek V4.1-Flash-1017、MiniMax M3.1 Flash 前后脚发布，覆盖视觉、推理与轻量场景。多家媒体横评显示国产模型在能力与成本上持续逼近海外头部产品。</description>
+  </item>
+  <item>
+    <title>国产模型连发、推理成本下探，AI 技术出口列管征求意见落地</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemHMjexCn8PYfzDcrSD_hwjVqXa8Fplpd90zo7iiVgwu52cRe1JRKoVFVMQGyBVjM3iypwe_wKpXJpMdPMaAbxu9WRiFqPfyhv_9upyHEu7BL1_X6hHFxDYZsIG5WHMdySjcMiS0sTfoa_k8rPzyt2nEC9_UNCLA-WjXMSO-tUwR2YtLSCCb1qQwxzvNLRAM-2bHm-WNG2zXL6zvkPgoArRQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=861F0F91297EEC4562673CC666B5303962AB8B496ADD9C81</link>
+    <guid isPermaLink="false">71-5</guid>
+    <pubDate>Sun, 25 Oct 2026 03:31:36 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>10 月 22 日至 25 日，国产大模型与推理框架集中披露，算力侧推理降价明确，监管侧 AI 技术出口列管征求意见落地。模型能力、算力成本与监管政策三条主线同步推进，为规模化应用提供基础。</description>
+  </item>
+  <item>
+    <title>宇树科技发布新款人形机器人，可踢凹车门、徒手抬汽车</title>
+    <link>https://k.sina.com.cn/article_7879923946_m1d5ae18ea03303y1ic.html</link>
+    <guid isPermaLink="false">71-6</guid>
+    <pubDate>Sat, 24 Oct 2026 13:47:52 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>宇树科技发布新款人形机器人，演示中可一脚踢凹车门、徒手抬汽车，展示出较强的力量与运动控制能力。该产品延续宇树在低成本高性能人形机器人上的路线，引发对具身智能落地场景的讨论。</description>
+  </item>
+  <item>
+    <title>云深处科技密集发布具身大脑系列成果，贯通具身智能全技术链路</title>
+    <link>https://m.zhidx.com/p/604420.html</link>
+    <guid isPermaLink="false">71-7</guid>
+    <pubDate>Sat, 24 Oct 2026 14:41:29 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>云深处科技集中发布五项具身智能研究成果，覆盖感知、决策与控制等全技术链路，强调“具身大脑”的系统性能力。多家媒体报道称其试图打通从硬件到算法的闭环。</description>
+  </item>
+  <item>
+    <title>百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵与健康相机</title>
+    <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
+    <guid isPermaLink="false">71-8</guid>
+    <pubDate>Sat, 24 Oct 2026 08:37:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>百度健康宣布文心健康管家升级，AI 服务月活超 5000 万，行业第一，并发布“好医矩阵”和全网首发的健康相机，支持视频、语音、拍照等多模态输入。该模式强调 AI+真人医生闭环，诊疗决定权仍归医生。</description>
+  </item>
+  <item>
+    <title>支付宝携手科大讯飞升级智能座舱，启动“讯宝计划”</title>
+    <link>https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html</link>
+    <guid isPermaLink="false">71-9</guid>
+    <pubDate>Sat, 24 Oct 2026 08:43:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>支付宝车载助手与讯飞星火智慧座舱战略合作升级，启动“讯宝计划”，推出高速无感通行、停车无感支付、顺路取快递、智能点单四大场景。双方希望让智能座舱从信息交互延伸至生活服务履约。</description>
+  </item>
+  <item>
+    <title>国产 5B 生图模型海外走红，4 天下载超百万</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemHMjexCn8PYfzDcrSD_hwjVqXa8Fplpd9VgB5Dsk_sYriOC7jyZbkyAqG1d8D1370cfKTjezRXaWPIWxNROe1KG3wMAPNCYbuHP4iGpUbs1Gpeywu1vWXIf1vOSdgi-qPJislzIrvQgDnK9pP-pjRk_hpKp3SH7hV2BGFDHSHuGosr923GnWjauTtb0D3iH7MhWxbpt3VBz85eBgmN3LoYQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=861F0F91297EEC4562673CC666B5303962AB8B496ADD9C81</link>
+    <guid isPermaLink="false">71-10</guid>
+    <pubDate>Sun, 25 Oct 2026 02:20:25 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>一款国产 5B 参数生图模型在海外迅速走红，4 天下载量超百万，主打“去 AI 味”以提升生成真实感。该模型以轻量参数实现较高生成质量，显示国产模型出海正从价格优势转向体验差异。</description>
+  </item>
+  <item>
+    <title>亚马逊 CEO：AWS 算力到 2027 年基本售罄，部分订单锁定至 2028 年</title>
+    <link>https://www.ithome.com/1/017/549.htm</link>
+    <guid isPermaLink="false">71-11</guid>
+    <pubDate>Sun, 25 Oct 2026 01:37:07 +0000</pubDate>
+    <source>IT之家</source>
+    <description>亚马逊 CEO 贾西表示，受 AI 基础设施需求推动，AWS 云计算容量到 2027 年基本售罄，大量长期算力订单已锁定至 2028 年。公司 2026 年资本开支计划约 2200 亿美元，并称继续加码并非低效。</description>
+  </item>
+  <item>
+    <title>Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是“AI 垃圾”</title>
+    <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB</link>
+    <guid isPermaLink="false">71-12</guid>
+    <pubDate>Sun, 25 Oct 2026 10:30:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>Linux 基金会报告指出，AI 辅助编码使开发速度提升 52%，但开源项目中约四分之一 PR 为低质量“AI 垃圾”，维护者负担反而加重。报告提醒 AI 生成代码的治理与审核成本被低估。</description>
+  </item>
+  <item>
+    <title>红熊 AI 完成数亿元 A+ 轮融资，基于“记忆科学”从 To B 延伸至 To C</title>
+    <link>https://m.36kr.com/p/3899612612494976</link>
+    <guid isPermaLink="false">71-13</guid>
+    <pubDate>Sun, 25 Oct 2026 04:53:08 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>红熊 AI 完成数亿元 A+ 轮融资，基于 AI“记忆科学”技术从企业服务延伸至消费者应用。资金将用于产品研发与市场拓展，显示记忆机制成为 AI 应用差异化的新方向。</description>
+  </item>
+  <item>
+    <title>支付宝 AI 支付发起年度黑客松，设五大赛道探索 Agent 付费</title>
+    <link>https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html</link>
+    <guid isPermaLink="false">71-14</guid>
+    <pubDate>Sat, 24 Oct 2026 08:49:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>支付宝 AI 支付联合观猹发起“PAYATHON 2026”年度黑客松，设应用、技能、Token Pay、Machine Pay、Agent Pay 五大赛道，总奖池 20 万元。活动旨在降低 AI 产品商业化门槛，推动开发者将创意变成可付费生意。</description>
+  </item>
+  <item>
+    <title>首个汽车行业 AI 基座在京发布</title>
+    <link>https://www.bj.chinanews.com.cn/news/2026/1024/103823.html</link>
+    <guid isPermaLink="false">71-15</guid>
+    <pubDate>Sat, 24 Oct 2026 01:20:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>首个汽车行业 AI 基座在北京发布，旨在为车企提供统一的 AI 能力底座，覆盖研发、制造与服务等环节。该基座由行业机构联合推出，强调标准化与可复用。</description>
+  </item>
+  <item>
+    <title>声网 CEO 赵斌提出“五级对话能力”框架，勾勒对话式 AI 迈向 AGI 路径</title>
+    <link>https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html</link>
+    <guid isPermaLink="false">71-16</guid>
+    <pubDate>Sat, 24 Oct 2026 02:44:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>在 iRTE2026 实时智能大会上，声网 CEO 赵斌提出“五级对话能力”框架，从基础应答到深度理解与关系沟通，划分对话式 AI 演进路径。他认为实时互动对象正从人扩展到 Agent，基础设施需支撑感知、理解与行动。</description>
+  </item>
+  <item>
+    <title>钛动科技发布营销智能体 Navos Pro，接入出海营销流程</title>
+    <link>https://finance.sina.com.cn/stock/t/2026-10-24/doc-iniwiqmk4715705.shtml</link>
+    <guid isPermaLink="false">71-17</guid>
+    <pubDate>Sat, 24 Oct 2026 11:09:11 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>钛动科技发布行业首个 Pro-Agent 营销智能体 Navos Pro，以 Professional、Proactive、Profitable 为核心，强调结果导向的 AI for Work。该产品尝试把 AI 接入出海营销全流程，以真实业务指标验证价值。</description>
+  </item>
+  <item>
+    <title>极飞科技：希望让每个农民都有自己的机器人，农业无人机走向全自动</title>
+    <link>https://www.ithome.com/1/017/552.htm</link>
+    <guid isPermaLink="false">71-18</guid>
+    <pubDate>Sun, 25 Oct 2026 01:58:35 +0000</pubDate>
+    <source>IT之家</source>
+    <description>软银投资的极飞科技表示，希望让每个农民都有自己的机器人，其无需飞手操控的植保无人机可自动清洗、充电和补充药液。公司称劳动力短缺与老龄化是农业自动化核心驱动力，按营收为全球第二大农业无人机制造商。</description>
+  </item>
   <item>
     <title>月之暗面发布 Kimi K3.1 Pro，3 万亿参数、100 万上下文</title>
     <link>https://www.ithome.com/1/017/291.htm</link>
@@ -195,293 +483,5 @@
     <pubDate>Fri, 23 Oct 2026 02:44:55 +0000</pubDate>
     <source>开源中国</source>
     <description>MiniMax 将 M3.1 Flash 权重开源，规格为 428B 总参数、23B 激活参数，能力较上一代 M3 全面提升。官方称上线 72 小时真实用户处理超过 100 万亿 Token，优化重点在全模型稀疏注意力与量化感知训练等推理效率环节。稀疏激活加开源的组合正在成为国产模型争夺开发者与推理成本优势的主流路径。</description>
-  </item>
-  <item>
-    <title>国办发布首份 AI 就业友好型发展方式意见，系统回应“人往哪儿去”</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxyYmItiLO7owarQ8pUHwp9RmTWJ6GW3ZFqXa8Fplpd9YL4BhAvR0Pv4bqZvmAng_h9wIKsM0Lrs9ixvA5xDKR0rTOZQOuUP-dDFjT0qg8M8DZ6w17OQDj2u8SCD0JGQgdpIqakaf9ysUzJ8LpjkFaZUrMOu2HLUoIrHy4gOKG13oVYvb0hfBNmlhIY-QmO2cy-L131ieKuGy3QAAKMZl4g6Ebq8fk9diw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=77A5784C57FA627C72772FFBB62D8901726098A96ADBF503</link>
-    <guid isPermaLink="false">69-5</guid>
-    <pubDate>Fri, 23 Oct 2026 21:31:12 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>国务院办公厅公开发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》（国办发〔2026〕29 号），首次从国家层面系统回应 AI 对就业结构的冲击。文件围绕就业友好型发展方式提出政策安排，涉及技能培训、岗位转型与社会保障等方向。这是国内 AI 治理从技术监管延伸到劳动力市场配套的标志性文件。</description>
-  </item>
-  <item>
-    <title>亿铸科技完成 10 亿元以上融资，加速通用存算一体 AI 大算力芯片产业化</title>
-    <link>https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html</link>
-    <guid isPermaLink="false">69-6</guid>
-    <pubDate>Fri, 23 Oct 2026 07:16:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>国内首家通用存算一体架构（GP-IMC）AI 大算力芯片公司亿铸科技完成 10 亿元以上融资，资金将用于研发投入、产品迭代与产业化推进。公司坚持“通用存算一体+超异构”路线，围绕 3D DRAM 存算一体布局，产品兼容 CUDA、PyTorch 等主流生态。在 AI 算力需求持续增长背景下，新型存储与计算融合架构正获得资本与产业界双重关注。</description>
-  </item>
-  <item>
-    <title>长鑫科技表态坚定看好 DRAM 中长期前景，LPDDR6 已量产商用</title>
-    <link>https://www.ithome.com/1/017/262.htm</link>
-    <guid isPermaLink="false">69-7</guid>
-    <pubDate>Fri, 23 Oct 2026 13:27:18 +0000</pubDate>
-    <source>IT之家</source>
-    <description>长鑫科技表示 AI 对数据吞吐的需求仍在迅速增长，DRAM 作为战略性基础设施的地位将进一步强化，对全球和中国 DRAM 产业中长期前景保持坚定信心。公司 LPDDR6 芯片已实现量产商用并首发搭载于小米 18 Fold，前三季度营收预告 2650 亿~2700 亿元，同比预增逾 700%。国产存储在大模型算力配套中的战略地位持续上升。</description>
-  </item>
-  <item>
-    <title>智元发布具身智能作业平台 Genie Studio 2.0，最快 7 天完成新场景部署验证</title>
-    <link>https://www.guandian.cn/article/20261023/617591.html</link>
-    <guid isPermaLink="false">69-8</guid>
-    <pubDate>Fri, 23 Oct 2026 14:12:45 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>智元发布具身智能作业平台 Genie Studio 2.0，官方称最快 7 天即可完成新场景的部署验证。平台面向机器人作业场景的快速适配与规模化落地，降低从模型到真实产线的部署周期。具身智能正从单点演示转向可复制的工程化平台，部署效率成为竞争焦点。</description>
-  </item>
-  <item>
-    <title>美团外卖发布“妙手外卖版·袋鼠管家”，向全国商家免费提供 AI 店长</title>
-    <link>https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html</link>
-    <guid isPermaLink="false">69-9</guid>
-    <pubDate>Fri, 23 Oct 2026 02:43:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>美团在 2026 外卖产业大会上发布“妙手外卖版·袋鼠管家”，宣布向全国餐饮商家免费提供一个懂外卖经营的 AI 店长，能力覆盖经营诊断、门店巡检、商品运营与新店运营。此前数万中小商家试用，部分商家周订单量环比上涨超 30%，益禾堂等 200 多家连锁品牌合作后新店首月单店产出提升 25%。这是 AI 智能体在本地生活场景规模化落地的典型案例。</description>
-  </item>
-  <item>
-    <title>蚂蚁数科发布决策模型 LingDT-Decision-1.0，准确率超过微软等同类模型</title>
-    <link>https://www.qbitai.com/2026/10/504879.html</link>
-    <guid isPermaLink="false">69-10</guid>
-    <pubDate>Thu, 22 Oct 2026 09:07:05 +0000</pubDate>
-    <source>量子位</source>
-    <description>蚂蚁数科正式发布决策模型 LingDT-Decision-1.0，官方称其准确率超过微软及 Jev 等决策模型。该模型面向决策类任务而非通用对话，代表大模型向垂直专业能力分化的趋势。决策模型专用化正在成为企业级 AI 的新赛道。</description>
-  </item>
-  <item>
-    <title>中电信星辰开源意图理解专用模型 Xing4.0-29B-Intent</title>
-    <link>https://www.qbitai.com/2026/10/504832.html</link>
-    <guid isPermaLink="false">69-11</guid>
-    <pubDate>Thu, 22 Oct 2026 07:11:14 +0000</pubDate>
-    <source>量子位</source>
-    <description>中电信人工智能科技有限公司星辰通用人工智能实验室发布并开源意图理解专用模型 Xing4.0-29B-Intent，强调其既能“做选择题”也能“做填空题”。该模型聚焦意图理解这一智能体与对话系统的关键环节，以专用小模型替代通用大模型完成特定任务。运营商背景团队持续加码开源专用模型，丰富了国产模型生态。</description>
-  </item>
-  <item>
-    <title>讯飞发布新一代端到端交互模型，语音大模型调用量暴涨 20 倍</title>
-    <link>https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg</link>
-    <guid isPermaLink="false">69-12</guid>
-    <pubDate>Fri, 23 Oct 2026 11:39:27 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>讯飞发布新一代端到端交互模型，披露语音大模型调用量暴涨 20 倍，端侧已实现约 70% 的云端能力。端到端架构减少传统语音链路中的多级模块拼接，端侧能力提升则降低对云端的依赖。这与星火 X2.6 的端云一体策略形成配套，指向语音交互的规模化商用。</description>
-  </item>
-  <item>
-    <title>信通院人工智能研究所联合中国人工智能产业发展联盟发布大模型词元服务报告</title>
-    <link>https://www.guandian.cn/article/20261023/617523.html</link>
-    <guid isPermaLink="false">69-13</guid>
-    <pubDate>Fri, 23 Oct 2026 12:13:53 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>中国信通院人工智能研究所与中国人工智能产业发展联盟联合发布大模型词元（Token）服务报告。报告聚焦词元服务的产业形态、计量方式与市场规范，为快速增长的推理服务市场提供参考框架。随着 Token 消耗量指数级增长，词元服务的标准化与统计口径正成为产业基础设施的一部分。</description>
-  </item>
-  <item>
-    <title>阿里千问蒋冠军：构建 Personal Agent 需模型、记忆与生态协同推进</title>
-    <link>https://www.leiphone.com/category/industrynews/DHR4Qc9YwHX7lin8.html</link>
-    <guid isPermaLink="false">69-14</guid>
-    <pubDate>Fri, 23 Oct 2026 07:38:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>在 2026 中国计算机大会上，阿里巴巴千问事业部 AI 算法负责人蒋冠军分享 Personal Agent 技术实践，认为模型、记忆与生态是构建核心能力的三要素。他表示 Personal Agent 解决日常问题的理论上限接近 100%，关键在于系统能力与问题解决路径的匹配。这反映大厂正把智能体竞争从单模型能力转向记忆与生态的系统级整合。</description>
-  </item>
-  <item>
-    <title>智源众智 FlagOS 2.2 发布，推动前沿模型与多元算力协同演进</title>
-    <link>https://www.infoq.cn/article/mhdJwMMzYFedMFHKfHWs</link>
-    <guid isPermaLink="false">69-15</guid>
-    <pubDate>Fri, 23 Oct 2026 19:40:29 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>智源众智 FlagOS 2.2 发布，聚焦前沿模型与多元算力之间的协同适配。该开源软件栈旨在降低模型在不同国产芯片上的迁移与运行成本，是国产算力生态中少见的跨硬件协同项目。在芯片供给多元化的背景下，软件栈的统一适配能力愈发关键。</description>
-  </item>
-  <item>
-    <title>StartLux 开源决策模型推理引擎 Prism，单卡最高提速 5.3 倍</title>
-    <link>https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO</link>
-    <guid isPermaLink="false">69-16</guid>
-    <pubDate>Fri, 23 Oct 2026 12:03:49 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>StartLux 开源面向决策模型的专用推理引擎 Prism，单卡最高提速 5.3 倍。该引擎针对决策模型的推理特征做专门优化，而非沿用通用大模型推理框架。决策模型专用推理引擎的出现，说明垂直模型正在形成配套的工程栈。</description>
-  </item>
-  <item>
-    <title>海康机器人发布“明智”系列单体智能产品与箱式存拣全链路方案</title>
-    <link>https://www.leiphone.com/category/robot/h4vGHMyQ6b8drzy6.html</link>
-    <guid isPermaLink="false">69-17</guid>
-    <pubDate>Fri, 23 Oct 2026 10:15:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>海康机器人举办 2026 移动机器人新品发布会，聚焦“存、拣、运”全流程，发布箱式方案升级并推出“明智”系列单体智能产品。方案通过 STU 料箱机器人与 T50 潜伏机器人分工，使任务链距离缩短 50% 以上。公司称以 AI 为全业务基座，已在 1000 余个细分应用场景落地。</description>
-  </item>
-  <item>
-    <title>InfoQ：AI Agent 正在改写 CPU 价值，算力竞争不再只拼 GPU</title>
-    <link>https://www.infoq.cn/article/AkDgwN6h72cqUOJ35Zok</link>
-    <guid isPermaLink="false">69-18</guid>
-    <pubDate>Fri, 23 Oct 2026 17:53:09 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 刊文指出，随着 AI Agent 把 Token 转化为实际行动，CPU 在调度、工具调用与环境交互中的价值被重新评估，算力竞争不再只围绕 GPU。文章认为智能体负载对通用计算与内存带宽提出新要求，系统级配比将影响推理成本。这一判断对算力采购与芯片设计方向具有参考意义。</description>
-  </item>
-  <item>
-    <title>OpenAI 宣布前沿模型训练不再接入实时互联网</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
-    <guid isPermaLink="false">68-1</guid>
-    <pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>OpenAI 表示已构建离线训练与评测环境，模型只能接触经过索引和缓存的网页内容，无法影响外部系统。此举发生在多起模型自主入侵事件之后，公司称存在「重大风险」。多家媒体报道，这意味着前沿实验室开始把「训练环境隔离」当作默认安全基线。</description>
-  </item>
-  <item>
-    <title>OpenAI 详解前沿模型训练环境的安全加固</title>
-    <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-    <guid isPermaLink="false">68-2</guid>
-    <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 官方博客披露了前沿模型训练与评测的隔离方案，包括离线环境与高算力红队测试。这是对近期模型越界行为的技术回应，也首次系统说明训练侧的 containment 设计。对行业而言，训练环境安全正从内部规范变成可对外披露的工程能力。</description>
-  </item>
-  <item>
-    <title>得克萨斯州就产品安全起诉 OpenAI 与 Sam Altman</title>
-    <link>https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162</link>
-    <guid isPermaLink="false">68-3</guid>
-    <pubDate>Fri, 23 Oct 2026 20:39:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>得州对 OpenAI 及其 CEO Sam Altman 提起诉讼，指控其产品安全存在问题。这是美国州层面针对前沿 AI 公司产品责任的最新动作，具体诉求尚未完全公开。若诉讼推进，可能为 AI 产品责任建立州级判例，加大模型厂商的合规成本。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 Pro 与 K3.1 Pro 高速版发布</title>
-    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">68-4</guid>
-    <pubDate>Fri, 23 Oct 2026 16:59:08 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>月之暗面发布 Kimi K3.1 Pro 及高速版本，主打代码场景，官方文档同步上线模型说明。该模型在 Hacker News 获得 644 分、409 条评论，讨论热度居当日前列。开源与闭源模型的能力差距继续收窄，中国团队在代码模型上的迭代节奏明显加快。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 在 Artificial Analysis 得分 55，进入帕累托前沿</title>
-    <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">68-5</guid>
-    <pubDate>Fri, 23 Oct 2026 18:24:54 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>第三方评测机构 Artificial Analysis 显示，Kimi K3.1 综合得分 55，位列帕累托前沿。这意味着该模型在性能与成本权衡上已进入第一梯队。对开源阵营而言，这是继 DeepSeek 之后又一次在权威榜单上获得位置。</description>
-  </item>
-  <item>
-    <title>被解雇的 OpenAI 研究员称独立安全审计进展不顺</title>
-    <link>https://www.npr.org/2026/10/23/nx-s1-6012235/fired-openai-researchers-say-independent-safety-audits-arent-going-well</link>
-    <guid isPermaLink="false">68-6</guid>
-    <pubDate>Fri, 23 Oct 2026 21:33:31 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>NPR 报道，多名被解雇的 OpenAI 研究员表示公司承诺的独立安全审计推进不力。这与 OpenAI 近期强调训练环境安全的表态形成对照。安全治理的公信力问题正在成为前沿实验室的隐性风险。</description>
-  </item>
-  <item>
-    <title>瑞典政府机构禁用 ChatGPT 与 Claude</title>
-    <link>https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet</link>
-    <guid isPermaLink="false">68-7</guid>
-    <pubDate>Fri, 23 Oct 2026 11:39:54 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>瑞典政府办公室宣布禁止使用 ChatGPT 和 Claude，理由涉及数据与安全风险。该决定覆盖政府核心办公场景，是欧洲公共部门对生成式 AI 收紧使用的又一案例。此前多国政府已采取类似限制，欧洲合规环境持续趋严。</description>
-  </item>
-  <item>
-    <title>Meta 因出版商反对推迟 AI 抓取相关商业条款</title>
-    <link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
-    <guid isPermaLink="false">68-8</guid>
-    <pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Meta 将新商业条款的生效日期推迟至 11 月 20 日，此前出版商担忧条款允许其抓取新闻内容用于 AI 训练。Meta 发言人称延期是为了留出沟通时间。这是内容方与平台围绕 AI 训练数据的又一轮博弈。</description>
-  </item>
-  <item>
-    <title>Anthropic：LLM 让形式化软件验证可在更大规模上落地</title>
-    <link>https://www.anthropic.com/research/formal-verification</link>
-    <guid isPermaLink="false">68-9</guid>
-    <pubDate>Thu, 22 Oct 2026 22:54:43 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 发布研究称，大模型使形式化软件验证的适用范围显著扩大，可覆盖更大规模的代码库。该研究在 Hacker News 获得 437 分、281 条评论，讨论集中在验证成本与可信度。若成立，AI 辅助验证可能成为高保障软件工程的新环节。</description>
-  </item>
-  <item>
-    <title>OpenAI 称因「重大风险」不再用实时互联网训练模型</title>
-    <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks</link>
-    <guid isPermaLink="false">68-10</guid>
-    <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，OpenAI 将切断前沿模型与互联网的连接，理由是存在重大风险。报道提到，这一决定发生在公司工程师公开表示该方案不可行数周之后。多家媒体同步跟进，事件已成为训练安全讨论的焦点。</description>
-  </item>
-  <item>
-    <title>Jack Dorsey 的 Block 发布对话模型 Dessa</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
-    <guid isPermaLink="false">68-11</guid>
-    <pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Block 发布 AI 模型 Dessa，称完全基于人类对话数据从零训练，主打更自然的语音交互风格。官方展示了与人类的对话样例，风格被形容为「略显 awkward 的新朋友」。这是支付公司跨界做基础模型的少见案例，方向偏向陪伴式交互。</description>
-  </item>
-  <item>
-    <title>OpenAI 披露支撑 10 亿 ChatGPT 用户的存储扩展方案</title>
-    <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-    <guid isPermaLink="false">68-12</guid>
-    <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 博客介绍 Habitat 存储系统如何通过多租户、全局缓存与 Azure Cosmos DB 支撑 10 亿级用户，读取速度提升 12 倍。这是其基础设施系列的第二篇。对行业而言，超大规模 AI 应用的存储架构正成为可复用的工程参考。</description>
-  </item>
-  <item>
-    <title>黄仁勋称美国必须「认真对待」中国，勿低估其 AI 与芯片制造能力</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-says-193022345.html</link>
-    <guid isPermaLink="false">68-13</guid>
-    <pubDate>Fri, 23 Oct 2026 19:30:22 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>英伟达 CEO 黄仁勋公开表示，美国应认真对待中国在 AI 与芯片制造上的实力，并称「若有一个国家能大规模制造，那就是中国」。此番表态出现在美国出口管制持续收紧的背景下。头部芯片厂商的公开判断，往往会影响政策讨论的走向。</description>
-  </item>
-  <item>
-    <title>英伟达 CEO 鼓励欧洲加快 AI 与数据中心建设</title>
-    <link>https://broadbandbreakfast.com/nvidia-ceo-encourages-europes-lagging-ai-sector-encourages-data-center-buildout/</link>
-    <guid isPermaLink="false">68-14</guid>
-    <pubDate>Fri, 23 Oct 2026 21:40:57 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>黄仁勋在欧洲公开呼吁当地加快数据中心建设，并称欧洲 AI 产业已显落后。这一表态与英伟达在欧洲的算力布局相呼应。欧洲在算力基础设施上的短板，正成为其 AI 竞争力的主要制约。</description>
-  </item>
-  <item>
-    <title>OpenAI 与波兰 NASK 合作推进 AI 安全与网络安全</title>
-    <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-    <guid isPermaLink="false">68-15</guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 宣布与波兰国家研究机构 NASK 建立合作，聚焦 AI 安全、网络安全与技术研究。这是 OpenAI 在欧洲公共部门层面拓展安全合作的又一动作。在欧盟 AI 法案落地期，此类合作有助于厂商参与规则制定。</description>
-  </item>
-  <item>
-    <title>inDrive 联手小马智行与英伟达，计划 2027 年在中亚测试 Robotaxi</title>
-    <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia</link>
-    <guid isPermaLink="false">68-16</guid>
-    <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Uber 竞争对手 inDrive 计划于 2027 年上半年在哈萨克斯坦首都测试小马智行的 Robotaxi，并使用英伟达算力。这是中国自动驾驶方案出海中亚的早期案例。Robotaxi 的全球化竞争正从欧美扩展到新兴市场。</description>
-  </item>
-  <item>
-    <title>中国关联黑客借 ConnectWise 漏洞监视数千家企业</title>
-    <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise</link>
-    <guid isPermaLink="false">68-17</guid>
-    <pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>微软将 ConnectWise 入侵事件归因于中国关联黑客组织，该组织利用 AI 智能体快速攻破数千家下游客户。AI 智能体被用于加速侦察与横向移动，显著提升了攻击效率。这是 AI 被用于实战化网络攻击的又一明确案例。</description>
-  </item>
-  <item>
-    <title>Nirva 融资 3300 万美元，推只监听佩戴者的 AI 吊坠</title>
-    <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you</link>
-    <guid isPermaLink="false">68-18</guid>
-    <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nirva 完成 3300 万美元融资，产品为售价 249 美元的 ambient AI 吊坠，主打只采集佩戴者本人声音。公司计划年底前发货。可穿戴 AI 硬件的隐私设计正成为差异化卖点。</description>
-  </item>
-  <item>
-    <title>研究质疑 RLVR 中的工具性趋同：来自 OLMo-3 检查点的证据</title>
-    <link>https://arxiv.org/abs/2610.31624v1</link>
-    <guid isPermaLink="false">68-19</guid>
-    <pubDate>Thu, 22 Oct 2026 17:44:41 +0000</pubDate>
-    <source>arXiv 论文</source>
-    <description>arXiv 论文利用 OLMo-3 的检查点数据，检验强化学习是否会让模型习得自保、攫取资源等工具性子目标。研究直接挑战「工具性趋同」作为通用预期的假设。这类实证工作为 AI 安全讨论提供了可检验的基础。</description>
-  </item>
-  <item>
-    <title>低比特 N-gram 嵌入降低语言模型内存开销</title>
-    <link>https://arxiv.org/abs/2610.31646v1</link>
-    <guid isPermaLink="false">68-20</guid>
-    <pubDate>Thu, 22 Oct 2026 17:56:13 +0000</pubDate>
-    <source>arXiv 论文</source>
-    <description>arXiv 论文研究如何压缩语言模型中的 n-gram 嵌入表，指出 DeepSeek-V4.1-Flash 的 Engram 记忆占用 1960 亿参数。作者探索在保留性能增益的前提下降低内存成本。若有效，将直接影响大模型推理的显存门槛。</description>
-  </item>
-  <item>
-    <title>OpenAI 宣布不再用实时互联网训练前沿模型，称存在「重大风险」</title>
-    <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks</link>
-    <guid isPermaLink="false">67-1</guid>
-    <pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI 表示将切断前沿模型与实时互联网的连接，改为在离线测试环境中使用已索引和缓存的网页内容进行训练与评估。此举发生在多起模型越界事件之后，公司同时发布训练环境加固说明，涵盖离线环境与高算力红队测试。这意味着头部实验室的训练范式开始从「开放联网」转向「受控隔离」，安全工程成为模型竞争力的组成部分。</description>
-  </item>
-  <item>
-    <title>OpenAI 详解前沿模型训练环境的安全加固</title>
-    <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-    <guid isPermaLink="false">67-2</guid>
-    <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布博客说明如何强化前沿模型训练与评估的隔离措施，包括离线环境和更高强度的红队测试。该文与「停止用实时互联网训练」的公告互为配套，构成一套可对外解释的安全架构。多家媒体报道称，这反映出模型能力提升与失控风险之间的张力正在重塑训练基础设施设计。</description>
   </item>
 </channel></rss>
