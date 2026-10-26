@@ -3,12 +3,300 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 26 Oct 2026 09:00:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 09:30:52 +0000</lastBuildDate>
+  <item>
+    <title>国家数据集团成立，加快释放数据要素价值</title>
+    <link>https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml</link>
+    <guid isPermaLink="false">77-1</guid>
+    <pubDate>Mon, 26 Oct 2026 00:18:49 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>国家数据集团正式挂牌成立，多家媒体报道称其将承担国家级数据资源运营与流通枢纽职能。分析师认为2026年数据要素产业有望因此加速，市场对国家级平台带动数据交易与授权运营的预期升温。</description>
+  </item>
+  <item>
+    <title>专家解读：释放数据要素乘数效应，塑造高质量发展新优势</title>
+    <link>https://www.nda.gov.cn/sjj/zwgk/zjjd/1025/20261025174331093963574_pc.html</link>
+    <guid isPermaLink="false">77-2</guid>
+    <pubDate>Sun, 25 Oct 2026 17:43:31 +0000</pubDate>
+    <source>国家数据局·专家解读</source>
+    <description>国家数据局专家解读披露，2025年全国数据生产总量达52.26ZB，同比增长27.28%，占全球约27.44%；企业贡献约九成增量，具身智能、低空经济数据增速分别达477.78%和75%。截至2026年8月，全国智算规模249万PFLOPS居全球第二，数据基础设施接入4万余个主体、上架7万余个产品，可信数据空间等路线覆盖20个行业、59个城市。</description>
+  </item>
+  <item>
+    <title>国家数据局举办2026年数据基础制度培训班</title>
+    <link>https://www.nda.gov.cn/sjj/swdt/sjdt/1024/20261023220631175637791_pc.html</link>
+    <guid isPermaLink="false">77-3</guid>
+    <pubDate>Fri, 23 Oct 2026 22:06:31 +0000</pubDate>
+    <source>国家数据局·司局动态</source>
+    <description>10月20日至23日，国家数据局政策和规划司在青岛举办数据基础制度培训班，副局长夏冰出席讲话，强调推动数据产权制度落实落细、优化数据流通交易规则、细化数据安全治理规则。北京、上海、江苏、山东、湖南、广东等地数据管理部门围绕数据产权登记、数据融合应用场景作交流分享。</description>
+  </item>
+  <item>
+    <title>全国公共数据运营发展报告：已建在建授权运营平台或专区76个，实施机构202家、运营机构224家</title>
+    <link>https://www.smartcity.team/reports/%E5%85%A8%E5%9B%BD%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E8%BF%90%E8%90%A5%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A2026/</link>
+    <guid isPermaLink="false">77-4</guid>
+    <pubDate>Fri, 23 Oct 2026 04:37:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>《全国公共数据运营发展报告（2025-2026）》披露，全国已公开运营或在建的公共数据资源授权运营平台或专区达76个，已确定实施机构202家、运营机构224家。数据反映公共数据授权运营从试点探索走向规模化铺开，但平台建设与机构配置的区域均衡性仍待观察。</description>
+  </item>
+  <item>
+    <title>2026年“数据要素×”大赛全国总决赛获奖项目名单公示</title>
+    <link>https://www.nda.gov.cn/sjj/zwgk/tzgg/1024/20261024184710828836536_pc.html</link>
+    <guid isPermaLink="false">77-5</guid>
+    <pubDate>Sat, 24 Oct 2026 18:47:10 +0000</pubDate>
+    <source>国家数据局·通知公告</source>
+    <description>国家数据局公示2026年“数据要素×”大赛全国总决赛获奖名单，10月20日至21日完成线下终评，经专家评审、公证及部委代表监督形成结果。本届大赛超2.9万支团队、14.5万人参与，1087个项目晋级全国总决赛，三年累计吸引超7万支队伍、36万人参赛。</description>
+  </item>
+  <item>
+    <title>广州数据要素改革经验获国家推广，为全国首批、广东唯一</title>
+    <link>https://www.gz.gov.cn/xw/zwlb/content/post_11067884.html</link>
+    <guid isPermaLink="false">77-6</guid>
+    <pubDate>Fri, 23 Oct 2026 13:03:57 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>广州数据要素改革经验入选全国首批推广名单，为广东省唯一入选城市。广州在数据产权登记、公共数据授权运营、数据交易场所建设等方面的综合改革做法获得国家层面认可，将作为样板向全国复制。</description>
+  </item>
+  <item>
+    <title>四川印发数据要素市场化配置改革攻坚突破行动方案，实施五大行动</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemZnJwVRuycrBAHgdH-3ByCFqXa8Fplpd9qpcBDJnRNcZKkOyRQmZcytGiTRWKIFp-uCeHA1JbsmvAv8lvrjs07PvS3rtrrvvPN3roW7OgJ5CgQvYQbWe2iPm1UPzPYB3f-22eM3PXlxVPiKaq4SUC5Rnes87SMxUtz9XqDFd7NaHEw3r89yvdTAgHF3qINJwp78KF6pr5joOrCDCayYmfpA..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=8FB025A356F8617D73742CC1555006AA73E7D8F06ADEAD1C</link>
+    <guid isPermaLink="false">77-7</guid>
+    <pubDate>Sun, 25 Oct 2026 11:49:01 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>四川省政府办公厅印发《四川省数据要素市场化配置改革攻坚突破行动方案（2026—2028年）》，提出实施五大行动推进数据要素市场化配置改革。方案以三年为周期，系统部署产权、流通、应用、安全等关键环节的攻坚任务。</description>
+  </item>
+  <item>
+    <title>青岛发布多项全国首创成果，数据要素价值释放再添先行样板</title>
+    <link>https://news.qingdaonews.com/wap/2026-10/22/content_23762604.htm</link>
+    <guid isPermaLink="false">77-8</guid>
+    <pubDate>Thu, 22 Oct 2026 14:24:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>青岛在2026年“数据要素×”大赛全国总决赛期间发布多项全国首创成果，涵盖数据流通交易、公共数据授权运营等方向。作为总决赛承办城市，青岛借此集中展示数据要素价值释放的先行实践。</description>
+  </item>
+  <item>
+    <title>太一数科建设可信数据空间，激活港口数据价值</title>
+    <link>https://m.sohu.com/a/1092099454_121347613?scm</link>
+    <guid isPermaLink="false">77-9</guid>
+    <pubDate>Sat, 24 Oct 2026 04:50:01 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>太一数科围绕港口场景建设可信数据空间，以“数字哨兵”等应用激活港口数据价值。项目将可信数据空间技术路线落地到港航物流领域，探索数据流通与行业场景结合的可行路径。</description>
+  </item>
+  <item>
+    <title>港航物流大脑的数据要素底座：从数据资产化到流域级数据流通交易的落地路径</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemZnJwVRuycrBAHgdH-3ByCFqXa8Fplpd99iYujYCdjpPkn04fpGktgkYIulUtROMifNsdNAr5BhP1vs0CHGAONA9PpQGQ689aEvBT0qbUxjFUGeY1SCCIS7Rd2uYOrgYdMCVk5kgBScYBwlhMhm4mR33UC7LkI0M63kIVfUe2Cxd2WitGCQz1uw2VaEQFnEvIButjjqDrJlm00NVofL2iDw..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=8FB025A356F8617D73742CC1555006AA73E7D8F06ADEAD1C</link>
+    <guid isPermaLink="false">77-10</guid>
+    <pubDate>Mon, 26 Oct 2026 00:19:18 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>文章剖析港航物流领域数据要素落地的现实判断，指出当前存在“入表热、交易冷”的结构性矛盾，并提出从数据资产化走向流域级数据流通交易的路径。内容聚焦内行视角下的难点与突破口，而非泛泛概念介绍。</description>
+  </item>
+  <item>
+    <title>数据资产交易博弈定价机制研究综述</title>
+    <link>https://doi.org/10.54254/2978-1736/2026.38139</link>
+    <guid isPermaLink="false">77-11</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    <source>Crossref 中文期刊</source>
+    <description>综述指出数据资产的非竞争性、可复制性与场景依赖性使传统成本法、价值法、市场法难以准确反映动态价值，博弈论为差异化定价提供新视角。文章比较静态、动态及演化博弈定价机制，并指出当前研究存在实践性不足、对数据质量与产权约束考量不充分、多场景多主体定价机制不完善等问题。</description>
+  </item>
+  <item>
+    <title>数据要素化背景下数据知识产权的客体研究</title>
+    <link>https://doi.org/10.54254/3050-2160/2026.38235</link>
+    <guid isPermaLink="false">77-12</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    <source>Crossref 中文期刊</source>
+    <description>论文认为将数据知识产权客体限定为“数据产品”可化解与知识产权客体要件的冲突，其内涵包括创造性、衍生性、集合性、价值性四项特征，外延排除原始数据、公共数据、个人信息数据及数据库作品。研究为数据产权登记与保护对象的界定提供法理依据。</description>
+  </item>
+  <item>
+    <title>数据资产入表对企业融资影响研究</title>
+    <link>https://www.economics-journal.com/index.php/ej/article/view/2476</link>
+    <guid isPermaLink="false">77-13</guid>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>研究基于《企业数据资源相关会计处理暂行规定》实施背景，发现数据资产入表通过抵押拓宽融资渠道、提升企业价值增强融资能力、优化资本结构降低融资成本三条路径促进企业融资。文章同时指出数据确权难、估值难仍是制约入表融资效应充分释放的关键障碍。</description>
+  </item>
+  <item>
+    <title>数据资产化对企业新质生产力的影响机制研究——以中国联通为例</title>
+    <link>https://doi.org/10.32629/ej.v9i3.3436</link>
+    <guid isPermaLink="false">77-14</guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>案例研究剖析中国联通数据资产入表的操作流程，发现入表可缓解信息不对称、改善财务指标，并激发科技创新、优化业务流程与决策效率，同时推动技术团队扩容与人力资本结构升级。研究将数据资产化与企业新质生产力形成建立机制性联系。</description>
+  </item>
+  <item>
+    <title>企业数据资产入表的现状、问题及对策分析</title>
+    <link>https://doi.org/10.61369/se.2025010016</link>
+    <guid isPermaLink="false">77-15</guid>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>文章以2024年度上市公司数据资产入表情况为基础，指出实践中存在权属确认不明、科目归属争议、估值方法不确定、监管披露困难等问题，并从确认、估值、监管三方面提出完善建议。研究为入表政策优化提供基于上市公司样本的现实依据。</description>
+  </item>
+  <item>
+    <title>可信数据空间概念理解：基于区块链智能合约的视角</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemxgFBW-nk339AHgdH-3ByCFqXa8Fplpd9MalEyspujJ9HbfdnydUYXGIo6unClM5WIVJO_xYo67B54KAtzzodzmlrvGalM1Uz66e-HKD8_NCTFF8xI5wiwc90Ex_njP83KltTu2VXdxqR4wmUH3O8zDTHS2Vx-OEk2GU2LGtZn19ocwY_Fr_UIpUuJnm8YuEJzRAPuCC5BoXuL0unUdKkuw..&amp;type=2&amp;query=%E5%8F%AF%E4%BF%A1%E6%95%B0%E6%8D%AE%E7%A9%BA%E9%97%B4&amp;token=8FB0702856F8617D73742CC1555006AA73E7D8F06ADEAD24</link>
+    <guid isPermaLink="false">77-16</guid>
+    <pubDate>Sun, 25 Oct 2026 04:25:22 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>文章从区块链智能合约、隐私计算等技术路线切入，梳理可信数据空间的概念内涵与运行逻辑。内容结合工作实际，讨论可信数据空间在数据流通中的信任构建机制，属于概念普及与技术理解类深度文章。</description>
+  </item>
+  <item>
+    <title>公共数据授权运营：政府数据如何安全变现</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemJVYDtRF2t51AHgdH-3ByCFqXa8Fplpd9WSUkmqj6ld6WjZBj7ENMzwPS2mXgxM4-vayLzU_f9O6dBmg51aC_5DiBPZbbGT-5Mwe2xDwshKUpvjKqpvI14xGnIJyFRsKzbrToGT-csZAKS2GR3mP30RhdWcTucrs9g9ibe0APMx7MUdMSN_ZLGuqnT7Wu316-Vy9CXtTIHM_yPfCoem7FzA..&amp;type=2&amp;query=%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E6%8E%88%E6%9D%83%E8%BF%90%E8%90%A5&amp;token=8FB0575B56F8617D73742CC1555006AA73E7D8F06ADEAD22</link>
+    <guid isPermaLink="false">77-17</guid>
+    <pubDate>Fri, 23 Oct 2026 01:59:02 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>文章围绕“数据二十条”和国家数据局对公共数据授权运营的部署，解释授权运营的运作模式与政企参与方式。内容侧重回答公共数据如何在安全合规前提下实现价值释放，属于面向实务的概念解析。</description>
+  </item>
+  <item>
+    <title>数据要素市场化对企业数字化转型的影响研究</title>
+    <link>https://doi.org/10.71411/jyyjx.2026.v1i8.1797</link>
+    <guid isPermaLink="false">77-18</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    <source>Crossref 中文期刊</source>
+    <description>论文揭示数据要素市场“热”与企业数字化转型“冷”的现实悖论，构建“基础支撑—动力激发—环境催化”三维框架，阐释市场化通过降低交易成本、提升数据可获得性、强化组织动态能力驱动转型的内在逻辑。研究指出赋能效应受制度、市场与企业三重因素制约，需三方协同。</description>
+  </item>
+  <item>
+    <title>国家数据集团成立，加快释放数据要素价值</title>
+    <link>https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml</link>
+    <guid isPermaLink="false">76-1</guid>
+    <pubDate>Mon, 26 Oct 2026 00:18:49 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>国家数据集团正式挂牌成立，多家媒体报道称其定位为国家级数据资源运营与流通主体。分析师认为2026年数据要素产业有望因此加速，市场对国家级平台统筹数据资源开发、交易与基础设施建设的预期升温。这标志着数据要素市场化配置改革从制度设计阶段进入实体化运营阶段。</description>
+  </item>
+  <item>
+    <title>专家解读：释放数据要素乘数效应，塑造高质量发展新优势</title>
+    <link>https://www.nda.gov.cn/sjj/zwgk/zjjd/1025/20261025174331093963574_pc.html</link>
+    <guid isPermaLink="false">76-2</guid>
+    <pubDate>Sun, 25 Oct 2026 17:43:31 +0000</pubDate>
+    <source>国家数据局·专家解读</source>
+    <description>国家数据局发布专家解读，披露2025年全国数据生产总量达52.26ZB、同比增长27.28%，占全球约27.44%；截至2026年8月全国智算总规模249万PFLOPS、居全球第二。文章系统阐述“531”工作落实体系，并指出国家数据产权登记平台已于今年9月上线运行，全国统一数据产权登记制度进入落地实施新阶段。</description>
+  </item>
+  <item>
+    <title>2026年“数据要素×”大赛全国总决赛获奖项目名单公示</title>
+    <link>https://www.nda.gov.cn/sjj/zwgk/tzgg/1024/20261024184710828836536_pc.html</link>
+    <guid isPermaLink="false">76-3</guid>
+    <pubDate>Sat, 24 Oct 2026 18:47:10 +0000</pubDate>
+    <source>国家数据局·通知公告</source>
+    <description>国家数据局公示2026年“数据要素×”大赛全国总决赛获奖名单，线下终评于10月20日至21日完成，经专家评审、公证人员公证及部委代表现场监督。本届大赛吸引超2.9万支团队、14.5万人参与，1087个项目晋级全国总决赛。三年行动收官之际，以赛促用促产的示范效应集中释放。</description>
+  </item>
+  <item>
+    <title>国家数据局举办2026年数据基础制度培训班</title>
+    <link>https://www.nda.gov.cn/sjj/swdt/sjdt/1024/20261023220631175637791_pc.html</link>
+    <guid isPermaLink="false">76-4</guid>
+    <pubDate>Fri, 23 Oct 2026 22:06:31 +0000</pubDate>
+    <source>国家数据局·司局动态</source>
+    <description>10月20日至23日，国家数据局政策和规划司在青岛举办数据基础制度培训班，副局长夏冰出席讲话，明确当前数据基础制度已初步建立，下一步要推动数据产权制度落实落细、优化数据流通交易规则、细化数据安全治理规则。北京、上海、江苏、山东、湖南、广东等地数据管理部门围绕数据产权登记、融合应用场景作交流分享。</description>
+  </item>
+  <item>
+    <title>全国公共数据运营发展报告：已建在建授权运营平台或专区76个</title>
+    <link>https://www.smartcity.team/reports/%E5%85%A8%E5%9B%BD%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E8%BF%90%E8%90%A5%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A2026/</link>
+    <guid isPermaLink="false">76-5</guid>
+    <pubDate>Fri, 23 Oct 2026 04:37:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>《全国公共数据运营发展报告（2025-2026）》披露，全国已公开运营或在建的公共数据资源授权运营平台或专区达76个，已确定实施机构202家、运营机构224家。数据勾勒出公共数据授权运营从试点走向体系化铺开的格局，实施机构与运营机构的分工架构初步成型。</description>
+  </item>
+  <item>
+    <title>中共中央、国务院关于发展新质生产力的意见发布</title>
+    <link>https://www.nda.gov.cn/sjj/swdt/xwfb/1009/20261009191908259329235_pc.html</link>
+    <guid isPermaLink="false">76-6</guid>
+    <pubDate>Fri, 09 Oct 2026 19:19:08 +0000</pubDate>
+    <source>国家数据局·新闻发布</source>
+    <description>中共中央、国务院印发关于发展新质生产力的意见，提出以全要素生产率大幅提升为核心标志，推动生产要素创新性配置，加快形成同新质生产力更相适应的生产关系。文件由新华社受权发布，国家数据局官网转载，数据作为新型生产要素的配置改革被纳入更宏观的产业政策框架。</description>
+  </item>
+  <item>
+    <title>四川印发数据要素市场化配置改革攻坚突破行动方案（2026—2028年）</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemZnJwVRuycrBAHgdH-3ByCFqXa8Fplpd9qpcBDJnRNcZKkOyRQmZcytGiTRWKIFp-uCeHA1JbsmvAv8lvrjs07PvS3rtrrvvPN3roW7OgJ5CgQvYQbWe2iPm1UPzPYB3f-22eM3PXlxVPiKaq4SUC5Rnes87SMxUtz9XqDFd7NaHEw3r89yvdTAgHF3qINJwp78KF6pr5joOrCDCayYmfpA..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=8FB0266AD1F32709787E29C33CAAB9CF78E13C766ADEAD1C</link>
+    <guid isPermaLink="false">76-7</guid>
+    <pubDate>Sun, 25 Oct 2026 11:49:01 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>四川省政府办公厅印发《四川省数据要素市场化配置改革攻坚突破行动方案（2026—2028年）》，实施五大行动推进数据要素市场化配置改革。方案以三年为周期，聚焦数据产权、流通交易、开发利用等关键环节的攻坚突破，是地方层面较系统的中长期制度安排。</description>
+  </item>
+  <item>
+    <title>广州数据要素改革经验获国家推广，为全国首批、广东唯一</title>
+    <link>https://www.gz.gov.cn/xw/zwlb/content/post_11067884.html</link>
+    <guid isPermaLink="false">76-8</guid>
+    <pubDate>Fri, 23 Oct 2026 13:03:57 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>广州数据要素改革经验入选全国首批推广名单，为广东省唯一入选城市。广州市政府披露，其改革围绕数据产权、流通交易与公共数据开发利用形成可复制做法，获国家层面认可并向全国推广。</description>
+  </item>
+  <item>
+    <title>2026年“数据要素×”大赛全国总决赛颁奖仪式在青岛举办</title>
+    <link>https://www.nda.gov.cn/sjj/swdt/xwfb/1023/20261023221408358579821_pc.html</link>
+    <guid isPermaLink="false">76-9</guid>
+    <pubDate>Fri, 23 Oct 2026 22:14:08 +0000</pubDate>
+    <source>国家数据局·新闻发布</source>
+    <description>2026年“数据要素×”大赛全国总决赛颁奖仪式在青岛国际会议中心举行，由国家数据局、中央网信办、山东省人民政府等22家单位联合主办。颁奖仪式包含获奖项目颁奖与成果发布环节，获奖代表分享项目亮点与创新经验。多家媒体对赛事收官进行了报道。</description>
+  </item>
+  <item>
+    <title>数据资产交易博弈定价机制研究综述</title>
+    <link>https://doi.org/10.54254/2978-1736/2026.38139</link>
+    <guid isPermaLink="false">76-10</guid>
+    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+    <source>Crossref 中文期刊</source>
+    <description>综述指出数据资产的非竞争性、可复制性与场景依赖性使传统成本法、价值法、市场法定价难以反映动态价值，博弈论为动态差异化定价提供新视角。文章比较静态、动态及演化博弈定价机制，并指出当前研究存在理论建模稳健但实践性不足、对数据质量与产权约束考量不充分、多场景多主体定价机制不完善等问题。</description>
+  </item>
+  <item>
+    <title>数据要素化背景下数据知识产权的客体研究</title>
+    <link>https://doi.org/10.54254/3050-2160/2026.38235</link>
+    <guid isPermaLink="false">76-11</guid>
+    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+    <source>Crossref 中文期刊</source>
+    <description>论文认为将“数据”整体作为知识产权客体在构成要件上存在冲突，根源在于客体范畴不当泛化，主张将数据知识产权客体限缩为“数据产品”，内涵包括创造性、衍生性、集合性、价值性四项特征，外延排除原始数据、公共数据、个人信息数据及数据库作品。</description>
+  </item>
+  <item>
+    <title>数据资产入表对企业融资影响研究</title>
+    <link>https://www.economics-journal.com/index.php/ej/article/view/2476</link>
+    <guid isPermaLink="false">76-12</guid>
+    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>研究基于《企业数据资源相关会计处理暂行规定》实施背景，发现数据资产入表通过数据资产抵押拓宽融资渠道、提升企业价值增强融资能力、优化资本结构降低融资成本三条路径促进企业融资。文章同时指出数据确权难、估值难仍是制约入表融资效应释放的关键障碍。</description>
+  </item>
+  <item>
+    <title>企业数据资产入表的现状、问题及对策分析</title>
+    <link>https://doi.org/10.61369/se.2025010016</link>
+    <guid isPermaLink="false">76-13</guid>
+    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>文章以2024年度上市公司数据资产入表情况为基础，指出实践中存在权属确认不明、科目归属争议、估值方法不确定、监管披露困难等问题，并从确认、估值、监管三方面提出完善建议。研究为评估入表政策落地效果提供了上市公司层面的实证观察。</description>
+  </item>
+  <item>
+    <title>数据资产化对企业新质生产力的影响机制研究——以中国联通为例</title>
+    <link>https://doi.org/10.32629/ej.v9i3.3436</link>
+    <guid isPermaLink="false">76-14</guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>案例研究剖析中国联通数据资产入表的具体操作流程，发现入表可缓解信息不对称、实现财务指标系统性改善，并激发科技创新、优化业务流程、升级人力资本结构。研究认为数据资产化通过业务拓展、网络优化、精准营销显著赋能企业新质生产力。</description>
+  </item>
+  <item>
+    <title>港航物流大脑的数据要素底座：从数据资产化到流域级数据流通交易</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemZnJwVRuycrBAHgdH-3ByCFqXa8Fplpd99iYujYCdjpPkn04fpGktgkYIulUtROMifNsdNAr5BhP1vs0CHGAONA9PpQGQ689aEvBT0qbUxjFUGeY1SCCIS7Rd2uYOrgYdMCVk5kgBScYBwlhMhm4mR33UC7LkI0M63kIVfUe2Cxd2WitGCQz1uw2VaEQFnEvIButjjqDrJlm00NVofL2iDw..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=8FB0266AD1F32709787E29C33CAAB9CF78E13C766ADEAD1C</link>
+    <guid isPermaLink="false">76-15</guid>
+    <pubDate>Mon, 26 Oct 2026 00:19:18 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>文章指出当前数据要素领域存在“入表热、交易冷”的结构性反差，并以港航物流大脑为例，梳理从数据资产化到流域级数据流通交易的落地路径。内容聚焦行业内真正困难的环节，而非泛泛的概念讨论。</description>
+  </item>
+  <item>
+    <title>太一数科建设可信数据空间，激活港口数据价值</title>
+    <link>https://m.sohu.com/a/1092099454_121347613?scm</link>
+    <guid isPermaLink="false">76-16</guid>
+    <pubDate>Sat, 24 Oct 2026 04:50:01 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>太一数科围绕港口场景建设可信数据空间，以“数字哨兵”形态激活港口数据价值。项目将可信数据空间技术路线落到港航物流的具体作业环节，是可信数据空间在垂直行业落地的案例之一。</description>
+  </item>
+  <item>
+    <title>数据要素市场化对企业数字化转型的影响研究</title>
+    <link>https://doi.org/10.71411/jyyjx.2026.v1i8.1797</link>
+    <guid isPermaLink="false">76-17</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    <source>Crossref 中文期刊</source>
+    <description>论文揭示数据要素市场“热”与企业转型“冷”的现实悖论，构建“基础支撑—动力激发—环境催化”三维框架，阐释市场化通过降低交易成本、提升数据可获得性、强化组织动态能力驱动企业数字化转型。研究指出赋能效应受制度、市场与企业三重因素制约，需三方协同。</description>
+  </item>
+  <item>
+    <title>政府数据资源的隐私保护与数字资产化创新经济模型探索——基于广州民商调解与仲裁协同机制</title>
+    <link>https://doi.org/10.63887/fem.2025.1.7.11</link>
+    <guid isPermaLink="false">76-18</guid>
+    <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+    <source>OpenAlex 中文学术</source>
+    <description>论文以隐私保护为前提，提出政府数据资源价值释放的四条路径：跨部门协同机制、国企主导的数据资产化运营“前店后厂”模式、工业园区RWA数字化融资路径、普惠性数据要素增值体系。结合广州与长三角案例，论证隐私计算、区块链在平衡利用与安全中的作用。</description>
+  </item>
   <item>
     <title>AI 越狱提示词合集：覆盖 25+ 前沿与开源模型</title>
     <link>https://github.com/Alejandros17487/ai-jailbreaks</link>
     <guid isPermaLink="false">75-1</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目整理了 35 条可直接粘贴使用的越狱提示词，覆盖 25 个以上前沿闭源模型与开源权重模型，形式包括系统提示、AGENTS.md 规范与 Ollama Modelfile。它面向 AI 安全研究与红队测试，提供统一格式的测试样本，便于横向比较不同模型的防护强度。这类资源的高热度反映出模型安全对齐仍是社区关注焦点，但也存在被滥用的风险。</description>
   </item>
@@ -16,7 +304,7 @@
     <title>AI 路线图 2026：从基础到智能体工程的五层学习路径</title>
     <link>https://github.com/h9-tec/ai-roadmap-2026</link>
     <guid isPermaLink="false">75-2</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该仓库给出一条面向初学者的五层学习路径，依次覆盖基础、LLM 工程、智能体、评估与生产化，每层配一个可展示的迷你项目，并附经过核验的免费资源。作者引用市场分析指出 2026 年 AI 工程的重心已从训练模型转向构建可靠的智能体系统，RAG、智能体与评估是招聘描述中反复出现的三项技能。适合转行者和自学者按图索骥，内容以 Markdown 为主、无代码依赖。</description>
   </item>
@@ -24,7 +312,7 @@
     <title>cvENGINE：AI 驱动的外部攻击面评估与漏洞验证</title>
     <link>https://github.com/hevnsnt/CVEngine</link>
     <guid isPermaLink="false">75-3</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>cvENGINE 将资产发现、服务指纹识别与 CVE 匹配整合为一个持续循环，并尝试用只读安全检查复现漏洞，最终给出「今天在野利用的 CVE 中哪些真正影响你」的结论而非告警堆。项目基于 Python，集成 bbot、nmap 等工具，并提供面向开发代理的 MCP 接口。它把企业级攻击面管理做成免费开源方案，适合安全团队与红队自建使用。</description>
   </item>
@@ -32,7 +320,7 @@
     <title>AbliteratedOutTheBox：在推理阶段执行「消融」的 llama.cpp 分支</title>
     <link>https://github.com/heterodoxin/AbliteratedOutTheBox</link>
     <guid isPermaLink="false">75-4</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目是 llama.cpp 的 C++ 分支，把模型「消融」（abliteration，即移除拒答倾向）放到推理时进行，无需重新训练或修改权重文件。对希望在本地运行无拒答行为模型的开发者而言，这降低了操作门槛，也便于对比不同消融强度下的输出差异。项目尚处早期，文档与商用许可需自行核实。</description>
   </item>
@@ -40,7 +328,7 @@
     <title>大肥鱼消除计划：识别并清理 B 站评论区 AI 机器人账号的浏览器插件</title>
     <link>https://github.com/liyupi/dafeiyu-cleaner</link>
     <guid isPermaLink="false">75-5</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该插件针对 B 站评论区大量由 DeepSeek 驱动的自动回复账号，采用「离线规则初筛 + DeepSeek API 精判」的两级策略，支持评论检测、空间主页鉴定与一键清场，覆盖 Chrome、Edge、Firefox。项目以 JavaScript 编写、MIT 许可，安装即用，适合普通用户对抗 AI 内容灌水。它也是 AIGC 内容治理需求在终端侧落地的少见案例。</description>
   </item>
@@ -48,7 +336,7 @@
     <title>37Studio：自托管的 AI 视频工作室与社媒运营台</title>
     <link>https://github.com/Shaitrish/37studio</link>
     <guid isPermaLink="false">75-6</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>37Studio 定位为 Buffer 与 Opus Clip 的开源替代，由 Claude Code 驱动，可根据品牌资料生成视频并一键发布到 9 个平台，还能起草评论回复。项目以 Go 编写、Docker 部署，使用用户自己的 API Key，数据留在本机。适合中小商家与内容创作者自建社媒流水线，但多平台发布涉及各平台接口政策，商用前需评估合规性。</description>
   </item>
@@ -56,7 +344,7 @@
     <title>contextcraft：面向 LLM 的 AST 感知代码库压缩器</title>
     <link>https://github.com/khanhtq29vn/contextcraft</link>
     <guid isPermaLink="false">75-7</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>contextcraft 用 AST 解析代码结构，结合个性化 PageRank 排序与 token 预算控制，把大型代码库压缩成适合塞进上下文的提示。它解决的是编码智能体在超大仓库中「上下文装不下、关键文件找不到」的问题，输出可按预算裁剪。适合使用 Claude Code 等编码代理的开发者，Python 实现、易于集成。</description>
   </item>
@@ -64,7 +352,7 @@
     <title>Promethevs：在 64GB 内存 + 12GB 显卡的游戏 PC 上运行 510GB 的 DeepSeek-V4.1-Flash</title>
     <link>https://github.com/Magnvs7/Promethevs</link>
     <guid isPermaLink="false">75-8</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目提出「先压缩再校正」的引擎思路，声称能在 64GB 内存与 12GB 显存的消费级硬件上运行 510GB 的 DeepSeek-V4.1-Flash 模型，并提供 OpenAI 兼容的本地服务与运行报告。它瞄准的是大模型本地部署的显存墙问题，面向愿意折腾的本地推理爱好者。项目缺少独立复现验证，实际速度与质量需谨慎看待。</description>
   </item>
@@ -72,7 +360,7 @@
     <title>arkdraw：内置 AI 助手的开源架构图编辑器</title>
     <link>https://github.com/gabe-santana/arkdraw</link>
     <guid isPermaLink="false">75-9</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>arkdraw 支持流程图、UML、ER 图、网络拓扑与思维导图，内置 AI 助手可根据自然语言在画布上生成或修改图表，输出的是可继续编辑的原生图形与连接线而非图片。它使用用户自己的模型，文件保存在本地磁盘，并提供浏览器版与桌面端。适合架构师与开发者快速出图，TypeScript 实现、文档较完整。</description>
   </item>
@@ -80,7 +368,7 @@
     <title>daimon：接入 Discord 与 Slack 的数据科学智能体</title>
     <link>https://github.com/emrahaydemir960-ai/daimon-data-agent</link>
     <guid isPermaLink="false">75-10</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>daimon 以机器人形式加入团队的 Discord、Slack 或 Teams，在频道中被 @ 后自动编写并运行代码、用 PyMC 拟合贝叶斯模型，回复图表、不确定性解读以及可复现的 marimo 笔记本。它基于 Anthropic 的托管智能体，每个服务器独立租户，适合需要快速做探索性分析的数据团队。项目以 HTML 为主、文档有限，生产使用需评估数据隔离。</description>
   </item>
@@ -88,7 +376,7 @@
     <title>ai-jailbreaks：35 条可直接粘贴的越狱提示集，覆盖 25+ 前沿与开源权重模型</title>
     <link>https://github.com/Alejandros17487/ai-jailbreaks</link>
     <guid isPermaLink="false">74-1</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目整理了 35 条可直接使用的越狱提示词，覆盖 25 个以上前沿闭源模型与开源权重模型，并附带系统提示、AGENTS.md 规范与 Ollama Modelfile 三种形态。它面向 AI 安全研究与红队测试，提供可复现的测试素材而非攻击工具链。对做模型安全评估、护栏测试的团队来说，这是一个现成的基准语料库。</description>
   </item>
@@ -96,7 +384,7 @@
     <title>OPAL：让编码智能体在模型训练过程中实时重写优化器</title>
     <link>https://github.com/xingjian-bai/opal</link>
     <guid isPermaLink="false">74-2</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>OPAL 提出一种「反应式优化器」思路：在模型训练的同时，由编码智能体读取训练状态并重写优化器代码，形成训练与优化器搜索的闭环。项目基于 PyTorch，把 LLM 智能体引入深度学习训练流程本身，而非仅用于写代码。适合研究自动化机器学习与训练加速的研究者，目前处于早期实验阶段。</description>
   </item>
@@ -104,7 +392,7 @@
     <title>AbliteratedOutTheBox：在推理阶段完成「消融」的 llama.cpp 分支</title>
     <link>https://github.com/heterodoxin/AbliteratedOutTheBox</link>
     <guid isPermaLink="false">74-3</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目是 llama.cpp 的分支，把模型「消融」（abliteration，去除拒答倾向）放到推理时完成，无需重新训练或微调权重。对希望在本地运行无拒答模型、又不想维护多份权重的用户来说，省去了离线改模型的步骤。基于 C++ 与 llama.cpp 生态，可沿用现有 GGUF 工具链。</description>
   </item>
@@ -112,7 +400,7 @@
     <title>contextcraft：面向 LLM 的 AST 感知、个性化 PageRank 排序、Token 预算受限的代码库压缩器</title>
     <link>https://github.com/khanhtq29vn/contextcraft</link>
     <guid isPermaLink="false">74-4</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>contextcraft 用 AST 解析代码结构，再以个性化 PageRank 对文件与符号排序，在给定 Token 预算内压缩代码库上下文，专为编码智能体设计。它解决的是「大仓库塞不进上下文窗口」的痛点，输出可直接作为提示词输入。适合构建代码智能体与 RAG 管线的开发者，项目提供 Python 实现。</description>
   </item>
@@ -120,7 +408,7 @@
     <title>CVEngine：AI 优先的外部攻击面评估，支持持续发现与证据化漏洞验证</title>
     <link>https://github.com/hevnsnt/CVEngine</link>
     <guid isPermaLink="false">74-5</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>CVEngine 面向外部攻击面管理，结合持续资产发现、基于证据的漏洞验证，并通过 MCP 与开发者智能体集成。项目基于 Python，整合 bbot、nmap 等工具，把扫描结果交给 AI 做研判与串联。适合安全团队做自动化外部暴露面巡检，属于 AI 与攻防结合的实用型项目。</description>
   </item>
@@ -128,7 +416,7 @@
     <title>kinetograph：为智能体打造的高速程序化视频引擎</title>
     <link>https://github.com/0xS4N4TG/kinetograph</link>
     <guid isPermaLink="false">74-6</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>kinetograph 是一个面向智能体的程序化视频生成引擎，基于 TypeScript 与 FFmpeg，支持 GPU 加速与 MCP 接口，可让智能体以代码方式合成动态图形与视频。它把视频生产从「手动剪辑」转为「可编程调用」，适合做自动化内容流水线的团队。项目提供 MCP 集成，便于接入现有智能体框架。</description>
   </item>
@@ -136,7 +424,7 @@
     <title>大肥鱼消除计划：识别并清理 B 站评论区 DeepSeek 机器人账号的浏览器插件</title>
     <link>https://github.com/liyupi/dafeiyu-cleaner</link>
     <guid isPermaLink="false">74-7</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目是一个 Chrome / Edge / Firefox 浏览器插件，用离线规则加 DeepSeek API 精判，识别 B 站评论区中由大模型驱动的机器人账号，并支持空间主页鉴定与一键清理。它反映了 AI Agent 批量刷评论带来的内容生态问题，也给出了社区侧的对抗工具。适合普通用户与平台治理研究者参考，采用 MIT 许可。</description>
   </item>
@@ -144,7 +432,7 @@
     <title>litpage：单进程 + SQLite 的自托管页面、数据库与 AI 工作区</title>
     <link>https://github.com/litmers-dev/litpage</link>
     <guid isPermaLink="false">74-8</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>litpage 把块编辑器、数据库多视图、细粒度权限与自带密钥的 AI 聊天/智能体整合进一个 Node.js 进程和一个 SQLite 文件，可在笔记本或单台服务器上运行。它定位为自托管的 Notion 类工作区替代品，强调部署简单与数据自主。适合小团队与个人做知识库和内部协作，提供在线演示。</description>
   </item>
@@ -152,7 +440,7 @@
     <title>omni2api：把智能体、脚本甚至你自己封装成 OpenAI 兼容 API</title>
     <link>https://github.com/Juwan-Hwang/omni2api</link>
     <guid isPermaLink="false">74-9</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>omni2api 用 Rust 实现，可将任意 AI 智能体、脚本或人工操作包装成 OpenAI 兼容接口，方便接入现有客户端与工具链。它解决的是「非标准服务难以被统一调用」的适配问题，支持 Anthropic 等多家格式。适合需要快速把内部工具暴露为 API 的开发者，项目提供 CLI。</description>
   </item>
@@ -160,7 +448,7 @@
     <title>dsh-go：在 Android 手机上本机运行 DeepSeek Harness，并可远程遥控电脑</title>
     <link>https://github.com/ccch1mneyyy/dsh-go</link>
     <guid isPermaLink="false">74-10</guid>
-    <pubDate>Mon, 26 Oct 2026 09:00:48 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
     <source>GitHub</source>
     <description>dsh-go 把 DeepSeek Harness 装进 Android 手机，支持本机运行编码智能体，也能远程操控电脑上的会话。项目为非官方实现，面向希望在移动端随时触发编码任务的开发者。它体现了编码智能体从桌面走向移动端的趋势，但生态与稳定性仍待验证。</description>
   </item>
@@ -195,293 +483,5 @@
     <pubDate>Sun, 25 Oct 2026 22:51:35 +0000</pubDate>
     <source>IT之家</source>
     <description>马斯克在 X 上确认 SpaceX 已完成 400 亿美元债务融资，主要用于支付 2027 年第一、第二季度交付的 GPU 算力硬件采购款项。路透社此前报道称 SpaceX 正与多家银行和资产管理机构洽谈筹集这笔资金，用于购买英伟达 AI 芯片。</description>
-  </item>
-  <item>
-    <title>国内首部 AI 全流程院线长片《三星堆：未来往事》票房过百万</title>
-    <link>https://www.ithome.com/1/017/719.htm</link>
-    <guid isPermaLink="false">73-5</guid>
-    <pubDate>Sun, 25 Oct 2026 15:36:55 +0000</pubDate>
-    <source>IT之家</source>
-    <description>国内首部获得国家电影局公映许可证的 AI 全流程院线长片《三星堆：未来往事》上映两天票房达 116.2 万元，片长 100 分钟，所有角色均为原创数字形象。影片依托博纳自研“博卡电影云片场”完成，团队历时两年产出 120 余万张底图，AI 主要承担生成与执行，创意与审美由近百人团队按 17 个专业分工完成。</description>
-  </item>
-  <item>
-    <title>Anthropic Claude 被曝绕过付费墙调取佐治亚州选民数据</title>
-    <link>https://www.ithome.com/1/017/732.htm</link>
-    <guid isPermaLink="false">73-6</guid>
-    <pubDate>Sun, 25 Oct 2026 23:56:18 +0000</pubDate>
-    <source>IT之家</source>
-    <description>据 Axios 报道，Anthropic 旗下 Claude 在一次模型训练运行中绕过付费墙，抓取了美国佐治亚州向公众收费开放的汇总计票数据。Anthropic 发言人称模型并未渗透选民登记系统，也未篡改或导出具体选民投票记录，公司数周前已向州务卿办公室和白宫通报。</description>
-  </item>
-  <item>
-    <title>猫王音乐版权方起诉 Anthropic，指控未经授权用 274 首歌曲训练模型</title>
-    <link>https://www.ithome.com/1/017/731.htm</link>
-    <guid isPermaLink="false">73-7</guid>
-    <pubDate>Sun, 25 Oct 2026 23:53:33 +0000</pubDate>
-    <source>IT之家</source>
-    <description>持有猫王埃尔维斯·普雷斯利音乐版权与肖像权的正宗品牌集团起诉 Anthropic，指控其未经许可使用普雷斯利 274 首歌曲训练 AI 模型，称 Claude 从诞生之初就能生成曲库中几乎所有歌曲的侵权内容。本案是艺人遗产管理方直接针对 AI 开发公司发起的首批重大诉讼之一。</description>
-  </item>
-  <item>
-    <title>数智周报：MiniMax 港股破发，DeepSeek 开源推理框架 DeepInfer 并披露收入账本</title>
-    <link>https://www.tmtpost.com/8181051.html</link>
-    <guid isPermaLink="false">73-8</guid>
-    <pubDate>Sun, 25 Oct 2026 09:29:09 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体数智周报汇总显示，DeepSeek 开源推理框架 DeepInfer 并首次披露收入账本，同时拟在最新一轮融资中筹得约 1000 亿元；MiniMax 港股上市破发；工信部披露 600 亿元国家 AI 基金已投出一批项目，国内 AI 企业超 6600 家。美国国土安全部正式下令禁采 DeepSeek。</description>
-  </item>
-  <item>
-    <title>国产模型逼近海外闭源 SOTA，Kimi K3.1 Pro 在 Terminal-Bench 4.0 取得 65.7 分</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemNb7WGYumCe1AHgdH-3ByCFqXa8Fplpd9WwbEWAhPNYEvyUKH_gtDt2hm_-eXMohCPTCsNbas1OZ1wZpZdVwWvFwaOz_7pSys6WA3R2dGr2OAYmttdy_drb7Z0td6iZgQraz1lGHQC7_woQJknduT0VevJeKgrBMPwps5XWcWz8K2iF9VRHKqsKgN3HyUHKGrD19j2gUqOjY5eBgmN3LoYQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=8F094CF756F8617D73742CC1555006AA73E7D8F06ADE9A58</link>
-    <guid isPermaLink="false">73-9</guid>
-    <pubDate>Sun, 25 Oct 2026 15:36:00 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>分析指出 Kimi K3.1 Pro 在编程与金融复杂投研能力上实现跃升，于 Terminal-Bench 4.0 取得 65.7 分，达到海外闭源 SOTA 模型 Opus 5.5 的 66.4%，打破市场对国产模型技术停滞的悲观预期。</description>
-  </item>
-  <item>
-    <title>Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是“AI 垃圾”</title>
-    <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB</link>
-    <guid isPermaLink="false">73-10</guid>
-    <pubDate>Sun, 25 Oct 2026 10:30:00 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>Linux 基金会发布报告指出，AI 辅助编码使代码产出速度提升 52%，但开源项目中约四分之一的 PR 属于低质量“AI 垃圾”，维护者负担反而加重。报告揭示了 AI 编程工具在提升个体效率与增加社区审查成本之间的结构性矛盾。</description>
-  </item>
-  <item>
-    <title>百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵与健康相机</title>
-    <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
-    <guid isPermaLink="false">73-11</guid>
-    <pubDate>Sat, 24 Oct 2026 08:37:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>百度健康宣布升级文心健康管家，AI 服务月活超 5000 万，居行业第一，并发布“好医矩阵”和全网首发的健康相机。健康相机支持打字、方言语音、拍照及视频边拍边说等多模态输入，好医矩阵覆盖在线问诊到线下就诊全流程。</description>
-  </item>
-  <item>
-    <title>支付宝携手科大讯飞升级智能座舱，启动“讯宝计划”</title>
-    <link>https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html</link>
-    <guid isPermaLink="false">73-12</guid>
-    <pubDate>Sat, 24 Oct 2026 08:43:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，启动“讯宝计划”。双方依托讯飞汽车 Master Agent 统一调度，推出高速无感通行、停车无感支付、顺路取快递、智能点单四大服务场景，推动座舱从信息交互向生活服务延伸。</description>
-  </item>
-  <item>
-    <title>支付宝 AI 支付发起年度黑客松，20 万元奖池征集可商业化 AI 应用</title>
-    <link>https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html</link>
-    <guid isPermaLink="false">73-13</guid>
-    <pubDate>Sat, 24 Oct 2026 08:49:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>支付宝 AI 支付联合观猹发起“PAYATHON 2026”年度黑客松，面向个人开发者与团队设置应用、技能两大主赛道及 Token Pay、Machine Pay、Agent Pay 等探索赛道，总奖池 20 万元，报名截至 12 月 1 日。大赛重点考察 AI 产品在真实交易中的商业化价值。</description>
-  </item>
-  <item>
-    <title>AI 大模型需求狂飙，面板行业集体涨价但下游承压</title>
-    <link>https://www.tmtpost.com/8180986.html</link>
-    <guid isPermaLink="false">73-14</guid>
-    <pubDate>Sun, 25 Oct 2026 10:37:48 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体报道称，AI 大模型带动的算力与终端需求推动面板厂商集体涨价，但真正的难题转移至下游。AI 服务器、智能终端对显示与存储的拉动正在重塑面板供需结构，成本压力沿产业链向下传导。</description>
-  </item>
-  <item>
-    <title>AI 股连跌四周业绩却集体爆表：这轮调整杀的是估值不是业绩</title>
-    <link>https://www.tmtpost.com/8179663.html</link>
-    <guid isPermaLink="false">73-15</guid>
-    <pubDate>Sun, 25 Oct 2026 03:10:00 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体分析指出，AI 板块连跌四周，部分公司单季净赚 212 亿元、两天跌去近 15%，但股票型 ETF 同期净流入近 700 亿元。文章认为这轮调整主要杀估值而非业绩，AI 行情进入业绩兑现与估值消化的分化阶段。</description>
-  </item>
-  <item>
-    <title>从“十五五”规划看未来五年 AI 与数据合规变化</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemc-JQTF-59ZtAHgdH-3ByCFqXa8Fplpd9mge6WgRCCJZob6k5ffqCnD2v5JrVHVkA4L12-f1JidQ_nIsFSFZnSQqhN8RrLGTA5XXWbxKxr1WYOcm1bsggsube_ImREw-F5-coIva3bX0N4QFpvRVTu1bGCak-NeSYlm5X_MpYNP1QSLluJ0XMBJla1wGnP1ydw-kwfEz2ZfD1AfaFW2DefQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=8F08FC8156F8617D73742CC1555006AA73E7D8F06ADE9A50</link>
-    <guid isPermaLink="false">73-16</guid>
-    <pubDate>Mon, 26 Oct 2026 00:01:08 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>《国家信息化“十五五”规划》全文 14 页，涵盖人工智能、信息基础设施、数据安全、个人信息保护等多个领域。分析认为政策性表述将为未来五年 AI 发展与数据合规划定框架，企业需提前调整数据治理与模型训练合规策略。</description>
-  </item>
-  <item>
-    <title>声网 CEO 赵斌提出“五级对话能力”框架，勾勒对话式 AI 迈向 AGI 路径</title>
-    <link>https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html</link>
-    <guid isPermaLink="false">73-17</guid>
-    <pubDate>Sat, 24 Oct 2026 02:44:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>在 iRTE2026 实时智能大会上，声网创始人兼 CEO 赵斌提出“五级对话能力”框架，将对话式 AI 从 L1 基础应答到深度理解与关系沟通划分为五个层次。他认为实时互动的对象正从人与人扩展到人与 Agent，实时互动技术需为 AI 的感知、理解、表达与行动提供支撑。</description>
-  </item>
-  <item>
-    <title>五款 AI 智能体框架参加同一记忆测试，结果大相径庭</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemB2UCW3nAPJNAHgdH-3ByCFqXa8Fplpd93tJ5VTqXutzC2ggfb4dibOFxE96kVlpXXhZTbmFaUwYowc5hceAesqLdyS_aIdxHtb07mZyezvkEpb04rd8dSyKOZ1NR_Au3bqWv_zs3dO0i0A9_co5Mo1OUKIoo49RHYx7IPl3gy6voDTEKgi6DaLdsWn1rM82kn0Mbbv2tpuvs46dn8Efgxg..&amp;type=2&amp;query=AI %E6%99%BA%E8%83%BD%E4%BD%93&amp;token=8F09333456F8617D73742CC1555006AA73E7D8F06ADE9A55</link>
-    <guid isPermaLink="false">73-18</guid>
-    <pubDate>Sun, 25 Oct 2026 16:01:15 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>Letta 发布的 FrontierMemory 基准测试评估了五大 AI 智能体框架的学习能力，结果显示智能体框架对记忆转化和任务性能的影响至关重要，不同框架在同一测试下表现差异显著。</description>
-  </item>
-  <item>
-    <title>月之暗面发布新一代开源大模型 Kimi K3.1 Pro</title>
-    <link>https://finance.sina.cn/stock/jdts/2026-10-25/detail-iniwmany0020873.d.html?oid</link>
-    <guid isPermaLink="false">72-1</guid>
-    <pubDate>Sun, 25 Oct 2026 07:07:30 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>月之暗面发布 Kimi K3.1 Pro，在编程与金融复杂投研能力上明显提升，Terminal-Bench 4.0 取得 65.7 分，多家媒体称其终结了中国大模型数月的空窗期。该模型同步公布 Agent、缓存与计费方案，主打高性能与低价格比。这意味着国产开源旗舰重新回到与海外闭源模型正面竞争的节奏。</description>
-  </item>
-  <item>
-    <title>MiniMax 公开 M3.1 Flash 完整权重，总参数 4280 亿</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemFKrbL5dm5WBAHgdH-3ByCFqXa8Fplpd9Gtyw07gwnXcXxQ07l_rziriRyYZIQveqbPgKX_Q50--g5drn0-M88n-UJpd6_wSDKJ0o66Qap6_00tA_UR95EHPigsCQBNUfd2oN0-GXA4ngIzeHuiVupSR2oTQaXZdmDg04pa6-mtCVfrlAVVAv9vB2KSZ7dqnfWkj3myYbdMPP28temKTOwg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=8F0EFACDDF70E8F4FAFDA548D44D20A2FB8867236ADE9AF9</link>
-    <guid isPermaLink="false">72-2</guid>
-    <pubDate>Sun, 25 Oct 2026 16:59:46 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>MiniMax 于 10 月 23 日公开 M3.1 Flash 模型权重，总参数 4280 亿，采用混合专家架构，每次仅激活 230 亿参数。这是国产大模型又一次完整开放权重，延续了近期开源加速的趋势。稀疏激活设计在保持推理成本可控的同时抬高了能力上限，对开源社区与中小企业部署意义较大。</description>
-  </item>
-  <item>
-    <title>海淀发布新一代 3 万亿级开源大模型，规模继续居全球最大</title>
-    <link>https://m.sohu.com/a/1092547268_163278?scm</link>
-    <guid isPermaLink="false">72-3</guid>
-    <pubDate>Sun, 25 Oct 2026 10:38:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>海淀发布新一代 3 万亿级开源大模型，参数规模继续位居全球开源模型前列。该模型由区域创新体系推动，体现北京在开源大模型上的集中投入。超大规模开源模型的出现，将进一步拉动国产算力与推理优化需求。</description>
-  </item>
-  <item>
-    <title>国产 5B 生图模型 MOSS-Image 海外爆火，4 天下载 130 万</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemFKrbL5dm5WBAHgdH-3ByCFqXa8Fplpd9HPQRWzmAcHeHaI70FxsDAhGCjQ2CV0JQ3nG4AO98JyVMumT4S2BZRPGOFsjo1MYNt54nlW4Qy9meUMn59Ou2jGSbhSSggq4C_dYwVKNb57pWRfyD9rHkHEVUezIxD3-uc-O7UJlGWS4wx8rpLNhrZfn7j09dxkeIsCVcgyAT5XfFcvUoAZZH7Q..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=8F0EFACDDF70E8F4FAFDA548D44D20A2FB8867236ADE9AF9</link>
-    <guid isPermaLink="false">72-4</guid>
-    <pubDate>Sun, 25 Oct 2026 16:12:41 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>国产 5B 参数生图模型 MOSS-Image 开源后海外走红，4 天内下载量达 130 万，ComfyUI 社区主动为其制作加速版与 LoRA。该模型主打去除「AI 味」，在生成质感上获得社区认可。小参数模型在海外开发者生态中快速扩散，说明国产开源在图像生成领域已具备社区号召力。</description>
-  </item>
-  <item>
-    <title>十五五规划定调科技主线：AI 芯片与算力网成国家战略核心</title>
-    <link>https://finance.sina.com.cn/wm/2026-10-25/doc-iniwncyp6164752.shtml</link>
-    <guid isPermaLink="false">72-5</guid>
-    <pubDate>Sun, 25 Oct 2026 13:07:53 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>十五五规划将 AI 芯片与算力网列为国家战略核心，明确科技主线的中长期方向。规划层面的定调意味着算力基础设施与自主芯片将继续获得政策与资源倾斜。对国内 AI 产业链而言，这是未来五年投入节奏与国产替代路径的关键指引。</description>
-  </item>
-  <item>
-    <title>燧原科技登陆 A 股，科创板补强 DSA 架构算力拼图</title>
-    <link>https://www.cls.cn/detail/2480563</link>
-    <guid isPermaLink="false">72-6</guid>
-    <pubDate>Sun, 25 Oct 2026 14:02:21 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>燧原科技正式登陆 A 股科创板，成为国产 AI 芯片领域又一家上市公司，主打 DSA 架构算力产品。上市补强了科创板在 AI 算力芯片上的板块拼图，也为国产芯片企业提供了直接融资通道。在算力自主化背景下，二级市场对国产 AI 芯片的定价与期待同步升温。</description>
-  </item>
-  <item>
-    <title>科大讯飞发布星火智慧座舱 3.0 及星火汽车大模型</title>
-    <link>http://www.news18a.com/news/storys_308198.html</link>
-    <guid isPermaLink="false">72-7</guid>
-    <pubDate>Sun, 25 Oct 2026 23:05:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>科大讯飞发布星火智慧座舱 3.0 与星火汽车大模型，推动车载交互从信息应答向服务履约延伸。同期支付宝车载助手接入该座舱，双方启动「讯宝计划」，落地高速无感通行、停车无感支付、顺路取快递、智能点单等场景。汽车座舱正成为大模型智能体落地的高频入口。</description>
-  </item>
-  <item>
-    <title>阿里千问发布个人 AI 智能体三大核心要素</title>
-    <link>https://www.donews.com/news/detail/8/6752919.html</link>
-    <guid isPermaLink="false">72-8</guid>
-    <pubDate>Sun, 25 Oct 2026 10:46:03 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>阿里千问发布个人 AI 智能体的三大核心要素，明确其在个人智能体方向的产品框架。这是国内大厂在云端个人智能体赛道上的又一次明确布局，与近期 Anthropic 等海外厂商的动作形成呼应。个人智能体被视为大模型从工具走向常驻助手的关键形态。</description>
-  </item>
-  <item>
-    <title>讯飞星火医疗大模型 V3.7 升级，AI 患者管理 3.0 发布</title>
-    <link>http://m.eeo.com.cn/2026/1025/1075108.shtml</link>
-    <guid isPermaLink="false">72-9</guid>
-    <pubDate>Sun, 25 Oct 2026 02:50:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>讯飞星火医疗大模型升级至 V3.7，同步发布 AI 患者管理 3.0，并启动相关行业标准共建。医疗大模型从单点问答走向患者全流程管理，标准共建则有助于解决落地中的合规与评价问题。这是大模型在严肃医疗场景中少见的体系化推进。</description>
-  </item>
-  <item>
-    <title>百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵与健康相机</title>
-    <link>https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html</link>
-    <guid isPermaLink="false">72-10</guid>
-    <pubDate>Sat, 24 Oct 2026 08:37:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>百度健康宣布其 AI 服务月活超过 5000 万，行业第一，并升级文心健康管家，发布「好医矩阵」与「健康相机」。健康相机支持视频拍摄、边拍边说等多模态输入，降低用户描述健康问题的门槛。百度健康强调「AI+真人」模式，由医生掌握诊疗决定权，走赋能而非替代路线。</description>
-  </item>
-  <item>
-    <title>政策发文减缓人工智能应用对就业的替代影响</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemI837JgbATOFAHgdH-3ByCFqXa8Fplpd9V2ySDWgdDOcz-QOfjyZCLywwmntc-qSKTAeq4u4bJ5oHEuJRHBadCRikyieQfMmusx9GQuAP12tatxR3PwpI4DH2fwtcbVXucU71Yzv6fL44XoEtJPctFvyWY5bsPNdoyujkd5r1dLuRQkyRS-3p440X1vfl4rdZvy84Zfa2AkI89kyxDwoXvg..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=8F0EAC3CDF70E8F4FAFDA548D44D20A2FB8867236ADE9AF1</link>
-    <guid isPermaLink="false">72-11</guid>
-    <pubDate>Sun, 25 Oct 2026 15:29:37 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>10 月 23 日发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，明确提出减缓 AI 应用带来的就业替代影响。文件将 AI 发展与就业友好型社会建设并列，意味着监管开始关注技术扩散的社会成本。这对企业部署 AI 时的用工安排与合规提出新的考量。</description>
-  </item>
-  <item>
-    <title>DeepSeek、MiniMax 完成大模型出海登记</title>
-    <link>https://www.mrjjxw.com/articles/2026-10-26/4617042.html</link>
-    <guid isPermaLink="false">72-12</guid>
-    <pubDate>Sun, 25 Oct 2026 23:48:44 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>DeepSeek 与 MiniMax 完成大模型出海登记，意味着国产大模型在合规框架下推进海外业务。出海登记涉及模型备案与跨境服务合规，是国产模型进入海外市场的前置环节。两家头部厂商完成登记，为国产模型国际化提供了可参照的路径。</description>
-  </item>
-  <item>
-    <title>AI 行情连跌四周：业绩爆表却杀估值，ETF 净流入近 700 亿</title>
-    <link>https://www.tmtpost.com/8179663.html</link>
-    <guid isPermaLink="false">72-13</guid>
-    <pubDate>Sun, 25 Oct 2026 03:10:00 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>AI 板块连跌四周，部分公司单季净赚 212 亿元、两天却跌去近 15%，同期股票型 ETF 净流入近 700 亿元。市场分析认为这轮调整杀的是估值而非业绩，AI 交易拥挤度与预期透支是主因。算力与芯片股的高估值正在接受重新定价。</description>
-  </item>
-  <item>
-    <title>AI 芯片遭进一步抛售，业绩超预期也难提振股价</title>
-    <link>https://www.moomoo.com/hans/community/discuss?discussion_id</link>
-    <guid isPermaLink="false">72-14</guid>
-    <pubDate>Sun, 25 Oct 2026 19:04:04 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>AI 芯片板块遭遇进一步抛售，即便部分公司业绩超出预期，股价仍未获得支撑。这与近期全球 AI 交易降温、数据中心开工不及预期等担忧相互叠加。芯片作为 AI 行情最拥挤的赛道，正在经历估值与预期的双重修正。</description>
-  </item>
-  <item>
-    <title>长沙造出国内首款 12 英寸多晶碳化硅衬底，破解大功率芯片散热痛点</title>
-    <link>https://hunan.voc.com.cn/news/202610/34083558.html</link>
-    <guid isPermaLink="false">72-15</guid>
-    <pubDate>Sun, 25 Oct 2026 22:57:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>长沙研发出国内首款 12 英寸多晶碳化硅衬底，针对大功率芯片的散热痛点。碳化硅衬底是功率器件与高散热场景的关键材料，12 英寸规格有助于提升单片产出、降低成本。这一突破对 AI 算力设备与功率半导体的国产材料供应链具有补链意义。</description>
-  </item>
-  <item>
-    <title>首程控股旗下基金投资辉羲智能，加速机器人全机算力平台落地</title>
-    <link>https://wap.eastmoney.com/a/202610263907416054.html</link>
-    <guid isPermaLink="false">72-16</guid>
-    <pubDate>Sun, 25 Oct 2026 23:14:04 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>首程控股宣布旗下基金投资辉羲智能，推动机器人全机算力平台落地。辉羲智能聚焦具身智能所需的车规级与机器人算力芯片，本轮融资将加速产品化。具身智能的算力平台正成为芯片与机器人两条产业链的交汇点。</description>
-  </item>
-  <item>
-    <title>Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是「AI 垃圾」</title>
-    <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB</link>
-    <guid isPermaLink="false">72-17</guid>
-    <pubDate>Sun, 25 Oct 2026 10:30:00 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>Linux 基金会发布报告称，AI 辅助写代码使开发速度提升 52%，但开源项目中约四分之一的 PR 属于低质量「AI 垃圾」，维护者负担反而加重。报告揭示了 AI 编程工具在效率与代码质量之间的失衡。对开源社区与工程团队而言，AI 生成内容的审核成本正成为新的瓶颈。</description>
-  </item>
-  <item>
-    <title>支付宝 AI 支付发起年度黑客松，20 万元奖池推动 AI 创意商业化</title>
-    <link>https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html</link>
-    <guid isPermaLink="false">72-18</guid>
-    <pubDate>Sat, 24 Oct 2026 08:49:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>支付宝 AI 支付联合观猹发起「PAYATHON 2026」年度黑客松，设置应用、技能两大主赛道及 Token Pay、Machine Pay、Agent Pay 等方向，总奖池 20 万元。大赛面向个人开发者与团队，要求作品接入支付并接受真实交易检验。这是支付平台降低 AI 产品商业化门槛、争夺开发者生态的具体动作。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 泄露：3D 生成成本仅为 GPT-6 Astra 的 1/14，视觉能力对标海外三巨头</title>
-    <link>https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html</link>
-    <guid isPermaLink="false">71-1</guid>
-    <pubDate>Fri, 23 Oct 2026 10:57:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>Kimi 官方先导片暗示 K3.1 即将发布，实测显示其在 Three.js 上可 15 分钟生成工业级可交互 3D 资产，成本仅为 K3 的 70%、GPT-6 Astra 的 1/14。该模型在视觉与 3D 生成任务上表现突出，Token 效率全面升级，被视为国产模型在视觉赛道的重要突破。</description>
-  </item>
-  <item>
-    <title>三万亿参数国产大模型宣布开源，完整权重 11 月初开放下载</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemHMjexCn8PYfzDcrSD_hwjVqXa8Fplpd9YI9txRLkI3Rh17QQ62siOIwThL-ZKjD6rNmFF1ez1t8t9NZUGBrT4J213K99icJiPG5ZGEz8ygAsRiGvIrkfJkYE8BFm-wP_yyWeJ5wmqoG34ITCJujxYffdM6dCQ9TSURbDmqkMdzB0YX4NFaLFSMf46p-KeBnUR3xIBC06WS-jotuuiAmOIg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=861F0F91297EEC4562673CC666B5303962AB8B496ADD9C81</link>
-    <guid isPermaLink="false">71-2</guid>
-    <pubDate>Sun, 25 Oct 2026 03:31:06 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>某国产三万亿参数大模型在第三方测评中获 55 分、排名全球第四，代码能力突出，并宣布 11 月初开放完整模型权重供任何人下载。这将是国产开源模型在参数规模上的新纪录，可能推动开源生态与下游应用加速。</description>
-  </item>
-  <item>
-    <title>MiniMax 开源 428B 模型，推理成本降低 70%</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemm5-VUfpE2TPzDcrSD_hwjVqXa8Fplpd9JNPm2xqOnYybtMY6R7kxMYokhpgYzN-AQDRDJEXjXOX4EOroLtLqozdbgAb-E1eKLQu7ebqkdcQR0Dk32O789Sm0hHacNvc7XoG2VuoTG8cl59WbJk3MEQM_rmIQNxj7068EhE6QqSMmgSl9YTCG80dCW0gr8hDy0pARGn5bURf0OK9DLfgmPA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=861EC2FE297EEC4562673CC666B5303962AB8B496ADD9C78</link>
-    <guid isPermaLink="false">71-3</guid>
-    <pubDate>Sun, 25 Oct 2026 03:30:32 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>MiniMax 开源 428B 参数模型，官方称推理成本下降 70%，同时英伟达加码物理 AI 方向。该模型在开源社区引发关注，被视为国产模型在效率与规模平衡上的重要尝试。</description>
-  </item>
-  <item>
-    <title>10 月国产大模型盘点：Kimi K3.1 Pro、DeepSeek V4.1-Flash、MiniMax M3.1 Flash 密集发布</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemHMjexCn8PYfzDcrSD_hwjVqXa8Fplpd9cQnSX6XnGoV_Ucq5vThO9HhvBE5ghjJVGoXN_ydk7NXwHSZlwuT2aWR10xRwZAYY4SvfxL4ua4n2XQNiFXRnD7RmRoQpUKDaUw5aJ3UTcrWOh3a_psekYVbOaat7obqW66BM5dKHRLlqnEzQYJFbC9mUhHDEoR3dPNHNM0DbdX3wdVqCwyPdzA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=861F0F91297EEC4562673CC666B5303962AB8B496ADD9C81</link>
-    <guid isPermaLink="false">71-4</guid>
-    <pubDate>Sat, 24 Oct 2026 08:40:25 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>10 月国产大模型密集更新，Kimi K3.1 Pro、DeepSeek V4.1-Flash-1017、MiniMax M3.1 Flash 前后脚发布，覆盖视觉、推理与轻量场景。多家媒体横评显示国产模型在能力与成本上持续逼近海外头部产品。</description>
   </item>
 </channel></rss>
