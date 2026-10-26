@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 27 Oct 2026 07:30:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 07:31:02 +0000</lastBuildDate>
+  <item>
+    <title>Anthropic 正式递交 S-1 招股书，拟以 ANT 登陆纳斯达克</title>
+    <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
+    <guid isPermaLink="false">79-1</guid>
+    <pubDate>Mon, 26 Oct 2026 13:04:50 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 向 SEC 提交了 300 多页的 S-1 文件，计划在纳斯达克上市，股票代码为 ANT，成为首家启动 IPO 的前沿大模型公司。文件披露其营收高速增长但亏损同步扩大，企业客户采用率高，并设置了旨在保留创始人控制权与 AI 安全使命的特殊治理结构。多家媒体报道，这标志着 AI 头部公司开始接受公开市场检验。</description>
+  </item>
+  <item>
+    <title>华尔街银行与 Blackstone 筹组 630 亿美元，为 Anthropic 采购 Broadcom AI 芯片融资</title>
+    <link>https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/</link>
+    <guid isPermaLink="false">79-2</guid>
+    <pubDate>Mon, 26 Oct 2026 21:16:44 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据路透社报道，多家华尔街银行与 Blackstone 正在安排约 630 亿美元融资，用于为 Anthropic 采购 Broadcom 的 AI 芯片。这笔交易以芯片资产为依托，是 AI 基础设施领域规模最大的融资安排之一。它显示算力采购正从公司自有现金流转向大规模结构化债务融资。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布 GPT-6.1 Terra，将快速可靠的计算机使用能力带给所有人</title>
+    <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+    <guid isPermaLink="false">79-3</guid>
+    <pubDate>Mon, 26 Oct 2026 18:01:17 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenAI 推出 GPT-6.1 Terra，官方称其将快速、可靠的计算机使用能力带给所有用户。该模型在 HN 获得 459 分、287 条评论，讨论热度很高。这是 OpenAI 在智能体操作计算机方向上的又一次产品化推进。</description>
+  </item>
+  <item>
+    <title>FTC 要求 Anthropic 高管在扩大的 AI 安全调查中作证</title>
+    <link>https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai</link>
+    <guid isPermaLink="false">79-4</guid>
+    <pubDate>Mon, 26 Oct 2026 18:03:45 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Axios 独家报道，美国联邦贸易委员会（FTC）正在扩大对 Anthropic 的 AI 安全调查，并要求其高管出庭作证。调查时点恰逢 Anthropic 递交 IPO 文件，监管压力与上市进程叠加。这表明美国监管机构对前沿 AI 公司的安全实践审查正在实质性升级。</description>
+  </item>
+  <item>
+    <title>十年前的老式 CNN 在皮肤癌诊断上超越前沿大模型</title>
+    <link>https://lynchlab.net/llm-skin-cancer</link>
+    <guid isPermaLink="false">79-5</guid>
+    <pubDate>Sun, 25 Oct 2026 17:15:38 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>一项对比研究显示，一个十年前架构的卷积神经网络在皮肤癌诊断任务上表现优于当前多个前沿大语言模型。该结果在 HN 获得 651 分、268 条评论，引发广泛讨论。它提示通用大模型在特定医学影像任务上未必优于专用小模型。</description>
+  </item>
+  <item>
+    <title>SpaceX 与 Apollo 达成 400 亿美元协议，为 AI 芯片融资</title>
+    <link>https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/</link>
+    <guid isPermaLink="false">79-6</guid>
+    <pubDate>Mon, 26 Oct 2026 13:58:13 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>SpaceX 与 Apollo 达成 400 亿美元融资协议，为其快速扩张的 AI 业务提供芯片资金，避免完全依赖传统债务市场。TechCrunch 等媒体报道了该交易。这是非传统科技公司以结构化融资方式参与 AI 算力竞赛的最新案例。</description>
+  </item>
+  <item>
+    <title>Google 承认 Gemini 4 Argon 在 Android 编码任务上明显落后于 Claude 和 GPT-6</title>
+    <link>https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/</link>
+    <guid isPermaLink="false">79-7</guid>
+    <pubDate>Mon, 26 Oct 2026 22:06:22 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据 9to5Google 报道，Google 方面表示 Gemini 4 Argon 在 Android 编码任务上的排名明显落后于 Claude 和 GPT-6。这是 Google 罕见公开承认自家模型在特定编码场景中的差距。编码能力是开发者生态竞争的核心指标，该表态可能影响 Gemini 在开发者中的采用预期。</description>
+  </item>
+  <item>
+    <title>OpenAI 与 Anthropic 数月内将大模型价格下调最高 80%，原因何在</title>
+    <link>https://minimaxir.com/2026/10/cheap-llms</link>
+    <guid isPermaLink="false">79-8</guid>
+    <pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>一篇在 HN 获得 412 分、418 条评论的分析指出，OpenAI 与 Anthropic 在数月内将大模型 API 价格下调最高 80%。文章探讨了推理成本下降、竞争加剧与市场份额争夺等驱动因素。价格战正在压缩模型层利润空间，并加速应用层普及。</description>
+  </item>
+  <item>
+    <title>Cohere 披露某热门开源权重模型出现令人担忧的行为</title>
+    <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+    <guid isPermaLink="false">79-9</guid>
+    <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Cohere 发布博客，称一个热门开源权重 AI 模型出现了「令人担忧的行为」，但未在摘要中展开细节。该帖在 HN 获得 245 分、99 条评论，社区讨论集中在开源模型的安全评估与部署风险。此事可能推动对开源权重模型行为审计的更多关注。</description>
+  </item>
+  <item>
+    <title>Anthropic 招股书揭示其留住企业客户的交叉销售策略</title>
+    <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked</link>
+    <guid isPermaLink="false">79-10</guid>
+    <pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 分析 Anthropic 的 S-1 文件发现，在其年付费超过 10 万美元的客户中，超过一半同时使用 Claude 平台和第一方应用。这种类似亚马逊的交叉销售打法提升了企业客户的粘性。文件还显示企业采用率是其营收增长的核心支撑。</description>
+  </item>
+  <item>
+    <title>Wired：Anthropic 招股书缺失多项关键财务数据</title>
+    <link>https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers</link>
+    <guid isPermaLink="false">79-11</guid>
+    <pubDate>Mon, 26 Oct 2026 21:27:15 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道指出，Anthropic 长达数百页的 S-1 文件遗漏了相当多财务细节，有分析师称「Anthropic 欠投资者更多信息」。在 IPO 定价前，信息披露的完整性可能成为监管与投资者关注焦点。这与该公司此前强调安全与治理的叙事形成对照。</description>
+  </item>
+  <item>
+    <title>Anthropic 招股书承认数据中心对天然气的依赖</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
+    <guid isPermaLink="false">79-12</guid>
+    <pubDate>Mon, 26 Oct 2026 21:45:31 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道，Anthropic 的 S-1 文件明确承认数据中心正越来越依赖天然气供电，并称电力供应与合适选址的竞争十分激烈。这让生成式 AI 的甲烷依赖问题在上市文件中被公开化。能源与气候风险由此成为 AI 公司招股书中的正式风险项。</description>
+  </item>
+  <item>
+    <title>Cadence 推出芯片设计商可在内部运行的 AI 模型套件</title>
+    <link>https://www.reuters.com/business/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house-2026-10-26/</link>
+    <guid isPermaLink="false">79-13</guid>
+    <pubDate>Mon, 26 Oct 2026 17:22:18 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Cadence 发布一套可供芯片制造商在内部部署运行的 AI 模型套件，覆盖芯片设计流程。路透社报道称，这迎合了芯片公司对数据不出内网、可自主运行 AI 工具的需求。EDA 环节的 AI 本地化部署正在成为新趋势。</description>
+  </item>
+  <item>
+    <title>Apollo 研究：AI 在科技行业之外带来「零财务回报」</title>
+    <link>https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10</link>
+    <guid isPermaLink="false">79-14</guid>
+    <pubDate>Sun, 25 Oct 2026 22:49:06 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Apollo 的一项分析称，尽管投入巨大、炒作广泛，AI 对美国科技行业以外的企业产生了「零财务回报」。Business Insider 与 TechCrunch 等媒体报道了这一结论。该研究为 AI 投资回报的争论增添了宏观层面的证据。</description>
+  </item>
+  <item>
+    <title>OpenAI 公布在 Kakeya 猜想、指数时间假设与量子色动力学上的模型结果</title>
+    <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+    <guid isPermaLink="false">79-15</guid>
+    <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 官方博客称，其模型在 Kakeya 猜想、指数时间假设（ETH）与量子色动力学等数学和物理问题上给出了结果，并说明了研究人员如何验证与在此基础上继续推进。同一批成果中还包括一篇声称「指数时间假设为假」的预印本。这显示前沿模型正被用于辅助基础科学研究。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布预印本，声称指数时间假设为假</title>
+    <link>https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</link>
+    <guid isPermaLink="false">79-16</guid>
+    <pubDate>Mon, 26 Oct 2026 21:59:15 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenAI 在 GitHub 上发布预印本论文《指数时间假设为假》，该文在 HN 获得 73 分、21 条评论。指数时间假设是计算复杂性理论的核心假设之一，若成立将产生重大理论影响。该工作与 OpenAI 官方博客中关于模型辅助科研的表述相互呼应。</description>
+  </item>
+  <item>
+    <title>微软向 6 万名员工提供自愿离职补偿</title>
+    <link>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</link>
+    <guid isPermaLink="false">79-17</guid>
+    <pubDate>Mon, 26 Oct 2026 15:58:27 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>微软宣布向美国、英国、加拿大和印度最多 6 万名员工提供自愿买断方案，首席人力官称此举为员工提供「带财务支持与职业规划资源离开微软」的机会。这是微软在 AI 转型中调整人力结构的又一步。大规模买断可能反映资源正进一步向 AI 业务倾斜。</description>
+  </item>
+  <item>
+    <title>Grok 发布 AI 生成影片《Odyssey》的前七分钟</title>
+    <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey</link>
+    <guid isPermaLink="false">79-18</guid>
+    <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Grok 发布了其 AI 生成影片《Odyssey》的前七分钟片段。TechCrunch 评价称画面尚可，但缺乏艺术性与人文趣味。这是 AI 生成长视频商业化尝试的最新案例，也暴露了当前生成视频在叙事质量上的短板。</description>
+  </item>
+  <item>
+    <title>GitHub 竞争对手 Entire 上线，主打智能体优先的代码平台</title>
+    <link>https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge</link>
+    <guid isPermaLink="false">79-19</guid>
+    <pubDate>Mon, 26 Oct 2026 17:00:04 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>Entire 正式上线，定位为「智能体优先」的代码托管与协作平台，试图在智能体大量编写代码的背景下重构编码平台。ZDNet 介绍了其基于 Trail 与 Git forge 的工作方式。随着 AI 智能体写代码比例上升，代码平台的形态正在被重新设计。</description>
+  </item>
+  <item>
+    <title>The RealReal 升级机器人防御，阻止 AI 智能体抢购设计师服装</title>
+    <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+    <guid isPermaLink="false">79-20</guid>
+    <pubDate>Mon, 26 Oct 2026 17:30:55 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>二手奢侈品零售商 The RealReal 表示正在升级其机器人防御系统，使 AI 智能体更难在其网站上下单购物。此前 The Verge 报道有 AI 智能体利用其商品预留机制套利。这反映出电商与 AI 购物智能体之间的攻防正在升温。</description>
+  </item>
   <item>
     <title>Anthropic 正式提交 S-1 招股书，拟以代码 ANT 登陆纳斯达克</title>
     <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
@@ -323,165 +483,5 @@
     <pubDate>Fri, 23 Oct 2026 22:06:31 +0000</pubDate>
     <source>国家数据局·司局动态</source>
     <description>10月20日至23日，国家数据局政策和规划司在青岛举办数据基础制度培训班，副局长夏冰出席讲话，明确当前数据基础制度已初步建立，下一步要推动数据产权制度落实落细、优化数据流通交易规则、细化数据安全治理规则。北京、上海、江苏、山东、湖南、广东等地数据管理部门围绕数据产权登记、融合应用场景作交流分享。</description>
-  </item>
-  <item>
-    <title>全国公共数据运营发展报告：已建在建授权运营平台或专区76个</title>
-    <link>https://www.smartcity.team/reports/%E5%85%A8%E5%9B%BD%E5%85%AC%E5%85%B1%E6%95%B0%E6%8D%AE%E8%BF%90%E8%90%A5%E5%8F%91%E5%B1%95%E6%8A%A5%E5%91%8A2026/</link>
-    <guid isPermaLink="false">76-5</guid>
-    <pubDate>Fri, 23 Oct 2026 04:37:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>《全国公共数据运营发展报告（2025-2026）》披露，全国已公开运营或在建的公共数据资源授权运营平台或专区达76个，已确定实施机构202家、运营机构224家。数据勾勒出公共数据授权运营从试点走向体系化铺开的格局，实施机构与运营机构的分工架构初步成型。</description>
-  </item>
-  <item>
-    <title>中共中央、国务院关于发展新质生产力的意见发布</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/xwfb/1009/20261009191908259329235_pc.html</link>
-    <guid isPermaLink="false">76-6</guid>
-    <pubDate>Fri, 09 Oct 2026 19:19:08 +0000</pubDate>
-    <source>国家数据局·新闻发布</source>
-    <description>中共中央、国务院印发关于发展新质生产力的意见，提出以全要素生产率大幅提升为核心标志，推动生产要素创新性配置，加快形成同新质生产力更相适应的生产关系。文件由新华社受权发布，国家数据局官网转载，数据作为新型生产要素的配置改革被纳入更宏观的产业政策框架。</description>
-  </item>
-  <item>
-    <title>四川印发数据要素市场化配置改革攻坚突破行动方案（2026—2028年）</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemZnJwVRuycrBAHgdH-3ByCFqXa8Fplpd9qpcBDJnRNcZKkOyRQmZcytGiTRWKIFp-uCeHA1JbsmvAv8lvrjs07PvS3rtrrvvPN3roW7OgJ5CgQvYQbWe2iPm1UPzPYB3f-22eM3PXlxVPiKaq4SUC5Rnes87SMxUtz9XqDFd7NaHEw3r89yvdTAgHF3qINJwp78KF6pr5joOrCDCayYmfpA..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=8FB0266AD1F32709787E29C33CAAB9CF78E13C766ADEAD1C</link>
-    <guid isPermaLink="false">76-7</guid>
-    <pubDate>Sun, 25 Oct 2026 11:49:01 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>四川省政府办公厅印发《四川省数据要素市场化配置改革攻坚突破行动方案（2026—2028年）》，实施五大行动推进数据要素市场化配置改革。方案以三年为周期，聚焦数据产权、流通交易、开发利用等关键环节的攻坚突破，是地方层面较系统的中长期制度安排。</description>
-  </item>
-  <item>
-    <title>广州数据要素改革经验获国家推广，为全国首批、广东唯一</title>
-    <link>https://www.gz.gov.cn/xw/zwlb/content/post_11067884.html</link>
-    <guid isPermaLink="false">76-8</guid>
-    <pubDate>Fri, 23 Oct 2026 13:03:57 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>广州数据要素改革经验入选全国首批推广名单，为广东省唯一入选城市。广州市政府披露，其改革围绕数据产权、流通交易与公共数据开发利用形成可复制做法，获国家层面认可并向全国推广。</description>
-  </item>
-  <item>
-    <title>2026年“数据要素×”大赛全国总决赛颁奖仪式在青岛举办</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/xwfb/1023/20261023221408358579821_pc.html</link>
-    <guid isPermaLink="false">76-9</guid>
-    <pubDate>Fri, 23 Oct 2026 22:14:08 +0000</pubDate>
-    <source>国家数据局·新闻发布</source>
-    <description>2026年“数据要素×”大赛全国总决赛颁奖仪式在青岛国际会议中心举行，由国家数据局、中央网信办、山东省人民政府等22家单位联合主办。颁奖仪式包含获奖项目颁奖与成果发布环节，获奖代表分享项目亮点与创新经验。多家媒体对赛事收官进行了报道。</description>
-  </item>
-  <item>
-    <title>数据资产交易博弈定价机制研究综述</title>
-    <link>https://doi.org/10.54254/2978-1736/2026.38139</link>
-    <guid isPermaLink="false">76-10</guid>
-    <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>综述指出数据资产的非竞争性、可复制性与场景依赖性使传统成本法、价值法、市场法定价难以反映动态价值，博弈论为动态差异化定价提供新视角。文章比较静态、动态及演化博弈定价机制，并指出当前研究存在理论建模稳健但实践性不足、对数据质量与产权约束考量不充分、多场景多主体定价机制不完善等问题。</description>
-  </item>
-  <item>
-    <title>数据要素化背景下数据知识产权的客体研究</title>
-    <link>https://doi.org/10.54254/3050-2160/2026.38235</link>
-    <guid isPermaLink="false">76-11</guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>论文认为将“数据”整体作为知识产权客体在构成要件上存在冲突，根源在于客体范畴不当泛化，主张将数据知识产权客体限缩为“数据产品”，内涵包括创造性、衍生性、集合性、价值性四项特征，外延排除原始数据、公共数据、个人信息数据及数据库作品。</description>
-  </item>
-  <item>
-    <title>数据资产入表对企业融资影响研究</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/2476</link>
-    <guid isPermaLink="false">76-12</guid>
-    <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究基于《企业数据资源相关会计处理暂行规定》实施背景，发现数据资产入表通过数据资产抵押拓宽融资渠道、提升企业价值增强融资能力、优化资本结构降低融资成本三条路径促进企业融资。文章同时指出数据确权难、估值难仍是制约入表融资效应释放的关键障碍。</description>
-  </item>
-  <item>
-    <title>企业数据资产入表的现状、问题及对策分析</title>
-    <link>https://doi.org/10.61369/se.2025010016</link>
-    <guid isPermaLink="false">76-13</guid>
-    <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>文章以2024年度上市公司数据资产入表情况为基础，指出实践中存在权属确认不明、科目归属争议、估值方法不确定、监管披露困难等问题，并从确认、估值、监管三方面提出完善建议。研究为评估入表政策落地效果提供了上市公司层面的实证观察。</description>
-  </item>
-  <item>
-    <title>数据资产化对企业新质生产力的影响机制研究——以中国联通为例</title>
-    <link>https://doi.org/10.32629/ej.v9i3.3436</link>
-    <guid isPermaLink="false">76-14</guid>
-    <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>案例研究剖析中国联通数据资产入表的具体操作流程，发现入表可缓解信息不对称、实现财务指标系统性改善，并激发科技创新、优化业务流程、升级人力资本结构。研究认为数据资产化通过业务拓展、网络优化、精准营销显著赋能企业新质生产力。</description>
-  </item>
-  <item>
-    <title>港航物流大脑的数据要素底座：从数据资产化到流域级数据流通交易</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemZnJwVRuycrBAHgdH-3ByCFqXa8Fplpd99iYujYCdjpPkn04fpGktgkYIulUtROMifNsdNAr5BhP1vs0CHGAONA9PpQGQ689aEvBT0qbUxjFUGeY1SCCIS7Rd2uYOrgYdMCVk5kgBScYBwlhMhm4mR33UC7LkI0M63kIVfUe2Cxd2WitGCQz1uw2VaEQFnEvIButjjqDrJlm00NVofL2iDw..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=8FB0266AD1F32709787E29C33CAAB9CF78E13C766ADEAD1C</link>
-    <guid isPermaLink="false">76-15</guid>
-    <pubDate>Mon, 26 Oct 2026 00:19:18 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>文章指出当前数据要素领域存在“入表热、交易冷”的结构性反差，并以港航物流大脑为例，梳理从数据资产化到流域级数据流通交易的落地路径。内容聚焦行业内真正困难的环节，而非泛泛的概念讨论。</description>
-  </item>
-  <item>
-    <title>太一数科建设可信数据空间，激活港口数据价值</title>
-    <link>https://m.sohu.com/a/1092099454_121347613?scm</link>
-    <guid isPermaLink="false">76-16</guid>
-    <pubDate>Sat, 24 Oct 2026 04:50:01 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>太一数科围绕港口场景建设可信数据空间，以“数字哨兵”形态激活港口数据价值。项目将可信数据空间技术路线落到港航物流的具体作业环节，是可信数据空间在垂直行业落地的案例之一。</description>
-  </item>
-  <item>
-    <title>数据要素市场化对企业数字化转型的影响研究</title>
-    <link>https://doi.org/10.71411/jyyjx.2026.v1i8.1797</link>
-    <guid isPermaLink="false">76-17</guid>
-    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>论文揭示数据要素市场“热”与企业转型“冷”的现实悖论，构建“基础支撑—动力激发—环境催化”三维框架，阐释市场化通过降低交易成本、提升数据可获得性、强化组织动态能力驱动企业数字化转型。研究指出赋能效应受制度、市场与企业三重因素制约，需三方协同。</description>
-  </item>
-  <item>
-    <title>政府数据资源的隐私保护与数字资产化创新经济模型探索——基于广州民商调解与仲裁协同机制</title>
-    <link>https://doi.org/10.63887/fem.2025.1.7.11</link>
-    <guid isPermaLink="false">76-18</guid>
-    <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>论文以隐私保护为前提，提出政府数据资源价值释放的四条路径：跨部门协同机制、国企主导的数据资产化运营“前店后厂”模式、工业园区RWA数字化融资路径、普惠性数据要素增值体系。结合广州与长三角案例，论证隐私计算、区块链在平衡利用与安全中的作用。</description>
-  </item>
-  <item>
-    <title>AI 越狱提示词合集：覆盖 25+ 前沿与开源模型</title>
-    <link>https://github.com/Alejandros17487/ai-jailbreaks</link>
-    <guid isPermaLink="false">75-1</guid>
-    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目整理了 35 条可直接粘贴使用的越狱提示词，覆盖 25 个以上前沿闭源模型与开源权重模型，形式包括系统提示、AGENTS.md 规范与 Ollama Modelfile。它面向 AI 安全研究与红队测试，提供统一格式的测试样本，便于横向比较不同模型的防护强度。这类资源的高热度反映出模型安全对齐仍是社区关注焦点，但也存在被滥用的风险。</description>
-  </item>
-  <item>
-    <title>AI 路线图 2026：从基础到智能体工程的五层学习路径</title>
-    <link>https://github.com/h9-tec/ai-roadmap-2026</link>
-    <guid isPermaLink="false">75-2</guid>
-    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该仓库给出一条面向初学者的五层学习路径，依次覆盖基础、LLM 工程、智能体、评估与生产化，每层配一个可展示的迷你项目，并附经过核验的免费资源。作者引用市场分析指出 2026 年 AI 工程的重心已从训练模型转向构建可靠的智能体系统，RAG、智能体与评估是招聘描述中反复出现的三项技能。适合转行者和自学者按图索骥，内容以 Markdown 为主、无代码依赖。</description>
-  </item>
-  <item>
-    <title>cvENGINE：AI 驱动的外部攻击面评估与漏洞验证</title>
-    <link>https://github.com/hevnsnt/CVEngine</link>
-    <guid isPermaLink="false">75-3</guid>
-    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
-    <source>GitHub</source>
-    <description>cvENGINE 将资产发现、服务指纹识别与 CVE 匹配整合为一个持续循环，并尝试用只读安全检查复现漏洞，最终给出「今天在野利用的 CVE 中哪些真正影响你」的结论而非告警堆。项目基于 Python，集成 bbot、nmap 等工具，并提供面向开发代理的 MCP 接口。它把企业级攻击面管理做成免费开源方案，适合安全团队与红队自建使用。</description>
-  </item>
-  <item>
-    <title>AbliteratedOutTheBox：在推理阶段执行「消融」的 llama.cpp 分支</title>
-    <link>https://github.com/heterodoxin/AbliteratedOutTheBox</link>
-    <guid isPermaLink="false">75-4</guid>
-    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目是 llama.cpp 的 C++ 分支，把模型「消融」（abliteration，即移除拒答倾向）放到推理时进行，无需重新训练或修改权重文件。对希望在本地运行无拒答行为模型的开发者而言，这降低了操作门槛，也便于对比不同消融强度下的输出差异。项目尚处早期，文档与商用许可需自行核实。</description>
-  </item>
-  <item>
-    <title>大肥鱼消除计划：识别并清理 B 站评论区 AI 机器人账号的浏览器插件</title>
-    <link>https://github.com/liyupi/dafeiyu-cleaner</link>
-    <guid isPermaLink="false">75-5</guid>
-    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该插件针对 B 站评论区大量由 DeepSeek 驱动的自动回复账号，采用「离线规则初筛 + DeepSeek API 精判」的两级策略，支持评论检测、空间主页鉴定与一键清场，覆盖 Chrome、Edge、Firefox。项目以 JavaScript 编写、MIT 许可，安装即用，适合普通用户对抗 AI 内容灌水。它也是 AIGC 内容治理需求在终端侧落地的少见案例。</description>
-  </item>
-  <item>
-    <title>37Studio：自托管的 AI 视频工作室与社媒运营台</title>
-    <link>https://github.com/Shaitrish/37studio</link>
-    <guid isPermaLink="false">75-6</guid>
-    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
-    <source>GitHub</source>
-    <description>37Studio 定位为 Buffer 与 Opus Clip 的开源替代，由 Claude Code 驱动，可根据品牌资料生成视频并一键发布到 9 个平台，还能起草评论回复。项目以 Go 编写、Docker 部署，使用用户自己的 API Key，数据留在本机。适合中小商家与内容创作者自建社媒流水线，但多平台发布涉及各平台接口政策，商用前需评估合规性。</description>
   </item>
 </channel></rss>
