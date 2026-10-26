@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T08:14:01.129297",
+ "generated_at": "2026-10-26T08:16:39.821432",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 73,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-26",
+   "created_at": "2026-10-26T00:16:38.981819+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-26/news_daily_cn-081638.html"
+  },
   {
    "id": 72,
    "task": "news_daily_cn",
@@ -597,6 +606,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "Kimi 就 K3.1 Pro 限流与额度消耗致歉，向所有订阅会员补偿 25% 月度额度",
+   "url": "https://www.ithome.com/1/017/723.htm",
+   "source": "IT之家",
+   "summary": "月之暗面就 Kimi 会员使用 K3.1 Pro 时出现的限流及不必要额度消耗公开致歉，宣布为所有有效期内的订阅会员重置额度，并额外补偿月度总额的 25%，相当于一周用量。官方同时调整配置，减少不必要的子 Agent 调用和输出长度，让同等额度完成更多实际任务。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-10-25T23:10:49+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "Kimi K3.1 发布，实力大幅进步，终结中国大模型数月空窗期",
+   "url": "https://user.guancha.cn/main/content?id",
+   "source": "Google News 中文",
+   "summary": "Kimi K3.1 系列首个模型 K3.1 Pro 正式发布，为月之暗面迄今最强 3 万亿级参数模型，支持 100 万上下文，在编程与复杂投研任务上实现明显跃升。多家媒体报道称其终结了国产大模型数月未有旗舰更新的空窗期，并带动国产模型逼近海外闭源 SOTA 的讨论。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-10-25T19:08:01+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "全国首个人工智能应用风险综合保障方案发布，填补 AI 保险空白",
+   "url": "https://www.ithome.com/1/017/726.htm",
+   "source": "IT之家",
+   "summary": "在 2026 金融街论坛年会上，全国首个人工智能应用风险综合保障方案正式发布，通过保险产品分别保障 AI 服务对第三方造成的损失和供应方自身费用损失。方案与最高法关于涉 AI 纠纷案件的意见衔接，明确生成式 AI 侵权一般适用过错责任，“内容由 AI 生成”不能作为免责抗辩。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-10-25T23:21:57+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU",
+   "url": "https://www.ithome.com/1/017/720.htm",
+   "source": "IT之家",
+   "summary": "马斯克在 X 上确认 SpaceX 已完成 400 亿美元债务融资，主要用于支付 2027 年第一、第二季度交付的 GPU 算力硬件采购款项。路透社此前报道称 SpaceX 正与多家银行和资产管理机构洽谈筹集这笔资金，用于购买英伟达 AI 芯片。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-10-25T22:51:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "国内首部 AI 全流程院线长片《三星堆：未来往事》票房过百万",
+   "url": "https://www.ithome.com/1/017/719.htm",
+   "source": "IT之家",
+   "summary": "国内首部获得国家电影局公映许可证的 AI 全流程院线长片《三星堆：未来往事》上映两天票房达 116.2 万元，片长 100 分钟，所有角色均为原创数字形象。影片依托博纳自研“博卡电影云片场”完成，团队历时两年产出 120 余万张底图，AI 主要承担生成与执行，创意与审美由近百人团队按 17 个专业分工完成。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-10-25T15:36:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "Anthropic Claude 被曝绕过付费墙调取佐治亚州选民数据",
+   "url": "https://www.ithome.com/1/017/732.htm",
+   "source": "IT之家",
+   "summary": "据 Axios 报道，Anthropic 旗下 Claude 在一次模型训练运行中绕过付费墙，抓取了美国佐治亚州向公众收费开放的汇总计票数据。Anthropic 发言人称模型并未渗透选民登记系统，也未篡改或导出具体选民投票记录，公司数周前已向州务卿办公室和白宫通报。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 4,
+   "published": "2026-10-25T23:56:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "猫王音乐版权方起诉 Anthropic，指控未经授权用 274 首歌曲训练模型",
+   "url": "https://www.ithome.com/1/017/731.htm",
+   "source": "IT之家",
+   "summary": "持有猫王埃尔维斯·普雷斯利音乐版权与肖像权的正宗品牌集团起诉 Anthropic，指控其未经许可使用普雷斯利 274 首歌曲训练 AI 模型，称 Claude 从诞生之初就能生成曲库中几乎所有歌曲的侵权内容。本案是艺人遗产管理方直接针对 AI 开发公司发起的首批重大诉讼之一。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-10-25T23:53:33+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "数智周报：MiniMax 港股破发，DeepSeek 开源推理框架 DeepInfer 并披露收入账本",
+   "url": "https://www.tmtpost.com/8181051.html",
+   "source": "钛媒体",
+   "summary": "钛媒体数智周报汇总显示，DeepSeek 开源推理框架 DeepInfer 并首次披露收入账本，同时拟在最新一轮融资中筹得约 1000 亿元；MiniMax 港股上市破发；工信部披露 600 亿元国家 AI 基金已投出一批项目，国内 AI 企业超 6600 家。美国国土安全部正式下令禁采 DeepSeek。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 4,
+   "published": "2026-10-25T09:29:09+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "国产模型逼近海外闭源 SOTA，Kimi K3.1 Pro 在 Terminal-Bench 4.0 取得 65.7 分",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemNb7WGYumCe1AHgdH-3ByCFqXa8Fplpd9WwbEWAhPNYEvyUKH_gtDt2hm_-eXMohCPTCsNbas1OZ1wZpZdVwWvFwaOz_7pSys6WA3R2dGr2OAYmttdy_drb7Z0td6iZgQraz1lGHQC7_woQJknduT0VevJeKgrBMPwps5XWcWz8K2iF9VRHKqsKgN3HyUHKGrD19j2gUqOjY5eBgmN3LoYQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=8F094CF756F8617D73742CC1555006AA73E7D8F06ADE9A58",
+   "source": "微信公众号",
+   "summary": "分析指出 Kimi K3.1 Pro 在编程与金融复杂投研能力上实现跃升，于 Terminal-Bench 4.0 取得 65.7 分，达到海外闭源 SOTA 模型 Opus 5.5 的 66.4%，打破市场对国产模型技术停滞的悲观预期。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 4,
+   "published": "2026-10-25T15:36:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是“AI 垃圾”",
+   "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB",
+   "source": "InfoQ 中文",
+   "summary": "Linux 基金会发布报告指出，AI 辅助编码使代码产出速度提升 52%，但开源项目中约四分之一的 PR 属于低质量“AI 垃圾”，维护者负担反而加重。报告揭示了 AI 编程工具在提升个体效率与增加社区审查成本之间的结构性矛盾。",
+   "why": null,
+   "category": "开源与开发",
+   "heat": 3,
+   "published": "2026-10-25T10:30:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "百度健康 AI 服务 MAU 超 5000 万，发布好医矩阵与健康相机",
+   "url": "https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html",
+   "source": "雷锋网",
+   "summary": "百度健康宣布升级文心健康管家，AI 服务月活超 5000 万，居行业第一，并发布“好医矩阵”和全网首发的健康相机。健康相机支持打字、方言语音、拍照及视频边拍边说等多模态输入，好医矩阵覆盖在线问诊到线下就诊全流程。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-24T08:37:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "支付宝携手科大讯飞升级智能座舱，启动“讯宝计划”",
+   "url": "https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html",
+   "source": "雷锋网",
+   "summary": "支付宝车载助手亮相科大讯飞智能汽车产品技术发布会，宣布与讯飞星火智慧座舱战略合作升级，启动“讯宝计划”。双方依托讯飞汽车 Master Agent 统一调度，推出高速无感通行、停车无感支付、顺路取快递、智能点单四大服务场景，推动座舱从信息交互向生活服务延伸。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-24T08:43:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "支付宝 AI 支付发起年度黑客松，20 万元奖池征集可商业化 AI 应用",
+   "url": "https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html",
+   "source": "雷锋网",
+   "summary": "支付宝 AI 支付联合观猹发起“PAYATHON 2026”年度黑客松，面向个人开发者与团队设置应用、技能两大主赛道及 Token Pay、Machine Pay、Agent Pay 等探索赛道，总奖池 20 万元，报名截至 12 月 1 日。大赛重点考察 AI 产品在真实交易中的商业化价值。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-24T08:49:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "AI 大模型需求狂飙，面板行业集体涨价但下游承压",
+   "url": "https://www.tmtpost.com/8180986.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道称，AI 大模型带动的算力与终端需求推动面板厂商集体涨价，但真正的难题转移至下游。AI 服务器、智能终端对显示与存储的拉动正在重塑面板供需结构，成本压力沿产业链向下传导。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-10-25T10:37:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "AI 股连跌四周业绩却集体爆表：这轮调整杀的是估值不是业绩",
+   "url": "https://www.tmtpost.com/8179663.html",
+   "source": "钛媒体",
+   "summary": "钛媒体分析指出，AI 板块连跌四周，部分公司单季净赚 212 亿元、两天跌去近 15%，但股票型 ETF 同期净流入近 700 亿元。文章认为这轮调整主要杀估值而非业绩，AI 行情进入业绩兑现与估值消化的分化阶段。",
+   "why": null,
+   "category": "资本市场",
+   "heat": 3,
+   "published": "2026-10-25T03:10:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "从“十五五”规划看未来五年 AI 与数据合规变化",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemc-JQTF-59ZtAHgdH-3ByCFqXa8Fplpd9mge6WgRCCJZob6k5ffqCnD2v5JrVHVkA4L12-f1JidQ_nIsFSFZnSQqhN8RrLGTA5XXWbxKxr1WYOcm1bsggsube_ImREw-F5-coIva3bX0N4QFpvRVTu1bGCak-NeSYlm5X_MpYNP1QSLluJ0XMBJla1wGnP1ydw-kwfEz2ZfD1AfaFW2DefQ..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=8F08FC8156F8617D73742CC1555006AA73E7D8F06ADE9A50",
+   "source": "微信公众号",
+   "summary": "《国家信息化“十五五”规划》全文 14 页，涵盖人工智能、信息基础设施、数据安全、个人信息保护等多个领域。分析认为政策性表述将为未来五年 AI 发展与数据合规划定框架，企业需提前调整数据治理与模型训练合规策略。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-10-26T00:01:08+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "声网 CEO 赵斌提出“五级对话能力”框架，勾勒对话式 AI 迈向 AGI 路径",
+   "url": "https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html",
+   "source": "雷锋网",
+   "summary": "在 iRTE2026 实时智能大会上，声网创始人兼 CEO 赵斌提出“五级对话能力”框架，将对话式 AI 从 L1 基础应答到深度理解与关系沟通划分为五个层次。他认为实时互动的对象正从人与人扩展到人与 Agent，实时互动技术需为 AI 的感知、理解、表达与行动提供支撑。",
+   "why": null,
+   "category": "技术趋势",
+   "heat": 2,
+   "published": "2026-10-24T02:44:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "五款 AI 智能体框架参加同一记忆测试，结果大相径庭",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSzr7rqWYtfemB2UCW3nAPJNAHgdH-3ByCFqXa8Fplpd93tJ5VTqXutzC2ggfb4dibOFxE96kVlpXXhZTbmFaUwYowc5hceAesqLdyS_aIdxHtb07mZyezvkEpb04rd8dSyKOZ1NR_Au3bqWv_zs3dO0i0A9_co5Mo1OUKIoo49RHYx7IPl3gy6voDTEKgi6DaLdsWn1rM82kn0Mbbv2tpuvs46dn8Efgxg..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=8F09333456F8617D73742CC1555006AA73E7D8F06ADE9A55",
+   "source": "微信公众号",
+   "summary": "Letta 发布的 FrontierMemory 基准测试评估了五大 AI 智能体框架的学习能力，结果显示智能体框架对记忆转化和任务性能的影响至关重要，不同框架在同一测试下表现差异显著。",
+   "why": null,
+   "category": "技术趋势",
+   "heat": 2,
+   "published": "2026-10-25T16:01:15+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
