@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:00:37.087218",
+ "generated_at": "2026-10-26T09:00:48.375532",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 75,
+   "task": "github_weekly",
+   "title": "GitHub 每周 AI 高星项目 · 2026-10-26",
+   "created_at": "2026-10-26T01:00:47.577062+00:00",
+   "item_count": 10,
+   "llm_ok": true,
+   "url": "reports/2026-10-26/github_weekly-090047.html"
+  },
   {
    "id": 74,
    "task": "github_weekly",
@@ -615,6 +624,126 @@
   }
  ],
  "items": [
+  {
+   "task": "github_weekly",
+   "rank": 1,
+   "title": "AI 越狱提示词合集：覆盖 25+ 前沿与开源模型",
+   "url": "https://github.com/Alejandros17487/ai-jailbreaks",
+   "source": "GitHub",
+   "summary": "该项目整理了 35 条可直接粘贴使用的越狱提示词，覆盖 25 个以上前沿闭源模型与开源权重模型，形式包括系统提示、AGENTS.md 规范与 Ollama Modelfile。它面向 AI 安全研究与红队测试，提供统一格式的测试样本，便于横向比较不同模型的防护强度。这类资源的高热度反映出模型安全对齐仍是社区关注焦点，但也存在被滥用的风险。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 2,
+   "title": "AI 路线图 2026：从基础到智能体工程的五层学习路径",
+   "url": "https://github.com/h9-tec/ai-roadmap-2026",
+   "source": "GitHub",
+   "summary": "该仓库给出一条面向初学者的五层学习路径，依次覆盖基础、LLM 工程、智能体、评估与生产化，每层配一个可展示的迷你项目，并附经过核验的免费资源。作者引用市场分析指出 2026 年 AI 工程的重心已从训练模型转向构建可靠的智能体系统，RAG、智能体与评估是招聘描述中反复出现的三项技能。适合转行者和自学者按图索骥，内容以 Markdown 为主、无代码依赖。",
+   "why": null,
+   "category": "学习资源",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 3,
+   "title": "cvENGINE：AI 驱动的外部攻击面评估与漏洞验证",
+   "url": "https://github.com/hevnsnt/CVEngine",
+   "source": "GitHub",
+   "summary": "cvENGINE 将资产发现、服务指纹识别与 CVE 匹配整合为一个持续循环，并尝试用只读安全检查复现漏洞，最终给出「今天在野利用的 CVE 中哪些真正影响你」的结论而非告警堆。项目基于 Python，集成 bbot、nmap 等工具，并提供面向开发代理的 MCP 接口。它把企业级攻击面管理做成免费开源方案，适合安全团队与红队自建使用。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 4,
+   "title": "AbliteratedOutTheBox：在推理阶段执行「消融」的 llama.cpp 分支",
+   "url": "https://github.com/heterodoxin/AbliteratedOutTheBox",
+   "source": "GitHub",
+   "summary": "该项目是 llama.cpp 的 C++ 分支，把模型「消融」（abliteration，即移除拒答倾向）放到推理时进行，无需重新训练或修改权重文件。对希望在本地运行无拒答行为模型的开发者而言，这降低了操作门槛，也便于对比不同消融强度下的输出差异。项目尚处早期，文档与商用许可需自行核实。",
+   "why": null,
+   "category": "推理加速",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 5,
+   "title": "大肥鱼消除计划：识别并清理 B 站评论区 AI 机器人账号的浏览器插件",
+   "url": "https://github.com/liyupi/dafeiyu-cleaner",
+   "source": "GitHub",
+   "summary": "该插件针对 B 站评论区大量由 DeepSeek 驱动的自动回复账号，采用「离线规则初筛 + DeepSeek API 精判」的两级策略，支持评论检测、空间主页鉴定与一键清场，覆盖 Chrome、Edge、Firefox。项目以 JavaScript 编写、MIT 许可，安装即用，适合普通用户对抗 AI 内容灌水。它也是 AIGC 内容治理需求在终端侧落地的少见案例。",
+   "why": null,
+   "category": "内容治理",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 6,
+   "title": "37Studio：自托管的 AI 视频工作室与社媒运营台",
+   "url": "https://github.com/Shaitrish/37studio",
+   "source": "GitHub",
+   "summary": "37Studio 定位为 Buffer 与 Opus Clip 的开源替代，由 Claude Code 驱动，可根据品牌资料生成视频并一键发布到 9 个平台，还能起草评论回复。项目以 Go 编写、Docker 部署，使用用户自己的 API Key，数据留在本机。适合中小商家与内容创作者自建社媒流水线，但多平台发布涉及各平台接口政策，商用前需评估合规性。",
+   "why": null,
+   "category": "智能体应用",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 7,
+   "title": "contextcraft：面向 LLM 的 AST 感知代码库压缩器",
+   "url": "https://github.com/khanhtq29vn/contextcraft",
+   "source": "GitHub",
+   "summary": "contextcraft 用 AST 解析代码结构，结合个性化 PageRank 排序与 token 预算控制，把大型代码库压缩成适合塞进上下文的提示。它解决的是编码智能体在超大仓库中「上下文装不下、关键文件找不到」的问题，输出可按预算裁剪。适合使用 Claude Code 等编码代理的开发者，Python 实现、易于集成。",
+   "why": null,
+   "category": "RAG / 上下文工程",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 8,
+   "title": "Promethevs：在 64GB 内存 + 12GB 显卡的游戏 PC 上运行 510GB 的 DeepSeek-V4.1-Flash",
+   "url": "https://github.com/Magnvs7/Promethevs",
+   "source": "GitHub",
+   "summary": "该项目提出「先压缩再校正」的引擎思路，声称能在 64GB 内存与 12GB 显存的消费级硬件上运行 510GB 的 DeepSeek-V4.1-Flash 模型，并提供 OpenAI 兼容的本地服务与运行报告。它瞄准的是大模型本地部署的显存墙问题，面向愿意折腾的本地推理爱好者。项目缺少独立复现验证，实际速度与质量需谨慎看待。",
+   "why": null,
+   "category": "推理加速",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 9,
+   "title": "arkdraw：内置 AI 助手的开源架构图编辑器",
+   "url": "https://github.com/gabe-santana/arkdraw",
+   "source": "GitHub",
+   "summary": "arkdraw 支持流程图、UML、ER 图、网络拓扑与思维导图，内置 AI 助手可根据自然语言在画布上生成或修改图表，输出的是可继续编辑的原生图形与连接线而非图片。它使用用户自己的模型，文件保存在本地磁盘，并提供浏览器版与桌面端。适合架构师与开发者快速出图，TypeScript 实现、文档较完整。",
+   "why": null,
+   "category": "多模态 / 设计工具",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 10,
+   "title": "daimon：接入 Discord 与 Slack 的数据科学智能体",
+   "url": "https://github.com/emrahaydemir960-ai/daimon-data-agent",
+   "source": "GitHub",
+   "summary": "daimon 以机器人形式加入团队的 Discord、Slack 或 Teams，在频道中被 @ 后自动编写并运行代码、用 PyMC 拟合贝叶斯模型，回复图表、不确定性解读以及可复现的 marimo 笔记本。它基于 Anthropic 的托管智能体，每个服务器独立租户，适合需要快速做探索性分析的数据团队。项目以 HTML 为主、文档有限，生产使用需评估数据隔离。",
+   "why": null,
+   "category": "智能体应用",
+   "heat": 3,
+   "published": null
+  },
   {
    "task": "github_weekly",
    "rank": 1,
