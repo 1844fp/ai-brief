@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 26 Oct 2026 09:30:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 07:30:49 +0000</lastBuildDate>
+  <item>
+    <title>Anthropic 正式提交 S-1 招股书，拟以代码 ANT 登陆纳斯达克</title>
+    <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</link>
+    <guid isPermaLink="false">78-1</guid>
+    <pubDate>Mon, 26 Oct 2026 13:04:50 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 向 SEC 提交了 335 页的 S-1 招股书，计划在纳斯达克上市，股票代码为 ANT，成为首家启动 IPO 的前沿 AI 实验室。文件披露其营收高速增长但亏损扩大，企业客户采用率高，并采用特殊治理结构以保留创始人控制权与 AI 安全使命。多家媒体报道，这标志着生成式 AI 头部公司开始接受公开市场检验。</description>
+  </item>
+  <item>
+    <title>华尔街银行与 Blackstone 筹措 630 亿美元，为 Anthropic 融资 Broadcom AI 芯片</title>
+    <link>https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/</link>
+    <guid isPermaLink="false">78-2</guid>
+    <pubDate>Mon, 26 Oct 2026 21:16:44 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据路透社报道，华尔街多家银行与 Blackstone 正安排约 630 亿美元融资，用于为 Anthropic 采购基于 Broadcom 的定制 AI 芯片。这笔交易以芯片资产为支撑，绕开传统债务市场，为 Anthropic 的算力扩张提供长期资金。它显示 AI 算力竞赛正催生新型结构化融资，芯片本身成为可抵押资产。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布 GPT-6.1 Terra，将快速可靠的计算机操作能力带给所有人</title>
+    <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+    <guid isPermaLink="false">78-3</guid>
+    <pubDate>Mon, 26 Oct 2026 18:01:17 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenAI 推出 GPT-6.1 Terra，官方称其将快速且强大的计算机操作（computer use）能力带给所有用户，HN 讨论热度达 459 分。该模型强调在真实软件环境中执行多步操作，而非仅对话。这意味着 agent 式交互进一步产品化，与 Anthropic 的 Claude 平台在企业端展开直接竞争。</description>
+  </item>
+  <item>
+    <title>FTC 要求 Anthropic 高管在扩大的 AI 安全调查中作证</title>
+    <link>https://www.axios.com/2026/10/26/ftc-ai-safety-probe-anthropic-openai</link>
+    <guid isPermaLink="false">78-4</guid>
+    <pubDate>Mon, 26 Oct 2026 18:03:45 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Axios 独家报道，美国联邦贸易委员会（FTC）正在扩大对 Anthropic 的 AI 安全调查，并要求其高管出庭作证。调查时点恰在 Anthropic 提交 IPO 招股书前后，监管压力与上市进程叠加。这表明美国监管机构正加强对前沿 AI 公司安全承诺与市场行为的审查。</description>
+  </item>
+  <item>
+    <title>OpenAI 与 Anthropic 数月内将 LLM 价格下调最高 80%，原因何在</title>
+    <link>https://minimaxir.com/2026/10/cheap-llms</link>
+    <guid isPermaLink="false">78-5</guid>
+    <pubDate>Sun, 25 Oct 2026 21:11:31 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>HN 热帖分析指出，OpenAI 与 Anthropic 在几个月内将大模型 API 价格下调最高 80%，引发 400 余条讨论。降价背后是推理成本下降、模型效率提升与市场份额争夺的共同作用。价格战加速了 AI 应用普及，但也压缩了模型厂商的毛利空间，行业整合压力上升。</description>
+  </item>
+  <item>
+    <title>十年前的老式 CNN 在皮肤癌诊断上优于前沿 LLM</title>
+    <link>https://lynchlab.net/llm-skin-cancer</link>
+    <guid isPermaLink="false">78-6</guid>
+    <pubDate>Sun, 25 Oct 2026 17:15:38 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>一项研究显示，一个十年前训练的卷积神经网络（CNN）在皮肤癌诊断任务上表现优于当前前沿大语言模型，HN 热度达 651 分。研究提示通用 LLM 在专业医学影像任务上未必胜过专用小模型。这对医疗 AI 的选型与监管评估具有直接参考意义。</description>
+  </item>
+  <item>
+    <title>Google 承认 Gemini 4 Argon 在 Android 编码上明显落后于 Claude 与 GPT-6</title>
+    <link>https://9to5google.com/2026/10/26/android-bench-rankings-gemini-4-argon/</link>
+    <guid isPermaLink="false">78-7</guid>
+    <pubDate>Mon, 26 Oct 2026 22:06:22 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据 9to5Google 报道，Google 内部评估承认 Gemini 4 Argon 在 Android 应用编码任务上明显落后于 Claude 和 GPT-6。这一表态罕见地公开了自家模型在关键开发者场景中的短板。对依赖 Gemini 的 Android 开发者生态而言，模型选型可能进一步向竞品倾斜。</description>
+  </item>
+  <item>
+    <title>OpenAI 公布在 Kakeya 猜想、指数时间假设与量子色动力学上的模型结果</title>
+    <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+    <guid isPermaLink="false">78-8</guid>
+    <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 官方博客介绍其与学术社区合作，在 Kakeya 猜想、指数时间假设（ETH）和量子色动力学等基础数学与物理问题上取得模型结果，并说明研究者如何验证与扩展。同期 HN 出现一篇题为《指数时间假设为假》的预印本，挂在 OpenAI 的 GitHub 数学仓库下。这显示 AI 正被用于攻克长期未解的理论问题。</description>
+  </item>
+  <item>
+    <title>Cohere 披露某热门开源权重模型出现令人担忧的行为</title>
+    <link>https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</link>
+    <guid isPermaLink="false">78-9</guid>
+    <pubDate>Mon, 26 Oct 2026 16:35:44 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Cohere 发布博客，称一个流行的开源权重 AI 模型出现了“令人担忧的行为”，HN 讨论热度达 245 分。博文未在摘要中详述具体行为，但指向开源模型在安全对齐上的潜在风险。这为开源权重模型的部署方敲响安全评估警钟。</description>
+  </item>
+  <item>
+    <title>Nvidia 讨论对运行 agent 的 AI 基础设施按每 GPU 每年收取 2000 美元软件费</title>
+    <link>https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform</link>
+    <guid isPermaLink="false">78-10</guid>
+    <pubDate>Mon, 26 Oct 2026 17:34:45 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Tom's Hardware 报道，Nvidia 正讨论对在 AI 基础设施上运行 agent 的客户按每 GPU 每年约 2000 美元收取软件费用，而其 AI 企业软件平台现行收费已是该数字的两倍以上。这意味 Nvidia 正把盈利重心从硬件向软件订阅延伸。对云厂商与 AI 基础设施运营商而言，GPU 总拥有成本将进一步上升。</description>
+  </item>
+  <item>
+    <title>Apollo 报告：AI 在科技业之外带来“零财务回报”</title>
+    <link>https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10</link>
+    <guid isPermaLink="false">78-11</guid>
+    <pubDate>Sun, 25 Oct 2026 22:49:06 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Apollo 的经济分析指出，尽管 AI 投资巨大、宣传热烈，但除科技行业外，AI 对美国企业界尚未带来可衡量的财务回报。Business Insider 与 TechCrunch 均报道了这一结论。这与 AI 资本开支的狂飙形成反差，可能加剧市场对 AI 投资回报周期的质疑。</description>
+  </item>
+  <item>
+    <title>Anthropic 招股书揭示其留住企业客户的交叉销售策略</title>
+    <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked</link>
+    <guid isPermaLink="false">78-12</guid>
+    <pubDate>Mon, 26 Oct 2026 16:49:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 分析 Anthropic 的 S-1 指出，在其年付费超过 10 万美元的客户中，超过一半同时使用 Claude 平台与第一方应用，形成类似亚马逊的交叉销售飞轮。这种策略提升了企业客户的粘性与迁移成本。对准备上市的前沿 AI 公司而言，企业留存率正成为核心估值指标。</description>
+  </item>
+  <item>
+    <title>Cadence 推出芯片设计商可在内部运行的 AI 模型套件</title>
+    <link>https://www.reuters.com/business/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house-2026-10-26/</link>
+    <guid isPermaLink="false">78-13</guid>
+    <pubDate>Mon, 26 Oct 2026 17:22:18 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据路透社报道，EDA 巨头 Cadence 发布了一套可供芯片制造商在内部本地运行的 AI 模型，用于芯片设计与验证流程。这回应了芯片厂商对设计数据不出内网的安全需求。AI 正加速渗透半导体设计环节，EDA 工具的竞争进入模型层。</description>
+  </item>
+  <item>
+    <title>SpaceX 与 Apollo 达成 400 亿美元协议，为 AI 芯片融资</title>
+    <link>https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/</link>
+    <guid isPermaLink="false">78-14</guid>
+    <pubDate>Mon, 26 Oct 2026 13:58:13 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>SpaceX 与 Apollo 达成约 400 亿美元融资协议，为其快速扩张的 AI 野心提供资金，避免完全依赖传统债务市场。TechCrunch 等媒体报道称，这为 SpaceX 的 AI 基础设施与芯片采购开辟了新渠道。非传统科技公司正以创新金融结构加入 AI 算力竞赛。</description>
+  </item>
+  <item>
+    <title>微软向最多 6 万名员工提供自愿离职补偿</title>
+    <link>https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible</link>
+    <guid isPermaLink="false">78-15</guid>
+    <pubDate>Mon, 26 Oct 2026 15:58:27 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>微软宣布向美国、英国、加拿大和印度的最多 6 万名员工提供自愿买断方案，称将提供财务支持与职业规划资源。此举发生在公司持续调整人力结构、加大 AI 投入的背景下。这是科技巨头以“自愿离职”方式压缩人力成本的最新案例。</description>
+  </item>
+  <item>
+    <title>Anthropic 招股书承认数据中心对天然气的依赖</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk</link>
+    <guid isPermaLink="false">78-16</guid>
+    <pubDate>Mon, 26 Oct 2026 21:45:31 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道，Anthropic 的 S-1 文件明确承认其数据中心正越来越依赖天然气发电，并称获取电力供应与合适选址的竞争十分激烈。这把生成式 AI 的甲烷依赖问题摆上了公开披露层面。对即将上市的 AI 公司而言，能源与气候风险正成为投资者关注的新维度。</description>
+  </item>
+  <item>
+    <title>Grok 发布 AI 生成《奥德赛》前七分钟片段</title>
+    <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey</link>
+    <guid isPermaLink="false">78-17</guid>
+    <pubDate>Sun, 25 Oct 2026 21:31:16 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Grok 发布了其 AI 生成影片《奥德赛》的前七分钟，TechCrunch 评价画面尚可，但缺乏艺术性与人文关怀。这是 AI 视频生成从短片走向长片叙事的一次公开尝试。它显示生成式视频在连贯叙事与制作流程上仍有明显短板。</description>
+  </item>
+  <item>
+    <title>The RealReal 升级反机器人系统，阻止 AI agent 抢购设计师服装</title>
+    <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+    <guid isPermaLink="false">78-18</guid>
+    <pubDate>Mon, 26 Oct 2026 17:30:55 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>二手奢侈品零售商 The RealReal 表示正在升级其机器人防御系统，使 AI agent 更难在其网站上下单购物。此前 The Verge 报道有 AI agent 利用其商品预留机制套利。这反映出 agent 电商兴起后，零售商与自动化程序之间的攻防正在升级。</description>
+  </item>
   <item>
     <title>国家数据集团成立，加快释放数据要素价值</title>
     <link>https://www.chinanews.com.cn/gn/2026/10-26/10720900.shtml</link>
@@ -296,7 +440,7 @@
     <title>AI 越狱提示词合集：覆盖 25+ 前沿与开源模型</title>
     <link>https://github.com/Alejandros17487/ai-jailbreaks</link>
     <guid isPermaLink="false">75-1</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目整理了 35 条可直接粘贴使用的越狱提示词，覆盖 25 个以上前沿闭源模型与开源权重模型，形式包括系统提示、AGENTS.md 规范与 Ollama Modelfile。它面向 AI 安全研究与红队测试，提供统一格式的测试样本，便于横向比较不同模型的防护强度。这类资源的高热度反映出模型安全对齐仍是社区关注焦点，但也存在被滥用的风险。</description>
   </item>
@@ -304,7 +448,7 @@
     <title>AI 路线图 2026：从基础到智能体工程的五层学习路径</title>
     <link>https://github.com/h9-tec/ai-roadmap-2026</link>
     <guid isPermaLink="false">75-2</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
     <source>GitHub</source>
     <description>该仓库给出一条面向初学者的五层学习路径，依次覆盖基础、LLM 工程、智能体、评估与生产化，每层配一个可展示的迷你项目，并附经过核验的免费资源。作者引用市场分析指出 2026 年 AI 工程的重心已从训练模型转向构建可靠的智能体系统，RAG、智能体与评估是招聘描述中反复出现的三项技能。适合转行者和自学者按图索骥，内容以 Markdown 为主、无代码依赖。</description>
   </item>
@@ -312,7 +456,7 @@
     <title>cvENGINE：AI 驱动的外部攻击面评估与漏洞验证</title>
     <link>https://github.com/hevnsnt/CVEngine</link>
     <guid isPermaLink="false">75-3</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
     <source>GitHub</source>
     <description>cvENGINE 将资产发现、服务指纹识别与 CVE 匹配整合为一个持续循环，并尝试用只读安全检查复现漏洞，最终给出「今天在野利用的 CVE 中哪些真正影响你」的结论而非告警堆。项目基于 Python，集成 bbot、nmap 等工具，并提供面向开发代理的 MCP 接口。它把企业级攻击面管理做成免费开源方案，适合安全团队与红队自建使用。</description>
   </item>
@@ -320,7 +464,7 @@
     <title>AbliteratedOutTheBox：在推理阶段执行「消融」的 llama.cpp 分支</title>
     <link>https://github.com/heterodoxin/AbliteratedOutTheBox</link>
     <guid isPermaLink="false">75-4</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目是 llama.cpp 的 C++ 分支，把模型「消融」（abliteration，即移除拒答倾向）放到推理时进行，无需重新训练或修改权重文件。对希望在本地运行无拒答行为模型的开发者而言，这降低了操作门槛，也便于对比不同消融强度下的输出差异。项目尚处早期，文档与商用许可需自行核实。</description>
   </item>
@@ -328,7 +472,7 @@
     <title>大肥鱼消除计划：识别并清理 B 站评论区 AI 机器人账号的浏览器插件</title>
     <link>https://github.com/liyupi/dafeiyu-cleaner</link>
     <guid isPermaLink="false">75-5</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
     <source>GitHub</source>
     <description>该插件针对 B 站评论区大量由 DeepSeek 驱动的自动回复账号，采用「离线规则初筛 + DeepSeek API 精判」的两级策略，支持评论检测、空间主页鉴定与一键清场，覆盖 Chrome、Edge、Firefox。项目以 JavaScript 编写、MIT 许可，安装即用，适合普通用户对抗 AI 内容灌水。它也是 AIGC 内容治理需求在终端侧落地的少见案例。</description>
   </item>
@@ -336,152 +480,8 @@
     <title>37Studio：自托管的 AI 视频工作室与社媒运营台</title>
     <link>https://github.com/Shaitrish/37studio</link>
     <guid isPermaLink="false">75-6</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 07:30:49 +0000</pubDate>
     <source>GitHub</source>
     <description>37Studio 定位为 Buffer 与 Opus Clip 的开源替代，由 Claude Code 驱动，可根据品牌资料生成视频并一键发布到 9 个平台，还能起草评论回复。项目以 Go 编写、Docker 部署，使用用户自己的 API Key，数据留在本机。适合中小商家与内容创作者自建社媒流水线，但多平台发布涉及各平台接口政策，商用前需评估合规性。</description>
-  </item>
-  <item>
-    <title>contextcraft：面向 LLM 的 AST 感知代码库压缩器</title>
-    <link>https://github.com/khanhtq29vn/contextcraft</link>
-    <guid isPermaLink="false">75-7</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>contextcraft 用 AST 解析代码结构，结合个性化 PageRank 排序与 token 预算控制，把大型代码库压缩成适合塞进上下文的提示。它解决的是编码智能体在超大仓库中「上下文装不下、关键文件找不到」的问题，输出可按预算裁剪。适合使用 Claude Code 等编码代理的开发者，Python 实现、易于集成。</description>
-  </item>
-  <item>
-    <title>Promethevs：在 64GB 内存 + 12GB 显卡的游戏 PC 上运行 510GB 的 DeepSeek-V4.1-Flash</title>
-    <link>https://github.com/Magnvs7/Promethevs</link>
-    <guid isPermaLink="false">75-8</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目提出「先压缩再校正」的引擎思路，声称能在 64GB 内存与 12GB 显存的消费级硬件上运行 510GB 的 DeepSeek-V4.1-Flash 模型，并提供 OpenAI 兼容的本地服务与运行报告。它瞄准的是大模型本地部署的显存墙问题，面向愿意折腾的本地推理爱好者。项目缺少独立复现验证，实际速度与质量需谨慎看待。</description>
-  </item>
-  <item>
-    <title>arkdraw：内置 AI 助手的开源架构图编辑器</title>
-    <link>https://github.com/gabe-santana/arkdraw</link>
-    <guid isPermaLink="false">75-9</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>arkdraw 支持流程图、UML、ER 图、网络拓扑与思维导图，内置 AI 助手可根据自然语言在画布上生成或修改图表，输出的是可继续编辑的原生图形与连接线而非图片。它使用用户自己的模型，文件保存在本地磁盘，并提供浏览器版与桌面端。适合架构师与开发者快速出图，TypeScript 实现、文档较完整。</description>
-  </item>
-  <item>
-    <title>daimon：接入 Discord 与 Slack 的数据科学智能体</title>
-    <link>https://github.com/emrahaydemir960-ai/daimon-data-agent</link>
-    <guid isPermaLink="false">75-10</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>daimon 以机器人形式加入团队的 Discord、Slack 或 Teams，在频道中被 @ 后自动编写并运行代码、用 PyMC 拟合贝叶斯模型，回复图表、不确定性解读以及可复现的 marimo 笔记本。它基于 Anthropic 的托管智能体，每个服务器独立租户，适合需要快速做探索性分析的数据团队。项目以 HTML 为主、文档有限，生产使用需评估数据隔离。</description>
-  </item>
-  <item>
-    <title>ai-jailbreaks：35 条可直接粘贴的越狱提示集，覆盖 25+ 前沿与开源权重模型</title>
-    <link>https://github.com/Alejandros17487/ai-jailbreaks</link>
-    <guid isPermaLink="false">74-1</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目整理了 35 条可直接使用的越狱提示词，覆盖 25 个以上前沿闭源模型与开源权重模型，并附带系统提示、AGENTS.md 规范与 Ollama Modelfile 三种形态。它面向 AI 安全研究与红队测试，提供可复现的测试素材而非攻击工具链。对做模型安全评估、护栏测试的团队来说，这是一个现成的基准语料库。</description>
-  </item>
-  <item>
-    <title>OPAL：让编码智能体在模型训练过程中实时重写优化器</title>
-    <link>https://github.com/xingjian-bai/opal</link>
-    <guid isPermaLink="false">74-2</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>OPAL 提出一种「反应式优化器」思路：在模型训练的同时，由编码智能体读取训练状态并重写优化器代码，形成训练与优化器搜索的闭环。项目基于 PyTorch，把 LLM 智能体引入深度学习训练流程本身，而非仅用于写代码。适合研究自动化机器学习与训练加速的研究者，目前处于早期实验阶段。</description>
-  </item>
-  <item>
-    <title>AbliteratedOutTheBox：在推理阶段完成「消融」的 llama.cpp 分支</title>
-    <link>https://github.com/heterodoxin/AbliteratedOutTheBox</link>
-    <guid isPermaLink="false">74-3</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目是 llama.cpp 的分支，把模型「消融」（abliteration，去除拒答倾向）放到推理时完成，无需重新训练或微调权重。对希望在本地运行无拒答模型、又不想维护多份权重的用户来说，省去了离线改模型的步骤。基于 C++ 与 llama.cpp 生态，可沿用现有 GGUF 工具链。</description>
-  </item>
-  <item>
-    <title>contextcraft：面向 LLM 的 AST 感知、个性化 PageRank 排序、Token 预算受限的代码库压缩器</title>
-    <link>https://github.com/khanhtq29vn/contextcraft</link>
-    <guid isPermaLink="false">74-4</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>contextcraft 用 AST 解析代码结构，再以个性化 PageRank 对文件与符号排序，在给定 Token 预算内压缩代码库上下文，专为编码智能体设计。它解决的是「大仓库塞不进上下文窗口」的痛点，输出可直接作为提示词输入。适合构建代码智能体与 RAG 管线的开发者，项目提供 Python 实现。</description>
-  </item>
-  <item>
-    <title>CVEngine：AI 优先的外部攻击面评估，支持持续发现与证据化漏洞验证</title>
-    <link>https://github.com/hevnsnt/CVEngine</link>
-    <guid isPermaLink="false">74-5</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>CVEngine 面向外部攻击面管理，结合持续资产发现、基于证据的漏洞验证，并通过 MCP 与开发者智能体集成。项目基于 Python，整合 bbot、nmap 等工具，把扫描结果交给 AI 做研判与串联。适合安全团队做自动化外部暴露面巡检，属于 AI 与攻防结合的实用型项目。</description>
-  </item>
-  <item>
-    <title>kinetograph：为智能体打造的高速程序化视频引擎</title>
-    <link>https://github.com/0xS4N4TG/kinetograph</link>
-    <guid isPermaLink="false">74-6</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>kinetograph 是一个面向智能体的程序化视频生成引擎，基于 TypeScript 与 FFmpeg，支持 GPU 加速与 MCP 接口，可让智能体以代码方式合成动态图形与视频。它把视频生产从「手动剪辑」转为「可编程调用」，适合做自动化内容流水线的团队。项目提供 MCP 集成，便于接入现有智能体框架。</description>
-  </item>
-  <item>
-    <title>大肥鱼消除计划：识别并清理 B 站评论区 DeepSeek 机器人账号的浏览器插件</title>
-    <link>https://github.com/liyupi/dafeiyu-cleaner</link>
-    <guid isPermaLink="false">74-7</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目是一个 Chrome / Edge / Firefox 浏览器插件，用离线规则加 DeepSeek API 精判，识别 B 站评论区中由大模型驱动的机器人账号，并支持空间主页鉴定与一键清理。它反映了 AI Agent 批量刷评论带来的内容生态问题，也给出了社区侧的对抗工具。适合普通用户与平台治理研究者参考，采用 MIT 许可。</description>
-  </item>
-  <item>
-    <title>litpage：单进程 + SQLite 的自托管页面、数据库与 AI 工作区</title>
-    <link>https://github.com/litmers-dev/litpage</link>
-    <guid isPermaLink="false">74-8</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>litpage 把块编辑器、数据库多视图、细粒度权限与自带密钥的 AI 聊天/智能体整合进一个 Node.js 进程和一个 SQLite 文件，可在笔记本或单台服务器上运行。它定位为自托管的 Notion 类工作区替代品，强调部署简单与数据自主。适合小团队与个人做知识库和内部协作，提供在线演示。</description>
-  </item>
-  <item>
-    <title>omni2api：把智能体、脚本甚至你自己封装成 OpenAI 兼容 API</title>
-    <link>https://github.com/Juwan-Hwang/omni2api</link>
-    <guid isPermaLink="false">74-9</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>omni2api 用 Rust 实现，可将任意 AI 智能体、脚本或人工操作包装成 OpenAI 兼容接口，方便接入现有客户端与工具链。它解决的是「非标准服务难以被统一调用」的适配问题，支持 Anthropic 等多家格式。适合需要快速把内部工具暴露为 API 的开发者，项目提供 CLI。</description>
-  </item>
-  <item>
-    <title>dsh-go：在 Android 手机上本机运行 DeepSeek Harness，并可远程遥控电脑</title>
-    <link>https://github.com/ccch1mneyyy/dsh-go</link>
-    <guid isPermaLink="false">74-10</guid>
-    <pubDate>Mon, 26 Oct 2026 09:30:52 +0000</pubDate>
-    <source>GitHub</source>
-    <description>dsh-go 把 DeepSeek Harness 装进 Android 手机，支持本机运行编码智能体，也能远程操控电脑上的会话。项目为非官方实现，面向希望在移动端随时触发编码任务的开发者。它体现了编码智能体从桌面走向移动端的趋势，但生态与稳定性仍待验证。</description>
-  </item>
-  <item>
-    <title>Kimi 就 K3.1 Pro 限流与额度消耗致歉，向所有订阅会员补偿 25% 月度额度</title>
-    <link>https://www.ithome.com/1/017/723.htm</link>
-    <guid isPermaLink="false">73-1</guid>
-    <pubDate>Sun, 25 Oct 2026 23:10:49 +0000</pubDate>
-    <source>IT之家</source>
-    <description>月之暗面就 Kimi 会员使用 K3.1 Pro 时出现的限流及不必要额度消耗公开致歉，宣布为所有有效期内的订阅会员重置额度，并额外补偿月度总额的 25%，相当于一周用量。官方同时调整配置，减少不必要的子 Agent 调用和输出长度，让同等额度完成更多实际任务。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 发布，实力大幅进步，终结中国大模型数月空窗期</title>
-    <link>https://user.guancha.cn/main/content?id</link>
-    <guid isPermaLink="false">73-2</guid>
-    <pubDate>Sun, 25 Oct 2026 19:08:01 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>Kimi K3.1 系列首个模型 K3.1 Pro 正式发布，为月之暗面迄今最强 3 万亿级参数模型，支持 100 万上下文，在编程与复杂投研任务上实现明显跃升。多家媒体报道称其终结了国产大模型数月未有旗舰更新的空窗期，并带动国产模型逼近海外闭源 SOTA 的讨论。</description>
-  </item>
-  <item>
-    <title>全国首个人工智能应用风险综合保障方案发布，填补 AI 保险空白</title>
-    <link>https://www.ithome.com/1/017/726.htm</link>
-    <guid isPermaLink="false">73-3</guid>
-    <pubDate>Sun, 25 Oct 2026 23:21:57 +0000</pubDate>
-    <source>IT之家</source>
-    <description>在 2026 金融街论坛年会上，全国首个人工智能应用风险综合保障方案正式发布，通过保险产品分别保障 AI 服务对第三方造成的损失和供应方自身费用损失。方案与最高法关于涉 AI 纠纷案件的意见衔接，明确生成式 AI 侵权一般适用过错责任，“内容由 AI 生成”不能作为免责抗辩。</description>
-  </item>
-  <item>
-    <title>马斯克确认 SpaceX 完成 400 亿美元债务融资，用于购买 GPU</title>
-    <link>https://www.ithome.com/1/017/720.htm</link>
-    <guid isPermaLink="false">73-4</guid>
-    <pubDate>Sun, 25 Oct 2026 22:51:35 +0000</pubDate>
-    <source>IT之家</source>
-    <description>马斯克在 X 上确认 SpaceX 已完成 400 亿美元债务融资，主要用于支付 2027 年第一、第二季度交付的 GPU 算力硬件采购款项。路透社此前报道称 SpaceX 正与多家银行和资产管理机构洽谈筹集这笔资金，用于购买英伟达 AI 芯片。</description>
   </item>
 </channel></rss>
