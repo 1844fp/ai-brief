@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T07:31:02.012903",
+ "generated_at": "2026-10-27T08:01:05.091695",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 80,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-27",
+   "created_at": "2026-10-27T00:01:04.237330+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-10-27/news_daily_cn-080104.html"
+  },
   {
    "id": 79,
    "task": "news_daily",
@@ -660,6 +669,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "Kimi 发布 K3.1 Pro：3 万亿参数、100 万上下文，代码能力超 GPT-6 Astra",
+   "url": "http://www.geekpark.net/news/372943",
+   "source": "极客公园",
+   "summary": "月之暗面发布 Kimi K3.1 Pro，为 K3 系列首个正式版本，参数规模达 3 万亿、支持 100 万上下文，同步推出速度提升 2~3 倍的 Highspeed 版本。官方称其在 Terminal-Bench 4.0 等代码评测中超过 GPT-6 Astra，并承诺 11 月 4 日前放出完整模型权重。这是国产模型在代码与长程 Agent 能力上首次公开对标国际旗舰。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-10-26T10:16:08+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "Kimi K3.1 Pro 细节披露：开放权重版主动移除网络攻防能力",
+   "url": "https://www.oschina.net/news/503221",
+   "source": "开源中国",
+   "summary": "开源中国披露 K3.1 Pro 的更多技术细节：3 万亿级参数、100 万上下文，代码、3D 创作、金融研究和长程 Agent 能力提升最明显。值得关注的是，官方在开放权重版本中主动移除了网络攻防相关能力，以降低滥用风险。这为国产开源模型的安全治理提供了可参照的做法。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-10-26T11:44:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "腾讯混元开源同声传译大模型 Hy-SimulMT，响应时间约 3 秒",
+   "url": "https://www.ithome.com/1/018/168.htm",
+   "source": "IT之家",
+   "summary": "腾讯混元发布并开源同声传译大模型 Hy-SimulMT，支持中英语音到语音实时翻译，实测响应时间约 3 秒，快于人类专业译员平均 4~5 秒的水平。模型支持实时音色克隆，已在腾讯 Hy 翻译 App 免费上线，官方称其在 RealSI 评测上延迟最低且效果优于主流开源同传模型。",
+   "why": null,
+   "category": "模型开源",
+   "heat": 5,
+   "published": "2026-10-26T14:09:04+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "DeepSeek 开源推理框架 DeepInfer，AI 自动生成算子性能反超人工调优",
+   "url": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+   "source": "雷锋网",
+   "summary": "DeepSeek 全面开源推理框架 DeepInfer，将模型运行链路开放，其 FlashMLA 算子性能已达硬件极限的 90% 以上。同一周，完全由 AI 编写、无人工逐行调优的 ForgeKernel 同时登顶英伟达 FlashInfer-Bench 与昇腾 CANNBench 两个算子评测榜，基准加速比 1.835 倍、领先第二名 25%。算子层竞争正成为国产算力效率的关键变量。",
+   "why": null,
+   "category": "算力与算子",
+   "heat": 5,
+   "published": "2026-10-26T06:58:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "趋境科技完成超 13 亿元 B 轮融资，半年核心指标增长超十倍",
+   "url": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
+   "source": "雷锋网",
+   "summary": "高品质 AI Token 生产服务商趋境科技完成 B 轮融资，金额超 13 亿元人民币，年内累计募资 24 亿元，由浙财创新、萧山资本、工银投资等联合领投。公司称过去半年多项核心经营指标实现超十倍增长，资金将投向 Token 产能扩张与 ATaaS 服务。这反映推理基础设施赛道正获得产业与资本的双重加注。",
+   "why": null,
+   "category": "融资",
+   "heat": 4,
+   "published": "2026-10-26T02:37:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "国产大模型「超级一天」：Kimi 冲进全球前四，DeepSeek 拿下千亿融资",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpdTL6HV7pYzBgpLDFyxV--VqXa8Fplpd9G0rf8rgQ3UpZhkpRXNrBMkx21YEmQx5gZ9mnlwo7PnePc9Ob_30PF_UvNTy87Swvv2dyLmCCYRc4wfyUEwg0ntVBnBcJXTk3XEL4FfYRz_L7iYlCSZ_cs6tJyBPlM9_QKCqQ8vSd-5JXflnpJl06ZpJVeE0105U8cnPIa0WMwFk89kyxDwoXvg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=9A4C444C44FAE57A73752AB3538FB74C741173326ADFE98D",
+   "source": "微信公众号",
+   "summary": "多家媒体报道，国产大模型在同一天迎来两项标志性进展：Kimi 在全球模型排名中冲进前四，DeepSeek 则完成千亿级融资。两件事叠加，显示国产模型在能力与资本两个维度同时逼近国际头部阵营。具体融资细节与榜单口径仍待官方进一步确认。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 4,
+   "published": "2026-10-26T16:18:02+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "全球 Token 调用榜：国产大模型包揽前三，单周 79 万亿 Token",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpdTL6HV7pYzBgpLDFyxV--VqXa8Fplpd9-EMnJ3dqjx1vxtbUxza2CumaVzPEOp1tAR0mQtzPVYXGatudyoEQLvWqswqhDwFK2XgAVcC8DzvSjfbkWrMzHE7W1sEAhZiFxPw99Y580foPSXZjfHC92zjff8g9Hkbc_zhW2Qymwn_SvvAzCai2joTiiqOHippzbqO3x8aIC-15Nu7CnoSqqg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=9A4C444C44FAE57A73752AB3538FB74C741173326ADFE98D",
+   "source": "微信公众号",
+   "summary": "最新一期全球 AI 大模型每周 Token 调用榜（10 月 12 日至 18 日）显示，榜单前三名被国产大模型集体包揽，全榜统计达 79 万亿 Token。另一篇报道进一步指出，前五名席位全部由国产模型占据，其中 V4.1-Flash-1017 单周调用量达 33.6 万亿。调用量份额正成为衡量模型实际使用规模的重要指标。",
+   "why": null,
+   "category": "行业数据",
+   "heat": 4,
+   "published": "2026-10-26T14:49:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "高德发布具身智能模型 λ0，让人形机器人从人类动作中学习",
+   "url": "https://cn.technode.com/post/2026-10-26/alibaba-lambda0-humanoid-model-human-motion-data/",
+   "source": "Google News 中文",
+   "summary": "高德发布具身智能模型 λ0，主打从人类动作数据中学习运动与操作能力，降低对人形机器人遥操作采集数据的依赖。这是地图与出行平台向具身智能底层模型延伸的代表性动作。具身智能的模型层竞争正从机器人厂商扩展到互联网大厂。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-10-26T12:12:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "即梦上线「短剧工作室」，整合剧本、分镜与视频制作全流程",
+   "url": "https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html",
+   "source": "雷锋网",
+   "summary": "即梦 AI 上线一站式短剧创作工具「短剧工作室」，整合剧本整理、角色与场景管理、分镜生成、视频制作及后期调整，搭载自研剧本模型 DreamScript，支持 10 万字长文本上传与 100 集连续生成。部分功能整合了小云雀短剧 Agent 的同款能力。AI 内容创作平台正从单点工具走向全流程工作台。",
+   "why": null,
+   "category": "AI 应用",
+   "heat": 4,
+   "published": "2026-10-26T10:25:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "京东广告联合华为鲲鹏超节点，端到端推理时延降低 15%",
+   "url": "https://www.tmtpost.com/8181692.html",
+   "source": "钛媒体",
+   "summary": "京东广告与华为鲲鹏合作，通过灵衢互联将四级缓存压缩为两级、建成 300TB 共享内存池并重构 RPC 通信，使生成式广告推荐端到端推理时延降低 15%，KV Cache 与 RPC 性能大幅提升，已在 618 大促核心场景 5% 流量验证。双方合作正从广告向搜索推荐等场景外溢。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-26T12:19:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "北京人形机器人创新中心开源数据集 RoboMIND 全球下载量突破 5000 万次",
+   "url": "https://www.sohu.com/a/1093120560_362042?scm",
+   "source": "Google News 中文",
+   "summary": "北京人形机器人创新中心宣布，其开源数据集 RoboMIND 全球下载量突破 5000 万次。该数据集面向人形机器人操作与运动学习，是国产具身智能开源生态中下载量最高的数据集之一。数据开源正成为国内具身智能生态建设的主要抓手。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-26T20:41:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "中科慧灵完成数亿元 A++ 轮融资，制鞋机器人订单超 4 亿元",
+   "url": "https://www.infoq.cn/article/2svt5BbWUOHbADdo0UZo",
+   "source": "InfoQ 中文",
+   "summary": "中科慧灵完成数亿元 A++ 轮融资，其制鞋机器人订单金额已超 4 亿元。公司聚焦具身智能在制鞋等劳动密集型制造场景的批量交付，融资将用于产能与交付体系建设。具身智能正从演示阶段进入量产交付的比拼。",
+   "why": null,
+   "category": "融资",
+   "heat": 3,
+   "published": "2026-10-26T18:30:50+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "炬芯科技端侧 AI 芯片累计出货达数百万颗，主打存内计算与三核异构",
+   "url": "http://laoyaoba.com/n/1124321",
+   "source": "Google News 中文",
+   "summary": "炬芯科技披露，其采用存内计算与三核异构架构的端侧 AI 芯片系列累计出货已达数百万颗。存内计算路线旨在降低端侧推理的功耗与延迟，适配可穿戴与音频等场景。端侧 AI 芯片的出货规模正在成为国产芯片差异化竞争的新指标。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-10-26T23:05:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "伴芯科技用 AI 智能体处理芯片后端 ECO，流片前设计修改提速",
+   "url": "https://k.sina.com.cn/article_5953466437_162dab0450670bg1ps.html?from",
+   "source": "Google News 中文",
+   "summary": "伴芯科技将 AI 智能体用于芯片后端工程变更指令（ECO）环节，在流片前对设计修改进行自动化处理。后端 ECO 长期依赖资深工程师手工操作，是芯片设计周期中的瓶颈之一。AI 智能体切入 EDA 后端，有望压缩芯片设计迭代时间。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-10-26T23:01:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "国内大厂 AI 实验产品收缩快于发布：腾讯 QClaw 公测 188 天后关停",
+   "url": "https://www.tmtpost.com/8182953.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道，腾讯 QClaw 在公测 188 天后关停，八家主要 AI 公司、十条产品线中，独立 AI 品牌正通过更名、合并或关停退出，能力向通用助手迁移。报道认为下一阶段竞争焦点将转向个人 Agent。这反映国内大厂 AI 产品策略正从广撒网转向收敛。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-10-26T23:23:04+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "传腾讯 IEG 将 AI Agent 推理时长纳入考核，达摩院具身平台负责人被曝离职创业",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmp8RZcmw9Hl-NgpLDFyxV--VqXa8Fplpd9GyoO41Ju37vmAVCmNcNMY6yr1-5320llMKG8w6NYqYc4Dc_jnnmW7Kt6AtXpFHQhMK1bbb9XMojgjkMW1jPhEwX2UyP3ovU7j68oeOtJvh6zfxber3IdykHTSxzu-pb0skZlI31RBPhK1ey_kS88ni58hb9ZgmeRn1A9Lj9-DDc89kyxDwoXvg..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=9A4C1DF244FAE57A73752AB3538FB74C741173326ADFE98A",
+   "source": "微信公众号",
+   "summary": "行业周报称，腾讯 IEG 被曝将 AI Agent 推理时长纳入考核，反映游戏业务对 Agent 实际使用量的重视；同时达摩院具身智能平台负责人被曝离职创业。多条人事与考核机制变动显示，大厂内部 AI 组织与评价体系正在调整。相关消息尚未获官方确认。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-10-26T10:28:57+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "Kimi 深夜致歉，国产大模型订阅制面临额度稳定性质疑",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpdTL6HV7pYzBgpLDFyxV--VqXa8Fplpd9bBzw_9Rcsb52NSneImLUmTvHvEkj6uBxr0Qf7z1Q6df6OklT7PcXjlC141gqfL1Y8sm6weZ6ODTSJXhvvYi0P6tE_2amfurL3W91C-fPZQbhOTTyfHR6p6EvRJhmz5VfqlZIqUhr_1UHS4Q_kbo6XINm3MNcJl1ptqKcJSJuBrX2CsG6-xMgzQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=9A4C444C44FAE57A73752AB3538FB74C741173326ADFE98D",
+   "source": "微信公众号",
+   "summary": "Kimi 因服务问题深夜致歉，引发对国产大模型订阅制额度稳定性的讨论。评论指出，用户续费的关键不只是模型能力，更是额度供给的稳定预期，这对做 Agent 产品的团队尤为关键。模型服务的高可用性正成为商业化竞争的基础项。",
+   "why": null,
+   "category": "行业观察",
+   "heat": 3,
+   "published": "2026-10-26T07:47:04+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "Kimi 3.1 被曝海外买量刷评，国产大模型评测生态受关注",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpdTL6HV7pYzBgpLDFyxV--VqXa8Fplpd9nJX-jrWOQuGtqOJiYmHP1I9eDUIK8U8dy6uVULwm2kVCknsjiE-ZBlCuiElZYEpS2PzQrP2pqhQPJhZcBDqT09ZTmqfat_zL3RSECInOgE-6nQUvQfLkvOTYaKgC6N6BJsf-7DPEctujQIE20WEvBC96DsoO5Z7k2nESC07K5vqTJmCU1UgHwQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=9A4C444C44FAE57A73752AB3538FB74C741173326ADFE98D",
+   "source": "微信公众号",
+   "summary": "有报道称 Kimi 3.1 在海外存在买量刷评行为，引发对国产大模型海外口碑营销方式的讨论。文章指出，模型能力开发者跑一遍代码即可验证，但未披露的商单会损害真实评测者的公信力。模型评测生态的透明度问题开始受到行业重视。",
+   "why": null,
+   "category": "行业观察",
+   "heat": 2,
+   "published": "2026-10-26T16:39:01+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "腾讯绿泡泡短剧小程序月活达 1.43 亿，10 月首周周活环比增长 44.1%",
+   "url": "https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html",
+   "source": "雷锋网",
+   "summary": "QuestMobile 数据显示，截至今年 8 月腾讯绿泡泡短剧小程序月活达 1.43 亿，10 月首周周活 8968 万，较 9 月首周提升 44.1%。内容供给覆盖真人剧、AI 剧、动漫剧等品类，依托微信生态与视频号流量快速起量。短剧赛道竞争加剧，AI 剧成为平台内容扩充的新品类。",
+   "why": null,
+   "category": "AI 应用",
+   "heat": 3,
+   "published": "2026-10-26T11:26:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "复旦团队编写的《〈人工智能能力建设普惠计划〉进展报告》发布",
+   "url": "https://wmzx.fudan.edu.cn/26/ef/c20566a796399/page.htm",
+   "source": "Google News 中文",
+   "summary": "复旦团队编写的《〈人工智能能力建设普惠计划〉进展报告》发布，梳理该计划在 AI 能力建设与国际合作方面的阶段性进展。报告面向全球 AI 治理与普惠发展议题，是国内高校参与 AI 国际治理研究的代表性成果。AI 能力建设的国际合作正成为政策研究重点。",
+   "why": null,
+   "category": "政策与治理",
+   "heat": 2,
+   "published": "2026-10-26T20:32:27+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
