@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T08:01:05.091695",
+ "generated_at": "2026-10-27T08:01:38.139314",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 81,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-27",
+   "created_at": "2026-10-27T00:01:37.428725+00:00",
+   "item_count": 15,
+   "llm_ok": true,
+   "url": "reports/2026-10-27/news_daily_cn-080137.html"
+  },
   {
    "id": 80,
    "task": "news_daily_cn",
@@ -669,6 +678,186 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "Kimi 发布 K3.1 Pro，加量降价挑战 Opus 5.5",
+   "url": "http://www.geekpark.net/news/372943",
+   "source": "极客公园",
+   "summary": "月之暗面在程序员节上线 K3.1 Pro，作为 K3 的后训练版本，底座未换但能力提升，同步推出速度快 2 到 3 倍的 Highspeed 版本，并承诺 11 月 4 日前放出完整模型权重。官方以「加量降价」策略直接对标 Claude Opus 5.5，延续国产大模型的价格竞争。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-10-26T10:16:08+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "全球大模型调用量榜单前五被国产模型包揽，V4.1-Flash 单周调用达 33.6 万亿",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpOipBworO_VRgpLDFyxV--VqXa8Fplpd9oNnY767DGp2QPF4f7VyheqIuzy0vsSmDlYr5BzxtahpfNSM3NezvgkYdSGuB7dbVj4EfLRnFsgfYNplb98io__oL43yxg48ycfyKppvoSGum8hXmA6nYB1O5oIM991EnEMkmCKBFFXQ29BrObrVIOwFNR2TxBwJqQK2VaFzQENHm0CtGSSkZQQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=9A4CE1B056F8617D73742CC1555006AA73E7D8F06ADFE998",
+   "source": "微信公众号",
+   "summary": "据路透中文报道，全球大模型调用量榜单前五名席位全部被国产大模型占据，其中 V4.1-Flash-1017 版本单周调用量达到 33.6 万亿。报道同时指出 AI 尚未给美国企业带来明显盈利，国产模型在调用规模上已形成集团优势。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-10-26T14:06:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "豆包 AI 代操作遭 150 款 APP 封杀，流量入口之争浮出水面",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpaykIIJnyABZgpLDFyxV--VqXa8Fplpd9hUC5kprbRMJtabZcvj9e3kradgPGtkFYU5lXdNWOig8Aikft7FTc8qZvcooIDffPY5eOTlKYmxhouY6u6itXxhGboaDZLpXo2Znq1y68f7WalT-atqFnMHSKXJw6BzFwjE2Vr-Fbl5w6eUmhftOMZzJVJGe_T24HJFTOjE0bXVzFcvUoAZZH7Q..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=9A4C725756F8617D73742CC1555006AA73E7D8F06ADFE990",
+   "source": "微信公众号",
+   "summary": "豆包 AI 的手机代操作能力被约 150 款 APP 封禁，平台方担忧 AI 代理绕过自身界面、架空流量入口。这一冲突凸显 AI Agent 与超级 APP 在用户入口和数据权限上的根本矛盾。",
+   "why": null,
+   "category": "AI 应用与平台",
+   "heat": 5,
+   "published": "2026-10-26T21:48:21+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "中兴通讯前三季度营收 1168 亿元，算力业务占比升至 38%",
+   "url": "https://www.mrjjxw.com/articles/2026-10-26/4619247.html",
+   "source": "Google News 中文",
+   "summary": "中兴通讯 2026 年前三季度实现营收 1168 亿元，算力业务占比提升至 38%，公司正从通信设备商向 AI 算力供应商转型。这一比例显示算力已成为其第二大收入支柱。",
+   "why": null,
+   "category": "AI 算力",
+   "heat": 4,
+   "published": "2026-10-26T16:25:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "小米推出 150 元 AI 硬件，主打普通人也能玩转 Vibe Coding",
+   "url": "https://www.tmtpost.com/8182406.html",
+   "source": "钛媒体",
+   "summary": "小米发布售价约 150 元的 AI 硬件产品，定位让普通用户通过自然语言创建专属 AI 硬件应用，降低 Vibe Coding 的使用门槛。产品把大模型能力封装进低价消费级硬件，面向非专业开发者。",
+   "why": null,
+   "category": "AI 硬件",
+   "heat": 4,
+   "published": "2026-10-26T11:29:41+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "寒武纪「英伟达平替」叙事承压，光环褪去后进入蜕变期",
+   "url": "https://www.tmtpost.com/8182159.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道称，寒武纪此前依托「英伟达平替」标签获得的高估值叙事正面临考验，公司进入业务蜕变阶段。此前寒武纪董事长已辟谣「明年芯片出货超 100 万颗」的传闻。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-10-26T10:25:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "得物技术分享昇腾 910C 大模型推理优化：源码修改与算子优化再提速 30%",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpOipBworO_VRgpLDFyxV--VqXa8Fplpd95sRbC4JLE_Brd8pwac1qa0NdWh8iWoKKU_rtOI9DnxzfGKTO69n9I6RcPNuPznF-AMxZCB_6yIJDK3Dojf8He0RDdd8h6LPEOYwYqcD-3WgIo7x2k8M2oFifaYRPafWz6Wsf13h5wL-mK-cQ1WTwGezO9qoFKWG7VtvloinkEjTuL0unUdKkuw..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=9A4CE1B056F8617D73742CC1555006AA73E7D8F06ADFE998",
+   "source": "微信公众号",
+   "summary": "得物技术发布昇腾 910C 大模型推理优化实践下篇，通过源码修改与算子优化在前期提速 40% 基础上再提升 30%。文章给出了国产算力平台上大模型推理调优的具体工程路径。",
+   "why": null,
+   "category": "AI 算力",
+   "heat": 3,
+   "published": "2026-10-26T10:31:01+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "人工智能法解读：大型平台的责任边界在哪里",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpaykIIJnyABZgpLDFyxV--VqXa8Fplpd9mUYh9WTCIEBqHuYkYvCrqK-zY97OHEmb6feXl3Fik-WVEUSiJSQytCFGsXHhauM2PYblh21YnNdr-jqyZsSU4cDen8ebwd-2X_YAv1yzkf7g6B66SI_DICH1XHx_OWP_xea5tFBlpY9prOLE9C781NRLGMuMbJ_z7Z-ynKlruGZS6t2rFt2rnA..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=9A4C725756F8617D73742CC1555006AA73E7D8F06ADFE990",
+   "source": "微信公众号",
+   "summary": "微信公众号发布《中华人民共和国人工智能法》全民解析系列大型平台篇，聚焦大型平台在批量制造虚假信息等场景下的责任边界与合规义务。内容面向企业合规指南，梳理平台侧的法定义务。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-10-26T21:58:29+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是「AI 垃圾」",
+   "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB",
+   "source": "InfoQ 中文",
+   "summary": "Linux 基金会发布报告指出，AI 辅助使代码编写速度提升 52%，但开源项目中约四分之一的 PR 属于低质量「AI 垃圾」，维护者负担反而加重。报告揭示了 AI 编程效率红利与开源治理成本之间的失衡。",
+   "why": null,
+   "category": "开源与开发者",
+   "heat": 3,
+   "published": "2026-10-25T10:30:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "花椒建设 30 个 Agent 背后的企业 AI 能力演进路径",
+   "url": "https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 报道花椒如何围绕 30 个 Agent 建设可持续演进的企业 AI 能力，覆盖从单点智能体到平台化复用的工程体系。案例聚焦企业内多 Agent 协同与长期维护的组织方法。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-26T15:05:27+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "QCon 上海 2026 收官：从 Agent 工程化到任务交付是 AI 走向生产的关键挑战",
+   "url": "https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA",
+   "source": "InfoQ 中文",
+   "summary": "QCon 上海 2026 圆满收官，大会核心议题聚焦从 Agent 工程化到任务交付的落地挑战，讨论 AI 系统如何从演示走向稳定生产。议题覆盖智能体编排、评测与交付链路。",
+   "why": null,
+   "category": "行业会议",
+   "heat": 3,
+   "published": "2026-10-26T11:53:09+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "让 AI 从需求一路干到上线，软件开发组织面临重构",
+   "url": "https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 文章讨论 AI 覆盖从需求到上线的完整开发链路后，软件开发组织的分工与角色将如何变化。核心观点是工具链贯通后，组织形态与协作方式需要同步调整。",
+   "why": null,
+   "category": "开发者生态",
+   "heat": 3,
+   "published": "2026-10-26T18:08:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "10 MB 桌面 AI 客户端：用华为仓颉加系统 WebView 替代 Electron",
+   "url": "https://www.oschina.net/news/503196",
+   "source": "开源中国",
+   "summary": "开发者用华为仓颉语言实现类 Tauri 桌面框架 cj-tauri，产物仅 4.7 至 10 MB，通过系统 WebView 与 IPC 白名单机制替代 Electron 方案。项目以 MIT 协议开源。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-10-25T10:13:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "投研 Agent 两年开发复盘：模型好选，搜索难做",
+   "url": "https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 刊载一位开发者两年投研 Agent 开发历程的复盘，指出模型选型相对容易，真正的难点在于搜索与信息检索链路的构建。文章总结了投研场景下 Agent 的工程取舍。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 2,
+   "published": "2026-10-26T14:57:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "ToolForge v0.2.2 发布：支持 MCP、CLI 与插件级权限管理",
+   "url": "https://www.oschina.net/news/503201",
+   "source": "开源中国",
+   "summary": "基于 Rust 与 Tauri 2 的开源桌面工具箱 ToolForge 发布 v0.2.2，新增 AI Agent 工具调用能力，支持 MCP 协议、CLI 与插件级权限管理。项目通过 WASM 插件市场扩展功能。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-10-26T02:08:49+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
