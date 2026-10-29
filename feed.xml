@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Thu, 29 Oct 2026 08:01:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 08:02:01 +0000</lastBuildDate>
+  <item>
+    <title>国产大模型一周五连发：从卷参数转向卷落地</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-JGBVyr9Vh9pi8z58QCPIWFqXa8Fplpd9fambbo50tN9_BHd4Ncts1rt9evbcK19QJOO_aYLt2pZkSidvGU06drVYIPBiv6UfaxO2zwmboZfJDPUmFzRU7vmpwHnxqNlg7JYaPbrQVllsf7ku1qpQj2xBgPcgTLu3ho0zNbetrMg-36cBsNN_CIzIDdYM7wb4_9zpxfraB1jzAjcIGepUqA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B2ABF18D56F8617D73742CC1555006AA73E7D8F06AE28C94</link>
+    <guid isPermaLink="false">86-1</guid>
+    <pubDate>Wed, 28 Oct 2026 14:20:29 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>本周国产大模型五天连发五个动作，讯飞星火 X2.6 将敏感任务留在端侧、复杂任务才上云，全程依靠端云协同完成。多家厂商同步压低 Agent 调用成本，部分场景成本降至原来的三成。这意味着国产模型的竞争焦点已从参数规模转向实际落地与性价比。</description>
+  </item>
+  <item>
+    <title>一周三场发布，国产模型把 Agent 成本打到三成</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-JGBVyr9Vh9pi8z58QCPIWFqXa8Fplpd9CWOInC36v4OTEaxmZttHZUYXtqobyP1lpiYtkXaveYbE1XCP0QQ7X6gZq1qKAW9BPO6pDRDp7cDUfZfkfP0y9NJTox_ulLwjo1hsyBm4dirhHIbcPLu-UEFT-ppKZY-F1oa3e1-R8clsraMN-8C6zytkvnyq2JgwJPdKoTRfOfLdrgozfSg6bw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B2ABF18D56F8617D73742CC1555006AA73E7D8F06AE28C94</link>
+    <guid isPermaLink="false">86-2</guid>
+    <pubDate>Wed, 28 Oct 2026 06:56:04 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>一周内三场国产模型发布后，Agent 调用成本被压至原先约三成，性价比前沿被重新定义。报道指出，行业问题已从「国产模型行不行」转为「业务是否准备好按这个价格使用」。成本下降有望加速智能体在企业的普及。</description>
+  </item>
+  <item>
+    <title>OXR 开源：1.3B 参数横扫全球三榜第一，速度快过 Paddle、MinerU</title>
+    <link>https://www.qbitai.com/2026/10/505635.html</link>
+    <guid isPermaLink="false">86-3</guid>
+    <pubDate>Tue, 27 Oct 2026 07:41:02 +0000</pubDate>
+    <source>量子位</source>
+    <description>国产开源模型 OXR 以 1.3B 参数在全球三个榜单登顶，推理速度快于 Paddle、MinerU 等同类方案。开源一周 GitHub 星标超 1000，X 平台关注度破百万，并登上 Today's news 推荐。小参数模型在特定任务上超越大模型，显示轻量化路线的竞争力。</description>
+  </item>
+  <item>
+    <title>KV Cache 压成常数：OCR 开源新模型页数无上限、缓存砍 96%</title>
+    <link>https://www.qbitai.com/2026/10/505773.html</link>
+    <guid isPermaLink="false">86-4</guid>
+    <pubDate>Tue, 27 Oct 2026 08:35:33 +0000</pubDate>
+    <source>量子位</source>
+    <description>新开源的 OCR 模型将 KV Cache 压缩为常数级别，缓存占用减少 96%，且处理页数不设上限。该方案被视为 OCR 3.0 时代的代表，解决了长文档处理的显存瓶颈。对文档智能、票据识别等场景有直接工程价值。</description>
+  </item>
+  <item>
+    <title>DSH 测试文件泄露，DeepSeek V5 或将发布</title>
+    <link>https://www.tmtpost.com/8184852.html</link>
+    <guid isPermaLink="false">86-5</guid>
+    <pubDate>Wed, 28 Oct 2026 12:19:41 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>DSH 测试文件中出现三个 deepseek-v5 模型标识，可能为占位符，引发 DeepSeek V5 即将发布的猜测。DeepSeek 此前版本以高性价比著称，新版本若落地将进一步影响国产模型价格与能力格局。目前官方尚未确认。</description>
+  </item>
+  <item>
+    <title>星宸科技回应 AI 芯片话题：端边侧 AI 芯片业务量价齐升</title>
+    <link>https://stock.stockstar.com/RB2026102900010310.shtml</link>
+    <guid isPermaLink="false">86-6</guid>
+    <pubDate>Wed, 28 Oct 2026 23:06:41 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>星宸科技 10 月 28 日回应 AI 芯片话题，称端边侧 AI 芯片业务呈现量价齐升态势。随着智能终端与边缘推理需求增长，端边侧芯片成为国产 AI 芯片的重要增量市场。公司表态反映该细分赛道景气度上行。</description>
+  </item>
+  <item>
+    <title>国产算力芯片产业化跑出加速度，中证人工智能产业指数近三年上涨近 30%</title>
+    <link>https://finance.ifeng.com/c/8xbGzMdylZw</link>
+    <guid isPermaLink="false">86-7</guid>
+    <pubDate>Wed, 28 Oct 2026 14:41:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>国产算力芯片产业化进程明显加快，中证人工智能产业指数近三年累计上涨近 30%。资本市场的表现反映出对国产算力替代逻辑的认可。产业化提速与需求爆发形成双重驱动。</description>
+  </item>
+  <item>
+    <title>美国司法部就英伟达 129.3 亿美元收购 Hugging Face 展开问询</title>
+    <link>https://www.ithome.com/1/019/272.htm</link>
+    <guid isPermaLink="false">86-8</guid>
+    <pubDate>Wed, 28 Oct 2026 23:08:07 +0000</pubDate>
+    <source>IT之家</source>
+    <description>美国司法部已就英伟达以 129.3 亿美元收购开源平台 Hugging Face 如何影响 AI 竞争展开问询，关注点包括并购、对外投资、销售模式及是否对客户施压。官员重点评估该交易是否让英伟达掌控 AI 核心分发枢纽。交易预计 2027 年上半年完成，监管不确定性上升。</description>
+  </item>
+  <item>
+    <title>Anthropic 内部系统被 AI Agent 12 小时攻破，会议记录与员工薪酬遭访问</title>
+    <link>https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7</link>
+    <guid isPermaLink="false">86-9</guid>
+    <pubDate>Wed, 28 Oct 2026 17:54:54 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>Anthropic 内部系统被 AI Agent 在 12 小时内攻破，会议记录、员工薪酬及内部模型讨论等敏感数据遭访问。事件暴露了智能体在真实环境中的攻击能力与内部安全防护的薄弱环节。对正在部署 Agent 的企业而言，这是一次直接的安全警示。</description>
+  </item>
+  <item>
+    <title>Claude 实战挖漏洞：安卓锁屏下提取照片，53 分钟攻破 Linux 获取最高权限</title>
+    <link>https://www.ithome.com/1/019/268.htm</link>
+    <guid isPermaLink="false">86-10</guid>
+    <pubDate>Wed, 28 Oct 2026 22:35:25 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Anthropic 通过内部 Claude 研究模型在 Chrome、Safari、Android、Windows 和 Linux 中发现漏洞，并串联成 5 条可运行攻击链。其中 Chrome 报告产生 62 个严重或高危 CVE，Android 可在 Pixel 9 锁屏状态下通过 USB 提取照片。相关漏洞已按协调披露流程修复。</description>
+  </item>
+  <item>
+    <title>浙江发布十条举措，加速推进人工智能 OPC 创新发展</title>
+    <link>https://www.chinanews.com.cn/cj/2026/10-28/10722426.shtml</link>
+    <guid isPermaLink="false">86-11</guid>
+    <pubDate>Wed, 28 Oct 2026 13:22:38 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>浙江发布十条举措，加速推进人工智能 OPC（光计算/光电融合计算）创新发展。政策聚焦前沿计算路线，配套资金与产业支持。地方层面正围绕 AI 底层技术展开差异化布局。</description>
+  </item>
+  <item>
+    <title>广东将发布产业招商大模型，招商进入 AI 时代</title>
+    <link>https://www.21jingji.com/article/20261028/herald/930665352b4062cf1108d8a7ed42a10b.html</link>
+    <guid isPermaLink="false">86-12</guid>
+    <pubDate>Wed, 28 Oct 2026 06:53:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>广东将发布产业招商大模型，用于招商场景的智能化匹配与分析。这是大模型在政府产业服务领域的落地案例，旨在提升招商效率与精准度。政务场景正成为行业大模型的重要试验田。</description>
+  </item>
+  <item>
+    <title>XHEART 与国创中心达成战略合作，共推大模型芯片评价标准建设</title>
+    <link>http://www.news.cn/auto/20261028/dc34865cf051447ea0428f4baa68627e/c.html</link>
+    <guid isPermaLink="false">86-13</guid>
+    <pubDate>Wed, 28 Oct 2026 09:48:50 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>XHEART 与国创中心达成战略合作，共同推进大模型芯片评价标准建设。当前大模型芯片性能指标缺乏统一评测口径，标准化有助于产业链协同与选型。合作聚焦评价体系建设，而非单点产品。</description>
+  </item>
+  <item>
+    <title>印奇把 4D 雷达也端到端了</title>
+    <link>https://www.qbitai.com/2026/10/505852.html</link>
+    <guid isPermaLink="false">86-14</guid>
+    <pubDate>Tue, 27 Oct 2026 10:40:12 +0000</pubDate>
+    <source>量子位</source>
+    <description>印奇团队将 4D 毫米波雷达实现端到端处理，AI 算力需求约 10TOPS。该方案把端到端范式从摄像头扩展到雷达模态，有望提升自动驾驶感知的鲁棒性。低算力需求利于车端部署。</description>
+  </item>
+  <item>
+    <title>轻量化异构双臂与 VLA/世界模型：家庭服务具身机器人的落地实践</title>
+    <link>https://www.infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb</link>
+    <guid isPermaLink="false">86-15</guid>
+    <pubDate>Wed, 28 Oct 2026 12:05:43 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道了轻量化异构双臂结合 VLA 与世界模型在家庭服务具身机器人中的落地实践。方案强调异构双臂协同与模型轻量化，面向真实家庭场景。具身智能正从演示走向可部署形态。</description>
+  </item>
+  <item>
+    <title>中药材 AI 检测大模型续写「药不过樟树不灵」</title>
+    <link>https://jx.ifeng.com/c/8xatDKE9bW1</link>
+    <guid isPermaLink="false">86-16</guid>
+    <pubDate>Wed, 28 Oct 2026 23:22:58 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>中药材 AI 检测大模型在樟树落地，用于药材质量鉴别。传统经验鉴别正被模型化、标准化，提升检测效率与一致性。这是 AI 在传统中医药产业的具体应用案例。</description>
+  </item>
+  <item>
+    <title>海南师范大学与中国知网联合发布「海南省数智教育大模型」</title>
+    <link>https://hain.chinadaily.com.cn/a/202610/28/WS6ae1a34be4b09a165c79219a.html</link>
+    <guid isPermaLink="false">86-17</guid>
+    <pubDate>Wed, 28 Oct 2026 07:24:59 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>海南师范大学与中国知网联合研发的「海南省数智教育大模型」发布，面向教育场景提供智能化服务。教育大模型正由高校与内容平台联合推进，区域化特征明显。其实际教学效果有待观察。</description>
+  </item>
+  <item>
+    <title>字节辟谣「15 万群演数据喂大模型」：传言严重失实</title>
+    <link>https://www.tmtpost.com/8185179.html</link>
+    <guid isPermaLink="false">86-18</guid>
+    <pubDate>Wed, 28 Oct 2026 23:20:00 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体早报提到，字节跳动辟谣「15 万群演数据喂大模型」的传言，称其严重失实。该传言涉及大模型训练数据来源合规问题，辟谣有助于澄清数据治理争议。同期早报还涵盖北京「十五五」能源蓝图与 8000 亿元新型政策性金融工具投放。</description>
+  </item>
   <item>
     <title>蚂蚁百灵开源 Ling-3.1-flash-1019，Personal Agent 走向真实任务</title>
     <link>https://www.qbitai.com/2026/10/505928.html</link>
@@ -339,149 +483,5 @@
     <pubDate>Mon, 26 Oct 2026 21:58:29 +0000</pubDate>
     <source>微信公众号</source>
     <description>微信公众号发布《中华人民共和国人工智能法》全民解析系列大型平台篇，聚焦大型平台在批量制造虚假信息等场景下的责任边界与合规义务。内容面向企业合规指南，梳理平台侧的法定义务。</description>
-  </item>
-  <item>
-    <title>Linux 基金会报告：AI 写代码快 52%，但四分之一 PR 是「AI 垃圾」</title>
-    <link>https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB</link>
-    <guid isPermaLink="false">81-9</guid>
-    <pubDate>Sun, 25 Oct 2026 10:30:00 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>Linux 基金会发布报告指出，AI 辅助使代码编写速度提升 52%，但开源项目中约四分之一的 PR 属于低质量「AI 垃圾」，维护者负担反而加重。报告揭示了 AI 编程效率红利与开源治理成本之间的失衡。</description>
-  </item>
-  <item>
-    <title>花椒建设 30 个 Agent 背后的企业 AI 能力演进路径</title>
-    <link>https://www.infoq.cn/article/O7lcxqKD2avRPbNoMmtg</link>
-    <guid isPermaLink="false">81-10</guid>
-    <pubDate>Mon, 26 Oct 2026 15:05:27 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 报道花椒如何围绕 30 个 Agent 建设可持续演进的企业 AI 能力，覆盖从单点智能体到平台化复用的工程体系。案例聚焦企业内多 Agent 协同与长期维护的组织方法。</description>
-  </item>
-  <item>
-    <title>QCon 上海 2026 收官：从 Agent 工程化到任务交付是 AI 走向生产的关键挑战</title>
-    <link>https://www.infoq.cn/article/0C1Wgt7N9NzM6KjHSFeA</link>
-    <guid isPermaLink="false">81-11</guid>
-    <pubDate>Mon, 26 Oct 2026 11:53:09 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>QCon 上海 2026 圆满收官，大会核心议题聚焦从 Agent 工程化到任务交付的落地挑战，讨论 AI 系统如何从演示走向稳定生产。议题覆盖智能体编排、评测与交付链路。</description>
-  </item>
-  <item>
-    <title>让 AI 从需求一路干到上线，软件开发组织面临重构</title>
-    <link>https://www.infoq.cn/article/b32Mw2zaPrxyJ6ChePD5</link>
-    <guid isPermaLink="false">81-12</guid>
-    <pubDate>Mon, 26 Oct 2026 18:08:13 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 文章讨论 AI 覆盖从需求到上线的完整开发链路后，软件开发组织的分工与角色将如何变化。核心观点是工具链贯通后，组织形态与协作方式需要同步调整。</description>
-  </item>
-  <item>
-    <title>10 MB 桌面 AI 客户端：用华为仓颉加系统 WebView 替代 Electron</title>
-    <link>https://www.oschina.net/news/503196</link>
-    <guid isPermaLink="false">81-13</guid>
-    <pubDate>Sun, 25 Oct 2026 10:13:31 +0000</pubDate>
-    <source>开源中国</source>
-    <description>开发者用华为仓颉语言实现类 Tauri 桌面框架 cj-tauri，产物仅 4.7 至 10 MB，通过系统 WebView 与 IPC 白名单机制替代 Electron 方案。项目以 MIT 协议开源。</description>
-  </item>
-  <item>
-    <title>投研 Agent 两年开发复盘：模型好选，搜索难做</title>
-    <link>https://www.infoq.cn/article/NrUkJExfuuFOICsjVYbb</link>
-    <guid isPermaLink="false">81-14</guid>
-    <pubDate>Mon, 26 Oct 2026 14:57:35 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 刊载一位开发者两年投研 Agent 开发历程的复盘，指出模型选型相对容易，真正的难点在于搜索与信息检索链路的构建。文章总结了投研场景下 Agent 的工程取舍。</description>
-  </item>
-  <item>
-    <title>ToolForge v0.2.2 发布：支持 MCP、CLI 与插件级权限管理</title>
-    <link>https://www.oschina.net/news/503201</link>
-    <guid isPermaLink="false">81-15</guid>
-    <pubDate>Mon, 26 Oct 2026 02:08:49 +0000</pubDate>
-    <source>开源中国</source>
-    <description>基于 Rust 与 Tauri 2 的开源桌面工具箱 ToolForge 发布 v0.2.2，新增 AI Agent 工具调用能力，支持 MCP 协议、CLI 与插件级权限管理。项目通过 WASM 插件市场扩展功能。</description>
-  </item>
-  <item>
-    <title>Kimi 发布 K3.1 Pro：3 万亿参数、100 万上下文，代码能力超 GPT-6 Astra</title>
-    <link>http://www.geekpark.net/news/372943</link>
-    <guid isPermaLink="false">80-1</guid>
-    <pubDate>Mon, 26 Oct 2026 10:16:08 +0000</pubDate>
-    <source>极客公园</source>
-    <description>月之暗面发布 Kimi K3.1 Pro，为 K3 系列首个正式版本，参数规模达 3 万亿、支持 100 万上下文，同步推出速度提升 2~3 倍的 Highspeed 版本。官方称其在 Terminal-Bench 4.0 等代码评测中超过 GPT-6 Astra，并承诺 11 月 4 日前放出完整模型权重。这是国产模型在代码与长程 Agent 能力上首次公开对标国际旗舰。</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 Pro 细节披露：开放权重版主动移除网络攻防能力</title>
-    <link>https://www.oschina.net/news/503221</link>
-    <guid isPermaLink="false">80-2</guid>
-    <pubDate>Mon, 26 Oct 2026 11:44:28 +0000</pubDate>
-    <source>开源中国</source>
-    <description>开源中国披露 K3.1 Pro 的更多技术细节：3 万亿级参数、100 万上下文，代码、3D 创作、金融研究和长程 Agent 能力提升最明显。值得关注的是，官方在开放权重版本中主动移除了网络攻防相关能力，以降低滥用风险。这为国产开源模型的安全治理提供了可参照的做法。</description>
-  </item>
-  <item>
-    <title>腾讯混元开源同声传译大模型 Hy-SimulMT，响应时间约 3 秒</title>
-    <link>https://www.ithome.com/1/018/168.htm</link>
-    <guid isPermaLink="false">80-3</guid>
-    <pubDate>Mon, 26 Oct 2026 14:09:04 +0000</pubDate>
-    <source>IT之家</source>
-    <description>腾讯混元发布并开源同声传译大模型 Hy-SimulMT，支持中英语音到语音实时翻译，实测响应时间约 3 秒，快于人类专业译员平均 4~5 秒的水平。模型支持实时音色克隆，已在腾讯 Hy 翻译 App 免费上线，官方称其在 RealSI 评测上延迟最低且效果优于主流开源同传模型。</description>
-  </item>
-  <item>
-    <title>DeepSeek 开源推理框架 DeepInfer，AI 自动生成算子性能反超人工调优</title>
-    <link>https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html</link>
-    <guid isPermaLink="false">80-4</guid>
-    <pubDate>Mon, 26 Oct 2026 06:58:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>DeepSeek 全面开源推理框架 DeepInfer，将模型运行链路开放，其 FlashMLA 算子性能已达硬件极限的 90% 以上。同一周，完全由 AI 编写、无人工逐行调优的 ForgeKernel 同时登顶英伟达 FlashInfer-Bench 与昇腾 CANNBench 两个算子评测榜，基准加速比 1.835 倍、领先第二名 25%。算子层竞争正成为国产算力效率的关键变量。</description>
-  </item>
-  <item>
-    <title>趋境科技完成超 13 亿元 B 轮融资，半年核心指标增长超十倍</title>
-    <link>https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html</link>
-    <guid isPermaLink="false">80-5</guid>
-    <pubDate>Mon, 26 Oct 2026 02:37:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>高品质 AI Token 生产服务商趋境科技完成 B 轮融资，金额超 13 亿元人民币，年内累计募资 24 亿元，由浙财创新、萧山资本、工银投资等联合领投。公司称过去半年多项核心经营指标实现超十倍增长，资金将投向 Token 产能扩张与 ATaaS 服务。这反映推理基础设施赛道正获得产业与资本的双重加注。</description>
-  </item>
-  <item>
-    <title>国产大模型「超级一天」：Kimi 冲进全球前四，DeepSeek 拿下千亿融资</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpdTL6HV7pYzBgpLDFyxV--VqXa8Fplpd9G0rf8rgQ3UpZhkpRXNrBMkx21YEmQx5gZ9mnlwo7PnePc9Ob_30PF_UvNTy87Swvv2dyLmCCYRc4wfyUEwg0ntVBnBcJXTk3XEL4FfYRz_L7iYlCSZ_cs6tJyBPlM9_QKCqQ8vSd-5JXflnpJl06ZpJVeE0105U8cnPIa0WMwFk89kyxDwoXvg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=9A4C444C44FAE57A73752AB3538FB74C741173326ADFE98D</link>
-    <guid isPermaLink="false">80-6</guid>
-    <pubDate>Mon, 26 Oct 2026 16:18:02 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>多家媒体报道，国产大模型在同一天迎来两项标志性进展：Kimi 在全球模型排名中冲进前四，DeepSeek 则完成千亿级融资。两件事叠加，显示国产模型在能力与资本两个维度同时逼近国际头部阵营。具体融资细节与榜单口径仍待官方进一步确认。</description>
-  </item>
-  <item>
-    <title>全球 Token 调用榜：国产大模型包揽前三，单周 79 万亿 Token</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS07XdexdSAmpdTL6HV7pYzBgpLDFyxV--VqXa8Fplpd9-EMnJ3dqjx1vxtbUxza2CumaVzPEOp1tAR0mQtzPVYXGatudyoEQLvWqswqhDwFK2XgAVcC8DzvSjfbkWrMzHE7W1sEAhZiFxPw99Y580foPSXZjfHC92zjff8g9Hkbc_zhW2Qymwn_SvvAzCai2joTiiqOHippzbqO3x8aIC-15Nu7CnoSqqg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=9A4C444C44FAE57A73752AB3538FB74C741173326ADFE98D</link>
-    <guid isPermaLink="false">80-7</guid>
-    <pubDate>Mon, 26 Oct 2026 14:49:56 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>最新一期全球 AI 大模型每周 Token 调用榜（10 月 12 日至 18 日）显示，榜单前三名被国产大模型集体包揽，全榜统计达 79 万亿 Token。另一篇报道进一步指出，前五名席位全部由国产模型占据，其中 V4.1-Flash-1017 单周调用量达 33.6 万亿。调用量份额正成为衡量模型实际使用规模的重要指标。</description>
-  </item>
-  <item>
-    <title>高德发布具身智能模型 λ0，让人形机器人从人类动作中学习</title>
-    <link>https://cn.technode.com/post/2026-10-26/alibaba-lambda0-humanoid-model-human-motion-data/</link>
-    <guid isPermaLink="false">80-8</guid>
-    <pubDate>Mon, 26 Oct 2026 12:12:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>高德发布具身智能模型 λ0，主打从人类动作数据中学习运动与操作能力，降低对人形机器人遥操作采集数据的依赖。这是地图与出行平台向具身智能底层模型延伸的代表性动作。具身智能的模型层竞争正从机器人厂商扩展到互联网大厂。</description>
-  </item>
-  <item>
-    <title>即梦上线「短剧工作室」，整合剧本、分镜与视频制作全流程</title>
-    <link>https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html</link>
-    <guid isPermaLink="false">80-9</guid>
-    <pubDate>Mon, 26 Oct 2026 10:25:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>即梦 AI 上线一站式短剧创作工具「短剧工作室」，整合剧本整理、角色与场景管理、分镜生成、视频制作及后期调整，搭载自研剧本模型 DreamScript，支持 10 万字长文本上传与 100 集连续生成。部分功能整合了小云雀短剧 Agent 的同款能力。AI 内容创作平台正从单点工具走向全流程工作台。</description>
-  </item>
-  <item>
-    <title>京东广告联合华为鲲鹏超节点，端到端推理时延降低 15%</title>
-    <link>https://www.tmtpost.com/8181692.html</link>
-    <guid isPermaLink="false">80-10</guid>
-    <pubDate>Mon, 26 Oct 2026 12:19:13 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>京东广告与华为鲲鹏合作，通过灵衢互联将四级缓存压缩为两级、建成 300TB 共享内存池并重构 RPC 通信，使生成式广告推荐端到端推理时延降低 15%，KV Cache 与 RPC 性能大幅提升，已在 618 大促核心场景 5% 流量验证。双方合作正从广告向搜索推荐等场景外溢。</description>
-  </item>
-  <item>
-    <title>北京人形机器人创新中心开源数据集 RoboMIND 全球下载量突破 5000 万次</title>
-    <link>https://www.sohu.com/a/1093120560_362042?scm</link>
-    <guid isPermaLink="false">80-11</guid>
-    <pubDate>Mon, 26 Oct 2026 20:41:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>北京人形机器人创新中心宣布，其开源数据集 RoboMIND 全球下载量突破 5000 万次。该数据集面向人形机器人操作与运动学习，是国产具身智能开源生态中下载量最高的数据集之一。数据开源正成为国内具身智能生态建设的主要抓手。</description>
   </item>
 </channel></rss>
