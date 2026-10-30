@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:02:01.839685",
+ "generated_at": "2026-10-30T09:17:45.360005",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 87,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-30",
+   "created_at": "2026-10-30T01:17:44.418031+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-30/news_daily_cn-091744.html"
+  },
   {
    "id": 86,
    "task": "news_daily_cn",
@@ -723,6 +732,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "智元发布具身模型 GO-3 Preview，登顶三大权威评测榜单",
+   "url": "https://www.ithome.com/1/019/806.htm",
+   "source": "IT之家",
+   "summary": "智元推出采用 WRAM 架构的具身模型 GO-3 Preview，将任务推理、未来预测与动作生成打通，支持预训练、后训练到部署后的全链路规模化学习。该模型已在 RoboDojo、RoboTwin、RoboColiseum 三大评测登顶，并计划于 2026 年底全面开源。这意味着国内具身智能开始从单点演示走向可复用的通用模型底座。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 5,
+   "published": "2026-10-29T23:22:24+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "国产 1.3B 开源 OCR 模型横扫四项全球第一",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9puLEoXeMUPndpWTw5MbP36GQt7xMeiWUucfHuO3dnO8Fe-9_RJv7oR9lma4B8NOz52PH9relR7l1HY7PmvTqrqPp2KsgLE2sIY5KmQ7VayIKGk2ZE6mH2QF11pwa8ybrFr1H64hpQSru0hiW4aLCOdUPNBbRh75cxHutv9558uJ6VKrzu_4XKA..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8",
+   "source": "微信公众号",
+   "summary": "一款 1.3B 参数的国产开源 OCR 模型在多项文档解析评测中拿下全球第一，与腾讯 HunyuanOCR-1.5、阿里系及智谱系大模型同台竞争。小参数模型在 OCR 极限实测中表现突出，说明文档解析赛道正从堆参数转向数据与架构效率的比拼。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 5,
+   "published": "2026-10-30T00:03:15+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "深兰科技联合华为发布大模型智能体工作手机 Wowoker",
+   "url": "https://www.tmtpost.com/8186683.html",
+   "source": "钛媒体",
+   "summary": "深兰科技发布号称全球首款大模型 AI 智能体工作手机 Wowoker，联合华为打造，面向工作场景而非消费娱乐。这是继豆包 AI 手机后，又一家厂商将智能体作为手机核心卖点，且明确切分办公场景。手机端智能体入口的争夺正在从通用助手转向垂直工作流。",
+   "why": null,
+   "category": "AI 终端",
+   "heat": 4,
+   "published": "2026-10-29T11:19:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "华为制药军团明确不做药，定位 AI 制药技术底座",
+   "url": "https://www.ithome.com/1/019/839.htm",
+   "source": "IT之家",
+   "summary": "华为制药军团总裁樊杰表示华为不做药也不做管线，而是以计算、通信和 AI 能力为药企与科研机构提供算力、存储、网络、工具链和数据治理。这一定位把华为放在 AI 制药基础设施层，避免与客户直接竞争。对国内 AI 制药生态而言，多了一个算力与工程能力的供给方。",
+   "why": null,
+   "category": "AI 制药",
+   "heat": 4,
+   "published": "2026-10-29T23:57:42+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "阿里云押注 Agentic Cloud，承接模型之后的智能体生意",
+   "url": "https://www.tmtpost.com/8182516.html",
+   "source": "钛媒体",
+   "summary": "阿里云将能力从模型训练与推理延伸至智能体构建、运行以及企业数据组织，试图提供一套协同工作的基础设施而非单一产品。这反映云厂商竞争焦点正从卖算力转向卖智能体运行环境。对企业客户而言，选型逻辑可能从模型 API 转向整体智能体平台。",
+   "why": null,
+   "category": "云与算力",
+   "heat": 4,
+   "published": "2026-10-29T10:45:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "Artificial Analysis 新基准下国产大模型排名集体下滑",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9UjulV3jz_ShFS110vaAdsZqg-wqU7q7MDoamr2S1DjbWHpYklkIOOB3qGzVeD1LCIh_H62puWWLLhFBs0dKLtgqp8ARL2As0CB61EY85z1EWmOsvWZXPJc23CuqMqI-sECKQtltrUB9h8U36mB7o7cigsl5j7kh85qg77vZQ_oJAe0f8bRARvQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8",
+   "source": "微信公众号",
+   "summary": "Artificial Analysis 更新指数基准至 V5 版本后，国产大模型排名出现集体断崖式下降，新榜单将约三成权重压在真实写代码与科研流程上。多家媒体报道此事，引发对国产模型在工程与科研任务上真实能力的讨论。评测体系向实操倾斜，可能倒逼厂商从刷榜转向补工程短板。",
+   "why": null,
+   "category": "模型评测",
+   "heat": 4,
+   "published": "2026-10-29T11:55:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "混元 Hy4 加装视觉能力，国产开源模型集体转向视觉理解",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9zVsclmMwOnTNGAkP41zi1ZiYd9eNdm1QzqLIgMT-e1dHm1EOwyiSLPHeh_BY-GBYeKKZ74V-h67DaqdhpIDFKo2cxBVa2lzJ35Yf57SnjH-AL58uDwiQgDbY0kzrV587wUR8-1ToeaoKjsQh2FV2skWqypH5C2kujfjwD6uaAmrwdVqCwyPdzA..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8",
+   "source": "微信公众号",
+   "summary": "腾讯混元 Hy4 新增视觉理解能力，国产开源大模型正集体从文字处理迈向看图懂世界。这一波多模态升级集中在开源侧，意味着视觉理解正成为开源模型的标配能力而非差异化卖点。对应用开发者而言，可本地部署的多模态选择明显增多。",
+   "why": null,
+   "category": "多模态",
+   "heat": 4,
+   "published": "2026-10-29T12:26:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "第二批 AI 终端智能化分级结果发布，新增 71 款 L3 级终端",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXBEB0t8mPFm-Z4YHbQDZR4lqXa8Fplpd9DwrKDdtLeVDnfZU9JXCH_xclg81HB0B115P_DzUgSbqSsJoHsryNecu9J-X7f6_vcSN5HdDF8ni8ijVZLFVwiveVNIT1LpqDIdtNtynUpc3ORJgaeRThSbkzAxR-l8RbwI4q4sydEzzs-dwqmi2R4b-C-OBQmu4Qj43rSV8wxSQYJSSFPgfogQ..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=BEE7BB9645FCE37D73752D70D4750C0A73AD1DA56AE3E0F0",
+   "source": "微信公众号",
+   "summary": "中国电子技术标准化研究院发布第二批《人工智能终端智能化分级》标准符合性测试结果，新增 71 款通过 L3 级认证的终端，传音手机在列。分级标准落地意味着 AI 终端能力有了可对照的官方标尺。对厂商而言，L3 认证可能成为产品宣传与采购的门槛性指标。",
+   "why": null,
+   "category": "政策与标准",
+   "heat": 3,
+   "published": "2026-10-30T00:04:49+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "文远知行子公司景烁科技完成首轮数千万美元融资",
+   "url": "https://www.qbitai.com/2026/10/506281.html",
+   "source": "量子位",
+   "summary": "文远知行披露旗下子公司景烁科技首次融资进展，由 001 号员工带队，首轮融资规模达数千万美元。这是自动驾驶公司分拆子业务独立融资的又一案例。资本对自动驾驶衍生业务的兴趣，显示行业在寻找主业之外的增长曲线。",
+   "why": null,
+   "category": "融资",
+   "heat": 3,
+   "published": "2026-10-29T03:27:50+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "小雨智造与国家钢结构质检中心共建具身智能焊接实验室",
+   "url": "https://www.qbitai.com/2026/10/506273.html",
+   "source": "量子位",
+   "summary": "小雨智造与国家钢结构质检中心共建的工业具身智能焊接与检测技术联合实验室正式揭牌，CEO 乔忠良称具身智能新质生产力已成事实。合作把具身智能直接嵌入焊接与检测这类工业刚需环节。工业场景的联合实验室模式，可能成为具身智能落地的重要路径。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-10-29T02:51:45+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "启元机器人接入 WorkBuddy，强调从看见到走到身边",
+   "url": "https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP",
+   "source": "InfoQ 中文",
+   "summary": "启元 CEO 田华宣布启元机器人接入 WorkBuddy，强调机器人不仅能看见用户世界，还能走到用户身边。这一定位把具身能力与办公协作场景结合。机器人厂商正尝试从展示型产品转向可嵌入日常工作流的助手。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-10-29T20:22:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "国产 3D 模型 Hi3D V3.0 正面竞争 Tripo",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9jmhYeHedpAqpTVEnLhTB6sCzb6sIJGgHAapMAe5DNNQopSh3QDAl3P1UTULxM0YrqVYkB8bk7iNHAsowiroGJLQsNE-mo8PcEAsK-ImT7hOWrTGYON3P7_mVEIQ2Qxfq5A9HfqOPCa8JJPE9gLgf-xf05jUSS5CPdXxaj2xDtlhhWLv6O878UA..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8",
+   "source": "微信公众号",
+   "summary": "国产 3D 生成模型 Hi3D V3.0 发布，与 Tripo 正面比较，重点解决单图生成可打印模型时的破面、漏底与纹理模糊问题。3D 生成正从能出图转向能直接用于打印与生产。修模成本是 3D 生成商业化的关键瓶颈，此次升级直指该痛点。",
+   "why": null,
+   "category": "3D 生成",
+   "heat": 3,
+   "published": "2026-10-29T12:06:44+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "扩散模型进入 Agent 主场，350 亿参数模型速度翻倍",
+   "url": "https://www.qbitai.com/2026/10/505934.html",
+   "source": "量子位",
+   "summary": "一项工作将扩散模型用于 Agent 任务，模型规模达 350 亿参数，速度比 Jev 快一倍。扩散架构此前多用于图像生成，此次进入 Agent 决策与生成场景。若速度优势可复现，可能为 Agent 推理提供 Transformer 之外的新路线。",
+   "why": null,
+   "category": "模型架构",
+   "heat": 3,
+   "published": "2026-10-29T02:18:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "华硕推出本地 AI 智能体创作本 ProArt 创 RTX Spark",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXvZYsIK5vKT-Z4YHbQDZR4lqXa8Fplpd9QBORoo7QrZRPDCdtTLp2T5FmF5F2Dskqyq3KSnsiw8DTOZbbCAZSoM4sVJy2Zx17yPVKKDVaC6BBR_k0e11fTQtWCtqKP98hBta5ZBKL6Izpn8xWdmUk1wCrTYqqlcFX-YpP9ZorgUvjf_4qOeILfJp98WdAFqaI6ztIoTJhysLs46dn8Efgxg..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=BEE7F71A45FCE37D73752D70D4750C0A73AD1DA56AE3E0F6",
+   "source": "微信公众号",
+   "summary": "华硕新上市 ProArt 创 RTX Spark，官方定位为全球首款创作者智能体 PC，主打在轻薄机身中本地运行大模型并进行 AI 创作。端侧算力与智能体软件的结合正从概念走向整机产品。对创作者群体而言，本地运行可规避云端成本与数据外流顾虑。",
+   "why": null,
+   "category": "AI 终端",
+   "heat": 3,
+   "published": "2026-10-29T14:34:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "星闪 SLE 2.0 落地高清音频与高精测距，20 余款芯片发布",
+   "url": "https://www.ithome.com/1/019/796.htm",
+   "source": "IT之家",
+   "summary": "国际星闪联盟蓝皮书显示，星闪 SLE 2.0 已进入成熟与商用阶段，恒玄、华为海思等厂商发布 20 余款支持高清音频与高精测距的芯片。数字车钥匙累计出货超 160 万台、量产车型超 30 款。星闪正从连接技术扩展为车载与音频的生态底座。",
+   "why": null,
+   "category": "芯片与连接",
+   "heat": 3,
+   "published": "2026-10-29T15:45:29+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "华为 Pura 90 Plus 上市即支持星闪音频",
+   "url": "https://www.ithome.com/1/019/795.htm",
+   "source": "IT之家",
+   "summary": "华为 Pura 90 Plus 首发麒麟 9025 芯片，采用 NearLink E2.0 方案，上市即支持星闪音频，物理层传输速率达 16Mbps，可承载 48kHz/24bit Hi-Fi 无损传输。终端与耳机生态同步跟进，星闪音频进入实际销售产品。这为国产无线音频标准提供了手机端入口。",
+   "why": null,
+   "category": "芯片与连接",
+   "heat": 3,
+   "published": "2026-10-29T15:28:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "国产大模型融资排行榜引发关注",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9Fosj_2yThIh1bUSESIo9GjTzbhKdKBXNGprfiGiZ-eLG_RGxh8KJKv2ayTuNHIaZLbti4bZnKRZQjvq_KTMPKsUO8GYeqbkLOMiBOeQYtVxsor9BIXL4gfJonjJkFuuYnWzxX9XWvu8nmbgG6uHaPR9PIG8FrDiO49xKHoloKQ56VKrzu_4XKA..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8",
+   "source": "微信公众号",
+   "summary": "一份国产大模型融资排行榜在公众号传播，梳理各家的算力采购、数据清洗与研发团队薪酬投入。榜单反映大模型赛道烧钱速度惊人，融资能力成为持续参赛的前提。在商业化尚未闭环的背景下，资金储备正成为模型公司分层的核心变量。",
+   "why": null,
+   "category": "融资",
+   "heat": 2,
+   "published": "2026-10-29T09:57:39+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "敲敲云零代码平台上线 AI Skills，开源免费",
+   "url": "https://www.oschina.net/news/503285",
+   "source": "开源中国",
+   "summary": "敲敲云零代码平台推出 AI Skills 功能，开源免费，用户可通过一句话搭建 CRM、进销存、OA 等系统。该功能试图把零代码从拖拽配置升级为自然语言生成。对中小企业而言，AI 生成业务系统可能显著降低数字化门槛。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-10-29T02:49:36+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
