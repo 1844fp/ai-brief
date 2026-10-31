@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T09:20:42.776789",
+ "generated_at": "2026-10-31T10:27:14.426841",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 89,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-10-31",
+   "created_at": "2026-10-31T02:27:13.351335+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-10-31/news_daily_cn-102713.html"
+  },
   {
    "id": 88,
    "task": "news_daily_cn",
@@ -741,6 +750,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "阿里巴巴与 Apple 达成合作，千问集成至 Apple 智能",
+   "url": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+   "source": "雷锋网",
+   "summary": "苹果中国官网确认，国行 Apple 智能首批功能将于 11 月 4 日随 iOS 开发者 Beta 开放测试，12 月随 iOS 27.3 正式推送，中国用户可在 Siri、写作工具与视觉智能中调用千问的文本与图像理解、内容生成能力。所有请求发送前均需用户授权，用户可自主选择是否开通。这是国产大模型首次以系统级入口形式进入 iPhone，对国内 AI 应用生态格局影响深远。",
+   "why": null,
+   "category": "大模型·终端合作",
+   "heat": 5,
+   "published": "2026-10-30T22:52:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "DeepSeek 第二轮融资 1055 亿元，国资占比升至 27%",
+   "url": "https://www.oschina.net/news/503318",
+   "source": "开源中国",
+   "summary": "DeepSeek 完成第二轮 1055 亿元人民币（约 158 亿美元）融资，The Information 披露的近 30 家投资者名单显示，腾讯两轮各出资 100 亿元、宁德时代及其董事长两轮合计 150 亿元，长鑫存储与中芯国际亦在列。更关键的变化是国资占比从 2% 跃升至 27%，股东结构明显向产业与国资倾斜。这轮融资将支撑其下一代基座模型与算力储备。",
+   "why": null,
+   "category": "大模型·融资",
+   "heat": 5,
+   "published": "2026-10-30T10:56:51+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "快手可灵 AI 完成约 198 亿元增资交割",
+   "url": "https://www.ithome.com/1/020/406.htm",
+   "source": "IT之家",
+   "summary": "快手公告显示，旗下可灵 AI 独立融资完成交割，投资者实际支付增资款约 198.02 亿元（约 29.05 亿美元），较原定 204.47 亿元上限少约 6.45 亿元，因两家投资者未按期出资被终止。股东包括国家人工智能产业投资基金出资 14 亿元、上海国方数科 16.9 亿元、阿里云约 13.63 亿元。视频生成赛道头部资产独立融资，估值锚定约 180 亿美元。",
+   "why": null,
+   "category": "AIGC·融资",
+   "heat": 5,
+   "published": "2026-10-31T00:16:45+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "天数智芯天垓300 实测对标 H200，单卡吞吐达 1.05 倍",
+   "url": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
+   "source": "雷锋网",
+   "summary": "天数智芯媒体开放日披露第三方测试结果：在典型 PD 分离部署下，天垓300 折算单卡端到端吞吐达到 H200 的 1.05 倍，国产通用 GPU 在高端推理负载中具备直接竞争的性能基础。公司同时将竞争重心转向系统效率、软件适配与稳定交付，并推出端侧彤央系列拓展产品布局。国产 GPU 的比拼正从峰值算力参数转向有效 Token 产出与工程落地。",
+   "why": null,
+   "category": "AI 芯片·算力",
+   "heat": 4,
+   "published": "2026-10-30T09:02:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "字节 Seed 核心负责人周畅离职创业，方向为物理 AI",
+   "url": "https://www.ithome.com/1/020/408.htm",
+   "source": "IT之家",
+   "summary": "据 Z Finance 报道，字节跳动 Seed 核心负责人周畅已离职创业，方向为 Physical AI，并获头部美元基金支持，具体金额与估值未披露。周畅曾任通义千问技术负责人，2024 年 8 月加入字节，负责豆包大模型视觉多模态生成，管理范围覆盖多模态交互、世界模型与机器人。此前字节方面曾否认其离职，此次人事变动对字节多模态与具身智能布局构成直接冲击。",
+   "why": null,
+   "category": "人才·具身智能",
+   "heat": 4,
+   "published": "2026-10-31T00:27:27+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "百度 APP 发布四大 AI 升级，搜索实现递归自我进化",
+   "url": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
+   "source": "雷锋网",
+   "summary": "百度 10 月 30 日宣布搜索实现递归自我进化，并升级搜索 AI API，活动期最低 4.9 元/千次，低于 DeepSeek 搜索 API。文心助手将搜索从「一次问答」推向「一份交付」，覆盖 170 余种场景；AI 镜头支持多目标同步识别与 9 种方言实时对话，结果页 GUI 互动场景提升 5 倍并接入超 50 亿条政务、民生、央行数据。搜索产品的 Agent 化与 API 价格战同步升级。",
+   "why": null,
+   "category": "AI 应用·搜索",
+   "heat": 4,
+   "published": "2026-10-30T07:30:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "全国首批昇腾 950DT 芯片在汕头华侨试验区点亮",
+   "url": "https://www.21jingji.com/article/20261031/herald/e795187e9b2952785e9ecb1f56bcf66c.html",
+   "source": "Google News 中文",
+   "summary": "全国首批国产昇腾 950DT 芯片在汕头华侨试验区点亮，用于「词元工厂」算力基础设施。这是昇腾新一代芯片在地方智算中心的首次规模化落地，标志国产算力供给从单卡性能转向区域集群部署。对依赖国产芯片的推理服务商而言，供给节奏与集群稳定性成为新的观察点。",
+   "why": null,
+   "category": "AI 芯片·算力",
+   "heat": 4,
+   "published": "2026-10-30T22:46:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "国产开源模型 1.3B OXR 登顶全球 OCR 榜单",
+   "url": "https://www.qbitai.com/2026/10/506686.html",
+   "source": "量子位",
+   "summary": "量子位报道，国产开源模型以 1.3B 参数规模在 OCR 任务上登顶全球第一，命名为 OXR，主打「解析一切」的文档与图像理解能力。小参数模型在垂直任务上超越大模型，说明数据与训练方法（报道提及 RSI 相关思路）对专项能力的提升仍具空间。为端侧与低成本文档处理场景提供了新的开源选项。",
+   "why": null,
+   "category": "开源模型·多模态",
+   "heat": 3,
+   "published": "2026-10-30T05:52:47+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "英伟达与 MIT 基于 MiniMax H3 开源视频增强方案，支持 4K 重生成",
+   "url": "https://www.qbitai.com/2026/10/506743.html",
+   "source": "量子位",
+   "summary": "英伟达与麻省理工学院团队在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，方案基于国产模型 MiniMax H3，最高支持 4K 重生成。这是国际头部团队首次以国产视频模型为基座发布开源增强工具，侧面验证 MiniMax 视频模型的能力与生态影响力。对国内视频生成开源社区是重要的外部背书。",
+   "why": null,
+   "category": "开源·视频生成",
+   "heat": 3,
+   "published": "2026-10-30T07:31:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "全国首个具身仿真数采中心落地杭州，月产能对标全行业两年积累",
+   "url": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+   "source": "雷锋网",
+   "summary": "影溯在杭州落地全国首个具身智能仿真数据采集中心，称可将产能公式从「人×小时」变为「环境配置数×并行算力」，一个月完成全行业过去两年积累的百万小时数据量。行业痛点已从数据总量转向数据多样性——布局、遮挡、物体组合的变化不足导致模型泛化差。仿真数采若跑通，将改变具身智能的训练成本结构。",
+   "why": null,
+   "category": "具身智能·数据",
+   "heat": 3,
+   "published": "2026-10-30T11:08:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "地平线余凯：很多自研智驾芯片宣传的是「吹牛算力」",
+   "url": "https://news.mydrivers.com/1/1162/1162075.htm",
+   "source": "Google News 中文",
+   "summary": "地平线创始人余凯公开批评部分自研智驾芯片的宣传算力虚高，称 PPT 算力被吹到 6 至 7 倍、突破宇宙尺度，与实际可用算力严重脱节。此番表态出现在车企自研芯片密集发布的节点，指向智驾芯片行业以峰值参数营销、缺乏有效算力验证的问题。对采购方而言，有效算力与工具链成熟度才是真实门槛。",
+   "why": null,
+   "category": "AI 芯片·智能驾驶",
+   "heat": 3,
+   "published": "2026-10-30T23:58:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "联发科确认第二家 AI 芯片大客户，2028 年量产",
+   "url": "https://tech.ifeng.com/c/8xfE4yKvUxQ",
+   "source": "Google News 中文",
+   "summary": "联发科确认拿下第二家 AI 芯片大客户，产品预计 2028 年量产，报道明确其并非字节跳动。这是联发科在 ASIC 定制赛道继首家客户后的又一进展，显示云厂商与终端厂商自研 AI 芯片的需求正外溢至第三方设计服务商。量产时点落在 2028 年，意味着定制 ASIC 对通用 GPU 的替代仍是中期变量。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-10-30T23:52:19+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "国产 RSI 现状：没人敢动模型权重，都在改「造 AI 的机器」",
+   "url": "https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html",
+   "source": "雷锋网",
+   "summary": "雷锋网梳理国内 RSI（AI 造 AI）进展称，厂商晒出的成果集中在训练流程、推理系统、GPU 算子与 Agent 脚手架，尚无一家敢用 AI 真正改写底层模型权重。按上海交大、清华等 35 位研究者提出的 L1 至 L5 分级，全球前沿系统多处于 L1 到 L2 过渡阶段。RSI 叙事火热，但真实水位与宣传存在明显落差。",
+   "why": null,
+   "category": "大模型·训练",
+   "heat": 3,
+   "published": "2026-10-30T11:32:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "阶跃终端 STEPX Neo 发布两周即升级，智能体能力持续释放",
+   "url": "https://www.qbitai.com/2026/10/506554.html",
+   "source": "量子位",
+   "summary": "阶跃终端旗下大模型原生智能体手机 STEPX Neo 在发布两周后迎来首次升级，重点强化智能体能力。作为主打「大模型原生」的终端产品，其快速迭代节奏显示手机厂商正把智能体作为差异化卖点，而非单纯堆砌模型参数。端侧智能体的实际可用性仍是检验这类产品的核心标准。",
+   "why": null,
+   "category": "AI 终端·智能体",
+   "heat": 3,
+   "published": "2026-10-29T09:58:26+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "Claude Code for VS Code 官方扩展被植入后门",
+   "url": "https://www.solidot.org/story?sid=85756",
+   "source": "Solidot",
+   "summary": "安全研究人员在 Cursor Marketplace 的 Claude Code for VS Code 官方扩展中发现后门，受影响版本 Anthropic.claude-code 2.1.313 上线约 11 小时，估计约 5000 名用户受影响。恶意代码会收集主机与用户信息、尝试写入攻击者 SSH 公钥并建立反向隧道，因代码 bug 多数场景未成功。Cursor 已发布安全公告，Anthropic 尚未回应。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-10-30T13:43:51+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "宇树上市后首份三季报：营收 18.17 亿元，研发投入大幅抬升",
+   "url": "https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html",
+   "source": "雷锋网",
+   "summary": "宇树科技 2026 年前三季度营收 18.17 亿元，同比增长 55.7%，已超 2025 年全年；第三季度单季营收 6.65 亿元，同比增长 69.9%。但毛利率明显回落、研发费用率大幅抬升，扣非利润实际下滑。公司正用硬件红利补贴具身大模型与算力投入，属于主动战略换挡。",
+   "why": null,
+   "category": "具身智能·财报",
+   "heat": 3,
+   "published": "2026-10-30T07:10:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "百度确认副总裁吴甜离职，文心模型下周发布新进展",
+   "url": "https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html",
+   "source": "雷锋网",
+   "summary": "百度确认副总裁吴甜已离职，同时透露文心模型下周将发布新进展。吴甜长期负责百度 AI 技术与产品体系，其离职发生在文心大模型迭代的关键节点。核心技术人员变动叠加模型版本更新，百度 AI 组织与产品节奏的衔接值得观察。",
+   "why": null,
+   "category": "人才·大模型",
+   "heat": 3,
+   "published": "2026-10-30T08:42:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "TRAE 推出开发者个人助理，切入 AI Coding 下半场",
+   "url": "http://www.geekpark.net/news/373190",
+   "source": "极客公园",
+   "summary": "极客公园报道，TRAE 发布开发者个人助理，试图解决 AI Coding 单点提效与项目整体交付效率不匹配的问题，覆盖任务调度、状态管理、验证闭环与跨工具协同。文章指出，即使单点开发任务提速 5 至 10 倍，项目从需求到交付的效率提升有时不足两倍。AI 编程竞争正从代码生成转向开发基建。",
+   "why": null,
+   "category": "AI 编程·工具",
+   "heat": 3,
+   "published": "2026-10-30T05:49:25+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
