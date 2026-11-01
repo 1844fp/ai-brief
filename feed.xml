@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 31 Oct 2026 10:27:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 13:10:32 +0000</lastBuildDate>
+  <item>
+    <title>Anthropic IPO 前预计被信用机构评为「高垃圾级」</title>
+    <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
+    <guid isPermaLink="false">90-1</guid>
+    <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>据 TechCrunch 等多家媒体报道，Anthropic 在推进 IPO 之际，预计将获得信用评级机构的高「垃圾级」评级。这将显著提高其融资成本与难度，而该公司正依赖大规模举债支撑高昂的算力与研发支出。对 AI 行业而言，这被视为资本市场对前沿实验室巨额烧钱模式开始重新定价的信号。</description>
+  </item>
+  <item>
+    <title>OpenAI 据报下调新一轮融资目标</title>
+    <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round</link>
+    <guid isPermaLink="false">90-2</guid>
+    <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道称，OpenAI 最新一轮融资未能达到预期规模，公司已下调融资目标。这与近期市场对 AI 基础设施巨额支出的疑虑升温相呼应。若头部公司募资缩水，可能波及整个 AI 产业链的资本供给节奏。</description>
+  </item>
+  <item>
+    <title>Claude Code 的 VS Code 扩展被植入后门，经 Cursor 市场分发</title>
+    <link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link>
+    <guid isPermaLink="false">90-3</guid>
+    <pubDate>Fri, 30 Oct 2026 10:22:51 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>安全研究者披露，Cursor 市场上架的 Claude Code VS Code 扩展被植入后门，可向全球 Claude 开发者的笔记本电脑投递远程访问木马。该事件在 Hacker News 获得近千分、逾五百条评论，引发对 AI 编程工具供应链安全的广泛担忧。这提醒开发者生态的插件市场正成为高价值攻击面。</description>
+  </item>
+  <item>
+    <title>OpenAI、Google、微软、Anthropic 共同支持新的网页抓取退出标准</title>
+    <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+    <guid isPermaLink="false">90-4</guid>
+    <pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>据 The Verge 报道，OpenAI、Google、微软与 Anthropic 表示将采纳一种共享的「策略令牌」信号，让网站运营方一次性向多家 AI 公司表达训练数据偏好，而无需逐家设置。OpenAI 官方博客同日说明将遵守共享的 robots.txt 信号。这是内容方与 AI 公司之间围绕数据授权的一次制度化尝试。</description>
+  </item>
+  <item>
+    <title>纽约州签署未成年人聊天机器人安全法</title>
+    <link>https://dig.watch/updates/new-york-ai-chatbot-child-safety</link>
+    <guid isPermaLink="false">90-5</guid>
+    <pubDate>Sat, 31 Oct 2026 11:58:52 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>纽约州参议员 Kristen Gonzalez 提出的法案已签署成法，禁止面向未成年人的「不安全」聊天机器人功能。多家媒体报道称，这是各州在 AI 监管边界上持续施压的最新动作。该法将直接影响面向青少年的 AI 陪伴类产品的设计与合规。</description>
+  </item>
+  <item>
+    <title>Google「Project Suncatcher」原型卫星首次回传信号</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response</link>
+    <guid isPermaLink="false">90-6</guid>
+    <pubDate>Sat, 31 Oct 2026 03:54:00 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google 宣布其搭载 TPU 的原型卫星成功在轨启动张量处理单元，板载 Gemma 4 模型按提示生成了一首关于太空的俳句。The Verge 等媒体跟进报道，称这是首个在太空运行的数据中心级 AI 芯片。该实验验证了把算力送上轨道的可行性，为未来天基推理与数据回传架构提供参考。</description>
+  </item>
+  <item>
+    <title>GPT-5.6 Sol 可在和平模式下通关《Factorio》</title>
+    <link>https://ryanmadden.net/gpt-56-beats-factorio</link>
+    <guid isPermaLink="false">90-7</guid>
+    <pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>开发者 Ryan Madden 记录称，GPT-5.6 Sol 在《Factorio》和平模式下完成了通关，展示了长程规划与复杂自动化任务中的能力。该帖在 Hacker News 获得逾 160 分、近 180 条评论，讨论集中在模型是否真正理解游戏机制还是依赖记忆。这类长时程智能体基准正成为评估前沿模型的新方式。</description>
+  </item>
+  <item>
+    <title>AI 智能体向活体小鼠脑部注射药物</title>
+    <link>https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse</link>
+    <guid isPermaLink="false">90-8</guid>
+    <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道，一家生物技术初创公司让 AI 智能体自主选择基因疗法并成功完成对活体小鼠的脑部注射。这被视为实验室自动化的一个惊人案例，显示智能体已能介入真实生物实验操作。若可复现，将推动 AI 驱动的高通量体内研究。</description>
+  </item>
+  <item>
+    <title>恶意软件利用大模型按「身价」给受害者排序</title>
+    <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
+    <guid isPermaLink="false">90-9</guid>
+    <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Cisco Talos 披露名为 Volta-Autodoxer 的信息窃取恶意软件，利用 AI 工具收集登录凭证、信用卡号、Discord 会话乃至外卖订单等数据，并对受害者价值进行排序。Wired 等媒体跟进报道。这显示大模型正被攻击者用于提升犯罪流程的自动化与精准度。</description>
+  </item>
+  <item>
+    <title>安全团队披露接管 ChatGPT 账户的方法</title>
+    <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+    <guid isPermaLink="false">90-10</guid>
+    <pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Parameter.ai 实验室发布研究，称发现 OpenAI 的一处缺口并演示了如何接管 ChatGPT 账户。该帖在 Hacker News 获得逾 300 分、155 条评论，社区关注点集中在账户体系与第三方集成之间的信任边界。OpenAI 尚未公开回应细节。</description>
+  </item>
+  <item>
+    <title>Anthropic 封禁涉及训练更大模型的用户</title>
+    <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+    <guid isPermaLink="false">90-11</guid>
+    <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>有用户在社交平台反映，Anthropic 对任何触及「训练更大模型」行为的账户进行封禁，相关帖子在 Hacker News 获得逾 260 分、144 条评论。争议焦点在于服务条款对模型蒸馏与竞品训练的界定是否清晰。此事与近期多家实验室收紧输出用途限制的趋势一致。</description>
+  </item>
+  <item>
+    <title>Anthropic 采取措施阻止 Claude 逆向工程电子游戏</title>
+    <link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
+    <guid isPermaLink="false">90-12</guid>
+    <pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Mashable 报道，Anthropic 已采取技术手段阻止 Claude 被用于克隆或逆向工程电子游戏。此举延续了该公司对模型输出用途的收紧策略。对游戏行业而言，这既是知识产权保护动作，也反映 AI 公司与内容产业之间的紧张关系。</description>
+  </item>
+  <item>
+    <title>法官允许 NAACP 就 xAI 数据中心污染提起诉讼</title>
+    <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward</link>
+    <guid isPermaLink="false">90-13</guid>
+    <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，法官裁定 NAACP 针对 xAI 数据中心违反《清洁空气法》的诉讼可以继续推进。该诉讼指控这家 SpaceX 旗下的 AI 公司造成空气污染。案件将 AI 基础设施的环境外部性推上法庭，可能影响后续数据中心选址与许可。</description>
+  </item>
+  <item>
+    <title>英伟达考虑为 Nscale 西弗吉尼亚 AI 数据中心提供担保</title>
+    <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</link>
+    <guid isPermaLink="false">90-14</guid>
+    <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，英伟达正评估为 Nscale 在西弗吉尼亚州的 AI 数据中心项目充当贷款共同签署方。在投资者对 AI 支出趋于谨慎之际，由芯片供应商出面背书有助于项目融资落地。这反映出算力卖方正更深地介入下游基础设施的资本结构。</description>
+  </item>
+  <item>
+    <title>AI 支出热潮出现裂痕</title>
+    <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom</link>
+    <guid isPermaLink="false">90-15</guid>
+    <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 分析指出，大型科技公司持续向 AI 基础设施投入数百亿美元，但债务上升、自由现金流为负以及投资者怀疑情绪升温，正引发对支出可持续性的质疑。该报道与 Anthropic 评级、OpenAI 融资下调等消息形成呼应。市场开始区分「算力军备竞赛」与「可回收投资」。</description>
+  </item>
+  <item>
+    <title>Apple Intelligence 将随 iOS 27.3 登陆中国</title>
+    <link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link>
+    <guid isPermaLink="false">90-16</guid>
+    <pubDate>Fri, 30 Oct 2026 22:32:53 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Apple 在其中国官网宣布，Apple Intelligence 将随 iOS 27.3 进入中国市场，首个测试版于 11 月 4 日发布，正式版计划 12 月推出。The Verge 援引 MacRumors 报道称，此次上线并未包含全部功能。这是苹果 AI 能力在关键海外市场的一次重要落地。</description>
+  </item>
+  <item>
+    <title>英特尔股价大跌，政府持股缩水 120 亿美元</title>
+    <link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake</link>
+    <guid isPermaLink="false">90-17</guid>
+    <pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，英特尔股价大幅下挫，导致美国政府所持股份价值蒸发约 120 亿美元。原因是 AI 行业大量吞噬内存等零部件，推高 PC 价格并拖累 PC 销量。这显示 AI 算力需求正通过供应链传导至传统 PC 市场。</description>
+  </item>
+  <item>
+    <title>Memdoor：5 个 Qwen3.8-27B 模型组队在 LiveCodeBench Hard 上击败 Fable 5</title>
+    <link>https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</link>
+    <guid isPermaLink="false">90-18</guid>
+    <pubDate>Sat, 31 Oct 2026 22:46:12 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>开源项目 Memdoor 展示了一种多智能体工作流，由 5 个 Qwen3.8-27B 模型协作，在 LiveCodeBench Hard 基准上超过 Fable 5。该结果在 Hacker News 获得逾 140 分，讨论集中在多模型编排能否以更低成本逼近顶级闭源模型。这为中小模型组合路线提供了实证。</description>
+  </item>
+  <item>
+    <title>教皇利奥呼吁对 AI 进行「解除武装」</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</link>
+    <guid isPermaLink="false">90-19</guid>
+    <pubDate>Fri, 30 Oct 2026 14:58:06 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>教皇利奥十四世在周五的教廷讲话中表示 AI 系统应被「解除武装」，强调人类有责任引导、改变并在必要时拒绝其应用。他呼吁联合国成员国在下月日内瓦会议上采取具体步骤禁止致命性自主武器。The Verge 称该讲话反映了宗教界对 AI 伦理的集中表态。</description>
+  </item>
+  <item>
+    <title>主打隐私的 AI 助手 Ollie 宣布关停</title>
+    <link>https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down</link>
+    <guid isPermaLink="false">90-20</guid>
+    <pubDate>Fri, 30 Oct 2026 22:56:13 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，强调尊重用户隐私的 AI 助手 Ollie 将在约一周内停止服务。创始人在 AI 助手大量涌入市场、竞争白热化的背景下做出这一决定。这显示在巨头主导的通用助手赛道，差异化隐私定位难以独立支撑商业化。</description>
+  </item>
   <item>
     <title>阿里巴巴与 Apple 达成合作，千问集成至 Apple 智能</title>
     <link>https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html</link>
@@ -323,165 +483,5 @@
     <pubDate>Thu, 29 Oct 2026 11:55:12 +0000</pubDate>
     <source>微信公众号</source>
     <description>Artificial Analysis 更新指数基准至 V5 版本后，国产大模型排名出现集体断崖式下降，新榜单将约三成权重压在真实写代码与科研流程上。多家媒体报道此事，引发对国产模型在工程与科研任务上真实能力的讨论。评测体系向实操倾斜，可能倒逼厂商从刷榜转向补工程短板。</description>
-  </item>
-  <item>
-    <title>混元 Hy4 加装视觉能力，国产开源模型集体转向视觉理解</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9zVsclmMwOnTNGAkP41zi1ZiYd9eNdm1QzqLIgMT-e1dHm1EOwyiSLPHeh_BY-GBYeKKZ74V-h67DaqdhpIDFKo2cxBVa2lzJ35Yf57SnjH-AL58uDwiQgDbY0kzrV587wUR8-1ToeaoKjsQh2FV2skWqypH5C2kujfjwD6uaAmrwdVqCwyPdzA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8</link>
-    <guid isPermaLink="false">87-7</guid>
-    <pubDate>Thu, 29 Oct 2026 12:26:07 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>腾讯混元 Hy4 新增视觉理解能力，国产开源大模型正集体从文字处理迈向看图懂世界。这一波多模态升级集中在开源侧，意味着视觉理解正成为开源模型的标配能力而非差异化卖点。对应用开发者而言，可本地部署的多模态选择明显增多。</description>
-  </item>
-  <item>
-    <title>第二批 AI 终端智能化分级结果发布，新增 71 款 L3 级终端</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXBEB0t8mPFm-Z4YHbQDZR4lqXa8Fplpd9DwrKDdtLeVDnfZU9JXCH_xclg81HB0B115P_DzUgSbqSsJoHsryNecu9J-X7f6_vcSN5HdDF8ni8ijVZLFVwiveVNIT1LpqDIdtNtynUpc3ORJgaeRThSbkzAxR-l8RbwI4q4sydEzzs-dwqmi2R4b-C-OBQmu4Qj43rSV8wxSQYJSSFPgfogQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=BEE7BB9645FCE37D73752D70D4750C0A73AD1DA56AE3E0F0</link>
-    <guid isPermaLink="false">87-8</guid>
-    <pubDate>Fri, 30 Oct 2026 00:04:49 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>中国电子技术标准化研究院发布第二批《人工智能终端智能化分级》标准符合性测试结果，新增 71 款通过 L3 级认证的终端，传音手机在列。分级标准落地意味着 AI 终端能力有了可对照的官方标尺。对厂商而言，L3 认证可能成为产品宣传与采购的门槛性指标。</description>
-  </item>
-  <item>
-    <title>文远知行子公司景烁科技完成首轮数千万美元融资</title>
-    <link>https://www.qbitai.com/2026/10/506281.html</link>
-    <guid isPermaLink="false">87-9</guid>
-    <pubDate>Thu, 29 Oct 2026 03:27:50 +0000</pubDate>
-    <source>量子位</source>
-    <description>文远知行披露旗下子公司景烁科技首次融资进展，由 001 号员工带队，首轮融资规模达数千万美元。这是自动驾驶公司分拆子业务独立融资的又一案例。资本对自动驾驶衍生业务的兴趣，显示行业在寻找主业之外的增长曲线。</description>
-  </item>
-  <item>
-    <title>小雨智造与国家钢结构质检中心共建具身智能焊接实验室</title>
-    <link>https://www.qbitai.com/2026/10/506273.html</link>
-    <guid isPermaLink="false">87-10</guid>
-    <pubDate>Thu, 29 Oct 2026 02:51:45 +0000</pubDate>
-    <source>量子位</source>
-    <description>小雨智造与国家钢结构质检中心共建的工业具身智能焊接与检测技术联合实验室正式揭牌，CEO 乔忠良称具身智能新质生产力已成事实。合作把具身智能直接嵌入焊接与检测这类工业刚需环节。工业场景的联合实验室模式，可能成为具身智能落地的重要路径。</description>
-  </item>
-  <item>
-    <title>启元机器人接入 WorkBuddy，强调从看见到走到身边</title>
-    <link>https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP</link>
-    <guid isPermaLink="false">87-11</guid>
-    <pubDate>Thu, 29 Oct 2026 20:22:05 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>启元 CEO 田华宣布启元机器人接入 WorkBuddy，强调机器人不仅能看见用户世界，还能走到用户身边。这一定位把具身能力与办公协作场景结合。机器人厂商正尝试从展示型产品转向可嵌入日常工作流的助手。</description>
-  </item>
-  <item>
-    <title>国产 3D 模型 Hi3D V3.0 正面竞争 Tripo</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9jmhYeHedpAqpTVEnLhTB6sCzb6sIJGgHAapMAe5DNNQopSh3QDAl3P1UTULxM0YrqVYkB8bk7iNHAsowiroGJLQsNE-mo8PcEAsK-ImT7hOWrTGYON3P7_mVEIQ2Qxfq5A9HfqOPCa8JJPE9gLgf-xf05jUSS5CPdXxaj2xDtlhhWLv6O878UA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8</link>
-    <guid isPermaLink="false">87-12</guid>
-    <pubDate>Thu, 29 Oct 2026 12:06:44 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>国产 3D 生成模型 Hi3D V3.0 发布，与 Tripo 正面比较，重点解决单图生成可打印模型时的破面、漏底与纹理模糊问题。3D 生成正从能出图转向能直接用于打印与生产。修模成本是 3D 生成商业化的关键瓶颈，此次升级直指该痛点。</description>
-  </item>
-  <item>
-    <title>扩散模型进入 Agent 主场，350 亿参数模型速度翻倍</title>
-    <link>https://www.qbitai.com/2026/10/505934.html</link>
-    <guid isPermaLink="false">87-13</guid>
-    <pubDate>Thu, 29 Oct 2026 02:18:28 +0000</pubDate>
-    <source>量子位</source>
-    <description>一项工作将扩散模型用于 Agent 任务，模型规模达 350 亿参数，速度比 Jev 快一倍。扩散架构此前多用于图像生成，此次进入 Agent 决策与生成场景。若速度优势可复现，可能为 Agent 推理提供 Transformer 之外的新路线。</description>
-  </item>
-  <item>
-    <title>华硕推出本地 AI 智能体创作本 ProArt 创 RTX Spark</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXvZYsIK5vKT-Z4YHbQDZR4lqXa8Fplpd9QBORoo7QrZRPDCdtTLp2T5FmF5F2Dskqyq3KSnsiw8DTOZbbCAZSoM4sVJy2Zx17yPVKKDVaC6BBR_k0e11fTQtWCtqKP98hBta5ZBKL6Izpn8xWdmUk1wCrTYqqlcFX-YpP9ZorgUvjf_4qOeILfJp98WdAFqaI6ztIoTJhysLs46dn8Efgxg..&amp;type=2&amp;query=AI %E6%99%BA%E8%83%BD%E4%BD%93&amp;token=BEE7F71A45FCE37D73752D70D4750C0A73AD1DA56AE3E0F6</link>
-    <guid isPermaLink="false">87-14</guid>
-    <pubDate>Thu, 29 Oct 2026 14:34:18 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>华硕新上市 ProArt 创 RTX Spark，官方定位为全球首款创作者智能体 PC，主打在轻薄机身中本地运行大模型并进行 AI 创作。端侧算力与智能体软件的结合正从概念走向整机产品。对创作者群体而言，本地运行可规避云端成本与数据外流顾虑。</description>
-  </item>
-  <item>
-    <title>星闪 SLE 2.0 落地高清音频与高精测距，20 余款芯片发布</title>
-    <link>https://www.ithome.com/1/019/796.htm</link>
-    <guid isPermaLink="false">87-15</guid>
-    <pubDate>Thu, 29 Oct 2026 15:45:29 +0000</pubDate>
-    <source>IT之家</source>
-    <description>国际星闪联盟蓝皮书显示，星闪 SLE 2.0 已进入成熟与商用阶段，恒玄、华为海思等厂商发布 20 余款支持高清音频与高精测距的芯片。数字车钥匙累计出货超 160 万台、量产车型超 30 款。星闪正从连接技术扩展为车载与音频的生态底座。</description>
-  </item>
-  <item>
-    <title>华为 Pura 90 Plus 上市即支持星闪音频</title>
-    <link>https://www.ithome.com/1/019/795.htm</link>
-    <guid isPermaLink="false">87-16</guid>
-    <pubDate>Thu, 29 Oct 2026 15:28:31 +0000</pubDate>
-    <source>IT之家</source>
-    <description>华为 Pura 90 Plus 首发麒麟 9025 芯片，采用 NearLink E2.0 方案，上市即支持星闪音频，物理层传输速率达 16Mbps，可承载 48kHz/24bit Hi-Fi 无损传输。终端与耳机生态同步跟进，星闪音频进入实际销售产品。这为国产无线音频标准提供了手机端入口。</description>
-  </item>
-  <item>
-    <title>国产大模型融资排行榜引发关注</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2TN2Gq0-dvXUddydNRPikSZ4YHbQDZR4lqXa8Fplpd9Fosj_2yThIh1bUSESIo9GjTzbhKdKBXNGprfiGiZ-eLG_RGxh8KJKv2ayTuNHIaZLbti4bZnKRZQjvq_KTMPKsUO8GYeqbkLOMiBOeQYtVxsor9BIXL4gfJonjJkFuuYnWzxX9XWvu8nmbgG6uHaPR9PIG8FrDiO49xKHoloKQ56VKrzu_4XKA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=BEE8125345FCE37D73752D70D4750C0A73AD1DA56AE3E0F8</link>
-    <guid isPermaLink="false">87-17</guid>
-    <pubDate>Thu, 29 Oct 2026 09:57:39 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>一份国产大模型融资排行榜在公众号传播，梳理各家的算力采购、数据清洗与研发团队薪酬投入。榜单反映大模型赛道烧钱速度惊人，融资能力成为持续参赛的前提。在商业化尚未闭环的背景下，资金储备正成为模型公司分层的核心变量。</description>
-  </item>
-  <item>
-    <title>敲敲云零代码平台上线 AI Skills，开源免费</title>
-    <link>https://www.oschina.net/news/503285</link>
-    <guid isPermaLink="false">87-18</guid>
-    <pubDate>Thu, 29 Oct 2026 02:49:36 +0000</pubDate>
-    <source>开源中国</source>
-    <description>敲敲云零代码平台推出 AI Skills 功能，开源免费，用户可通过一句话搭建 CRM、进销存、OA 等系统。该功能试图把零代码从拖拽配置升级为自然语言生成。对中小企业而言，AI 生成业务系统可能显著降低数字化门槛。</description>
-  </item>
-  <item>
-    <title>国产大模型一周五连发：从卷参数转向卷落地</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-JGBVyr9Vh9pi8z58QCPIWFqXa8Fplpd9fambbo50tN9_BHd4Ncts1rt9evbcK19QJOO_aYLt2pZkSidvGU06drVYIPBiv6UfaxO2zwmboZfJDPUmFzRU7vmpwHnxqNlg7JYaPbrQVllsf7ku1qpQj2xBgPcgTLu3ho0zNbetrMg-36cBsNN_CIzIDdYM7wb4_9zpxfraB1jzAjcIGepUqA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B2ABF18D56F8617D73742CC1555006AA73E7D8F06AE28C94</link>
-    <guid isPermaLink="false">86-1</guid>
-    <pubDate>Wed, 28 Oct 2026 14:20:29 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>本周国产大模型五天连发五个动作，讯飞星火 X2.6 将敏感任务留在端侧、复杂任务才上云，全程依靠端云协同完成。多家厂商同步压低 Agent 调用成本，部分场景成本降至原来的三成。这意味着国产模型的竞争焦点已从参数规模转向实际落地与性价比。</description>
-  </item>
-  <item>
-    <title>一周三场发布，国产模型把 Agent 成本打到三成</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSyf0p2Coso1-JGBVyr9Vh9pi8z58QCPIWFqXa8Fplpd9CWOInC36v4OTEaxmZttHZUYXtqobyP1lpiYtkXaveYbE1XCP0QQ7X6gZq1qKAW9BPO6pDRDp7cDUfZfkfP0y9NJTox_ulLwjo1hsyBm4dirhHIbcPLu-UEFT-ppKZY-F1oa3e1-R8clsraMN-8C6zytkvnyq2JgwJPdKoTRfOfLdrgozfSg6bw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B2ABF18D56F8617D73742CC1555006AA73E7D8F06AE28C94</link>
-    <guid isPermaLink="false">86-2</guid>
-    <pubDate>Wed, 28 Oct 2026 06:56:04 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>一周内三场国产模型发布后，Agent 调用成本被压至原先约三成，性价比前沿被重新定义。报道指出，行业问题已从「国产模型行不行」转为「业务是否准备好按这个价格使用」。成本下降有望加速智能体在企业的普及。</description>
-  </item>
-  <item>
-    <title>OXR 开源：1.3B 参数横扫全球三榜第一，速度快过 Paddle、MinerU</title>
-    <link>https://www.qbitai.com/2026/10/505635.html</link>
-    <guid isPermaLink="false">86-3</guid>
-    <pubDate>Tue, 27 Oct 2026 07:41:02 +0000</pubDate>
-    <source>量子位</source>
-    <description>国产开源模型 OXR 以 1.3B 参数在全球三个榜单登顶，推理速度快于 Paddle、MinerU 等同类方案。开源一周 GitHub 星标超 1000，X 平台关注度破百万，并登上 Today's news 推荐。小参数模型在特定任务上超越大模型，显示轻量化路线的竞争力。</description>
-  </item>
-  <item>
-    <title>KV Cache 压成常数：OCR 开源新模型页数无上限、缓存砍 96%</title>
-    <link>https://www.qbitai.com/2026/10/505773.html</link>
-    <guid isPermaLink="false">86-4</guid>
-    <pubDate>Tue, 27 Oct 2026 08:35:33 +0000</pubDate>
-    <source>量子位</source>
-    <description>新开源的 OCR 模型将 KV Cache 压缩为常数级别，缓存占用减少 96%，且处理页数不设上限。该方案被视为 OCR 3.0 时代的代表，解决了长文档处理的显存瓶颈。对文档智能、票据识别等场景有直接工程价值。</description>
-  </item>
-  <item>
-    <title>DSH 测试文件泄露，DeepSeek V5 或将发布</title>
-    <link>https://www.tmtpost.com/8184852.html</link>
-    <guid isPermaLink="false">86-5</guid>
-    <pubDate>Wed, 28 Oct 2026 12:19:41 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>DSH 测试文件中出现三个 deepseek-v5 模型标识，可能为占位符，引发 DeepSeek V5 即将发布的猜测。DeepSeek 此前版本以高性价比著称，新版本若落地将进一步影响国产模型价格与能力格局。目前官方尚未确认。</description>
-  </item>
-  <item>
-    <title>星宸科技回应 AI 芯片话题：端边侧 AI 芯片业务量价齐升</title>
-    <link>https://stock.stockstar.com/RB2026102900010310.shtml</link>
-    <guid isPermaLink="false">86-6</guid>
-    <pubDate>Wed, 28 Oct 2026 23:06:41 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>星宸科技 10 月 28 日回应 AI 芯片话题，称端边侧 AI 芯片业务呈现量价齐升态势。随着智能终端与边缘推理需求增长，端边侧芯片成为国产 AI 芯片的重要增量市场。公司表态反映该细分赛道景气度上行。</description>
-  </item>
-  <item>
-    <title>国产算力芯片产业化跑出加速度，中证人工智能产业指数近三年上涨近 30%</title>
-    <link>https://finance.ifeng.com/c/8xbGzMdylZw</link>
-    <guid isPermaLink="false">86-7</guid>
-    <pubDate>Wed, 28 Oct 2026 14:41:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>国产算力芯片产业化进程明显加快，中证人工智能产业指数近三年累计上涨近 30%。资本市场的表现反映出对国产算力替代逻辑的认可。产业化提速与需求爆发形成双重驱动。</description>
-  </item>
-  <item>
-    <title>美国司法部就英伟达 129.3 亿美元收购 Hugging Face 展开问询</title>
-    <link>https://www.ithome.com/1/019/272.htm</link>
-    <guid isPermaLink="false">86-8</guid>
-    <pubDate>Wed, 28 Oct 2026 23:08:07 +0000</pubDate>
-    <source>IT之家</source>
-    <description>美国司法部已就英伟达以 129.3 亿美元收购开源平台 Hugging Face 如何影响 AI 竞争展开问询，关注点包括并购、对外投资、销售模式及是否对客户施压。官员重点评估该交易是否让英伟达掌控 AI 核心分发枢纽。交易预计 2027 年上半年完成，监管不确定性上升。</description>
   </item>
 </channel></rss>

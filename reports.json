@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:27:14.426841",
+ "generated_at": "2026-11-01T13:10:32.414299",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 90,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-01",
+   "created_at": "2026-11-01T05:10:30.777429+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-01/news_daily-131030.html"
+  },
   {
    "id": 89,
    "task": "news_daily_cn",
@@ -750,6 +759,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Anthropic IPO 前预计被信用机构评为「高垃圾级」",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+   "source": "Hacker News",
+   "summary": "据 TechCrunch 等多家媒体报道，Anthropic 在推进 IPO 之际，预计将获得信用评级机构的高「垃圾级」评级。这将显著提高其融资成本与难度，而该公司正依赖大规模举债支撑高昂的算力与研发支出。对 AI 行业而言，这被视为资本市场对前沿实验室巨额烧钱模式开始重新定价的信号。",
+   "why": null,
+   "category": "融资与资本市场",
+   "heat": 5,
+   "published": "2026-10-30T23:08:12+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "OpenAI 据报下调新一轮融资目标",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道称，OpenAI 最新一轮融资未能达到预期规模，公司已下调融资目标。这与近期市场对 AI 基础设施巨额支出的疑虑升温相呼应。若头部公司募资缩水，可能波及整个 AI 产业链的资本供给节奏。",
+   "why": null,
+   "category": "融资与资本市场",
+   "heat": 5,
+   "published": "2026-10-31T16:12:55+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Claude Code 的 VS Code 扩展被植入后门，经 Cursor 市场分发",
+   "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+   "source": "Hacker News",
+   "summary": "安全研究者披露，Cursor 市场上架的 Claude Code VS Code 扩展被植入后门，可向全球 Claude 开发者的笔记本电脑投递远程访问木马。该事件在 Hacker News 获得近千分、逾五百条评论，引发对 AI 编程工具供应链安全的广泛担忧。这提醒开发者生态的插件市场正成为高价值攻击面。",
+   "why": null,
+   "category": "安全",
+   "heat": 5,
+   "published": "2026-10-30T10:22:51+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "OpenAI、Google、微软、Anthropic 共同支持新的网页抓取退出标准",
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "source": "The Verge AI",
+   "summary": "据 The Verge 报道，OpenAI、Google、微软与 Anthropic 表示将采纳一种共享的「策略令牌」信号，让网站运营方一次性向多家 AI 公司表达训练数据偏好，而无需逐家设置。OpenAI 官方博客同日说明将遵守共享的 robots.txt 信号。这是内容方与 AI 公司之间围绕数据授权的一次制度化尝试。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-30T20:26:10+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "纽约州签署未成年人聊天机器人安全法",
+   "url": "https://dig.watch/updates/new-york-ai-chatbot-child-safety",
+   "source": "Google News 英文",
+   "summary": "纽约州参议员 Kristen Gonzalez 提出的法案已签署成法，禁止面向未成年人的「不安全」聊天机器人功能。多家媒体报道称，这是各州在 AI 监管边界上持续施压的最新动作。该法将直接影响面向青少年的 AI 陪伴类产品的设计与合规。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-10-31T11:58:52+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Google「Project Suncatcher」原型卫星首次回传信号",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
+   "source": "Hacker News",
+   "summary": "Google 宣布其搭载 TPU 的原型卫星成功在轨启动张量处理单元，板载 Gemma 4 模型按提示生成了一首关于太空的俳句。The Verge 等媒体跟进报道，称这是首个在太空运行的数据中心级 AI 芯片。该实验验证了把算力送上轨道的可行性，为未来天基推理与数据回传架构提供参考。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-10-31T03:54:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "GPT-5.6 Sol 可在和平模式下通关《Factorio》",
+   "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+   "source": "Hacker News",
+   "summary": "开发者 Ryan Madden 记录称，GPT-5.6 Sol 在《Factorio》和平模式下完成了通关，展示了长程规划与复杂自动化任务中的能力。该帖在 Hacker News 获得逾 160 分、近 180 条评论，讨论集中在模型是否真正理解游戏机制还是依赖记忆。这类长时程智能体基准正成为评估前沿模型的新方式。",
+   "why": null,
+   "category": "模型与研究",
+   "heat": 4,
+   "published": "2026-10-31T18:50:34+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "AI 智能体向活体小鼠脑部注射药物",
+   "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
+   "source": "Wired AI",
+   "summary": "Wired 报道，一家生物技术初创公司让 AI 智能体自主选择基因疗法并成功完成对活体小鼠的脑部注射。这被视为实验室自动化的一个惊人案例，显示智能体已能介入真实生物实验操作。若可复现，将推动 AI 驱动的高通量体内研究。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-10-31T10:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "恶意软件利用大模型按「身价」给受害者排序",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+   "source": "Hacker News",
+   "summary": "Cisco Talos 披露名为 Volta-Autodoxer 的信息窃取恶意软件，利用 AI 工具收集登录凭证、信用卡号、Discord 会话乃至外卖订单等数据，并对受害者价值进行排序。Wired 等媒体跟进报道。这显示大模型正被攻击者用于提升犯罪流程的自动化与精准度。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-10-31T14:29:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "安全团队披露接管 ChatGPT 账户的方法",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "source": "Hacker News",
+   "summary": "Parameter.ai 实验室发布研究，称发现 OpenAI 的一处缺口并演示了如何接管 ChatGPT 账户。该帖在 Hacker News 获得逾 300 分、155 条评论，社区关注点集中在账户体系与第三方集成之间的信任边界。OpenAI 尚未公开回应细节。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-10-31T10:30:11+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Anthropic 封禁涉及训练更大模型的用户",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "source": "Hacker News",
+   "summary": "有用户在社交平台反映，Anthropic 对任何触及「训练更大模型」行为的账户进行封禁，相关帖子在 Hacker News 获得逾 260 分、144 条评论。争议焦点在于服务条款对模型蒸馏与竞品训练的界定是否清晰。此事与近期多家实验室收紧输出用途限制的趋势一致。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-10-31T19:39:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Anthropic 采取措施阻止 Claude 逆向工程电子游戏",
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+   "source": "Hacker News",
+   "summary": "Mashable 报道，Anthropic 已采取技术手段阻止 Claude 被用于克隆或逆向工程电子游戏。此举延续了该公司对模型输出用途的收紧策略。对游戏行业而言，这既是知识产权保护动作，也反映 AI 公司与内容产业之间的紧张关系。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-31T21:07:58+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "法官允许 NAACP 就 xAI 数据中心污染提起诉讼",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，法官裁定 NAACP 针对 xAI 数据中心违反《清洁空气法》的诉讼可以继续推进。该诉讼指控这家 SpaceX 旗下的 AI 公司造成空气污染。案件将 AI 基础设施的环境外部性推上法庭，可能影响后续数据中心选址与许可。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-10-31T21:17:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "英伟达考虑为 Nscale 西弗吉尼亚 AI 数据中心提供担保",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，英伟达正评估为 Nscale 在西弗吉尼亚州的 AI 数据中心项目充当贷款共同签署方。在投资者对 AI 支出趋于谨慎之际，由芯片供应商出面背书有助于项目融资落地。这反映出算力卖方正更深地介入下游基础设施的资本结构。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-10-31T01:20:05+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "AI 支出热潮出现裂痕",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 分析指出，大型科技公司持续向 AI 基础设施投入数百亿美元，但债务上升、自由现金流为负以及投资者怀疑情绪升温，正引发对支出可持续性的质疑。该报道与 Anthropic 评级、OpenAI 融资下调等消息形成呼应。市场开始区分「算力军备竞赛」与「可回收投资」。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-10-30T21:17:40+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Apple Intelligence 将随 iOS 27.3 登陆中国",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "source": "The Verge AI",
+   "summary": "Apple 在其中国官网宣布，Apple Intelligence 将随 iOS 27.3 进入中国市场，首个测试版于 11 月 4 日发布，正式版计划 12 月推出。The Verge 援引 MacRumors 报道称，此次上线并未包含全部功能。这是苹果 AI 能力在关键海外市场的一次重要落地。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-10-30T22:32:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "英特尔股价大跌，政府持股缩水 120 亿美元",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，英特尔股价大幅下挫，导致美国政府所持股份价值蒸发约 120 亿美元。原因是 AI 行业大量吞噬内存等零部件，推高 PC 价格并拖累 PC 销量。这显示 AI 算力需求正通过供应链传导至传统 PC 市场。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-10-30T21:54:34+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Memdoor：5 个 Qwen3.8-27B 模型组队在 LiveCodeBench Hard 上击败 Fable 5",
+   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "source": "Hacker News",
+   "summary": "开源项目 Memdoor 展示了一种多智能体工作流，由 5 个 Qwen3.8-27B 模型协作，在 LiveCodeBench Hard 基准上超过 Fable 5。该结果在 Hacker News 获得逾 140 分，讨论集中在多模型编排能否以更低成本逼近顶级闭源模型。这为中小模型组合路线提供了实证。",
+   "why": null,
+   "category": "模型与研究",
+   "heat": 3,
+   "published": "2026-10-31T22:46:12+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "教皇利奥呼吁对 AI 进行「解除武装」",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "source": "The Verge AI",
+   "summary": "教皇利奥十四世在周五的教廷讲话中表示 AI 系统应被「解除武装」，强调人类有责任引导、改变并在必要时拒绝其应用。他呼吁联合国成员国在下月日内瓦会议上采取具体步骤禁止致命性自主武器。The Verge 称该讲话反映了宗教界对 AI 伦理的集中表态。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 2,
+   "published": "2026-10-30T14:58:06+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "主打隐私的 AI 助手 Ollie 宣布关停",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，强调尊重用户隐私的 AI 助手 Ollie 将在约一周内停止服务。创始人在 AI 助手大量涌入市场、竞争白热化的背景下做出这一决定。这显示在巨头主导的通用助手赛道，差异化隐私定位难以独立支撑商业化。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 2,
+   "published": "2026-10-30T22:56:13+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
