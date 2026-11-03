@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:16:02.561778",
+ "generated_at": "2026-11-03T14:47:42.909781",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 92,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-03",
+   "created_at": "2026-11-03T06:47:41.531265+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-03/news_daily-144741.html"
+  },
   {
    "id": 91,
    "task": "news_daily",
@@ -768,6 +777,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Anthropic 修订版 S-1 披露：第三季度营收 170 亿美元，承诺支出 8950 亿美元",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "source": "Hacker News",
+   "summary": "Anthropic 在修订版 S-1 中公布第三季度营收达 170 亿美元，同时列出高达 8950 亿美元的长期支出承诺，规模远超当期收入。多家媒体报道称，这凸显其在算力与基础设施上的激进押注，也令市场对其 IPO 定价与盈利路径产生分歧。",
+   "why": null,
+   "category": "融资与上市",
+   "heat": 5,
+   "published": "2026-11-02T14:38:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic 警告已非常接近 RSI 能力，即自我构建型 AI",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 公开表示其能力已逼近「递归自我改进」（RSI）门槛，即 AI 能高效训练自身、从而触发能力急剧加速。公司同时强调这一判断伴随重大安全风险，TechCrunch 称该表态在安全社区引发强烈反响。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-02T22:14:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Astra 可直接读写模型权重以改进 Qwen",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming",
+   "source": "Hacker News",
+   "summary": "一篇技术博客展示了名为 Astra 的方法，能够直接读取并写入模型权重来提升 Qwen 的表现，而非仅通过提示词或微调。该帖在 Hacker News 获得超 2300 分，社区围绕「权重空间编程」的可解释性与安全含义展开激烈讨论。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-02T18:21:28+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "纽约时报等媒体起诉 Brave 浏览器：AI 抓取并绕过付费墙",
+   "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+   "source": "The Verge AI",
+   "summary": "纽约时报联合纽约每日新闻、芝加哥论坛报等媒体起诉 Brave 的开发商，指控其非法抓取内容用于训练 AI，并允许用户绕过付费墙。路透社与 TechCrunch 均报道此事，这是媒体对浏览器厂商发起的最新一轮版权诉讼。",
+   "why": null,
+   "category": "监管与法律",
+   "heat": 4,
+   "published": "2026-11-02T17:51:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "评论文章呼吁 SEC 阻止 Anthropic IPO 以保护公众",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+   "source": "Hacker News",
+   "summary": "TechPolicy Press 刊发评论，主张 SEC 应阻止 Anthropic 的 IPO，理由涉及公众投资者保护与公司治理风险。该文在 Hacker News 获得 290 分、226 条评论，Bloomberg 亦跟进报道 Anthropic IPO 相关进展。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-02T22:30:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Google 发布 Gemini 4 Argon，强化推理与任务管理",
+   "url": "https://smallbiztrends.com/google-launches-gemini-4-argon-enhanced-reasoning-and-task-management/",
+   "source": "Google News 英文",
+   "summary": "Google 推出 Gemini 4 Argon，官方定位为在推理能力与多步骤任务管理上的显著升级。报道称新版本面向企业与小企业场景优化了任务编排能力，是 Google 在基础模型迭代上的最新一步。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-02T17:11:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "OpenAI 推出 LifeVal 基准，衡量 AI 完成日常任务的能力",
+   "url": "https://openai.com/index/lifeval",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布 LifeVal 基准，用于评估 AI 在找托育、管理财务、处理政府文书等日常事务中的实际帮助程度。该基准把评测重心从考试题转向真实生活任务，强调端到端完成度而非单轮问答。",
+   "why": null,
+   "category": "模型评测",
+   "heat": 4,
+   "published": "2026-11-02T09:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "42AI 结束隐身状态，融资 6250 万美元并发布可预测人类行为的世界模型",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+   "source": "TechCrunch AI",
+   "summary": "42AI 以 6250 万美元融资结束隐身状态，宣称其世界模型能在全新情境下预测人类行为。TechCrunch 称该能力若成立，将适用于机器人、自动驾驶与交互式智能体等场景。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 4,
+   "published": "2026-11-02T16:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Blackstone 与华尔街银行支持 630 亿美元 AI 芯片交易",
+   "url": "https://businesschief.com/news/blackstone-and-wall-street-banks-back-us-63bn-ai-chip-deal",
+   "source": "Google News 英文",
+   "summary": "Blackstone 联合多家华尔街银行支持一笔规模达 630 亿美元的 AI 芯片相关交易，显示债务市场正深度介入 AI 算力资产融资。报道同时提及市场可能低估部分较小市值 AI 芯片股。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-02T21:27:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "英特尔股价跌势加剧，3.5 万亿美元芯片板块抛售蔓延",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+   "source": "Hacker News",
+   "summary": "英特尔股价持续下挫，伴随约 3.5 万亿美元规模的芯片板块抛售扩散至更多标的。市场担忧 AI 算力投资回报周期与资本开支过热，拖累整个半导体板块情绪。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-03T00:08:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "OpenAI 合并 ChatGPT 的 Chat 与 Work 标签页",
+   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+   "source": "TechCrunch AI",
+   "summary": "OpenAI 宣布将 ChatGPT 的 Chat 与 Work 两个标签页合并，先在部分用户中测试再逐步推开。TechCrunch 指出此举紧随 Anthropic 的类似调整，反映消费级与企业级入口正在融合。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-02T13:57:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "OpenAI 提出以数据中心配套电厂保护周边电网",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+   "source": "The Verge AI",
+   "summary": "OpenAI 宣布「Grid Protectors Program」，将在佐治亚州 Effingham 县的新数据中心试点，承诺在极端天气或紧急情况下释放最多 1000 兆瓦电力，足以供应约 70 万户家庭的空调。该计划意在缓解社区对数据中心挤占电网的反对。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 3,
+   "published": "2026-11-02T18:01:30+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Trajectory 融资 4500 万美元，让非技术专家也能训练 AI 模型",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+   "source": "TechCrunch AI",
+   "summary": "成立仅一年的 Trajectory 完成 4500 万美元融资，估值达 3 亿美元，主打让非技术领域专家参与 AI 模型训练。TechCrunch 称其瞄准企业把领域知识转化为模型能力的痛点。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 3,
+   "published": "2026-11-02T23:13:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "athenahealth 患者现可通过 Claude 查询个人病历",
+   "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership",
+   "source": "ZDNet AI",
+   "summary": "athenahealth 与 Anthropic 合作，允许患者通过 Claude 询问自己的医疗记录。ZDNet 指出，这可能让美国最大 AI 公司之一获得大量个人医疗数据，隐私与合规问题随之而来。",
+   "why": null,
+   "category": "行业应用",
+   "heat": 3,
+   "published": "2026-11-02T17:30:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "特朗普「超级智能」忠诚度测试，谁在跟进",
+   "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test",
+   "source": "MIT 科技评论",
+   "summary": "MIT 科技评论报道，特朗普于 9 月底签署行政令，要求政府机构把「人工智能」统一改称「超级智能」，并追踪哪些机构与企业配合这一品牌重塑。报道称该举措被视为对 AI 行业政治立场的隐性测试。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-03T04:18:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "马斯克因成本「不可持续」下调 Grok Bot 使用限额",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+   "source": "TechCrunch AI",
+   "summary": "马斯克以成本「不可持续地高」为由，下调 Grok Bot 的使用限额。他此前称该产品是「一生中见过增长最快的产品」，此次调整显示推理成本仍在挤压免费或低价策略的空间。",
+   "why": null,
+   "category": "产品与商业",
+   "heat": 3,
+   "published": "2026-11-02T16:23:21+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "Anthropic 收紧 Claude Code，限制复刻现有电子游戏",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+   "source": "The Verge AI",
+   "summary": "Anthropic 更新 Claude Code 的系统提示词，禁止该工具被用于重新制作现有电子游戏。The Verge 援引 Tom's Hardware 报道称，用户仍可用 Claude Code 开发游戏，但不能复刻受版权保护的作品。",
+   "why": null,
+   "category": "监管与合规",
+   "heat": 3,
+   "published": "2026-11-02T18:56:02+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Google 将 Dreambeans 引入印度，支持 13 种印度语言",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+   "source": "TechCrunch AI",
+   "summary": "Google 的 AI 实验产品 Dreambeans 登陆印度，支持 13 种印度语言，用于生成个性化 AI 故事。TechCrunch 称此举是 Google 把生成式 AI 推向大众市场、抢占多语言场景的尝试。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-03T03:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "DR Pixel：以页面图像为唯一输入的视觉语言模型深度研究智能体",
+   "url": "https://arxiv.org/abs/2611.03097v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 DR Pixel，首个完全以渲染页面图像作为检索与推理输入的开源端到端多模态深度研究智能体。它绕过 OCR 文本抽取，直接处理论文中的表格、图表与公式，试图解决现有智能体丢失版面信息的问题。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-11-02T13:13:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Omen AI 以 1600 万美元收购 Aquatic Labs，补足液冷技术",
+   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+   "source": "TechCrunch AI",
+   "summary": "两家致力于解决数据中心用水问题的初创公司合并，Omen AI 以 1600 万美元收购 Aquatic Labs。交易反映 AI 算力扩张下，散热与水资源约束正成为数据中心选址与运营的核心变量。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 2,
+   "published": "2026-11-02T15:00:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
