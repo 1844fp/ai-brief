@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T08:03:04.266831",
+ "generated_at": "2026-11-04T08:43:00.518014",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 95,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-04",
+   "created_at": "2026-11-04T00:42:59.579954+00:00",
+   "item_count": 16,
+   "llm_ok": true,
+   "url": "reports/2026-11-04/news_daily_cn-084259.html"
+  },
   {
    "id": 94,
    "task": "news_daily",
@@ -795,6 +804,198 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "百度首次披露 Apollo World 世界模型，用于萝卜快跑无人驾驶验证",
+   "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu",
+   "source": "InfoQ 中文",
+   "summary": "百度 Apollo 在深圳 AI Day 上首次披露面向物理 AI 的全模态世界模型 Apollo World，提出世界模型「2+3」判断标准，强调忠实还原物理规律而非渲染画质。该模型将虚拟场景内所有交通参与者建模为可决策交互的 AI 智能体，已用于萝卜快跑全球化测试与验证，后者端到端全无人运营超百万公里。这意味着世界模型正从内容生成工具转向无人驾驶安全验证的基础设施。",
+   "why": null,
+   "category": "自动驾驶/世界模型",
+   "heat": 5,
+   "published": "2026-11-03T21:26:32+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "国行 Apple 智能与 Siri 上线，接入阿里千问",
+   "url": "https://www.ithome.com/1/021/861.htm",
+   "source": "IT之家",
+   "summary": "苹果向 iPhone 推送 iOS 27.3 开发者预览版，国行「Apple 智能与 Siri」如约而至，设置中已出现功能页面。国行版本与阿里巴巴合作，用户可在 Siri、写作工具和视觉智能中直接调用千问，覆盖文本与图像理解，无需跳转独立应用。首批开放实时翻译、写作改写校对摘要、视觉识别与照片消除等高频场景，千问集成范围将延伸至 iPadOS、macOS 与 visionOS。",
+   "why": null,
+   "category": "大模型/终端生态",
+   "heat": 5,
+   "published": "2026-11-03T19:08:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "DeepSeek 开源 Super-agent 原型，探索自主智能体架构",
+   "url": "https://www.tmtpost.com/8190971.html",
+   "source": "钛媒体",
+   "summary": "DeepSeek 开源了 Super-agent 原型，方向从模型能力转向让 AI 自主完成多步骤任务，探索自主智能体架构。此举延续了 DeepSeek 以开源推动 AGI 加速的策略，也呼应其在乌镇对话中「开源是与时间赛跑」的表态。对行业而言，头部模型厂商亲自下场做智能体框架，可能改变 Agent 生态的开源与闭源格局。",
+   "why": null,
+   "category": "开源/智能体",
+   "heat": 5,
+   "published": "2026-11-03T09:38:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "蚂蚁灵波携全栈开源机器人大脑亮相乌镇，LingBot 下载量破 220 万",
+   "url": "https://www.leiphone.com/category/industrynews/ADcxxdwtaojQvzhp.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁集团旗下具身智能公司蚂蚁灵波在乌镇峰会展示全栈开源的机器人通用大脑，覆盖空间智能、灵巧操作与环境反馈核心模型，目标让同一套智能在不同机器人构型与场景中复用。LingBot 系列开源 9 个月下载量突破 220 万，GitHub Star 超 3.3 万，相关工作被 Physical Intelligence、Generalist AI 等引用，斯坦福 OpenWAM 项目也复用适配了其模型。这显示中国开源正从语言与代码生成延伸至物理世界。",
+   "why": null,
+   "category": "具身智能/开源",
+   "heat": 4,
+   "published": "2026-11-03T13:41:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "小米获乌镇峰会杰出贡献奖，具身基座模型获领先科技奖",
+   "url": "https://www.qbitai.com/2026/11/507396.html",
+   "source": "量子位",
+   "summary": "小米集团在 2026 世界互联网大会乌镇峰会上获得「杰出贡献奖」创新突破类奖项，同时小米具身基座模型获得「领先科技奖」。双料奖项覆盖企业整体贡献与具体技术成果，显示小米在具身智能基座模型上的投入获得官方认可。对行业而言，手机厂商正把具身智能作为下一阶段 AI 战略的核心方向之一。",
+   "why": null,
+   "category": "具身智能/大厂战略",
+   "heat": 4,
+   "published": "2026-11-03T05:16:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "英特尔与腾讯云发布至强 6+ 新云实例，面向智能体高密度部署优化",
+   "url": "https://www.leiphone.com/category/chips/GQisGLfVBnbQVxVo.html",
+   "source": "雷锋网",
+   "summary": "英特尔与腾讯云在腾讯全球数字生态大会上联合发布基于至强 6+ 处理器的新一代云实例，最高 288 核，围绕任务启动效率与内存资源利用率优化，综合性能较上一代提升 30% 以上。双方重点解决智能体任务集中到来时执行环境准备与闲置任务内存占用问题。背景是国内日均 Token 消耗量已达约 500 万亿，是去年 12 月的近 4 倍，CPU 与操作系统、内存的协同正成为云服务器新考题。",
+   "why": null,
+   "category": "AI 芯片/算力",
+   "heat": 4,
+   "published": "2026-11-03T10:03:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "蚂蚁数科发布 KYA 方案，智能体超级工厂亮相香港金融科技周",
+   "url": "https://www.leiphone.com/category/industrynews/rDBfh9DpSlCgX0Ic.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁数科在香港金融科技周展出「AI 智能体超级工厂」解决方案，覆盖 Agentar 开发部署管理、ZOLOZ 身份识别、LingDT 行业模型与区块链隐私计算。同时旗下安全品牌 ZOLOZ 升级，推出面向智能体时代的身份可信治理方案 KYA（Know Your Agent）。香港特区行政长官李家超到场参观，显示智能体身份与安全治理正成为企业落地的关键环节。",
+   "why": null,
+   "category": "智能体/安全治理",
+   "heat": 4,
+   "published": "2026-11-03T06:35:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "香港大学发布全球首个 KYA 报告，提出智能体信用体系框架",
+   "url": "https://www.leiphone.com/category/industrynews/KkjVOHcQ55GyhDLv.html",
+   "source": "雷锋网",
+   "summary": "香港大学 KYA 课题组在香港金融科技周发布全球首个 KYA 领域报告《KYA：智能体信用体系研究报告》，基于 109 份从业者问卷及 Stripe、蚂蚁数科等近十个企业案例，提出智能体成熟度模型、KYA 框架与发展指数。报告将智能体演进分为能力、执行、交易、经济四个阶段，认为行业整体仍处于从能力智能体向执行智能体加速演进阶段。核心判断是「没有 KYA，就没有智能体经济」。",
+   "why": null,
+   "category": "智能体/行业研究",
+   "heat": 3,
+   "published": "2026-11-03T10:09:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "蚂蚁 OceanBase 获世界互联网大会杰出贡献奖",
+   "url": "https://www.qbitai.com/2026/11/507405.html",
+   "source": "量子位",
+   "summary": "蚂蚁自研 AI 数据平台 OceanBase 在 2026 世界互联网大会乌镇峰会上获得「世界互联网大会杰出贡献奖」，颁奖词称其「打造 AI 数据基础设施，服务全球数字经济发展」。这是 OceanBase 继 2022 年获世界互联网领先科技成果奖后再次获得大会重要奖项。奖项反映国产数据库在 AI 数据基础设施方向的产业贡献获得认可。",
+   "why": null,
+   "category": "AI 基础设施/数据库",
+   "heat": 3,
+   "published": "2026-11-03T05:59:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "上海凯锐恩突破半导体工艺保护流体材料，实现国产化替代",
+   "url": "https://www.leiphone.com/category/industrynews/PHr6tfngmZX7R5db.html",
+   "source": "雷锋网",
+   "summary": "上海凯锐恩历时近七年自主攻关，开发出应用于晶圆级工艺保护的流体成型材料及配套热压成型设备，形成「材料+设备+工艺」三位一体体系，已用于芯片先进封装领域。该方案绕开国外企业垄断数十年的传统保护胶带专利壁垒，以耐腐蚀、无气泡、无剥离残留的流体材料解决胶带固有物理缺陷。产品已与国内外头部芯片制造商完成多轮工艺验证，填补国内先进封装关键材料空白。",
+   "why": null,
+   "category": "半导体/先进封装",
+   "heat": 3,
+   "published": "2026-11-03T09:41:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "百度地图开源 MCP 方案，向智能体开放地理空间能力",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1oDxOMMvYn0gxWtPpDHKCRTtcl4WJDCslqXa8Fplpd9kQrVK39-945DXRTPrnVZdTGHYdFiyBOpRYqacZlyQVgxhu0NLGe3kHqf-MpdjWPVaCgsPgfIw8GrVlro2aHiJxxuZBZgogV4gGOvGmuaKqbxmGg6ncSANRt8kNgzkeDZtAxCtFv2ayW_i3MggfsTA7NLAaIpNugYEnSN0ek6xins46dn8Efgxg..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=F9791F41C1885C7202045C6B1F81EAE3035673346AEA7672",
+   "source": "微信公众号",
+   "summary": "百度地图放出 MCP 开源方案，提供一套全面的地理空间 API 与工具，弥合大语言模型、智能体与现实世界位置数据和服务之间的差距。该 MCP 服务器让 AI 智能体可直接调用地理位置能力，完成路线、地点检索等任务。这是地图平台以开源协议接入智能体生态的尝试，也为 Agent 落地本地生活与出行场景提供基础设施。",
+   "why": null,
+   "category": "开源/智能体工具",
+   "heat": 3,
+   "published": "2026-11-03T09:07:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "费莫一科技推出 Physical Agent「Sagi」，完成近亿美元种子轮融资",
+   "url": "http://www.geekpark.net/news/373424",
+   "source": "极客公园",
+   "summary": "具身智能公司费莫一科技（PHYMI）发布行业首个定位「行动伙伴」的 Physical Agent「Sagi」，采用四轮足、人形上身、背小型货箱的构型，面向开放动态真实世界。公司成立初期即完成近亿美元种子轮融资，由 IDG 资本领投，云启资本、滴滴出行、复星锐正、耀途资本、禾赛科技跟投。产品方向强调在非受控环境中实际执行任务，而非编排式表演动作。",
+   "why": null,
+   "category": "具身智能/融资",
+   "heat": 3,
+   "published": "2026-11-03T11:54:26+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "心言机器人发布具身家庭智能体「巴布 Bubbo 1」，售价 9499 元",
+   "url": "http://www.geekpark.net/news/373399",
+   "source": "极客公园",
+   "summary": "心言机器人发布毛绒外形的具身家庭智能体「巴布（Bubbo 1）」，基于自研 Bubbo OS，主打主动走近、主动回应的伙伴式交互，而非等人发号施令的家电。产品配备 13 类 26 个传感器、6 个自由度和两块表情屏，通过记忆、多模态感知与分级对话实现有延迟感、呼吸感、边界感的回应。即日起在京东等渠道发售，售价 9499 元，前 1000 名 7999 元。",
+   "why": null,
+   "category": "具身智能/消费产品",
+   "heat": 3,
+   "published": "2026-11-03T07:11:52+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "京东物流等巨头探索 AI 调度自主智能仓",
+   "url": "https://www.qbitai.com/2026/11/507507.html",
+   "source": "量子位",
+   "summary": "报道显示，头部物流企业正推动机器人干活、AI 当厂长的下一代自主智能仓，由 AI 接管仓储调度与运营决策，使仓库随运行数据积累越干越聪明。这一模式把智能体从单点任务执行扩展到多机器人协同与全局调度。对行业而言，仓储成为智能体在物理世界规模化落地的典型场景。",
+   "why": null,
+   "category": "行业落地/智能仓储",
+   "heat": 3,
+   "published": "2026-11-03T13:57:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "百度「濒危物种 AI 守护官」获世界互联网大会杰出贡献奖",
+   "url": "https://www.leiphone.com/category/industrynews/MFCpP2Cl7MEKkzNj.html",
+   "source": "雷锋网",
+   "summary": "百度凭借与国际爱护动物基金会（IFAW）合作的「濒危物种 AI 守护官」项目，获得 2026 世界互联网大会杰出贡献奖社会贡献类奖项。项目自 2020 年启动，依托飞桨深度学习平台与文心大模型，实现对濒危野生动物制品图片的自动化识别，准确率达 86%。背景是全球非法野生动植物贸易年均规模高达 230 亿美元，网络平台已成核心交易渠道。",
+   "why": null,
+   "category": "AI 公益/行业应用",
+   "heat": 2,
+   "published": "2026-11-03T07:08:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "乌镇「人工智能对话」：DeepSeek、千问、MiniMax 同台谈开源",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1oDxOMMvYn0qLnEdWEaLIRTtcl4WJDCslqXa8Fplpd9JpJdhN4ecU37ETE0hluYwWNj2l3TkguVNEOxjY9FADuM9o4d6qC3NP1Jy9uxhJB19BcHyaqbkioot39N3iV8M7tBwVSm8BtijwyHItomPAHFif_7HRIIzlMTYWpd9UzuBMcruwCj-E14xg0SW3nLVoLDTBIA8zfl8neskUuYlzNQ_LeJW-Rhtg..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=F978E7D7C1885C7202045C6B1F81EAE3035673346AEA766C",
+   "source": "微信公众号",
+   "summary": "2026 世界互联网大会乌镇峰会举办「人工智能乌镇对话」，DeepSeek、千问、MiniMax 等国产大模型团队同台。DeepSeek 方面表示选择开源的核心目的是希望让 AGI 更快到来，开源是与时间赛跑。对话集中反映国产模型厂商在开源协同、技术创新与安全治理上的共同取向。",
+   "why": null,
+   "category": "大模型/行业会议",
+   "heat": 2,
+   "published": "2026-11-03T14:15:32+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
