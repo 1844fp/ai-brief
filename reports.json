@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T08:02:40.957389",
+ "generated_at": "2026-11-04T08:03:04.266831",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 94,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-04",
+   "created_at": "2026-11-04T00:03:03.254495+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-04/news_daily-080303.html"
+  },
   {
    "id": 93,
    "task": "news_daily",
@@ -786,6 +795,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 为 Codex 规模重构 Git 后端 Pando",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 官方博客披露其自研的 Git 兼容后端 Pando，专为 Codex 带来的超大规模代码开发场景设计。该后端需支撑海量并行分支、频繁提交与自动化代理操作，传统 Git 托管方案已难以匹配。这意味着 AI 编程代理正在倒逼底层研发基础设施重构，代码托管与版本控制市场可能迎来新竞争者。",
+   "why": null,
+   "category": "基础设施",
+   "heat": 5,
+   "published": "2026-11-02T15:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "OpenAI 推出 Grid Protectors 计划，缓解数据中心用电压力",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 宣布 Grid Protectors Program，将与电力公司合作，使未来算力园区在用电高峰时支持电网可靠性并保护居民电价。该计划回应了 AI 数据中心激增带来的电力容量与电价争议。对行业而言，算力扩张的能源约束正从企业公关议题升级为实质性的选址与运营门槛。",
+   "why": null,
+   "category": "算力与能源",
+   "heat": 5,
+   "published": "2026-11-02T15:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "纽约时报等媒体起诉 Brave，指控其抓取内容并转售给 AI 公司",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+   "source": "TechCrunch AI",
+   "summary": "纽约时报联合多家媒体起诉隐私浏览器 Brave，称其抓取受版权保护的内容并非法分发给 Anthropic、Perplexity 等客户。这是媒体对 AI 内容供应链上游环节发起的新一轮法律攻势。案件可能重新界定浏览器抓取、内容授权与 AI 训练数据之间的法律边界。",
+   "why": null,
+   "category": "监管与法律",
+   "heat": 5,
+   "published": "2026-11-02T19:19:17+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Wired 调查：约 400 款普通 AI 应用暗藏性虐待深度伪造功能",
+   "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
+   "source": "Wired AI",
+   "summary": "Wired 调查发现约 400 个由中文开发者关联的应用和网站，表面是常规 AI 工具，却隐藏生成暴力色情图像与视频的功能。报道揭示了消费级 AI 应用在内容审核与分发渠道上的系统性漏洞。这类滥用正成为各国监管机构收紧 AI 生成内容立法的直接推手。",
+   "why": null,
+   "category": "AI 安全与伦理",
+   "heat": 5,
+   "published": "2026-11-02T10:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "OpenAI 提高安全漏洞赏金并增设报告质量与忠诚度奖金",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 宣布上调安全漏洞赏金金额，并新增报告质量、忠诚度与优先活动奖金，面向独立安全研究员。此举与其同期启动的 Cathedral Systems 内部安全冲刺相配合。头部 AI 公司正用经济激励构建外部白帽生态，安全投入成为模型公司竞争的新维度。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 4,
+   "published": "2026-11-02T18:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "OpenAI 联合 Cathedral Systems 启动新一轮内部安全冲刺",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 表示正筹备下一轮内部安全冲刺，与 Cathedral Systems 合作利用 AI 测试并强化自身防御。这是其在模型能力快速迭代背景下对自身系统安全性的主动压力测试。结合同日提高赏金的动作，OpenAI 正在构建内外结合的安全响应体系。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 4,
+   "published": "2026-11-02T18:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Apple watchOS 27.3 测试版上线音频智能：Siri 摘要与实时回听",
+   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "source": "The Verge AI",
+   "summary": "Apple 在 watchOS 27.3 开发者测试版中为 Siri 加入 Audio Intelligence 功能，包括利用环境监听生成对话摘要的 Siri Recap，以及生成最近 15 秒文字转录的 Live Rewind。功能依托 Apple Watch 麦克风实现。可穿戴设备正成为环境 AI 的新入口，隐私与常驻监听之间的平衡将受关注。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-03T18:31:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Netflix 电视端新增 AI Discover 标签页，按主题推荐内容",
+   "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+   "source": "The Verge AI",
+   "summary": "Netflix 电视应用推出 AI Discover 标签页，首批实验按“轻松一下”“家庭电影夜”“快速观看”等主题组织推荐内容。用户选择主题后，Netflix 会展示相应片单。流媒体平台正把生成式 AI 用于发现与编排环节，以缓解内容过载下的选择困难。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-03T18:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "OpenAI 将合并 ChatGPT 聊天与工作标签页",
+   "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs",
+   "source": "ZDNet AI",
+   "summary": "OpenAI 计划合并 ChatGPT 的聊天与工作两个标签页，先在部分用户中测试再逐步推开，此举紧随 Anthropic 的类似调整。合并意在模糊通用对话与企业工作流的边界，提升单一入口的使用黏性。企业 AI 助手的界面正从功能分区走向统一工作台。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-02T18:01:55+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "预训练数据规模逆转 Muon 与 AdamW 的微调差距",
+   "url": "https://arxiv.org/abs/2611.03633v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文研究 Muon 与 AdamW 在下游微调中的表现，发现当预训练数据预算足够大时，AdamW 在微调后反超 Muon，且模型越大反超所需的预训练数据越少。该结果挑战了 Muon 在预训练阶段优于 AdamW 的既有认知。优化器选择需区分预训练与微调阶段，对大规模模型训练策略有直接参考价值。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-02T18:56:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "研究：RLVR 的推理能力并非都能泛化",
+   "url": "https://arxiv.org/abs/2611.03627v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文以可控方程求解框架研究 RLVR 下推理策略的可泛化性，发现并非所有推理能力都能迁移到分布外难题。研究通过非双射字符串函数构造易到难的分布偏移，使推理策略可观测。这为 RLVR 训练数据的构造与泛化评估提供了更细粒度的实验依据。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-02T18:53:54+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Pixel：面向通用移动操作的全栈机器人系统",
+   "url": "https://arxiv.org/abs/2611.03648v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 Pixel，一个协同设计的全栈机器人系统，整合低成本轮式人形硬件、人类对齐运动学、柔顺全身控制与策略学习。该系统针对通用移动操作中硬件、数据采集与控制模块各自为政导致的失配问题。全栈协同设计正成为机器人学习突破单点瓶颈的主流路径。",
+   "why": null,
+   "category": "机器人",
+   "heat": 3,
+   "published": "2026-11-02T18:59:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Pixel-UMI：从传感器化人类演示学习环境感知全身操作",
+   "url": "https://arxiv.org/abs/2611.03647v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 Pixel-UMI，从传感器化人类演示中学习环境感知的全身移动操作策略，并引入环境感知重定向方法，结合重建场景几何与头部、夹爪轨迹生成无碰撞的关节与底座目标。该工作缓解了人类与机器人形态差异带来的策略迁移难题。人类演示数据正成为机器人操作规模化训练的重要来源。",
+   "why": null,
+   "category": "机器人",
+   "heat": 3,
+   "published": "2026-11-02T18:59:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Strategist：用元代理演化推理策略",
+   "url": "https://arxiv.org/abs/2611.03618v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 Strategist，一个跨任务演化推理策略的元代理，将策略写成可复用的可执行代码蓝图并形成策略库。研究指出模型只是 AI 代理系统的一半，另一半是手工编写的推理流程。该工作试图让代理系统的推理策略像模型一样可学习、可积累。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-02T18:51:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "基于分层 EEG 到文本对齐的思维解码研究",
+   "url": "https://arxiv.org/abs/2611.03623v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出分层 EEG 到文本对齐方法，探索非侵入式脑机接口为闭锁综合征等沟通障碍患者提供文字输出通路。研究避开 fMRI 等笨重昂贵的神经影像手段，转向更易用的 EEG 信号。非侵入式脑到文本解码正逐步逼近实用化门槛。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-02T18:52:26+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "WebHarbor：为 GUI 代理构建可执行真实网站环境",
+   "url": "https://arxiv.org/abs/2611.03634v1",
+   "source": "arXiv 论文",
+   "summary": "arXiv 论文提出 WebHarbor，包含 153 个可执行、容器化的网站环境，重建真实网站的视觉界面、内容与功能，用于 GUI 网页代理的训练与评估。该套件针对真实网站内容变动、访问限制与合成环境保真度不足的问题。GUI 代理的评测基础设施正从静态数据集转向可交互环境。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-02T18:57:36+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "OpenAI 任命 Jill Hazelbaker 为首席企业事务官",
+   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 宣布 Jill Hazelbaker 加入并担任首席企业事务官，负责全球传播与企业定位。该任命延续了 OpenAI 近期密集的高管与政策人才布局。在监管与舆论压力上升期，企业事务与政府关系正成为 AI 公司的核心职能。",
+   "why": null,
+   "category": "人事与组织",
+   "heat": 3,
+   "published": "2026-11-03T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问",
+   "url": "https://openai.com/index/dan-driscoll-joins-openai",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 宣布 Dan Driscoll 加入，就国家安全现代化中的负责任 AI、网络韧性与盟友合作提供建议。这是 OpenAI 近期第二项与公共部门相关的人事任命。AI 公司与国防、安全体系的合作正在制度化。",
+   "why": null,
+   "category": "政策与人事",
+   "heat": 3,
+   "published": "2026-11-02T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Y Combinator 的 Garry Tan 每年在 AI 代理 token 上花费高达 20 万美元",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，Y Combinator 的 Garry Tan 在播客中透露自己每年在 AI 代理 token 上的支出最高达 20 万美元，并称因与代理协作而兴奋到很少睡觉。这一数字直观展示了重度 AI 代理用户的实际成本量级。代理工作流的 token 消耗远高于普通对话，正在重塑 AI 使用成本结构。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-11-03T00:35:52+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Apple 暗示将通过第三方 AI 应用寻找新收入来源",
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+   "source": "TechCrunch AI",
+   "summary": "Apple 在财报电话会上暗示，可能通过第三方 AI 应用相关的“机会”来增加收入。此前 Apple 已在系统层面接入外部模型提供商。平台方如何从第三方 AI 应用生态中抽成，将成为应用商店政策的新焦点。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-03T01:49:52+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,

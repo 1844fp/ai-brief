@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 04 Nov 2026 08:02:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:03:04 +0000</lastBuildDate>
+  <item>
+    <title>OpenAI 为 Codex 规模重构 Git 后端 Pando</title>
+    <link>https://openai.com/index/scaling-git-at-openai</link>
+    <guid isPermaLink="false">94-1</guid>
+    <pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 官方博客披露其自研的 Git 兼容后端 Pando，专为 Codex 带来的超大规模代码开发场景设计。该后端需支撑海量并行分支、频繁提交与自动化代理操作，传统 Git 托管方案已难以匹配。这意味着 AI 编程代理正在倒逼底层研发基础设施重构，代码托管与版本控制市场可能迎来新竞争者。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 Grid Protectors 计划，缓解数据中心用电压力</title>
+    <link>https://openai.com/index/grid-protectors-program</link>
+    <guid isPermaLink="false">94-2</guid>
+    <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 宣布 Grid Protectors Program，将与电力公司合作，使未来算力园区在用电高峰时支持电网可靠性并保护居民电价。该计划回应了 AI 数据中心激增带来的电力容量与电价争议。对行业而言，算力扩张的能源约束正从企业公关议题升级为实质性的选址与运营门槛。</description>
+  </item>
+  <item>
+    <title>纽约时报等媒体起诉 Brave，指控其抓取内容并转售给 AI 公司</title>
+    <link>https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping</link>
+    <guid isPermaLink="false">94-3</guid>
+    <pubDate>Mon, 02 Nov 2026 19:19:17 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>纽约时报联合多家媒体起诉隐私浏览器 Brave，称其抓取受版权保护的内容并非法分发给 Anthropic、Perplexity 等客户。这是媒体对 AI 内容供应链上游环节发起的新一轮法律攻势。案件可能重新界定浏览器抓取、内容授权与 AI 训练数据之间的法律边界。</description>
+  </item>
+  <item>
+    <title>Wired 调查：约 400 款普通 AI 应用暗藏性虐待深度伪造功能</title>
+    <link>https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features</link>
+    <guid isPermaLink="false">94-4</guid>
+    <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 调查发现约 400 个由中文开发者关联的应用和网站，表面是常规 AI 工具，却隐藏生成暴力色情图像与视频的功能。报道揭示了消费级 AI 应用在内容审核与分发渠道上的系统性漏洞。这类滥用正成为各国监管机构收紧 AI 生成内容立法的直接推手。</description>
+  </item>
+  <item>
+    <title>OpenAI 提高安全漏洞赏金并增设报告质量与忠诚度奖金</title>
+    <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+    <guid isPermaLink="false">94-5</guid>
+    <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 宣布上调安全漏洞赏金金额，并新增报告质量、忠诚度与优先活动奖金，面向独立安全研究员。此举与其同期启动的 Cathedral Systems 内部安全冲刺相配合。头部 AI 公司正用经济激励构建外部白帽生态，安全投入成为模型公司竞争的新维度。</description>
+  </item>
+  <item>
+    <title>OpenAI 联合 Cathedral Systems 启动新一轮内部安全冲刺</title>
+    <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+    <guid isPermaLink="false">94-6</guid>
+    <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 表示正筹备下一轮内部安全冲刺，与 Cathedral Systems 合作利用 AI 测试并强化自身防御。这是其在模型能力快速迭代背景下对自身系统安全性的主动压力测试。结合同日提高赏金的动作，OpenAI 正在构建内外结合的安全响应体系。</description>
+  </item>
+  <item>
+    <title>Apple watchOS 27.3 测试版上线音频智能：Siri 摘要与实时回听</title>
+    <link>https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</link>
+    <guid isPermaLink="false">94-7</guid>
+    <pubDate>Tue, 03 Nov 2026 18:31:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Apple 在 watchOS 27.3 开发者测试版中为 Siri 加入 Audio Intelligence 功能，包括利用环境监听生成对话摘要的 Siri Recap，以及生成最近 15 秒文字转录的 Live Rewind。功能依托 Apple Watch 麦克风实现。可穿戴设备正成为环境 AI 的新入口，隐私与常驻监听之间的平衡将受关注。</description>
+  </item>
+  <item>
+    <title>Netflix 电视端新增 AI Discover 标签页，按主题推荐内容</title>
+    <link>https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</link>
+    <guid isPermaLink="false">94-8</guid>
+    <pubDate>Tue, 03 Nov 2026 18:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Netflix 电视应用推出 AI Discover 标签页，首批实验按“轻松一下”“家庭电影夜”“快速观看”等主题组织推荐内容。用户选择主题后，Netflix 会展示相应片单。流媒体平台正把生成式 AI 用于发现与编排环节，以缓解内容过载下的选择困难。</description>
+  </item>
+  <item>
+    <title>OpenAI 将合并 ChatGPT 聊天与工作标签页</title>
+    <link>https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs</link>
+    <guid isPermaLink="false">94-9</guid>
+    <pubDate>Mon, 02 Nov 2026 18:01:55 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>OpenAI 计划合并 ChatGPT 的聊天与工作两个标签页，先在部分用户中测试再逐步推开，此举紧随 Anthropic 的类似调整。合并意在模糊通用对话与企业工作流的边界，提升单一入口的使用黏性。企业 AI 助手的界面正从功能分区走向统一工作台。</description>
+  </item>
+  <item>
+    <title>预训练数据规模逆转 Muon 与 AdamW 的微调差距</title>
+    <link>https://arxiv.org/abs/2611.03633v1</link>
+    <guid isPermaLink="false">94-10</guid>
+    <pubDate>Mon, 02 Nov 2026 18:56:43 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文研究 Muon 与 AdamW 在下游微调中的表现，发现当预训练数据预算足够大时，AdamW 在微调后反超 Muon，且模型越大反超所需的预训练数据越少。该结果挑战了 Muon 在预训练阶段优于 AdamW 的既有认知。优化器选择需区分预训练与微调阶段，对大规模模型训练策略有直接参考价值。</description>
+  </item>
+  <item>
+    <title>研究：RLVR 的推理能力并非都能泛化</title>
+    <link>https://arxiv.org/abs/2611.03627v1</link>
+    <guid isPermaLink="false">94-11</guid>
+    <pubDate>Mon, 02 Nov 2026 18:53:54 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文以可控方程求解框架研究 RLVR 下推理策略的可泛化性，发现并非所有推理能力都能迁移到分布外难题。研究通过非双射字符串函数构造易到难的分布偏移，使推理策略可观测。这为 RLVR 训练数据的构造与泛化评估提供了更细粒度的实验依据。</description>
+  </item>
+  <item>
+    <title>Pixel：面向通用移动操作的全栈机器人系统</title>
+    <link>https://arxiv.org/abs/2611.03648v1</link>
+    <guid isPermaLink="false">94-12</guid>
+    <pubDate>Mon, 02 Nov 2026 18:59:32 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文提出 Pixel，一个协同设计的全栈机器人系统，整合低成本轮式人形硬件、人类对齐运动学、柔顺全身控制与策略学习。该系统针对通用移动操作中硬件、数据采集与控制模块各自为政导致的失配问题。全栈协同设计正成为机器人学习突破单点瓶颈的主流路径。</description>
+  </item>
+  <item>
+    <title>Pixel-UMI：从传感器化人类演示学习环境感知全身操作</title>
+    <link>https://arxiv.org/abs/2611.03647v1</link>
+    <guid isPermaLink="false">94-13</guid>
+    <pubDate>Mon, 02 Nov 2026 18:59:32 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文提出 Pixel-UMI，从传感器化人类演示中学习环境感知的全身移动操作策略，并引入环境感知重定向方法，结合重建场景几何与头部、夹爪轨迹生成无碰撞的关节与底座目标。该工作缓解了人类与机器人形态差异带来的策略迁移难题。人类演示数据正成为机器人操作规模化训练的重要来源。</description>
+  </item>
+  <item>
+    <title>Strategist：用元代理演化推理策略</title>
+    <link>https://arxiv.org/abs/2611.03618v1</link>
+    <guid isPermaLink="false">94-14</guid>
+    <pubDate>Mon, 02 Nov 2026 18:51:04 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文提出 Strategist，一个跨任务演化推理策略的元代理，将策略写成可复用的可执行代码蓝图并形成策略库。研究指出模型只是 AI 代理系统的一半，另一半是手工编写的推理流程。该工作试图让代理系统的推理策略像模型一样可学习、可积累。</description>
+  </item>
+  <item>
+    <title>基于分层 EEG 到文本对齐的思维解码研究</title>
+    <link>https://arxiv.org/abs/2611.03623v1</link>
+    <guid isPermaLink="false">94-15</guid>
+    <pubDate>Mon, 02 Nov 2026 18:52:26 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文提出分层 EEG 到文本对齐方法，探索非侵入式脑机接口为闭锁综合征等沟通障碍患者提供文字输出通路。研究避开 fMRI 等笨重昂贵的神经影像手段，转向更易用的 EEG 信号。非侵入式脑到文本解码正逐步逼近实用化门槛。</description>
+  </item>
+  <item>
+    <title>WebHarbor：为 GUI 代理构建可执行真实网站环境</title>
+    <link>https://arxiv.org/abs/2611.03634v1</link>
+    <guid isPermaLink="false">94-16</guid>
+    <pubDate>Mon, 02 Nov 2026 18:57:36 +0000</pubDate>
+    <source>arXiv 论文</source>
+    <description>arXiv 论文提出 WebHarbor，包含 153 个可执行、容器化的网站环境，重建真实网站的视觉界面、内容与功能，用于 GUI 网页代理的训练与评估。该套件针对真实网站内容变动、访问限制与合成环境保真度不足的问题。GUI 代理的评测基础设施正从静态数据集转向可交互环境。</description>
+  </item>
+  <item>
+    <title>OpenAI 任命 Jill Hazelbaker 为首席企业事务官</title>
+    <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
+    <guid isPermaLink="false">94-17</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 宣布 Jill Hazelbaker 加入并担任首席企业事务官，负责全球传播与企业定位。该任命延续了 OpenAI 近期密集的高管与政策人才布局。在监管与舆论压力上升期，企业事务与政府关系正成为 AI 公司的核心职能。</description>
+  </item>
+  <item>
+    <title>OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问</title>
+    <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+    <guid isPermaLink="false">94-18</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 宣布 Dan Driscoll 加入，就国家安全现代化中的负责任 AI、网络韧性与盟友合作提供建议。这是 OpenAI 近期第二项与公共部门相关的人事任命。AI 公司与国防、安全体系的合作正在制度化。</description>
+  </item>
+  <item>
+    <title>Y Combinator 的 Garry Tan 每年在 AI 代理 token 上花费高达 20 万美元</title>
+    <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens</link>
+    <guid isPermaLink="false">94-19</guid>
+    <pubDate>Tue, 03 Nov 2026 00:35:52 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，Y Combinator 的 Garry Tan 在播客中透露自己每年在 AI 代理 token 上的支出最高达 20 万美元，并称因与代理协作而兴奋到很少睡觉。这一数字直观展示了重度 AI 代理用户的实际成本量级。代理工作流的 token 消耗远高于普通对话，正在重塑 AI 使用成本结构。</description>
+  </item>
+  <item>
+    <title>Apple 暗示将通过第三方 AI 应用寻找新收入来源</title>
+    <link>https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps</link>
+    <guid isPermaLink="false">94-20</guid>
+    <pubDate>Tue, 03 Nov 2026 01:49:52 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Apple 在财报电话会上暗示，可能通过第三方 AI 应用相关的“机会”来增加收入。此前 Apple 已在系统层面接入外部模型提供商。平台方如何从第三方 AI 应用生态中抽成，将成为应用商店政策的新焦点。</description>
+  </item>
   <item>
     <title>AI 推理初创公司 Fal 估值翻倍至 160 亿美元，需求激增</title>
     <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges</link>
@@ -323,165 +483,5 @@
     <pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>两家致力于解决数据中心用水问题的初创公司合并，Omen AI 以 1600 万美元收购 Aquatic Labs。交易反映 AI 算力扩张下，散热与水资源约束正成为数据中心选址与运营的核心变量。</description>
-  </item>
-  <item>
-    <title>OpenAI 将融资目标下调 100 亿美元，投资者情绪动摇 AI 市场</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-cuts-funding-target-by-10-billion-as-investor-jitters-shake-ai-markets/</link>
-    <guid isPermaLink="false">91-1</guid>
-    <pubDate>Sun, 01 Nov 2026 23:09:55 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>多家媒体报道 OpenAI 把本轮融资目标下调约 100 亿美元，反映投资者对 AI 高估值与回报周期的疑虑升温。这一调整与同日曝出的 ChatGPT、Codex 用量限制收紧形成呼应，显示公司正在收入与成本之间重新平衡。对行业而言，头部实验室融资缩水可能传导至算力采购与初创估值。</description>
-  </item>
-  <item>
-    <title>OpenAI 合并 ChatGPT 与 Codex 用量限制并收紧配额</title>
-    <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
-    <guid isPermaLink="false">91-2</guid>
-    <pubDate>Sat, 31 Oct 2026 21:49:07 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>OpenAI 帮助中心文档显示 ChatGPT 与 Codex 的用量限制正在合并，HN 讨论指出实际配额趋紧。结合融资目标下调的报道，这被视为降低推理成本、优先保障付费用户的举措。开发者与重度用户的使用成本将更直接地影响产品选择。</description>
-  </item>
-  <item>
-    <title>Anthropic 准备发布 Claude Mythos 5.5 模型</title>
-    <link>https://www.testingcatalog.com/anthropic-prepares-to-release-claude-mythos-5-5-model/</link>
-    <guid isPermaLink="false">91-3</guid>
-    <pubDate>Sun, 01 Nov 2026 20:49:32 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>TestingCatalog 报道 Anthropic 正准备推出 Claude Mythos 5.5，属于其 Mythos 级模型的新版本。此前已有该系列模型 checkpoint 在 Hugging Face 泄露的传闻，使发布节奏与安全审查受到额外关注。若如期发布，前沿模型竞争将进一步聚焦长上下文与代理能力。</description>
-  </item>
-  <item>
-    <title>Anthropic Mythos 级模型疑似在 Hugging Face 泄露</title>
-    <link>https://news.ycombinator.com/item?id=50326727</link>
-    <guid isPermaLink="false">91-4</guid>
-    <pubDate>Sun, 01 Nov 2026 15:45:10 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>HN 热帖称 Anthropic 的 Mythos 级模型 checkpoint 出现在 Hugging Face，原链接因恶意软件担忧被删除，另有条目指向同一泄露。事件与 Claude Mythos 5.5 发布准备同期发生，引发对模型权重管控与供应链安全的讨论。若属实，将是又一起前沿模型资产外流事件。</description>
-  </item>
-  <item>
-    <title>OpenAI 将采购 Google TPU 芯片，AI 基础设施需求激增</title>
-    <link>https://www.techradar.com/pro/openai-pledges-to-buy-google-ai-chips-in-its-first-move-away-from-depending-solely-on-nvidia</link>
-    <guid isPermaLink="false">91-5</guid>
-    <pubDate>Sun, 01 Nov 2026 18:20:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>TechRadar 报道 OpenAI 计划采购 Google TPU，以缓解 AI 基础设施需求激增带来的算力缺口。此举意味着 OpenAI 在英伟达之外寻求多元供应，也反映 TPU 正从内部自用走向对外销售。算力供应链的竞争格局可能因此进一步分化。</description>
-  </item>
-  <item>
-    <title>Sam Altman 突访韩国，OpenAI 推进芯片合作</title>
-    <link>https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html</link>
-    <guid isPermaLink="false">91-6</guid>
-    <pubDate>Mon, 02 Nov 2026 02:58:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>CNBC 报道 Sam Altman 意外访问韩国，延续 OpenAI 与当地芯片厂商的合作布局，另有报道称此行聚焦芯片供应。结合韩国计划 2027 年将 AI 与芯片支出翻倍，OpenAI 正加紧锁定存储与代工产能。全球 AI 算力外交正从美国扩展到东亚供应链。</description>
-  </item>
-  <item>
-    <title>韩国计划 2027 年将 AI 与芯片支出翻倍</title>
-    <link>https://www.japantimes.co.jp/business/2026/11/02/south-korea-ai-chips-spending-2027/</link>
-    <guid isPermaLink="false">91-7</guid>
-    <pubDate>Mon, 02 Nov 2026 04:57:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>日本时报报道韩国政府计划在 2027 年把 AI 与半导体相关支出提高一倍，以巩固其在存储与先进封装环节的优势。这与三星、SK 海力士近期锁定长期订单的动作相呼应。国家级算力投资正在成为 AI 竞争的新变量。</description>
-  </item>
-  <item>
-    <title>澳大利亚以新规收紧 AI 聊天机器人限制</title>
-    <link>https://www.telecompaper.com/news/australia-tightens-digital-safety-rules-with-new-ai-chatbot-restrictions--1587476</link>
-    <guid isPermaLink="false">91-8</guid>
-    <pubDate>Mon, 02 Nov 2026 06:10:39 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>澳大利亚更新数字安全规则，对 AI 聊天机器人提出新的限制要求，重点涉及未成年人保护与内容安全。这是继欧盟 AI 法案后又一主要经济体的具体监管落地。合规成本将影响面向消费者市场的聊天机器人产品设计。</description>
-  </item>
-  <item>
-    <title>因 ChatGPT 误导导致癫痫发作死亡的女性家属起诉 OpenAI</title>
-    <link>https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai</link>
-    <guid isPermaLink="false">91-9</guid>
-    <pubDate>Sun, 01 Nov 2026 22:02:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>《卫报》报道一名女性在 ChatGPT 错误医疗建议后癫痫发作死亡，其父母对 OpenAI 提起诉讼。案件把 AI 医疗建议的可靠性问题推上法庭，可能成为产品责任判例。对消费级 AI 而言，免责声明与安全护栏的有效性将受更严格审视。</description>
-  </item>
-  <item>
-    <title>法官允许 NAACP 就 xAI 数据中心污染提起的诉讼继续推进</title>
-    <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward</link>
-    <guid isPermaLink="false">91-10</guid>
-    <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道法官裁定 NAACP 针对 xAI 数据中心违反《清洁空气法》的诉讼可以继续审理。案件聚焦 AI 算力扩张带来的环境外部性，可能影响数据中心选址与许可流程。AI 基础设施的环保合规正成为新的法律风险点。</description>
-  </item>
-  <item>
-    <title>OpenAI 拟将数据中心改称「AI 算力园区」</title>
-    <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses</link>
-    <guid isPermaLink="false">91-11</guid>
-    <pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道 OpenAI 考虑把旗下数据中心重新命名为「AI compute campuses」，多家媒体跟进。更名被视为改善公众形象、弱化高耗能与占地争议的公关动作。在数据中心环保与电价争议升温的背景下，叙事管理正成为 AI 公司基础设施战略的一部分。</description>
-  </item>
-  <item>
-    <title>开源 USB 工具解锁英伟达 Windows 端 GPU 半速 AI 限制，FP16 性能提升最高 65%</title>
-    <link>https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops</link>
-    <guid isPermaLink="false">91-12</guid>
-    <pubDate>Sun, 01 Nov 2026 14:00:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Tom's Hardware 报道一款开源 USB 工具通过 UEFI 解锁英伟达在 Windows 上对 RTX 20/30/40 系列桌面与笔记本 GPU 的 FP16 半速限制，性能提升最高约 65%。这暴露了消费级 GPU 在 AI 负载上的软件限速策略。对本地推理用户而言，硬件潜力与厂商策略之间的张力更加明显。</description>
-  </item>
-  <item>
-    <title>Anthropic 的 Claude 可暗中标记有害对话以供审查</title>
-    <link>https://www.wionews.com/technology/anthropic-s-claude-can-now-secretly-flag-harmful-chats-for-review-how-its-new-ai-safety-feature-works-1793594723509</link>
-    <guid isPermaLink="false">91-13</guid>
-    <pubDate>Mon, 02 Nov 2026 04:58:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>WION 报道 Anthropic 为 Claude 引入新的安全功能，可在用户不知情的情况下标记有害对话并提交审查。该机制旨在提升滥用检测效率，但也引发对隐私与透明度的讨论。AI 安全功能的设计正从显式拦截转向后台监测。</description>
-  </item>
-  <item>
-    <title>AI 代理向活体小鼠大脑注射药物</title>
-    <link>https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse</link>
-    <guid isPermaLink="false">91-14</guid>
-    <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道一家生物科技初创公司让 AI 代理自主选择基因疗法并成功向活体小鼠脑内注射。这是 AI 代理首次在真实实验动物上完成从决策到执行的闭环。该案例展示了 AI 在实验室自动化中的潜力，也引出生物安全与责任归属问题。</description>
-  </item>
-  <item>
-    <title>研究显示 ChatGPT 在医疗问答上超过专用医疗工具</title>
-    <link>https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-909175</link>
-    <guid isPermaLink="false">91-15</guid>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>《耶路撒冷邮报》报道一项令人意外的结果：ChatGPT 在部分医疗问答任务上表现优于专用医疗工具。这挑战了「通用模型不如垂直工具」的假设，也加剧了医疗 AI 的监管讨论。对医疗 AI 创业者而言，通用模型的替代压力正在上升。</description>
-  </item>
-  <item>
-    <title>Apollo 经济学家称 AI 对多数企业「零财务回报」</title>
-    <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist</link>
-    <guid isPermaLink="false">91-16</guid>
-    <pubDate>Sun, 01 Nov 2026 22:10:45 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>TechCrunch 报道 Apollo 经济学家指出，多数企业在 AI 上的投入尚未带来可测量的财务回报。HN 讨论热度很高，反映企业 AI 落地与 ROI 之间的落差正被公开质疑。这可能促使企业从试点转向更严格的成本收益评估。</description>
-  </item>
-  <item>
-    <title>Heretic 2.0 让自动化剥离 AI 安全护栏更易实现</title>
-    <link>https://startupfortune.com/heretic-20-makes-stripping-ai-safety-guardrails-even-easier-to-automate/</link>
-    <guid isPermaLink="false">91-17</guid>
-    <pubDate>Sun, 01 Nov 2026 14:17:20 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Startup Fortune 报道 Heretic 2.0 发布，可更自动化地移除模型的安全对齐护栏。此类工具降低了滥用门槛，与近期模型泄露事件叠加，放大了开源权重模型的安全风险。监管者与模型提供方在权重开放与滥用防控之间的博弈将更激烈。</description>
-  </item>
-  <item>
-    <title>比尔·盖茨警告 AI 导致的失业可能侵蚀税收与社会保障体系</title>
-    <link>https://beinsure.com/news/bill-gates-warns-ai-job-losses-could-undermine-taxes/</link>
-    <guid isPermaLink="false">91-18</guid>
-    <pubDate>Sun, 01 Nov 2026 23:39:46 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Beinsure 报道比尔·盖茨警告 AI 引发的岗位流失可能削弱税基，进而冲击社会保障网络。这一表态把 AI 就业影响从劳动力市场讨论扩展到财政可持续性。随着 AI 替代加速，税收与再分配政策可能成为下一阶段政策焦点。</description>
-  </item>
-  <item>
-    <title>苹果 CEO 称公司不「为 AI 而 AI」</title>
-    <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake</link>
-    <guid isPermaLink="false">91-19</guid>
-    <pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道苹果新任 CEO 为公司在 AI 领域的当前定位辩护，称不会为了标签而发布 AI 功能。这一表态延续苹果一贯的克制路线，与竞争对手的高调发布形成对比。在 AI 功能同质化竞争中，苹果的产品节奏仍受市场关注。</description>
-  </item>
-  <item>
-    <title>Spotify 将在数月内推出 AI 音乐混音服务</title>
-    <link>https://www.afr.com/world/north-america/from-folk-to-dance-spotify-to-launch-ai-music-remix-service-in-months-20261102-p61an0</link>
-    <guid isPermaLink="false">91-20</guid>
-    <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>AFR 报道 Spotify 计划在数月内上线 AI 音乐混音服务，可从民谣风格生成舞曲版本。这标志着流媒体平台正式把生成式 AI 引入音乐创作与再分发环节。版权归属与艺人分成模式将成为随之而来的核心争议。</description>
   </item>
 </channel></rss>

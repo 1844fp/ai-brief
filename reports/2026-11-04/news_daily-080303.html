@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>国外 AI 每日要闻 · 2026-11-04</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1a1d24;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--warn:#b45309}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:16px/1.75 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+.wrap{max-width:920px;margin:0 auto;padding:28px 20px 80px}
+header.top{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;
+ padding:26px 28px;margin-bottom:22px}
+header.top h1{margin:0 0 6px;font-size:26px;line-height:1.3}
+header.top .sub{opacity:.9;font-size:14px}
+.overview{background:#eef4ff;border-left:4px solid var(--accent);border-radius:8px;
+ padding:16px 18px;margin:0 0 22px;white-space:pre-wrap}
+h2.group{font-size:19px;margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--accent)}
+article{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:18px 20px;margin-bottom:14px;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+article h3{margin:0 0 8px;font-size:18px;line-height:1.45}
+article h3 .idx{color:var(--accent);font-weight:700;margin-right:6px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px}
+.summary{margin:0 0 10px}
+.why{color:#334155;background:#f8fafc;border-radius:8px;padding:8px 12px;font-size:14px;margin:0 0 10px}
+.why b{color:var(--accent)}
+.link{font-size:14px;word-break:break-all}
+.link a{color:var(--accent);text-decoration:none}
+.link a:hover{text-decoration:underline}
+.orig{color:var(--muted);font-size:12px;margin-top:6px}
+.badge{display:inline-block;background:#fee2e2;color:#b91c1c;border-radius:6px;
+ padding:0 6px;font-size:12px;margin-left:6px}
+footer{color:var(--muted);font-size:13px;margin-top:34px}
+details.health{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-top:26px}
+details.health summary{cursor:pointer;font-weight:600}
+table{border-collapse:collapse;width:100%;margin-top:12px;font-size:13px}
+th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+th{background:#f3f4f6}
+.notes{background:#fffbeb;border-left:4px solid var(--warn);border-radius:8px;padding:12px 16px;margin-top:22px;font-size:14px}
+nav a{color:var(--accent);margin-right:14px;text-decoration:none;font-size:14px}
+</style></head><body><div class="wrap">
+<header class="top">
+  <h1>国外 AI 每日要闻 · 2026-11-04</h1>
+  <div class="sub">统计区间：最近 48 小时国外主流科技媒体与 Hacker News 热榜 ｜ 生成于 2026-11-04 08:03</div>
+  <div class="sub">生成时间 2026-11-04 08:03（北京时间） ｜
+    抓取 149 条 ｜ 入选 20 条 ｜ 大模型摘要 ｜ 网络：境外源经代理 http://127.0.0.1:7897</div>
+  <nav style="margin-top:10px"><a href="../../index.html">首页</a><a href="../../index.html">← 返回看板首页</a></nav>
+</header>
+<div class="overview">本期要闻集中在 AI 基础设施与安全治理两条主线：OpenAI 一方面通过 Pando 重构 Git 后端以支撑 Codex 带来的开发规模，另一方面推出电网保护计划并连续加码安全赏金与内部攻防演练；同时，纽约时报等媒体起诉 Brave 抓取内容，AI 应用中的深度伪造滥用问题也被曝光。研究侧，RLVR 的可泛化性、Muon 与 AdamW 在微调阶段的优劣反转，以及机器人全身操作全栈系统成为 arXiv 热点。产品端，Apple 将音频智能引入 watchOS，Netflix 上线 AI 推荐入口，ChatGPT 则计划合并聊天与工作标签页。</div><article>
+<h3><span class="idx">1.</span>OpenAI 为 Codex 规模重构 Git 后端 Pando<span class="badge">★★★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-11-02 23:30</div>
+<p class="summary">OpenAI 官方博客披露其自研的 Git 兼容后端 Pando，专为 Codex 带来的超大规模代码开发场景设计。该后端需支撑海量并行分支、频繁提交与自动化代理操作，传统 Git 托管方案已难以匹配。这意味着 AI 编程代理正在倒逼底层研发基础设施重构，代码托管与版本控制市场可能迎来新竞争者。</p>
+<p class="why"><b>为什么重要</b>：AI 编程代理规模化后，版本控制基础设施成为新瓶颈，OpenAI 自研后端具有行业示范效应。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/scaling-git-at-openai" target="_blank" rel="noopener">https://openai.com/index/scaling-git-at-openai</a></div>
+<div class="orig">原标题：Scaling Git at OpenAI</div>
+</article><article>
+<h3><span class="idx">2.</span>OpenAI 推出 Grid Protectors 计划，缓解数据中心用电压力<span class="badge">★★★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-11-02 23:00</div>
+<p class="summary">OpenAI 宣布 Grid Protectors Program，将与电力公司合作，使未来算力园区在用电高峰时支持电网可靠性并保护居民电价。该计划回应了 AI 数据中心激增带来的电力容量与电价争议。对行业而言，算力扩张的能源约束正从企业公关议题升级为实质性的选址与运营门槛。</p>
+<p class="why"><b>为什么重要</b>：算力扩张的电力瓶颈首次被头部 AI 公司以专项计划形式正面回应。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/grid-protectors-program" target="_blank" rel="noopener">https://openai.com/index/grid-protectors-program</a></div>
+<div class="orig">原标题：Introducing the Grid Protectors Program</div>
+</article><article>
+<h3><span class="idx">3.</span>纽约时报等媒体起诉 Brave，指控其抓取内容并转售给 AI 公司<span class="badge">★★★★★</span></h3>
+<div class="meta">TechCrunch AI · 2026-11-03 03:19</div>
+<p class="summary">纽约时报联合多家媒体起诉隐私浏览器 Brave，称其抓取受版权保护的内容并非法分发给 Anthropic、Perplexity 等客户。这是媒体对 AI 内容供应链上游环节发起的新一轮法律攻势。案件可能重新界定浏览器抓取、内容授权与 AI 训练数据之间的法律边界。</p>
+<p class="why"><b>为什么重要</b>：版权诉讼从 AI 模型公司延伸至浏览器与数据中间商，影响整个内容授权链条。</p>
+<div class="link">原文链接：<a href="https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping" target="_blank" rel="noopener">https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping</a></div>
+<div class="orig">原标题：New York Times and other outlets sue web browser Brave over alleged content scraping</div>
+</article><article>
+<h3><span class="idx">4.</span>Wired 调查：约 400 款普通 AI 应用暗藏性虐待深度伪造功能<span class="badge">★★★★★</span></h3>
+<div class="meta">Wired AI · 2026-11-02 18:00</div>
+<p class="summary">Wired 调查发现约 400 个由中文开发者关联的应用和网站，表面是常规 AI 工具，却隐藏生成暴力色情图像与视频的功能。报道揭示了消费级 AI 应用在内容审核与分发渠道上的系统性漏洞。这类滥用正成为各国监管机构收紧 AI 生成内容立法的直接推手。</p>
+<p class="why"><b>为什么重要</b>：深度伪造滥用规模远超预期，凸显 AI 应用审核与平台责任缺口。</p>
+<div class="link">原文链接：<a href="https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features" target="_blank" rel="noopener">https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features</a></div>
+<div class="orig">原标题：Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features</div>
+</article><article>
+<h3><span class="idx">5.</span>OpenAI 提高安全漏洞赏金并增设报告质量与忠诚度奖金<span class="badge">★★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-11-03 02:00</div>
+<p class="summary">OpenAI 宣布上调安全漏洞赏金金额，并新增报告质量、忠诚度与优先活动奖金，面向独立安全研究员。此举与其同期启动的 Cathedral Systems 内部安全冲刺相配合。头部 AI 公司正用经济激励构建外部白帽生态，安全投入成为模型公司竞争的新维度。</p>
+<p class="why"><b>为什么重要</b>：AI 公司安全防御从内部演练扩展到外部赏金生态，反映攻击面扩大。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties" target="_blank" rel="noopener">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</a></div>
+<div class="orig">原标题：Rewarding defenders with bigger bug bounties</div>
+</article><article>
+<h3><span class="idx">6.</span>OpenAI 联合 Cathedral Systems 启动新一轮内部安全冲刺<span class="badge">★★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-11-03 02:00</div>
+<p class="summary">OpenAI 表示正筹备下一轮内部安全冲刺，与 Cathedral Systems 合作利用 AI 测试并强化自身防御。这是其在模型能力快速迭代背景下对自身系统安全性的主动压力测试。结合同日提高赏金的动作，OpenAI 正在构建内外结合的安全响应体系。</p>
+<p class="why"><b>为什么重要</b>：模型公司开始将自身作为攻防演练对象，安全治理进入常态化阶段。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai" target="_blank" rel="noopener">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</a></div>
+<div class="orig">原标题：Preparing our next security sprint to harden OpenAI</div>
+</article><article>
+<h3><span class="idx">7.</span>Apple watchOS 27.3 测试版上线音频智能：Siri 摘要与实时回听<span class="badge">★★★★</span></h3>
+<div class="meta">The Verge AI · 2026-11-04 02:31</div>
+<p class="summary">Apple 在 watchOS 27.3 开发者测试版中为 Siri 加入 Audio Intelligence 功能，包括利用环境监听生成对话摘要的 Siri Recap，以及生成最近 15 秒文字转录的 Live Rewind。功能依托 Apple Watch 麦克风实现。可穿戴设备正成为环境 AI 的新入口，隐私与常驻监听之间的平衡将受关注。</p>
+<p class="why"><b>为什么重要</b>：Apple 将环境音频理解带入手表，标志可穿戴 AI 交互进入常驻监听阶段。</p>
+<div class="link">原文链接：<a href="https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta" target="_blank" rel="noopener">https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta</a></div>
+<div class="orig">原标题：Apple’s latest watchOS beta includes its new always-on Audio Intelligence features</div>
+</article><article>
+<h3><span class="idx">8.</span>Netflix 电视端新增 AI Discover 标签页，按主题推荐内容<span class="badge">★★★★</span></h3>
+<div class="meta">The Verge AI · 2026-11-04 02:00</div>
+<p class="summary">Netflix 电视应用推出 AI Discover 标签页，首批实验按“轻松一下”“家庭电影夜”“快速观看”等主题组织推荐内容。用户选择主题后，Netflix 会展示相应片单。流媒体平台正把生成式 AI 用于发现与编排环节，以缓解内容过载下的选择困难。</p>
+<p class="why"><b>为什么重要</b>：推荐系统从个性化算法转向 AI 主题化策展，是流媒体产品形态的新尝试。</p>
+<div class="link">原文链接：<a href="https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations" target="_blank" rel="noopener">https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations</a></div>
+<div class="orig">原标题：Netflix will show you themed recommendations through a new ‘AI Discover’ tab</div>
+</article><article>
+<h3><span class="idx">9.</span>OpenAI 将合并 ChatGPT 聊天与工作标签页<span class="badge">★★★★</span></h3>
+<div class="meta">ZDNet AI · 2026-11-03 02:01</div>
+<p class="summary">OpenAI 计划合并 ChatGPT 的聊天与工作两个标签页，先在部分用户中测试再逐步推开，此举紧随 Anthropic 的类似调整。合并意在模糊通用对话与企业工作流的边界，提升单一入口的使用黏性。企业 AI 助手的界面正从功能分区走向统一工作台。</p>
+<p class="why"><b>为什么重要</b>：ChatGPT 产品结构向统一工作台演进，反映企业 AI 入口竞争加剧。</p>
+<div class="link">原文链接：<a href="https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs" target="_blank" rel="noopener">https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs</a></div>
+<div class="orig">原标题：OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect</div>
+</article><article>
+<h3><span class="idx">10.</span>预训练数据规模逆转 Muon 与 AdamW 的微调差距<span class="badge">★★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:56</div>
+<p class="summary">arXiv 论文研究 Muon 与 AdamW 在下游微调中的表现，发现当预训练数据预算足够大时，AdamW 在微调后反超 Muon，且模型越大反超所需的预训练数据越少。该结果挑战了 Muon 在预训练阶段优于 AdamW 的既有认知。优化器选择需区分预训练与微调阶段，对大规模模型训练策略有直接参考价值。</p>
+<p class="why"><b>为什么重要</b>：优化器优劣随训练阶段反转，可能改变大模型预训练与微调的默认配置。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03633v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03633v1</a></div>
+<div class="orig">原标题：Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap</div>
+</article><article>
+<h3><span class="idx">11.</span>研究：RLVR 的推理能力并非都能泛化<span class="badge">★★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:53</div>
+<p class="summary">arXiv 论文以可控方程求解框架研究 RLVR 下推理策略的可泛化性，发现并非所有推理能力都能迁移到分布外难题。研究通过非双射字符串函数构造易到难的分布偏移，使推理策略可观测。这为 RLVR 训练数据的构造与泛化评估提供了更细粒度的实验依据。</p>
+<p class="why"><b>为什么重要</b>：RLVR 是当前推理模型训练核心方法，其泛化边界直接关系训练效率。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03627v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03627v1</a></div>
+<div class="orig">原标题：Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR</div>
+</article><article>
+<h3><span class="idx">12.</span>Pixel：面向通用移动操作的全栈机器人系统<span class="badge">★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:59</div>
+<p class="summary">arXiv 论文提出 Pixel，一个协同设计的全栈机器人系统，整合低成本轮式人形硬件、人类对齐运动学、柔顺全身控制与策略学习。该系统针对通用移动操作中硬件、数据采集与控制模块各自为政导致的失配问题。全栈协同设计正成为机器人学习突破单点瓶颈的主流路径。</p>
+<p class="why"><b>为什么重要</b>：全栈协同设计是通用机器人操作从演示走向可用的关键工程范式。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03648v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03648v1</a></div>
+<div class="orig">原标题：Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation</div>
+</article><article>
+<h3><span class="idx">13.</span>Pixel-UMI：从传感器化人类演示学习环境感知全身操作<span class="badge">★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:59</div>
+<p class="summary">arXiv 论文提出 Pixel-UMI，从传感器化人类演示中学习环境感知的全身移动操作策略，并引入环境感知重定向方法，结合重建场景几何与头部、夹爪轨迹生成无碰撞的关节与底座目标。该工作缓解了人类与机器人形态差异带来的策略迁移难题。人类演示数据正成为机器人操作规模化训练的重要来源。</p>
+<p class="why"><b>为什么重要</b>：利用人类演示数据训练全身操作策略，是降低机器人数据采集成本的关键方向。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03647v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03647v1</a></div>
+<div class="orig">原标题：Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations</div>
+</article><article>
+<h3><span class="idx">14.</span>Strategist：用元代理演化推理策略<span class="badge">★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:51</div>
+<p class="summary">arXiv 论文提出 Strategist，一个跨任务演化推理策略的元代理，将策略写成可复用的可执行代码蓝图并形成策略库。研究指出模型只是 AI 代理系统的一半，另一半是手工编写的推理流程。该工作试图让代理系统的推理策略像模型一样可学习、可积累。</p>
+<p class="why"><b>为什么重要</b>：推理策略自动化演化有望降低代理系统构建成本并提升跨任务复用。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03618v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03618v1</a></div>
+<div class="orig">原标题：Strategist: Evolving Reasoning with Agents</div>
+</article><article>
+<h3><span class="idx">15.</span>基于分层 EEG 到文本对齐的思维解码研究<span class="badge">★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:52</div>
+<p class="summary">arXiv 论文提出分层 EEG 到文本对齐方法，探索非侵入式脑机接口为闭锁综合征等沟通障碍患者提供文字输出通路。研究避开 fMRI 等笨重昂贵的神经影像手段，转向更易用的 EEG 信号。非侵入式脑到文本解码正逐步逼近实用化门槛。</p>
+<p class="why"><b>为什么重要</b>：非侵入式脑机接口若实现可用文本解码，将显著改善重度沟通障碍者的生活。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03623v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03623v1</a></div>
+<div class="orig">原标题：Thought-deciphering via hierarchical EEG-to-text alignment</div>
+</article><article>
+<h3><span class="idx">16.</span>WebHarbor：为 GUI 代理构建可执行真实网站环境<span class="badge">★★★</span></h3>
+<div class="meta">arXiv 论文 · 2026-11-03 02:57</div>
+<p class="summary">arXiv 论文提出 WebHarbor，包含 153 个可执行、容器化的网站环境，重建真实网站的视觉界面、内容与功能，用于 GUI 网页代理的训练与评估。该套件针对真实网站内容变动、访问限制与合成环境保真度不足的问题。GUI 代理的评测基础设施正从静态数据集转向可交互环境。</p>
+<p class="why"><b>为什么重要</b>：可交互网站环境是 GUI 代理训练与评测的关键缺口，该工作提供了规模化方案。</p>
+<div class="link">原文链接：<a href="https://arxiv.org/abs/2611.03634v1" target="_blank" rel="noopener">https://arxiv.org/abs/2611.03634v1</a></div>
+<div class="orig">原标题：WebHarbor: Docking Real Websites for Evolving GUI Agent Environments</div>
+</article><article>
+<h3><span class="idx">17.</span>OpenAI 任命 Jill Hazelbaker 为首席企业事务官<span class="badge">★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-11-03 08:00</div>
+<p class="summary">OpenAI 宣布 Jill Hazelbaker 加入并担任首席企业事务官，负责全球传播与企业定位。该任命延续了 OpenAI 近期密集的高管与政策人才布局。在监管与舆论压力上升期，企业事务与政府关系正成为 AI 公司的核心职能。</p>
+<p class="why"><b>为什么重要</b>：OpenAI 强化企业传播与政策沟通，反映监管环境下的组织能力建设。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer" target="_blank" rel="noopener">https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</a></div>
+<div class="orig">原标题：OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</div>
+</article><article>
+<h3><span class="idx">18.</span>OpenAI 任命 Dan Driscoll 为国家安全现代化高级顾问<span class="badge">★★★</span></h3>
+<div class="meta">OpenAI 官方博客 · 2026-11-02 08:00</div>
+<p class="summary">OpenAI 宣布 Dan Driscoll 加入，就国家安全现代化中的负责任 AI、网络韧性与盟友合作提供建议。这是 OpenAI 近期第二项与公共部门相关的人事任命。AI 公司与国防、安全体系的合作正在制度化。</p>
+<p class="why"><b>为什么重要</b>：AI 头部公司与国家安全体系的合作从项目制走向常设顾问机制。</p>
+<div class="link">原文链接：<a href="https://openai.com/index/dan-driscoll-joins-openai" target="_blank" rel="noopener">https://openai.com/index/dan-driscoll-joins-openai</a></div>
+<div class="orig">原标题：OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</div>
+</article><article>
+<h3><span class="idx">19.</span>Y Combinator 的 Garry Tan 每年在 AI 代理 token 上花费高达 20 万美元<span class="badge">★★★</span></h3>
+<div class="meta">TechCrunch AI · 2026-11-03 08:35</div>
+<p class="summary">TechCrunch 报道，Y Combinator 的 Garry Tan 在播客中透露自己每年在 AI 代理 token 上的支出最高达 20 万美元，并称因与代理协作而兴奋到很少睡觉。这一数字直观展示了重度 AI 代理用户的实际成本量级。代理工作流的 token 消耗远高于普通对话，正在重塑 AI 使用成本结构。</p>
+<p class="why"><b>为什么重要</b>：20 万美元年 token 支出为代理工作流的真实成本提供了罕见的一手参照。</p>
+<div class="link">原文链接：<a href="https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens" target="_blank" rel="noopener">https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens</a></div>
+<div class="orig">原标题：Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</div>
+</article><article>
+<h3><span class="idx">20.</span>Apple 暗示将通过第三方 AI 应用寻找新收入来源<span class="badge">★★★</span></h3>
+<div class="meta">TechCrunch AI · 2026-11-03 09:49</div>
+<p class="summary">Apple 在财报电话会上暗示，可能通过第三方 AI 应用相关的“机会”来增加收入。此前 Apple 已在系统层面接入外部模型提供商。平台方如何从第三方 AI 应用生态中抽成，将成为应用商店政策的新焦点。</p>
+<p class="why"><b>为什么重要</b>：Apple 对第三方 AI 应用的变现表态，可能影响 iOS 上 AI 应用的商业模式。</p>
+<div class="link">原文链接：<a href="https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps" target="_blank" rel="noopener">https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps</a></div>
+<div class="orig">原标题：Apple may try to increase revenue by doing…something with third-party AI apps</div>
+</article>
+<details class="health"><summary>数据源健康（13 个源）</summary>
+<table><tr><th>来源</th><th>类型</th><th>抓取</th><th>保留</th><th>耗时</th><th>状态</th></tr>
+<tr><td>Ars Technica</td><td>rss</td><td>1</td><td>0</td><td>8.5s</td><td>正常</td></tr><tr><td>Google DeepMind 博客</td><td>rss</td><td>1</td><td>1</td><td>9.3s</td><td>正常</td></tr><tr><td>Google News 英文</td><td>gnews</td><td>0</td><td>0</td><td>1940.5s</td><td>失败：检索失败：artificial intelligence when:1d；检索失败：OpenAI OR Anthropi</td></tr><tr><td>Google 官方博客 AI</td><td>rss</td><td>0</td><td>0</td><td>71.0s</td><td>失败：抓取失败</td></tr><tr><td>Hacker News</td><td>hn</td><td>67</td><td>67</td><td>88.9s</td><td>正常</td></tr><tr><td>MIT 科技评论</td><td>rss</td><td>7</td><td>7</td><td>8.7s</td><td>正常</td></tr><tr><td>OpenAI 官方博客</td><td>rss</td><td>10</td><td>10</td><td>8.9s</td><td>正常</td></tr><tr><td>TechCrunch AI</td><td>rss</td><td>20</td><td>20</td><td>8.9s</td><td>正常</td></tr><tr><td>The Verge AI</td><td>rss</td><td>10</td><td>10</td><td>8.2s</td><td>正常</td></tr><tr><td>VentureBeat AI</td><td>rss</td><td>0</td><td>0</td><td>8.3s</td><td>正常</td></tr><tr><td>Wired AI</td><td>rss</td><td>4</td><td>4</td><td>8.5s</td><td>正常</td></tr><tr><td>ZDNet AI</td><td>rss</td><td>15</td><td>15</td><td>8.8s</td><td>正常</td></tr><tr><td>arXiv 论文</td><td>arxiv</td><td>15</td><td>15</td><td>92.5s</td><td>正常</td></tr></table></details>
+<footer>由 AI 情报助手生成 · 2026-11-04 08:03:03</footer>
+</div></body></html>
