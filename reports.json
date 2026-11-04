@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T14:47:42.909781",
+ "generated_at": "2026-11-04T08:02:40.957389",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 93,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-04",
+   "created_at": "2026-11-04T00:02:39.917142+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-04/news_daily-080239.html"
+  },
   {
    "id": 92,
    "task": "news_daily",
@@ -777,6 +786,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "AI 推理初创公司 Fal 估值翻倍至 160 亿美元，需求激增",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+   "source": "TechCrunch AI",
+   "summary": "AI 推理初创公司 Fal 完成 13 亿美元融资，由 Bessemer 领投，估值翻倍至 160 亿美元。该公司成立仅五年，此轮融资反映市场对低成本、高吞吐推理算力的强劲需求。推理层正成为大模型商业化竞争的关键环节。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-03T19:34:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "OpenAI 称 ChatGPT 搜索量已达 Google 的 20%",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "source": "The Verge AI",
+   "summary": "OpenAI 消费产品负责人 Adam Fry 在发布会上表示，ChatGPT 的搜索查询量已相当于 Google 搜索量的 20%。这一数据表明「Ask Chat」正在部分场景替代传统搜索。对 Google 核心搜索业务构成直接竞争信号。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 5,
+   "published": "2026-11-03T18:30:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Apple 向第三方应用开放 Siri AI 能力",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "source": "The Verge AI",
+   "summary": "随 iOS 27.3 更新，Apple 允许开发者在「所有应用」中集成 Siri AI 新功能，语音助手可调用用户个人上下文、处理自然语言指令并具备屏幕感知能力。这是 Apple 在 AI 生态开放上的重要一步，将 Siri 从系统助手扩展为跨应用智能层。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 5,
+   "published": "2026-11-03T20:16:17+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Anthropic 研发模型身份验证系统 FlashProve",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 正在开发名为 FlashProve 的系统，可让任何人验证 AI 回复确实来自其所声称的模型。该技术旨在应对模型冒充与内容溯源问题。若落地，将为 AI 内容可信度提供密码学层面的保障。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-03T22:41:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Anthropic 仍受困于算力经济性",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道称，在 Anthropic 的算力利润率本应改善之际，其表现却在恶化。这反映出前沿模型公司在推理需求增长与算力成本之间的结构性矛盾。算力经济性正成为 AI 公司盈利能力的核心变量。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-03T17:07:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Google 将关闭拒绝其 AI 功能的学校的搜索服务",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "source": "Hacker News",
+   "summary": "Google 向《纽约时报》表示，对于拒绝其 AI 功能的学校，将完全关闭搜索服务。公司称 K-12 学生账户的 Gemini、Gemini Notebook、Classroom 中的 Gemini 及 Google Search 访问「将全部关闭」。此举引发对科技巨头以核心服务捆绑 AI 推广的争议。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 5,
+   "published": "2026-11-03T15:25:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Postman 被指静默安装 AI 插件并试图共享全部 API 数据",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "source": "Hacker News",
+   "summary": "Hacker News 热帖指出，Postman 在用户不知情的情况下自动安装 AI 插件，并尝试共享所有 API 数据。该问题在 GitHub 上引发大量讨论，开发者对工具链中的 AI 数据采集行为表示强烈担忧。事件再次引发对开发者工具隐私边界的审视。",
+   "why": null,
+   "category": "安全隐私",
+   "heat": 5,
+   "published": "2026-11-03T17:22:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "OpenAI 疑似静默重新启用 Codex 对话的模型训练",
+   "url": "https://news.ycombinator.com/item?id=50352757",
+   "source": "Hacker News",
+   "summary": "多名用户反映，Codex 中已关闭的数据共享设置被静默重新开启，用户并未主动选择重新加入。该设置对应「为所有人改进模型」选项，涉及用户代码与对话数据是否用于训练。事件引发对企业知识产权泄露的担忧。",
+   "why": null,
+   "category": "安全隐私",
+   "heat": 4,
+   "published": "2026-11-03T14:53:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "OpenAI 悄然将数据中心改称「算力园区」",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+   "source": "The Verge AI",
+   "summary": "OpenAI 正将数据中心重新命名为「算力园区」，试图以更温和的措辞缓解公众对数据中心能耗与噪音的抵触。数据中心已引发跨党派反对，品牌重塑被视为公关策略。此举反映 AI 基础设施扩张面临的社会阻力。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-03T15:00:44+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "数据中心因电网接入等待转向退役喷气发动机供电",
+   "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+   "source": "TechCrunch AI",
+   "summary": "由于接入电网和新涡轮机需等待数年，数据中心建设者开始采用退役喷气发动机作为供电方案。这类方案效率更低、环保性更差，但能快速满足算力设施的电力需求。AI 算力扩张正倒逼非常规能源方案落地。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 4,
+   "published": "2026-11-03T22:19:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Apple 将约会应用与 AI 伴侣应用限制为 18 岁以上",
+   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+   "source": "TechCrunch AI",
+   "summary": "Apple 更新 App Store 规则，要求提供性内容或浪漫内容的约会应用与 AI 伴侣应用必须获得 18+ 评级。新规将 AI 伴侣类应用纳入与约会应用同等的年龄限制框架。这是应用商店对 AI 情感陪伴产品加强监管的最新动作。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-03T15:38:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Apple Watch 对话回溯与摘要 AI 功能进入测试",
+   "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+   "source": "TechCrunch AI",
+   "summary": "Apple 在 watchOS 27.3 开发者测试版中推出 Siri Recap 与 Live Rewind 两项音频智能功能。Siri Recap 通过环境监听生成对话摘要，Live Rewind 可生成最近 15 秒的文本转录。这是 Apple 在可穿戴设备上推进常听式 AI 的重要尝试。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-03T07:20:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Netflix 推出 AI Discover 标签页，按心情推荐内容",
+   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+   "source": "TechCrunch AI",
+   "summary": "Netflix 电视应用新增「AI Discover」标签页，首批实验功能允许用户根据当前心情获取推荐，如「轻松一刻」「家庭电影夜」等主题。这是 Netflix 在内容发现环节引入 AI 的首次公开尝试。推荐系统正从行为数据驱动转向意图驱动。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-03T18:42:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Palantir 季度营收飙升，但暗藏警示信号",
+   "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+   "source": "TechCrunch AI",
+   "summary": "Palantir 最新季度财报显示营收大幅增长，其美国商业收入首次超过美国政府收入。这一结构变化被 TechCrunch 视为「不祥信号」，可能意味着政府业务增速相对放缓。AI 数据分析公司的收入结构正在发生关键转变。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-03T21:05:55+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Google DeepMind 用 Antigravity 推进智能体化学信息学",
+   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 发布博客介绍如何利用 Google Antigravity 与化学信息学技能加速药物发现流程，包括化合物搜索与新型刚性大环分子设计。该工作展示了智能体在专业科研工作流中的落地能力。AI 智能体正从通用助手向垂直科研工具演进。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-03T17:01:49+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "「逆向博弈论」或可约束 AI 智能体行为",
+   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment",
+   "source": "MIT 科技评论",
+   "summary": "MIT 科技评论报道一种名为「逆向博弈论」的新方法，通过设计激励机制让强大的 AI 模型遵守规则。该思路属于机制设计范畴，旨在解决智能体偏离人类意图的对齐问题。随着模型能力提升，此类制度性约束研究愈发重要。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-03T10:43:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "Ballistic Ventures 拟募资 4.9 亿美元，押注 AI 网络安全热潮",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+   "source": "TechCrunch AI",
+   "summary": "专注网络安全的 Ballistic Ventures 计划为新旗舰基金募集 3.6 亿美元，并另设 1.3 亿美元的投资工具，合计 4.9 亿美元。AI 驱动的网络安全需求增长是此次募资的主要背景。安全领域正成为 AI 投资的重要赛道。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 3,
+   "published": "2026-11-03T21:43:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "SUSE 裁员十分之一，归因于 AI 与自动化",
+   "url": "https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited",
+   "source": "ZDNet AI",
+   "summary": "SUSE 宣布裁减约 10% 的员工，并将原因明确指向 AI 与自动化。同期 Squarespace 也宣布裁员，但与 AI 的关联尚不明确。企业软件公司正以 AI 为由重组人力结构。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-03T18:12:05+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Nvidia RTX 50 系列 GPU 再度涨价，最高涨 500 美元",
+   "url": "https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases",
+   "source": "ZDNet AI",
+   "summary": "Nvidia RTX 50 系列显卡价格再次上调，部分型号涨幅最高达 500 美元，Intel 与 AMD 尚未公布定价计划。GPU 价格持续走高与 AI 算力需求挤占产能密切相关。消费级显卡市场正承受 AI 算力扩张的溢出效应。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 3,
+   "published": "2026-11-03T17:30:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Apple 全面拥抱 AI：自研与他方并进",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+   "source": "The Verge AI",
+   "summary": "Apple 最新财报显示其创下营收与每股收益的历史最佳财年，iPhone 与 Mac 销售强劲，iPhone 收入同比增长 17.5%。Apple 在不大规模投入基础设施的情况下借力 AI 热潮，与竞争对手的算力军备竞赛形成对比。这种轻资产 AI 策略的可持续性值得观察。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-03T15:24:51+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,

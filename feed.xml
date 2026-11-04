@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 03 Nov 2026 14:47:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 08:02:40 +0000</lastBuildDate>
+  <item>
+    <title>AI 推理初创公司 Fal 估值翻倍至 160 亿美元，需求激增</title>
+    <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges</link>
+    <guid isPermaLink="false">93-1</guid>
+    <pubDate>Tue, 03 Nov 2026 19:34:43 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>AI 推理初创公司 Fal 完成 13 亿美元融资，由 Bessemer 领投，估值翻倍至 160 亿美元。该公司成立仅五年，此轮融资反映市场对低成本、高吞吐推理算力的强劲需求。推理层正成为大模型商业化竞争的关键环节。</description>
+  </item>
+  <item>
+    <title>OpenAI 称 ChatGPT 搜索量已达 Google 的 20%</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search</link>
+    <guid isPermaLink="false">93-2</guid>
+    <pubDate>Tue, 03 Nov 2026 18:30:42 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>OpenAI 消费产品负责人 Adam Fry 在发布会上表示，ChatGPT 的搜索查询量已相当于 Google 搜索量的 20%。这一数据表明「Ask Chat」正在部分场景替代传统搜索。对 Google 核心搜索业务构成直接竞争信号。</description>
+  </item>
+  <item>
+    <title>Apple 向第三方应用开放 Siri AI 能力</title>
+    <link>https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps</link>
+    <guid isPermaLink="false">93-3</guid>
+    <pubDate>Tue, 03 Nov 2026 20:16:17 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>随 iOS 27.3 更新，Apple 允许开发者在「所有应用」中集成 Siri AI 新功能，语音助手可调用用户个人上下文、处理自然语言指令并具备屏幕感知能力。这是 Apple 在 AI 生态开放上的重要一步，将 Siri 从系统助手扩展为跨应用智能层。</description>
+  </item>
+  <item>
+    <title>Anthropic 研发模型身份验证系统 FlashProve</title>
+    <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity</link>
+    <guid isPermaLink="false">93-4</guid>
+    <pubDate>Tue, 03 Nov 2026 22:41:03 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 正在开发名为 FlashProve 的系统，可让任何人验证 AI 回复确实来自其所声称的模型。该技术旨在应对模型冒充与内容溯源问题。若落地，将为 AI 内容可信度提供密码学层面的保障。</description>
+  </item>
+  <item>
+    <title>Anthropic 仍受困于算力经济性</title>
+    <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute</link>
+    <guid isPermaLink="false">93-5</guid>
+    <pubDate>Tue, 03 Nov 2026 17:07:01 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道称，在 Anthropic 的算力利润率本应改善之际，其表现却在恶化。这反映出前沿模型公司在推理需求增长与算力成本之间的结构性矛盾。算力经济性正成为 AI 公司盈利能力的核心变量。</description>
+  </item>
+  <item>
+    <title>Google 将关闭拒绝其 AI 功能的学校的搜索服务</title>
+    <link>https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html</link>
+    <guid isPermaLink="false">93-6</guid>
+    <pubDate>Tue, 03 Nov 2026 15:25:47 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google 向《纽约时报》表示，对于拒绝其 AI 功能的学校，将完全关闭搜索服务。公司称 K-12 学生账户的 Gemini、Gemini Notebook、Classroom 中的 Gemini 及 Google Search 访问「将全部关闭」。此举引发对科技巨头以核心服务捆绑 AI 推广的争议。</description>
+  </item>
+  <item>
+    <title>Postman 被指静默安装 AI 插件并试图共享全部 API 数据</title>
+    <link>https://github.com/postmanlabs/postman-app-support/issues/14370</link>
+    <guid isPermaLink="false">93-7</guid>
+    <pubDate>Tue, 03 Nov 2026 17:22:37 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Hacker News 热帖指出，Postman 在用户不知情的情况下自动安装 AI 插件，并尝试共享所有 API 数据。该问题在 GitHub 上引发大量讨论，开发者对工具链中的 AI 数据采集行为表示强烈担忧。事件再次引发对开发者工具隐私边界的审视。</description>
+  </item>
+  <item>
+    <title>OpenAI 疑似静默重新启用 Codex 对话的模型训练</title>
+    <link>https://news.ycombinator.com/item?id=50352757</link>
+    <guid isPermaLink="false">93-8</guid>
+    <pubDate>Tue, 03 Nov 2026 14:53:41 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>多名用户反映，Codex 中已关闭的数据共享设置被静默重新开启，用户并未主动选择重新加入。该设置对应「为所有人改进模型」选项，涉及用户代码与对话数据是否用于训练。事件引发对企业知识产权泄露的担忧。</description>
+  </item>
+  <item>
+    <title>OpenAI 悄然将数据中心改称「算力园区」</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses</link>
+    <guid isPermaLink="false">93-9</guid>
+    <pubDate>Tue, 03 Nov 2026 15:00:44 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>OpenAI 正将数据中心重新命名为「算力园区」，试图以更温和的措辞缓解公众对数据中心能耗与噪音的抵触。数据中心已引发跨党派反对，品牌重塑被视为公关策略。此举反映 AI 基础设施扩张面临的社会阻力。</description>
+  </item>
+  <item>
+    <title>数据中心因电网接入等待转向退役喷气发动机供电</title>
+    <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows</link>
+    <guid isPermaLink="false">93-10</guid>
+    <pubDate>Tue, 03 Nov 2026 22:19:53 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>由于接入电网和新涡轮机需等待数年，数据中心建设者开始采用退役喷气发动机作为供电方案。这类方案效率更低、环保性更差，但能快速满足算力设施的电力需求。AI 算力扩张正倒逼非常规能源方案落地。</description>
+  </item>
+  <item>
+    <title>Apple 将约会应用与 AI 伴侣应用限制为 18 岁以上</title>
+    <link>https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up</link>
+    <guid isPermaLink="false">93-11</guid>
+    <pubDate>Tue, 03 Nov 2026 15:38:27 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Apple 更新 App Store 规则，要求提供性内容或浪漫内容的约会应用与 AI 伴侣应用必须获得 18+ 评级。新规将 AI 伴侣类应用纳入与约会应用同等的年龄限制框架。这是应用商店对 AI 情感陪伴产品加强监管的最新动作。</description>
+  </item>
+  <item>
+    <title>Apple Watch 对话回溯与摘要 AI 功能进入测试</title>
+    <link>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing</link>
+    <guid isPermaLink="false">93-12</guid>
+    <pubDate>Tue, 03 Nov 2026 07:20:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Apple 在 watchOS 27.3 开发者测试版中推出 Siri Recap 与 Live Rewind 两项音频智能功能。Siri Recap 通过环境监听生成对话摘要，Live Rewind 可生成最近 15 秒的文本转录。这是 Apple 在可穿戴设备上推进常听式 AI 的重要尝试。</description>
+  </item>
+  <item>
+    <title>Netflix 推出 AI Discover 标签页，按心情推荐内容</title>
+    <link>https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood</link>
+    <guid isPermaLink="false">93-13</guid>
+    <pubDate>Tue, 03 Nov 2026 18:42:16 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Netflix 电视应用新增「AI Discover」标签页，首批实验功能允许用户根据当前心情获取推荐，如「轻松一刻」「家庭电影夜」等主题。这是 Netflix 在内容发现环节引入 AI 的首次公开尝试。推荐系统正从行为数据驱动转向意图驱动。</description>
+  </item>
+  <item>
+    <title>Palantir 季度营收飙升，但暗藏警示信号</title>
+    <link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal</link>
+    <guid isPermaLink="false">93-14</guid>
+    <pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Palantir 最新季度财报显示营收大幅增长，其美国商业收入首次超过美国政府收入。这一结构变化被 TechCrunch 视为「不祥信号」，可能意味着政府业务增速相对放缓。AI 数据分析公司的收入结构正在发生关键转变。</description>
+  </item>
+  <item>
+    <title>Google DeepMind 用 Antigravity 推进智能体化学信息学</title>
+    <link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity</link>
+    <guid isPermaLink="false">93-15</guid>
+    <pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
+    <source>Google DeepMind 博客</source>
+    <description>Google DeepMind 发布博客介绍如何利用 Google Antigravity 与化学信息学技能加速药物发现流程，包括化合物搜索与新型刚性大环分子设计。该工作展示了智能体在专业科研工作流中的落地能力。AI 智能体正从通用助手向垂直科研工具演进。</description>
+  </item>
+  <item>
+    <title>「逆向博弈论」或可约束 AI 智能体行为</title>
+    <link>https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment</link>
+    <guid isPermaLink="false">93-16</guid>
+    <pubDate>Tue, 03 Nov 2026 10:43:41 +0000</pubDate>
+    <source>MIT 科技评论</source>
+    <description>MIT 科技评论报道一种名为「逆向博弈论」的新方法，通过设计激励机制让强大的 AI 模型遵守规则。该思路属于机制设计范畴，旨在解决智能体偏离人类意图的对齐问题。随着模型能力提升，此类制度性约束研究愈发重要。</description>
+  </item>
+  <item>
+    <title>Ballistic Ventures 拟募资 4.9 亿美元，押注 AI 网络安全热潮</title>
+    <link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom</link>
+    <guid isPermaLink="false">93-17</guid>
+    <pubDate>Tue, 03 Nov 2026 21:43:08 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>专注网络安全的 Ballistic Ventures 计划为新旗舰基金募集 3.6 亿美元，并另设 1.3 亿美元的投资工具，合计 4.9 亿美元。AI 驱动的网络安全需求增长是此次募资的主要背景。安全领域正成为 AI 投资的重要赛道。</description>
+  </item>
+  <item>
+    <title>SUSE 裁员十分之一，归因于 AI 与自动化</title>
+    <link>https://www.zdnet.com/business/suse-lay-offs-workforce-ai-cited</link>
+    <guid isPermaLink="false">93-18</guid>
+    <pubDate>Tue, 03 Nov 2026 18:12:05 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>SUSE 宣布裁减约 10% 的员工，并将原因明确指向 AI 与自动化。同期 Squarespace 也宣布裁员，但与 AI 的关联尚不明确。企业软件公司正以 AI 为由重组人力结构。</description>
+  </item>
+  <item>
+    <title>Nvidia RTX 50 系列 GPU 再度涨价，最高涨 500 美元</title>
+    <link>https://www.zdnet.com/tech/nvidia-rtx-50-cards-gpus-more-price-increases</link>
+    <guid isPermaLink="false">93-19</guid>
+    <pubDate>Tue, 03 Nov 2026 17:30:50 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>Nvidia RTX 50 系列显卡价格再次上调，部分型号涨幅最高达 500 美元，Intel 与 AMD 尚未公布定价计划。GPU 价格持续走高与 AI 算力需求挤占产能密切相关。消费级显卡市场正承受 AI 算力扩张的溢出效应。</description>
+  </item>
+  <item>
+    <title>Apple 全面拥抱 AI：自研与他方并进</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai</link>
+    <guid isPermaLink="false">93-20</guid>
+    <pubDate>Tue, 03 Nov 2026 15:24:51 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Apple 最新财报显示其创下营收与每股收益的历史最佳财年，iPhone 与 Mac 销售强劲，iPhone 收入同比增长 17.5%。Apple 在不大规模投入基础设施的情况下借力 AI 热潮，与竞争对手的算力军备竞赛形成对比。这种轻资产 AI 策略的可持续性值得观察。</description>
+  </item>
   <item>
     <title>Anthropic 修订版 S-1 披露：第三季度营收 170 亿美元，承诺支出 8950 亿美元</title>
     <link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
@@ -323,165 +483,5 @@
     <pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
     <source>Google News 英文</source>
     <description>AFR 报道 Spotify 计划在数月内上线 AI 音乐混音服务，可从民谣风格生成舞曲版本。这标志着流媒体平台正式把生成式 AI 引入音乐创作与再分发环节。版权归属与艺人分成模式将成为随之而来的核心争议。</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 前预计被信用机构评为「高垃圾级」</title>
-    <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
-    <guid isPermaLink="false">90-1</guid>
-    <pubDate>Fri, 30 Oct 2026 23:08:12 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>据 TechCrunch 等多家媒体报道，Anthropic 在推进 IPO 之际，预计将获得信用评级机构的高「垃圾级」评级。这将显著提高其融资成本与难度，而该公司正依赖大规模举债支撑高昂的算力与研发支出。对 AI 行业而言，这被视为资本市场对前沿实验室巨额烧钱模式开始重新定价的信号。</description>
-  </item>
-  <item>
-    <title>OpenAI 据报下调新一轮融资目标</title>
-    <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round</link>
-    <guid isPermaLink="false">90-2</guid>
-    <pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道称，OpenAI 最新一轮融资未能达到预期规模，公司已下调融资目标。这与近期市场对 AI 基础设施巨额支出的疑虑升温相呼应。若头部公司募资缩水，可能波及整个 AI 产业链的资本供给节奏。</description>
-  </item>
-  <item>
-    <title>Claude Code 的 VS Code 扩展被植入后门，经 Cursor 市场分发</title>
-    <link>https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2</link>
-    <guid isPermaLink="false">90-3</guid>
-    <pubDate>Fri, 30 Oct 2026 10:22:51 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>安全研究者披露，Cursor 市场上架的 Claude Code VS Code 扩展被植入后门，可向全球 Claude 开发者的笔记本电脑投递远程访问木马。该事件在 Hacker News 获得近千分、逾五百条评论，引发对 AI 编程工具供应链安全的广泛担忧。这提醒开发者生态的插件市场正成为高价值攻击面。</description>
-  </item>
-  <item>
-    <title>OpenAI、Google、微软、Anthropic 共同支持新的网页抓取退出标准</title>
-    <link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
-    <guid isPermaLink="false">90-4</guid>
-    <pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>据 The Verge 报道，OpenAI、Google、微软与 Anthropic 表示将采纳一种共享的「策略令牌」信号，让网站运营方一次性向多家 AI 公司表达训练数据偏好，而无需逐家设置。OpenAI 官方博客同日说明将遵守共享的 robots.txt 信号。这是内容方与 AI 公司之间围绕数据授权的一次制度化尝试。</description>
-  </item>
-  <item>
-    <title>纽约州签署未成年人聊天机器人安全法</title>
-    <link>https://dig.watch/updates/new-york-ai-chatbot-child-safety</link>
-    <guid isPermaLink="false">90-5</guid>
-    <pubDate>Sat, 31 Oct 2026 11:58:52 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>纽约州参议员 Kristen Gonzalez 提出的法案已签署成法，禁止面向未成年人的「不安全」聊天机器人功能。多家媒体报道称，这是各州在 AI 监管边界上持续施压的最新动作。该法将直接影响面向青少年的 AI 陪伴类产品的设计与合规。</description>
-  </item>
-  <item>
-    <title>Google「Project Suncatcher」原型卫星首次回传信号</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response</link>
-    <guid isPermaLink="false">90-6</guid>
-    <pubDate>Sat, 31 Oct 2026 03:54:00 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Google 宣布其搭载 TPU 的原型卫星成功在轨启动张量处理单元，板载 Gemma 4 模型按提示生成了一首关于太空的俳句。The Verge 等媒体跟进报道，称这是首个在太空运行的数据中心级 AI 芯片。该实验验证了把算力送上轨道的可行性，为未来天基推理与数据回传架构提供参考。</description>
-  </item>
-  <item>
-    <title>GPT-5.6 Sol 可在和平模式下通关《Factorio》</title>
-    <link>https://ryanmadden.net/gpt-56-beats-factorio</link>
-    <guid isPermaLink="false">90-7</guid>
-    <pubDate>Sat, 31 Oct 2026 18:50:34 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>开发者 Ryan Madden 记录称，GPT-5.6 Sol 在《Factorio》和平模式下完成了通关，展示了长程规划与复杂自动化任务中的能力。该帖在 Hacker News 获得逾 160 分、近 180 条评论，讨论集中在模型是否真正理解游戏机制还是依赖记忆。这类长时程智能体基准正成为评估前沿模型的新方式。</description>
-  </item>
-  <item>
-    <title>AI 智能体向活体小鼠脑部注射药物</title>
-    <link>https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse</link>
-    <guid isPermaLink="false">90-8</guid>
-    <pubDate>Sat, 31 Oct 2026 10:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道，一家生物技术初创公司让 AI 智能体自主选择基因疗法并成功完成对活体小鼠的脑部注射。这被视为实验室自动化的一个惊人案例，显示智能体已能介入真实生物实验操作。若可复现，将推动 AI 驱动的高通量体内研究。</description>
-  </item>
-  <item>
-    <title>恶意软件利用大模型按「身价」给受害者排序</title>
-    <link>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</link>
-    <guid isPermaLink="false">90-9</guid>
-    <pubDate>Sat, 31 Oct 2026 14:29:03 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Cisco Talos 披露名为 Volta-Autodoxer 的信息窃取恶意软件，利用 AI 工具收集登录凭证、信用卡号、Discord 会话乃至外卖订单等数据，并对受害者价值进行排序。Wired 等媒体跟进报道。这显示大模型正被攻击者用于提升犯罪流程的自动化与精准度。</description>
-  </item>
-  <item>
-    <title>安全团队披露接管 ChatGPT 账户的方法</title>
-    <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-    <guid isPermaLink="false">90-10</guid>
-    <pubDate>Sat, 31 Oct 2026 10:30:11 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Parameter.ai 实验室发布研究，称发现 OpenAI 的一处缺口并演示了如何接管 ChatGPT 账户。该帖在 Hacker News 获得逾 300 分、155 条评论，社区关注点集中在账户体系与第三方集成之间的信任边界。OpenAI 尚未公开回应细节。</description>
-  </item>
-  <item>
-    <title>Anthropic 封禁涉及训练更大模型的用户</title>
-    <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
-    <guid isPermaLink="false">90-11</guid>
-    <pubDate>Sat, 31 Oct 2026 19:39:19 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>有用户在社交平台反映，Anthropic 对任何触及「训练更大模型」行为的账户进行封禁，相关帖子在 Hacker News 获得逾 260 分、144 条评论。争议焦点在于服务条款对模型蒸馏与竞品训练的界定是否清晰。此事与近期多家实验室收紧输出用途限制的趋势一致。</description>
-  </item>
-  <item>
-    <title>Anthropic 采取措施阻止 Claude 逆向工程电子游戏</title>
-    <link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
-    <guid isPermaLink="false">90-12</guid>
-    <pubDate>Sat, 31 Oct 2026 21:07:58 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Mashable 报道，Anthropic 已采取技术手段阻止 Claude 被用于克隆或逆向工程电子游戏。此举延续了该公司对模型输出用途的收紧策略。对游戏行业而言，这既是知识产权保护动作，也反映 AI 公司与内容产业之间的紧张关系。</description>
-  </item>
-  <item>
-    <title>法官允许 NAACP 就 xAI 数据中心污染提起诉讼</title>
-    <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward</link>
-    <guid isPermaLink="false">90-13</guid>
-    <pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，法官裁定 NAACP 针对 xAI 数据中心违反《清洁空气法》的诉讼可以继续推进。该诉讼指控这家 SpaceX 旗下的 AI 公司造成空气污染。案件将 AI 基础设施的环境外部性推上法庭，可能影响后续数据中心选址与许可。</description>
-  </item>
-  <item>
-    <title>英伟达考虑为 Nscale 西弗吉尼亚 AI 数据中心提供担保</title>
-    <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</link>
-    <guid isPermaLink="false">90-14</guid>
-    <pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，英伟达正评估为 Nscale 在西弗吉尼亚州的 AI 数据中心项目充当贷款共同签署方。在投资者对 AI 支出趋于谨慎之际，由芯片供应商出面背书有助于项目融资落地。这反映出算力卖方正更深地介入下游基础设施的资本结构。</description>
-  </item>
-  <item>
-    <title>AI 支出热潮出现裂痕</title>
-    <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom</link>
-    <guid isPermaLink="false">90-15</guid>
-    <pubDate>Fri, 30 Oct 2026 21:17:40 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 分析指出，大型科技公司持续向 AI 基础设施投入数百亿美元，但债务上升、自由现金流为负以及投资者怀疑情绪升温，正引发对支出可持续性的质疑。该报道与 Anthropic 评级、OpenAI 融资下调等消息形成呼应。市场开始区分「算力军备竞赛」与「可回收投资」。</description>
-  </item>
-  <item>
-    <title>Apple Intelligence 将随 iOS 27.3 登陆中国</title>
-    <link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link>
-    <guid isPermaLink="false">90-16</guid>
-    <pubDate>Fri, 30 Oct 2026 22:32:53 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Apple 在其中国官网宣布，Apple Intelligence 将随 iOS 27.3 进入中国市场，首个测试版于 11 月 4 日发布，正式版计划 12 月推出。The Verge 援引 MacRumors 报道称，此次上线并未包含全部功能。这是苹果 AI 能力在关键海外市场的一次重要落地。</description>
-  </item>
-  <item>
-    <title>英特尔股价大跌，政府持股缩水 120 亿美元</title>
-    <link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake</link>
-    <guid isPermaLink="false">90-17</guid>
-    <pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，英特尔股价大幅下挫，导致美国政府所持股份价值蒸发约 120 亿美元。原因是 AI 行业大量吞噬内存等零部件，推高 PC 价格并拖累 PC 销量。这显示 AI 算力需求正通过供应链传导至传统 PC 市场。</description>
-  </item>
-  <item>
-    <title>Memdoor：5 个 Qwen3.8-27B 模型组队在 LiveCodeBench Hard 上击败 Fable 5</title>
-    <link>https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</link>
-    <guid isPermaLink="false">90-18</guid>
-    <pubDate>Sat, 31 Oct 2026 22:46:12 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>开源项目 Memdoor 展示了一种多智能体工作流，由 5 个 Qwen3.8-27B 模型协作，在 LiveCodeBench Hard 基准上超过 Fable 5。该结果在 Hacker News 获得逾 140 分，讨论集中在多模型编排能否以更低成本逼近顶级闭源模型。这为中小模型组合路线提供了实证。</description>
-  </item>
-  <item>
-    <title>教皇利奥呼吁对 AI 进行「解除武装」</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai</link>
-    <guid isPermaLink="false">90-19</guid>
-    <pubDate>Fri, 30 Oct 2026 14:58:06 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>教皇利奥十四世在周五的教廷讲话中表示 AI 系统应被「解除武装」，强调人类有责任引导、改变并在必要时拒绝其应用。他呼吁联合国成员国在下月日内瓦会议上采取具体步骤禁止致命性自主武器。The Verge 称该讲话反映了宗教界对 AI 伦理的集中表态。</description>
-  </item>
-  <item>
-    <title>主打隐私的 AI 助手 Ollie 宣布关停</title>
-    <link>https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down</link>
-    <guid isPermaLink="false">90-20</guid>
-    <pubDate>Fri, 30 Oct 2026 22:56:13 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，强调尊重用户隐私的 AI 助手 Ollie 将在约一周内停止服务。创始人在 AI 助手大量涌入市场、竞争白热化的背景下做出这一决定。这显示在巨头主导的通用助手赛道，差异化隐私定位难以独立支撑商业化。</description>
   </item>
 </channel></rss>
