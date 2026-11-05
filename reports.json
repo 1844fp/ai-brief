@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T08:43:00.518014",
+ "generated_at": "2026-11-05T13:28:22.168825",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 96,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-05",
+   "created_at": "2026-11-05T05:28:21.194218+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-05/news_daily_cn-132821.html"
+  },
   {
    "id": 95,
    "task": "news_daily_cn",
@@ -804,6 +813,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "苹果国行 Apple Intelligence 上线，接入阿里千问",
+   "url": "https://www.solidot.org/story?sid=85793",
+   "source": "Solidot",
+   "summary": "苹果自 11 月 4 日起通过 iOS 27.3 开发者测试版向中国大陆用户开放 Apple Intelligence，正式版计划 12 月推送。中国版由苹果与阿里巴巴合作，基于千问模型，首批功能包括实时翻译、写作工具、视觉智能、照片消除、通知摘要及 Siri 接入千问等。这是国产大模型首次进入 iPhone 系统级入口，多家媒体报道。",
+   "why": null,
+   "category": "大模型·终端入口",
+   "heat": 5,
+   "published": "2026-11-04T09:55:53+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "腾讯混元正式发布大语言模型 Hy4，跻身最强开源模型队列",
+   "url": "https://www.leiphone.com/category/zaobao/uojoiQ2Owilfvr8B.html",
+   "source": "雷锋网",
+   "summary": "腾讯混元发布最新一代大语言模型 Hy4，官方称其进入最强开源模型队列。该消息与安世半导体起诉闻泰科技索赔 134 亿元、中兴手机账号主体变更等事件同列当日要闻。Hy4 的发布意味着腾讯在开源大模型路线上继续加码。",
+   "why": null,
+   "category": "大模型·开源",
+   "heat": 5,
+   "published": "2026-11-05T02:07:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "Kimi 发布 Hosted Agents 托管智能体，将 Harness 作为云端服务",
+   "url": "https://www.ithome.com/1/022/572.htm",
+   "source": "IT之家",
+   "summary": "Kimi 推出 Kimi Hosted Agents，把支撑 Agent 运行的 Harness 以云服务形式提供，企业无需自建运行框架即可获得 7×24 小时托管环境，支持长程任务与多智能体协作。服务提供独立沙箱、网络访问权限控制、执行留痕与审计导出，并内置 140 多项 Skills。",
+   "why": null,
+   "category": "智能体·云服务",
+   "heat": 4,
+   "published": "2026-11-05T03:15:17+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设",
+   "url": "https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html",
+   "source": "雷锋网",
+   "summary": "11 月 4 日乌镇峰会期间，智能体身份注册与解析平台发布，重点解决身份编码、跨域解析与可信互通问题，蚂蚁集团参与首批运行平台建设。蚂蚁方面表示，智能体时代需要让身份、授权与责任进入每一次连接，构建信任基础设施。",
+   "why": null,
+   "category": "政策·智能体治理",
+   "heat": 4,
+   "published": "2026-11-04T09:44:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "360 等联合发起《智能体发展自律公约》，聚焦安全与治理",
+   "url": "https://www.leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html",
+   "source": "雷锋网",
+   "summary": "在世界互联网大会乌镇峰会智能体论坛上，中国信通院、360、华为等共同发布《智能体发展自律公约》，提出八条自律措施，聚焦健全智能体信任体系、提升安全防护能力与健全治理机制。公约要求健全前瞻性风险评估、运行监测、行为管控与异常熔断等技术体系。",
+   "why": null,
+   "category": "政策·行业自律",
+   "heat": 4,
+   "published": "2026-11-04T09:42:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "乌镇峰会发布开放 AI 行动倡议，推动算力数据共建共享",
+   "url": "https://www.szzg.gov.cn/2026/xwzx/szkx/202611/t20261105_5389902.htm",
+   "source": "Google News 中文",
+   "summary": "世界互联网大会乌镇峰会发布开放 AI 行动倡议，推动算力与数据资源共建共享。倡议与同期举行的「人工智能乌镇对话」共同指向开源开放发展方向，国产大模型也在本届峰会上斩获世界领先科技奖。",
+   "why": null,
+   "category": "政策·算力数据",
+   "heat": 3,
+   "published": "2026-11-05T02:59:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "招商局狮子山实验室发布具身推理模型驭物 Lion-ER-35B-A3B",
+   "url": "https://www.qbitai.com/2026/11/507586.html",
+   "source": "量子位",
+   "summary": "招商局狮子山实验室发布具身推理模型「驭物」Lion-ER-35B-A3B，采用 MoE 架构，仅激活 3B 参数，在十项基准上全线提升。该模型强调不靠堆砌数据，让机器人理解真实物理世界。",
+   "why": null,
+   "category": "具身智能·模型",
+   "heat": 3,
+   "published": "2026-11-04T10:08:38+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "百度无人车用世界模型实时推演全局场景",
+   "url": "https://www.qbitai.com/2026/11/507647.html",
+   "source": "量子位",
+   "summary": "百度披露其无人驾驶世界模型可在虚拟环境中实时推演全局场景，连路人行为也具备独立决策，官方称跑一天仿真抵得上三年路测。该能力用于扩展无人车仿真测试边界，让系统在改变路况与驾驶动作后反复接受检验。",
+   "why": null,
+   "category": "自动驾驶·世界模型",
+   "heat": 3,
+   "published": "2026-11-04T16:13:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "腾讯前高级研究员创办灵感机器人，完成数千万元天使轮融资",
+   "url": "https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html",
+   "source": "雷锋网",
+   "summary": "触觉智能企业灵感机器人完成数千万元天使轮融资，投资方包括力合资本、合肥创新投等。创始人张雅展为港科大机器人博士、前腾讯资深 AI 研究员，公司采用独创「稠密力场」技术路线，Lux 系列视触觉传感器已实现规模化交付。",
+   "why": null,
+   "category": "具身智能·融资",
+   "heat": 3,
+   "published": "2026-11-04T16:38:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "AI 预测引擎 Prophetlab 获数千万元种子轮融资",
+   "url": "https://www.leiphone.com/category/industrynews/5gyZIVYyxDzi67wu.html",
+   "source": "雷锋网",
+   "summary": "AI 预测引擎公司 Prophetlab 成立不到四个月即获数千万元天使轮融资，由常春藤资本等投资。其预测引擎 Prophet Engine 登顶字节 Seed 发布的 FutureX 总榜，并已获得数百万元商业化订单，团队来自阿里千问、腾讯混元等项目的模型训练一线。",
+   "why": null,
+   "category": "大模型·融资",
+   "heat": 3,
+   "published": "2026-11-04T16:30:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "我国科研团队发布开源核糖核酸序列基础模型",
+   "url": "https://xinwen.bjd.com.cn/content/s6aec0438e4b039a8e2f334ef.html",
+   "source": "Google News 中文",
+   "summary": "我国科研团队发布开源 RNA 序列基础模型，相关成果登上国际顶刊《自然》。该模型面向核糖核酸序列建模，以开源方式对外发布，供科研社区使用。",
+   "why": null,
+   "category": "AI for Science",
+   "heat": 3,
+   "published": "2026-11-05T04:21:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "网易《永劫无间》支持英伟达 DLSS 5，成首款实装国产游戏",
+   "url": "https://www.ithome.com/1/022/614.htm",
+   "source": "IT之家",
+   "summary": "网易《永劫无间》宣布正式支持英伟达 DLSS 5 及神经渲染技术，并支持最高 6 倍插帧，早于《燕云十六声》的 11 月 24 日，成为全球首批、国产首款实装该技术的游戏。DLSS 5 通过 AI 模型参与画面重建，提升纹理、皮肤次表面散射、接触阴影与头发渲染表现。",
+   "why": null,
+   "category": "AI 图形·游戏",
+   "heat": 3,
+   "published": "2026-11-05T04:11:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "蚂蚁灵光开放生态扩容，外部连接器增至 40 项",
+   "url": "https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁灵光完成新一轮升级，新增播客订阅、夸克网盘、哈啰打车、麦当劳和微信读书等连接器，外部连接器累计达 40 项。官方数据显示，用户请求中财务与消费场景占比 23.83%，健康与习惯场景占比 21.46%，AI 助手正从问答工具转为生活服务入口。",
+   "why": null,
+   "category": "智能体·应用",
+   "heat": 3,
+   "published": "2026-11-04T07:57:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "国产算力跑大模型准确率达 94.2%，生产交付仍存 gap",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopm4pSeOUVEhaRnfUbQrSbHbVqXa8Fplpd9Ac7ANAZ5Un7OMVWOQx363DS_vDZM7tT2s2Zv7qCfEB2RB_-wsInukuK8NCm0PLMURKHo9IhsqVRDe2n9geDfxOuH4EehedcGP2VKUTZatZc5HG0LkS7o_RVmdCEoQWQO7V6YoJ9nklvNhAtQAEiBOkk1p8c3_5Ee3Gf7KKv1nArRtmyIGw2VAg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=07F84BDC0C4ED6CBC6C39946053EADFEC6330BE16AEC13D2",
+   "source": "微信公众号",
+   "summary": "行业讨论指出，国产芯片跑大模型已被反复验证可行，部分场景准确率达到 94.2%，海光、昇腾、寒武纪、沐曦、壁仞等均有方案。但文章强调从「能跑起来」到「能交付生产」之间仍隔着运维、稳定性与工程化能力。",
+   "why": null,
+   "category": "AI 芯片·算力",
+   "heat": 3,
+   "published": "2026-11-05T03:55:53+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "均胜电子机器人高算力控制器累计交付突破 2000 套",
+   "url": "https://www.guandian.cn/article/20261105/623501.html",
+   "source": "Google News 中文",
+   "summary": "均胜电子披露，其机器人高算力控制器累计生产交付突破 2000 套。该产品面向机器人算力控制场景，交付规模反映具身智能硬件供应链正在放量。",
+   "why": null,
+   "category": "具身智能·供应链",
+   "heat": 2,
+   "published": "2026-11-05T02:49:21+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "小米把「模型货架」开进 PC 客户端，聚合国产大模型",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopm4pSeOUVEhaRnfUbQrSbHbVqXa8Fplpd9cf0jiZW5EYATYYTzs9SknmINPIg8Ko9dje8eA0cw3j70Pf54cz7zLtN5X9eDqSTSHpwfO7TLJElCyS3_J9GyI_H4qeYuNRGd0u4A8IujceNCIe6oyaidetQbGqc4PQ-S45I-pt7yKDXbJbI1zkefs4Wzlu0nr401576oBbBgwJlQ_LeJW-Rhtg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=07F84BDC0C4ED6CBC6C39946053EADFEC6330BE16AEC13D2",
+   "source": "微信公众号",
+   "summary": "小米推出 PC 客户端，将多家国产大模型聚合为「模型货架」，用户可在同一客户端内调用不同模型。该产品定位为把国产大模型半壁江山装进个人电脑，降低多模型使用门槛。",
+   "why": null,
+   "category": "大模型·终端",
+   "heat": 2,
+   "published": "2026-11-05T00:08:25+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "国产大模型拿下七成调用量却只分三成收入，行业寻求摆脱只卖 Token",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopm4pSeOUVEhaRnfUbQrSbHbVqXa8Fplpd99OnLfV3OcIuATIIOzI2NJOgWsgniG-2c_W8fVgBxoPG7SP_kfBNrhDkp8aLKOeGAWcP7a8HK7ufLFjAaNkmHs1GLhygUAbn8pZO3FNz8tcU6ttv8pINVyp1KsbPsdIxutIrlkG-WPjTJpHUHOnlCjGfFNoC47CFtRQuBtNbv2Tnm0CtGSSkZQQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=07F84BDC0C4ED6CBC6C39946053EADFEC6330BE16AEC13D2",
+   "source": "微信公众号",
+   "summary": "行业分析指出，国产大模型在调用量上占据优势，拿下约七成份额，但收入分成仅约三成，单纯按 Token 计费的商业模式承压。文章认为行业焦点已从跑分与调用量转向价值分配与商业化路径。",
+   "why": null,
+   "category": "大模型·商业化",
+   "heat": 2,
+   "published": "2026-11-05T03:10:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "小米多款新机通过 SRRC 认证，支持端侧大模型",
+   "url": "https://www.ithome.com/1/022/576.htm",
+   "source": "IT之家",
+   "summary": "型号为 M016EB、M841EE、M077CE、M540BF 的小米新机通过 SRRC 认证，预计明年年初发布。认证信息显示新机支持小米自家端侧大模型，备案涉及小爱同学、澎湃视觉、澎湃感知与 MiMo 等模型。",
+   "why": null,
+   "category": "端侧 AI·终端",
+   "heat": 2,
+   "published": "2026-11-05T03:26:22+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
