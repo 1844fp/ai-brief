@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T15:06:43.011168",
+ "generated_at": "2026-11-07T07:30:53.113731",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 98,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-07",
+   "created_at": "2026-11-06T23:30:51.947885+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-07/news_daily-073051.html"
+  },
   {
    "id": 97,
    "task": "news_daily",
@@ -822,6 +831,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 据报以 1.25 万亿美元估值追加融资 110 亿美元",
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+   "source": "TechCrunch AI",
+   "summary": "OpenAI 在尚未关闭的一轮融资中再获 110 亿美元，估值达 1.25 万亿美元，预计数周内完成。这一规模刷新了私营 AI 公司的融资纪录，也意味着其资本开支与算力承诺将继续扩张。多家媒体报道称，融资节奏与二级市场对 AI 估值的重新定价正在形成对照。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-06T22:53:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic IPO 买方预期估值低至 1.1 万亿美元",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "source": "Hacker News",
+   "summary": "在 AI 板块抛售压力下，Anthropic IPO 的估值预期被压低至约 1.1 万亿美元区间。此前市场对其定价更为乐观，如今买方在路演中要求更大折价。这一变化与 Ramp 数据显示的企业 AI 支出停滞相互印证，投资者开始质疑超高速增长的持续性。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-06T16:54:36+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Google 发布 Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+   "source": "Hacker News",
+   "summary": "Google 推出 Gemini Omni 1.2 Flash，主打多模态统一与低延迟推理，官方博客与新闻稿同步上线。该版本在 HN 获得 282 分、212 条评论，讨论集中在 Flash 档位对开发者成本的影响。这是 Google 在轻量级模型赛道对 OpenAI 与开源阵营的又一次正面回应。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-06T13:35:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "OpenAI 推出 GPT-6 Cyber，此前 AI 已协助发现 81 个 Firefox 漏洞与 948 个 Linux 利用点",
+   "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+   "source": "Google News 英文",
+   "summary": "OpenAI 发布面向网络安全的 GPT-6 Cyber，专门用于发现可利用漏洞并生成修复方案，训练时刻意约束在授权范围内。官方披露该模型在前期测试中协助找出 81 个 Firefox 漏洞和 948 个 Linux 利用点。这标志着前沿模型开始以「对齐的攻防智能体」形态进入企业安全运营。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-06T14:58:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Perplexity 推出面向工作的 AI 智能体 Teammates",
+   "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+   "source": "Hacker News",
+   "summary": "Perplexity 发布常驻型「Teammates」智能体，可在同一工作区内承担多种角色，并调用用户已有的项目、技能与记忆。该产品与 Perplexity Computer 集成，可在本地设备部署智能体，直接对标 OpenAI 与 Anthropic 的企业智能体产品。The Verge 等媒体认为这是 Perplexity 从搜索向工作流平台转型的关键一步。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-06T17:59:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Nvidia 据报投入数十亿美元布局先进芯片封装",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63010319/nvidia-chip-packaging",
+   "source": "Google News 英文",
+   "summary": "Nvidia 正将数十亿美元投向先进封装产能，视其为 AI 芯片供应的下一个瓶颈。随着 HBM 与逻辑 die 的集成需求上升，封装环节的产能与良率直接决定 GPU 出货节奏。此举意味着算力竞赛的焦点正从制程节点向封装与内存堆叠转移。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 4,
+   "published": "2026-11-06T20:30:07+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Nvidia 收紧东南亚 AI 芯片流向追踪，应对中国走私担忧",
+   "url": "https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/",
+   "source": "Google News 英文",
+   "summary": "Nvidia 加强在东南亚的 AI 芯片流向追踪机制，以回应外界对其产品经第三地流入中国的担忧。报道称公司正与当地渠道商配合核查出货去向。这是美国出口管制压力下，芯片厂商首次将合规追踪下沉到区域分销环节。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-06T21:27:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Meta 为 Muse 智能体推出 Spaces 协作空间",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+   "source": "TechCrunch AI",
+   "summary": "Meta 在 Muse 应用中上线「Spaces」，允许用户构建购物中心、学校看板、音乐追踪器等应用化体验，并直接在应用内交互。该功能把 AI 助手从对话界面推向可组合的轻应用平台。TechCrunch 与 The Verge 均报道，Meta 正借此把 Muse 打造成消费级智能体入口。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-06T18:44:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Thinking Machines 新模型领跑西方开源权重阵营",
+   "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight",
+   "source": "ZDNet AI",
+   "summary": "Thinking Machines 发布 Inkling 2 Small，在西方开源权重模型中取得领先位置。ZDNet 指出，这是少数非中国团队开发、且具备竞争力的开放权重模型，可能改变开源模型的地区格局。该模型的出现为西方企业提供了 DeepSeek、GLM 之外的替代选项。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-06T17:08:33+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "Wired：免费中国模型的黑客能力已逼近 OpenAI 未公开的网络安全模型",
+   "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
+   "source": "Wired AI",
+   "summary": "Wired 报道的一项实验让多个 AI 模型尝试入侵模拟网络，结果显示 DeepSeek 与 GLM 的黑客能力已接近 OpenAI 尚未公开的最先进网络安全模型。这意味着高能力攻防技能正通过开源权重快速扩散。研究同时引发对开放模型被滥用于网络攻击的监管讨论。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-06T18:43:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Ramp 数据显示 AI 支出停滞，恰逢 Anthropic 临近 IPO",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+   "source": "TechCrunch AI",
+   "summary": "Ramp 的支出数据显示，企业 AI 使用量仍在上升，但支出金额已趋于停滞，主要受降价与成本控制影响。这一趋势与 Anthropic 临近 IPO 的时间点重合，可能挑战投资者对 AI 超高速增长的假设。报道认为，头部客户的精细化成本管理正在改变 AI 商业化的收入曲线。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-06T15:54:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "中期选举「蓝色浪潮」可能重塑 AI 行业",
+   "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+   "source": "TechCrunch AI",
+   "summary": "美国中期选举中民主党取得历史性胜利，41 项与数据中心相关的公投中除一项外均通过限制开发措施。即便数据中心未直接列入选票，也成为选民关注焦点。TechCrunch 认为，未来两年 AI 基础设施扩张将面临更强的地方与州级阻力。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-06T18:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "美国 OCC 发布银行使用「超级智能」的监管框架",
+   "url": "https://www.consumerfinancemonitor.com/2026/11/06/occ-issues-supervisory-framework-for-banks-use-of-super-intelligence-a-risk-based-approach-to-generative-and-agentic-ai/",
+   "source": "Google News 英文",
+   "summary": "美国货币监理署发布针对银行使用生成式与智能体 AI 的风险导向监管框架，文件中使用了「超级智能」表述。框架要求银行按风险等级评估 AI 应用，并建立治理与审计机制。这是美国联邦银行监管机构首次系统性覆盖智能体 AI 的使用场景。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-06T19:58:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "纽约 RAISE Act 2.0 拟扩大 AI 监管范围",
+   "url": "https://statescoop.com/new-yorks-raise-act-2-0-would-expand-ai-oversight-according-to-safety-expert/",
+   "source": "Google News 英文",
+   "summary": "纽约州 RAISE Act 2.0 提案拟扩大对 AI 的监管，安全专家称其覆盖范围较前一版本明显扩展。该法案聚焦模型安全评估与高风险应用的披露义务。若通过，将成为美国州层面最严格的 AI 立法之一。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-06T22:04:26+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "OpenAI 发布 BioBasicsBench，衡量 AI 智能体的湿实验室能力",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 推出 BioBasicsBench，包含 100 项任务，用于评估 AI 智能体解读原始实验数据和处理日常湿实验室工作的能力。该基准填补了生物实验场景中智能体评测的空白。它也为 AI 在生命科学研发中的实际可用性提供了量化标尺。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-06T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Underdog 展示 32MB 语音模型，可同时生成语音与音乐",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+   "source": "TechCrunch AI",
+   "summary": "Underdog 在新演示中展示了一个仅 32MB 的语音模型，能够同时生成语音与音乐。其体积远小于主流语音生成模型，适合端侧部署。TechCrunch 认为，小模型在音频生成上的进展可能推动本地化语音应用。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 3,
+   "published": "2026-11-06T13:02:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "数百个 Artex AI 黑客工具暴露在公网",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+   "source": "TechCrunch AI",
+   "summary": "安全研究人员发现数百台托管渗透测试工具 Artex 的服务器暴露在互联网上，任何人可访问该黑客工具。Artex 属于 AI 驱动的攻击工具类别，暴露规模引发对攻击面扩大的担忧。TechCrunch 报道称，相关服务器尚未被全部下线。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-06T18:44:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "抗议者闯入阿姆斯特丹微软数据中心工地",
+   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+   "source": "The Verge AI",
+   "summary": "约 100 名抗议者闯入阿姆斯特丹微软新数据中心施工现场，反对建设三座 85 米高的数据中心塔楼。活动由 Geef Tegengas 组织协调，路透社报道部分人员进入工地内部。这是欧洲围绕数据中心能耗与社区影响的最新冲突。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-06T11:55:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Chainalysis 称黑客窃取全部客户的凭证与令牌",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers",
+   "source": "Ars Technica",
+   "summary": "Chainalysis 披露遭遇「多线网络攻击」，黑客窃取了其全部客户的凭证与令牌，攻击中使用了 AI 智能体并实施路径内数据截取。公司称已启动应急响应。这是 AI 智能体参与真实入侵行动的罕见公开案例。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-06T20:56:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Airbnb 称将于 2027 年上半年推出 AI 旅行智能体",
+   "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+   "source": "TechCrunch AI",
+   "summary": "Airbnb 在第三季度股东信中宣布，计划于 2027 年上半年推出可帮助用户规划并预订行程的 AI 智能体。公司坦言当前 AI 智能体擅长订餐、预约等简单任务，但复杂旅行规划仍需突破。该时间表显示消费级旅行智能体的落地仍有一年以上的窗口期。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-05T22:40:55+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
