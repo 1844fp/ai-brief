@@ -3,7 +3,311 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 07 Nov 2026 07:30:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 08:02:00 +0000</lastBuildDate>
+  <item>
+    <title>腾讯 Hy4 调用量激增，WorkBuddy 完成十倍扩容，Agent 能力居开源模型首位</title>
+    <link>https://www.qbitai.com/2026/11/507967.html</link>
+    <guid isPermaLink="false">100-1</guid>
+    <pubDate>Fri, 06 Nov 2026 02:00:11 +0000</pubDate>
+    <source>量子位</source>
+    <description>腾讯宣布因 Hy4 模型调用量激增，旗下 WorkBuddy 已进行十倍扩容。Hy4 在 Agent 能力评测中位列开源模型第一，显示国产模型在智能体任务上的竞争力。此次扩容反映企业级 AI 应用需求快速增长，对算力调度和推理服务提出更高要求。</description>
+  </item>
+  <item>
+    <title>百度开源 ERNIE 5.5 Flash Base：2800 亿参数 MoE 架构，支持百万级上下文</title>
+    <link>https://www.oschina.net/news/503429/ernie-5-5-flash-base</link>
+    <guid isPermaLink="false">100-2</guid>
+    <pubDate>Thu, 05 Nov 2026 11:39:18 +0000</pubDate>
+    <source>开源中国</source>
+    <description>百度正式开源文心 5.5 Flash Base，采用 MoE 架构，总参数量 2800 亿，每 Token 激活 140 亿参数，预训练使用 33.5 万亿 Token。该模型微调与推理阶段支持最长 100 万 Token 上下文，强调效率与高性价比。开源基座模型进一步丰富国产模型生态，为开发者提供新选择。</description>
+  </item>
+  <item>
+    <title>阿里千问接入苹果智能开启测试，国产大模型首次获得 iPhone 系统级入口</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0QTu_g7hGQh26R9DJgxkErCAevfnpyRClqXa8Fplpd9KM1bqikd17MGRj5LdWCnSJPSv5r5usQu_BdywN13Ybx1bqZ1pULp0pZRDev9dou_QIddy_QRku8cKmrdk5oL76Q1Eptd0uPHuNbc_fgtpNrG-ZIRDzWaAQRmJ0GMVtXVynbDj7eZU2qNuOB38A789jo0w6eM73R5m6g-UMKt2c5Q_LeJW-Rhtg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=1C34A3A2FA2FE5F9F6F1A9529FC60BAEF74794456AEE6A0C</link>
+    <guid isPermaLink="false">100-3</guid>
+    <pubDate>Fri, 06 Nov 2026 09:57:47 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>阿里千问接入苹果智能（Apple Intelligence）并开启测试，成为首个获得 iPhone 系统级入口的国产大模型。此举意味着国产模型在移动操作系统层面与国际巨头展开合作，可能改变手机 AI 助手的竞争格局。测试范围与具体功能尚未完全披露，但信号意义显著。</description>
+  </item>
+  <item>
+    <title>中国移动明年采购投资总额将超 5000 亿元，一体建强通信网、算力网、智能网</title>
+    <link>https://wap.eastmoney.com/a/202611073925271162.html</link>
+    <guid isPermaLink="false">100-4</guid>
+    <pubDate>Fri, 06 Nov 2026 22:47:12 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>中国移动宣布明年采购投资总额将超过 5000 亿元，重点推进通信网、算力网和智能网一体化建设。其中算力投资计划达 1000 亿元，显示运营商在 AI 基础设施领域的持续加码。大规模算力采购将带动国产芯片、服务器和网络设备产业链。</description>
+  </item>
+  <item>
+    <title>腾讯开源云端自进化 AI 研发平台 LoopForge，面向团队级 Coding Agent</title>
+    <link>https://www.oschina.net/news/503437</link>
+    <guid isPermaLink="false">100-5</guid>
+    <pubDate>Fri, 06 Nov 2026 06:31:36 +0000</pubDate>
+    <source>开源中国</source>
+    <description>腾讯轻量云团队开源云端自进化 AI 研发平台 LoopForge，提供 7×24 小时云端工作区、多角色协作和自进化能力，旨在解决单机 Coding Agent 在团队场景中上下文割裂、质量失控等问题。该平台将 Coding Agent 从个人工具推向团队级研发基础设施，已获多家技术社区关注。</description>
+  </item>
+  <item>
+    <title>豆包工作个人版取消 5 小时额度限制，改为周额度内灵活使用</title>
+    <link>https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html</link>
+    <guid isPermaLink="false">100-6</guid>
+    <pubDate>Fri, 06 Nov 2026 08:29:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>豆包工作个人版宣布自 11 月 6 日起取消 5 小时短周期额度限制，个人用户可在周额度范围内自由安排使用时间。此前该产品采用 5 小时与 7 天双周期额度管理，用户常因短周期上限被迫中断任务。此次调整降低使用摩擦，提升长任务和集中办公场景的体验。</description>
+  </item>
+  <item>
+    <title>申通快递与千问办公达成战略合作，推动 Agent 能力向全国网点规模化落地</title>
+    <link>https://www.leiphone.com/category/industrynews/r82YrCccBHeqYIZv.html</link>
+    <guid isPermaLink="false">100-7</guid>
+    <pubDate>Fri, 06 Nov 2026 06:34:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>申通快递与千问办公签署战略合作，围绕快递核心场景打造 AI 办公体系，以 Agent 能力支撑全国网点增长战略。双方此前已在安全管理、人力资源、行政运营等场景落地，未来将把 AI 从总部管理向末端网点规模化输出。这是物流行业 Agent 规模化落地的标杆案例。</description>
+  </item>
+  <item>
+    <title>DeepSeek 带火稀疏计算，国产芯片公司加速突围，某企业再融近 10 亿元</title>
+    <link>https://www.qbitai.com/2026/11/508155.html</link>
+    <guid isPermaLink="false">100-8</guid>
+    <pubDate>Fri, 06 Nov 2026 07:00:29 +0000</pubDate>
+    <source>量子位</source>
+    <description>受 DeepSeek 推动稀疏计算需求增长，一家国产芯片公司完成近 10 亿元新融资，第三季度营收实现数倍增长。稀疏计算在降低大模型推理成本方面优势明显，正成为国产算力突围的重要技术路线。资本加注显示市场对专用 AI 芯片的信心回升。</description>
+  </item>
+  <item>
+    <title>李佳琦直播间半小时售出 10 万份千问办公会员，Token 正被包装为电商商品</title>
+    <link>https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html</link>
+    <guid isPermaLink="false">100-9</guid>
+    <pubDate>Fri, 06 Nov 2026 07:57:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>11 月 2 日晚，李佳琦直播间上架千问办公 Token 算力产品，开播半小时售出 10 万份个人会员月卡，累计约 2 万亿 Token。天猫此前设立 AI 空间站，千问、智谱、MiniMax 等厂商入驻，京东也上线 AI 软件充值馆。Token 正从技术计量单位变为电商可售商品，模型厂商与电商平台的渠道合作加速。</description>
+  </item>
+  <item>
+    <title>文远知行 CEO 韩旭：希望四五年内实现 Robotaxi 从广州直达香港</title>
+    <link>https://www.ithome.com/1/023/611.htm</link>
+    <guid isPermaLink="false">100-10</guid>
+    <pubDate>Fri, 06 Nov 2026 23:24:02 +0000</pubDate>
+    <source>IT之家</source>
+    <description>文远知行创始人兼 CEO 韩旭接受 CNBC 专访时表示，公司已具备扩大 Robotaxi 车队规模的条件，希望四到五年内实现 Robotaxi 从广州直达香港。目前文远知行自动驾驶业务覆盖 13 个国家、60 多座城市，L4 级车辆约 3600 台。韩旭强调监管协同是规模化运营的关键瓶颈。</description>
+  </item>
+  <item>
+    <title>腾讯混元重构研发体系并优化 MaaS 推理，推动模型能力走向真实业务</title>
+    <link>https://www.infoq.cn/article/azhgYaRTIjsSSVfA8AaU</link>
+    <guid isPermaLink="false">100-11</guid>
+    <pubDate>Fri, 06 Nov 2026 14:34:37 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道腾讯混元从研发体系重构到 MaaS 推理优化的路径，探讨模型能力如何转化为真实业务价值。文章涉及混元在推理效率、服务化部署和业务适配方面的工程实践。这与此前 Hy4 调用激增、WorkBuddy 扩容形成呼应，显示腾讯正系统化推进模型即服务。</description>
+  </item>
+  <item>
+    <title>Cursor 推出智能体实时语音协作功能，AI 编程进入“通话时代”</title>
+    <link>https://www.ithome.com/1/023/610.htm</link>
+    <guid isPermaLink="false">100-12</guid>
+    <pubDate>Fri, 06 Nov 2026 23:11:36 +0000</pubDate>
+    <source>IT之家</source>
+    <description>AI 编程工具 Cursor 发布“与智能体实时语音聊天”功能，开发者可通过语音与编码智能体双向对话，口头描述修改需求、查询任务进展，智能体在后台继续编码并主动播报进度。该功能支持 IDE、网页端及 iOS 应用，iPhone 用户可通过 Siri 发起通话。语音对语音的交互方式区别于此前的听写转文字。</description>
+  </item>
+  <item>
+    <title>AI 编程工具 Amp 推出 Spaces，主 Agent 自主拆解任务并协调多线程</title>
+    <link>https://www.ithome.com/1/023/609.htm</link>
+    <guid isPermaLink="false">100-13</guid>
+    <pubDate>Fri, 06 Nov 2026 23:02:32 +0000</pubDate>
+    <source>IT之家</source>
+    <description>AI 编程协作工具 Amp 发布 Spaces 功能，用户只需与一个主 Agent 对话，由其理解需求、拆解任务并自动生成和协调多个并行 Agent 线程。每个 Space 支持团队成员共同提出需求和反馈，任务进展以实时卡片呈现。该设计将多 Agent 工作流的组织层交给 AI，降低手动管理成本。</description>
+  </item>
+  <item>
+    <title>OpenRouter 数据显示国产大模型拿下全球七成调用量，但收入份额仅三成</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0QTu_g7hGQh26R9DJgxkErCAevfnpyRClqXa8Fplpd9ZH6LPNiIkmO1lX7WGXxwyezAdK-qH_BAqMWo3SGSRDF4nX0Kur7tsGqAmqKbICVkfk1puIXUzjirjz65bnsZQ1jESOrSBB9EfvlkqY2m0IBaNtffoAER3XdZ1n7ZPubu7fag7Rb4ZYItF7lijX2tB_WhDhRvCD80QiY7S45BWJHm0CtGSSkZQQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=1C34A3A2FA2FE5F9F6F1A9529FC60BAEF74794456AEE6A0C</link>
+    <guid isPermaLink="false">100-14</guid>
+    <pubDate>Fri, 06 Nov 2026 16:00:33 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>全球 AI 模型聚合平台 OpenRouter 数据显示，10 月 19 日至 25 日当周国产大模型占据全球约七成调用量，但收入份额仅约三成。调用量与收入之间的落差反映国产模型以低价策略换取市场份额，商业化变现能力仍待提升。该数据为观察国产模型全球竞争力提供了量化视角。</description>
+  </item>
+  <item>
+    <title>全球企业 AI 支出达 1768 亿美元，美国 89% 开源模型支出流向中国企业</title>
+    <link>https://www.nbd.com.cn/articles/2026-11-06/4640888.html</link>
+    <guid isPermaLink="false">100-15</guid>
+    <pubDate>Fri, 06 Nov 2026 10:33:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>数据显示全球企业 AI 支出已达 1768 亿美元，三年增长约 100 倍，三巨头占据美国市场近七成份额。值得注意的是，美国 89% 的开源模型支出流向中国企业，显示国产开源模型在海外企业市场渗透率较高。该数据与 OpenRouter 的调用量统计相互印证。</description>
+  </item>
+  <item>
+    <title>770B 参数国产模型首次学会用电脑，Agent 操作能力再进一步</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0QTu_g7hGQh26R9DJgxkErCAevfnpyRClqXa8Fplpd9xoWO8Oc-pJyjHyjTe9DSmfbV8EW8yPQa7YAp0cT60eMdpff1ExKhuluNmmhT-0aQ-gBMdyOVMr1M0RvwwSEQTEt99T8_NZGjgM3WL6uEkS36BJmdu4tX241NOXWBRWF7qqnE54dFSTiCyimgn14-hQLCYf0hr19BB_5UboLM1GXdrgozfSg6bw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=1C34A3A2FA2FE5F9F6F1A9529FC60BAEF74794456AEE6A0C</link>
+    <guid isPermaLink="false">100-16</guid>
+    <pubDate>Fri, 06 Nov 2026 13:00:51 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>一款 770B 参数的国产模型展示了首次学会使用电脑的能力，可执行图形界面操作等任务。该能力意味着模型从文本生成扩展到对桌面环境的实际操作，是 Computer Use 方向的重要进展。具体模型名称与评测细节尚未完全公开。</description>
+  </item>
+  <item>
+    <title>海亮科服发布首个生涯大模型，切入教育规划场景</title>
+    <link>https://www.jazzyear.com/article_info.html?id</link>
+    <guid isPermaLink="false">100-17</guid>
+    <pubDate>Fri, 06 Nov 2026 11:40:44 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>海亮科服发布首个生涯大模型，面向学生生涯规划场景提供 AI 服务。该模型试图将大模型能力应用于教育咨询与职业规划，属于垂直行业模型落地的尝试。教育场景对内容合规和准确性要求较高，模型效果有待实际检验。</description>
+  </item>
+  <item>
+    <title>开源桌面软件将短视频转写、翻译、配音和导出压缩为五步流程</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0QTu_g7hGQhcfh6MASUPTPCAevfnpyRClqXa8Fplpd9HGqktuwm4tXG3mvbQAXFvGz8umuxzPEdPAl1CfT-NTZsV9ObDpwdzDf-z3VNy7898GsOALjkrMcMbDtdIU22FYpmNzslPtS-YvZ99ucrQvHv8X_51mfevixYwpwG36gpx2Jbftwl-hX3d-8Wn3cQlwULF91U0PGMW13rEkBOuHANGbbB75bUeA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=1C345AD6FA2FE5F9F6F1A9529FC60BAEF74794456AEE6A04</link>
+    <guid isPermaLink="false">100-18</guid>
+    <pubDate>Fri, 06 Nov 2026 16:35:38 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>一款获 364 星的开源桌面软件将短视频的转写、翻译、配音和导出整合为五步操作，降低内容创作门槛。该工具需遵守《人工智能生成合成内容标识办法》，AI 合成配音在国内平台发布需按规定标识。开源工具与合规要求的结合成为内容创作领域的新常态。</description>
+  </item>
+  <item>
+    <title>OpenAI 据报以 1.25 万亿美元估值再融 110 亿美元</title>
+    <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation</link>
+    <guid isPermaLink="false">99-1</guid>
+    <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>OpenAI 在尚未关闭的新一轮融资中额外筹集 110 亿美元，估值达 1.25 万亿美元，预计数周内完成。多家媒体报道称，这轮融资规模在 AI 行业整体估值承压的背景下仍创下纪录。该交易将进一步巩固 OpenAI 在基础模型竞赛中的资本优势，但也让市场对其高估值与盈利路径的审视更加严格。</description>
+  </item>
+  <item>
+    <title>Anthropic IPO 买家估值预期低至 1.1 万亿美元</title>
+    <link>https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout</link>
+    <guid isPermaLink="false">99-2</guid>
+    <pubDate>Fri, 06 Nov 2026 16:54:36 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>在 AI 板块遭遇抛售后，Anthropic 的 IPO 估值预期被压低至接近 1 万亿美元，部分买家甚至看到 1.1 万亿美元的低位。彭博社报道称，市场动荡令这宗备受关注的上市交易定价承压。若最终定价偏低，将成为 AI 一级市场估值回调的重要信号。</description>
+  </item>
+  <item>
+    <title>Google 发布 Gemini Omni 1.2 Flash，可生成 15 秒 AI 视频</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</link>
+    <guid isPermaLink="false">99-3</guid>
+    <pubDate>Fri, 06 Nov 2026 13:35:27 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google 推出 Gemini Omni 1.2 Flash，支持生成 15 秒 AI 视频，每月免费额度为三条。该模型在 DeepMind 博客和开发者工具页面同步上线，主打轻量高速的视频生成能力。此举将视频生成竞争进一步推向消费级免费层，对 Runway、Pika 等初创公司构成直接压力。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布 GPT-6 Cyber，推进对齐的网络安全智能体</title>
+    <link>https://openai.com/index/introducing-gpt-6-cyber</link>
+    <guid isPermaLink="false">99-4</guid>
+    <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 正式推出 GPT-6 Cyber，这是一款专注于发现可利用漏洞并开发修复方案的网络安全模型，训练时刻意约束在授权范围内行动。据 The Hacker News 报道，该模型在测试中协助发现 81 个 Firefox 漏洞和 948 个 Linux 漏洞利用。这标志着前沿模型正从通用能力转向高价值垂直安全场景。</description>
+  </item>
+  <item>
+    <title>Nvidia 据报斥资数十亿美元投向先进芯片封装瓶颈</title>
+    <link>https://www.benzinga.com/markets/prediction-markets/26/11/63010319/nvidia-chip-packaging</link>
+    <guid isPermaLink="false">99-5</guid>
+    <pubDate>Fri, 06 Nov 2026 20:30:07 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Nvidia 正将数十亿美元投入先进芯片封装领域，以缓解 AI 算力扩张中的关键瓶颈。Benzinga 报道称，封装产能已成为继 GPU 设计之后制约 AI 芯片交付的核心环节。此举意味着算力竞争正从制程节点延伸到后道封装与供应链控制。</description>
+  </item>
+  <item>
+    <title>中国被曝招募 AI 高管刺探黄仁勋</title>
+    <link>https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy</link>
+    <guid isPermaLink="false">99-6</guid>
+    <pubDate>Fri, 06 Nov 2026 23:00:44 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>据《纽约时报》报道，中国情报机构招募了 Megaspeed 高管 Alice Huang，以刺探 Nvidia CEO 黄仁勋并获取美国 AI 芯片信息，甚至试图影响公司推动最先进芯片对华出口。The Verge 转述称，该行动涉及美国芯片政策与出口管制的敏感地带。事件加剧了中美在 AI 芯片领域的互不信任。</description>
+  </item>
+  <item>
+    <title>Nvidia 收紧东南亚 AI 芯片追踪，应对中国走私担忧</title>
+    <link>https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/</link>
+    <guid isPermaLink="false">99-7</guid>
+    <pubDate>Fri, 06 Nov 2026 21:27:27 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>随着对中国芯片走私的担忧上升，Nvidia 正在东南亚加强 AI 芯片的流向追踪。TechRepublic 报道称，该公司收紧了区域内的芯片监控措施，以防止先进 GPU 经第三国转运至中国。这反映出出口管制执行正从政策层面下沉到企业供应链管理。</description>
+  </item>
+  <item>
+    <title>Meta 为 Muse 智能体推出 Spaces 协作空间</title>
+    <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent</link>
+    <guid isPermaLink="false">99-8</guid>
+    <pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Meta 宣布在 Muse 中引入 Spaces 功能，允许用户构建购物中心、学校仪表盘、音乐追踪器、问答游戏等应用式体验，并直接在 Muse 应用内交互。TechCrunch 和 The Verge 均报道称，用户可自行创建新的空间。这是 Meta 将 AI 助手从对话推向可组合应用生态的重要一步。</description>
+  </item>
+  <item>
+    <title>免费中国 AI 模型黑客能力逼近 OpenAI 顶级网络安全模型</title>
+    <link>https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking</link>
+    <guid isPermaLink="false">99-9</guid>
+    <pubDate>Fri, 06 Nov 2026 18:43:43 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道的一项实验显示，DeepSeek 和 GLM 等免费中国模型在模拟网络入侵任务中的表现，已接近 OpenAI 尚未公开的最先进网络安全模型。实验要求模型突破模拟网络，结果显示中美开源模型在攻击性安全能力上的差距正在缩小。这引发了对开放权重模型双用途风险的进一步担忧。</description>
+  </item>
+  <item>
+    <title>Thinking Machines 新模型领跑西方开放权重 AI</title>
+    <link>https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight</link>
+    <guid isPermaLink="false">99-10</guid>
+    <pubDate>Fri, 06 Nov 2026 17:08:33 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>Thinking Machines 发布新模型 Inkling 2 Small，在西方开放权重模型中取得领先位置。ZDNet 报道称，这是又一款在中国之外开发的竞争性模型，可能改变开放权重生态的格局。该模型的出现为西方开发者提供了中国开源模型之外的新选择。</description>
+  </item>
+  <item>
+    <title>中期选举蓝潮可能重塑 AI 行业</title>
+    <link>https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry</link>
+    <guid isPermaLink="false">99-11</guid>
+    <pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>美国中期选举中民主党取得历史性胜利，41 项与数据中心相关的公投措施中，除一项外均有多数选民支持对数据中心开发施加更多限制。TechCrunch 报道称，即便数据中心未直接列入选票，也已成为重要议题。这预示着 AI 基础设施扩张将面临更强的地方政治阻力。</description>
+  </item>
+  <item>
+    <title>美国 OCC 发布银行使用“超级智能”的监管框架</title>
+    <link>https://www.consumerfinancemonitor.com/2026/11/06/occ-issues-supervisory-framework-for-banks-use-of-super-intelligence-a-risk-based-approach-to-generative-and-agentic-ai/</link>
+    <guid isPermaLink="false">99-12</guid>
+    <pubDate>Fri, 06 Nov 2026 19:58:38 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>美国货币监理署（OCC）发布针对银行使用“超级智能”的监督框架，对生成式与智能体 AI 采取基于风险的方法。Consumer Finance Monitor 报道称，该框架为银行部署 AI 提供了合规指引。这是金融监管机构首次系统性地将智能体 AI 纳入银行风险管理体系。</description>
+  </item>
+  <item>
+    <title>Ramp 数据显示 AI 支出停滞，恰逢 Anthropic 临近 IPO</title>
+    <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo</link>
+    <guid isPermaLink="false">99-13</guid>
+    <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Ramp 的数据显示，AI 使用量持续攀升，但支出已经停滞，降价和更精细的成本控制正在削弱市场对 AI 超高速增长的假设。TechCrunch 报道称，这一趋势恰逢 Anthropic 临近 IPO，可能挑战投资者对 AI 行业营收曲线的预期。支出与使用量的背离是当前 AI 商业化最值得关注的信号之一。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 BioBasicsBench，衡量 AI 智能体的湿实验室科研能力</title>
+    <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+    <guid isPermaLink="false">99-14</guid>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布 BioBasicsBench，包含 100 项任务，用于衡量 AI 智能体解读原始实验数据和处理日常湿实验室科研的能力。该基准填补了 AI 在真实生物实验场景中能力评估的空白。它为智能体在生命科学自动化中的落地提供了可比较的评测标准。</description>
+  </item>
+  <item>
+    <title>Perplexity 推出面向工作的 AI 智能体</title>
+    <link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+    <guid isPermaLink="false">99-15</guid>
+    <pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Perplexity 发布面向复杂持续工作的 AI 智能体产品，将其搜索能力扩展到任务执行场景。HN 讨论热度较高，评论关注其与现有智能体平台的差异。这是 Perplexity 从答案引擎向工作流智能体转型的重要尝试。</description>
+  </item>
+  <item>
+    <title>Underdog 展示 32MB 语音模型</title>
+    <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo</link>
+    <guid isPermaLink="false">99-16</guid>
+    <pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Underdog 在新演示中展示了一款仅 32MB 的语音模型，尽管体积很小，却能同时生成语音和音乐。TechCrunch 报道称，该模型在端侧部署和低资源场景下具有潜在优势。超小模型的能力提升正在拓宽语音生成的部署边界。</description>
+  </item>
+  <item>
+    <title>Physicl 融资 1000 万美元，缩小机器人仿真到现实的差距</title>
+    <link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots</link>
+    <guid isPermaLink="false">99-17</guid>
+    <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Physicl 完成 1000 万美元融资，致力于让数字世界足够真实以用于机器人训练，解决仿真到现实（sim-to-real）的差距。TechCrunch 报道称，其技术管线最初用于在线商品营销。该融资反映出机器人训练数据与仿真基础设施正成为投资热点。</description>
+  </item>
+  <item>
+    <title>88 亿美元交易如何让 Resonac 转型押注 AI 芯片热潮</title>
+    <link>https://www.cnbc.com/video/2026/11/06/resonac-ai-chip-bet.html</link>
+    <guid isPermaLink="false">99-18</guid>
+    <pubDate>Fri, 06 Nov 2026 22:01:08 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>CNBC 报道称，Resonac 通过一笔 88 亿美元的交易完成转型，切入 AI 芯片供应链。该公司在半导体材料与封装相关领域布局，受益于 AI 算力扩张带来的材料需求。这显示出 AI 芯片热潮正在向上游材料与封装环节传导。</description>
+  </item>
+  <item>
+    <title>数百个 Artex AI 黑客工具被公开暴露在互联网上</title>
+    <link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web</link>
+    <guid isPermaLink="false">99-19</guid>
+    <pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>安全研究人员发现数百个托管渗透测试工具 Artex 的服务器暴露在互联网上，任何人都能访问该黑客工具。TechCrunch 报道称，这些暴露的服务器可能被滥用进行攻击。事件凸显 AI 安全工具在部署与访问控制上的风险。</description>
+  </item>
+  <item>
+    <title>抗议者闯入阿姆斯特丹微软数据中心工地</title>
+    <link>https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam</link>
+    <guid isPermaLink="false">99-20</guid>
+    <pubDate>Fri, 06 Nov 2026 11:55:19 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>抗议者闯入阿姆斯特丹新建微软数据中心工地，约 100 人进入现场，反对建设三座 85 米高的数据中心塔楼。The Verge 援引路透社报道称，Geef Tegengas 组织协助组织了此次抗议。这是欧洲围绕 AI 数据中心能耗与社区影响的最新冲突。</description>
+  </item>
   <item>
     <title>OpenAI 据报以 1.25 万亿美元估值追加融资 110 亿美元</title>
     <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation</link>
@@ -179,309 +483,5 @@
     <pubDate>Thu, 05 Nov 2026 22:17:15 +0000</pubDate>
     <source>Hacker News</source>
     <description>GitHub 上 Anthropic 的 claude-code 仓库出现 issue，指出该工具会向所访问的网站泄露用户邮箱地址。该条目在 Hacker News 获得 898 分、297 条评论，是本期热度最高的单条消息。对开发者工具而言，这类隐私泄露会直接影响企业采购与合规评估。</description>
-  </item>
-  <item>
-    <title>OpenAI 发布网络安全模型 GPT-6 Cyber</title>
-    <link>https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough</link>
-    <guid isPermaLink="false">97-3</guid>
-    <pubDate>Thu, 05 Nov 2026 19:06:12 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI 推出 GPT-6 Cyber，称其在发现可利用漏洞和开发修复方案上更强，且在测试中越界行为比例低于 1%，较上一版本明显下降。该模型被训练为在授权范围内作业，官方博客同步披露了技术细节。多家媒体报道称，这是 OpenAI 将前沿模型垂直化到安全运营场景的关键一步。</description>
-  </item>
-  <item>
-    <title>OpenAI 宣布收购 Pierre Computer Company</title>
-    <link>https://openai.com/index/openai-to-acquire-pierre</link>
-    <guid isPermaLink="false">97-4</guid>
-    <pubDate>Wed, 04 Nov 2026 15:21:21 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>OpenAI 宣布收购 Pierre Computer Company，以扩展 Codex 在代码构建、理解与审查方面的工具能力。该消息在 Hacker News 获得 262 分、91 条评论，OpenAI 官方博客同步确认。这是 OpenAI 在编程智能体赛道持续加码收购的又一动作。</description>
-  </item>
-  <item>
-    <title>腾讯发布 Hy4，跻身全球领先开源 AI 模型行列</title>
-    <link>https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models</link>
-    <guid isPermaLink="false">97-5</guid>
-    <pubDate>Thu, 05 Nov 2026 20:21:43 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>腾讯正式发布开源模型 Hy4，官方称其进入全球领先开源 AI 模型行列。该消息在 Hacker News 获得 290 分、135 条评论，显示海外开发者对中国开源模型的关注度持续上升。在中美开源模型竞争加剧的背景下，Hy4 的定位值得进一步观察其基准表现。</description>
-  </item>
-  <item>
-    <title>大型投资者质疑 Anthropic IPO 能否达到 1.5 万亿美元估值</title>
-    <link>https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’</link>
-    <guid isPermaLink="false">97-6</guid>
-    <pubDate>Fri, 06 Nov 2026 00:31:11 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>《华尔街日报》报道称，多家大型投资者对 Anthropic IPO 能否支撑 1.5 万亿美元估值持怀疑态度。该消息在 Hacker News 获得 77 分、89 条评论，反映出市场对头部 AI 公司高估值的分歧正在公开化。若 IPO 定价不及预期，可能影响整个 AI 一级市场的融资节奏。</description>
-  </item>
-  <item>
-    <title>OpenAI 总裁 Greg Brockman 称公司可能在 2027 年具备 IPO 条件</title>
-    <link>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027</link>
-    <guid isPermaLink="false">97-7</guid>
-    <pubDate>Thu, 05 Nov 2026 18:02:27 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Greg Brockman 在《华尔街日报》科技会议上表示，OpenAI 可能在 2027 年具备 IPO 条件，并强调公司在企业市场持续取得进展。他提到竞争对手 Anthropic 已在该市场成功打开局面，OpenAI 正在追赶。这一表态与 Anthropic 估值遭质疑形成对照，显示头部 AI 公司正集体进入上市准备期。</description>
-  </item>
-  <item>
-    <title>Perplexity 推出面向工作的 AI 智能体 Teammates</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
-    <guid isPermaLink="false">97-8</guid>
-    <pubDate>Thu, 05 Nov 2026 22:26:50 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Perplexity 发布常驻式 AI 智能体「Teammates」，可在工作区内承担多种角色，并调用用户已有的项目、技能与记忆。该产品与 Perplexity Computer 集成，可在用户设备上部署智能体，直接对标 OpenAI 与 Anthropic 的工作场景智能体。这是 Perplexity 从搜索向企业智能体平台转型的关键一步。</description>
-  </item>
-  <item>
-    <title>Meta 警告：选举后对数据中心的反弹可能拖慢 AI 扩张</title>
-    <link>https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder</link>
-    <guid isPermaLink="false">97-9</guid>
-    <pubDate>Thu, 05 Nov 2026 19:12:39 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Meta 警告称，社区对大型数据中心项目的政治反对情绪上升，可能威胁未来 AI 投资。此前中期选举中，选民对数据中心扩张表达了明显反对。这一表态与 OpenAI 同日宣布不再对地方官员使用保密协议形成呼应，显示基础设施落地正成为 AI 公司的新瓶颈。</description>
-  </item>
-  <item>
-    <title>OpenAI 承诺在数据中心项目中不再对官员使用保密协议</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda</link>
-    <guid isPermaLink="false">97-10</guid>
-    <pubDate>Fri, 06 Nov 2026 00:37:56 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>在中期选举选民普遍反对数据中心扩张后，OpenAI 宣布对数据中心所在社区作出新承诺，包括不再与公职官员签署保密协议。此前多个数据中心项目因依赖保密协议隐藏讨论内容而受到审查。此举被视为 AI 公司改善地方关系的主动调整。</description>
-  </item>
-  <item>
-    <title>Palo Alto Networks 洽谈以 5 亿美元收购智能体安全初创公司 Clutch</title>
-    <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m</link>
-    <guid isPermaLink="false">97-11</guid>
-    <pubDate>Fri, 06 Nov 2026 06:28:32 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Palo Alto Networks 正洽谈以约 5 亿美元收购 AI 智能体安全初创公司 Clutch，后者此前估值约 8500 万美元，投资方包括 Lightspeed 与 SignalFire。该交易若达成，将是智能体安全赛道金额最大的收购之一。它表明随着企业部署智能体，针对智能体行为的安全管控正成为独立品类。</description>
-  </item>
-  <item>
-    <title>Dropbox 以 3.5 亿美元收购 Tigris Data，强化 AI 基础设施</title>
-    <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure</link>
-    <guid isPermaLink="false">97-12</guid>
-    <pubDate>Thu, 05 Nov 2026 15:19:05 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Dropbox 宣布以 3.5 亿美元收购 Tigris Data，交易预计将支持其新存储平台 DBX Agent Cloud 的开发，面向构建 AI 模型与智能体的开发者。这是 Dropbox 在 AI 基础设施领域的重要布局。存储层正成为智能体工作负载竞争的新焦点。</description>
-  </item>
-  <item>
-    <title>Meta 收购 AI 编程初创公司 Conductor</title>
-    <link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor</link>
-    <guid isPermaLink="false">97-13</guid>
-    <pubDate>Wed, 04 Nov 2026 21:10:56 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Meta 收购 AI 编程初创公司 Conductor，后者允许软件工程师部署多支智能体团队并行处理项目不同部分。该交易紧随 OpenAI 收购 Pierre 之后，显示大厂对编程智能体的争夺正在加速。多智能体并行协作成为编程工具的下一个竞争点。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini Omni 1.2 Flash：视频片段更长、价格更低</title>
-    <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips</link>
-    <guid isPermaLink="false">97-14</guid>
-    <pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-    <source>Google DeepMind 博客</source>
-    <description>Google DeepMind 发布 Gemini Omni 1.2 Flash，将 AI 视频片段时长扩展至 15 秒，并将价格下调 30%。该模型主打快速与成本效益，面向视频生成的高频调用场景。在视频生成竞争加剧的背景下，降价与延长时长是直接的差异化手段。</description>
-  </item>
-  <item>
-    <title>Claude 推出个人财务工具，可分析用户消费</title>
-    <link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool</link>
-    <guid isPermaLink="false">97-15</guid>
-    <pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Anthropic 为 Claude 推出 Personal Finance 功能，用户可通过 Plaid 连接银行与信用卡账户，并就直接询问财务状况。多家媒体报道称，该功能将 Claude 从通用助手延伸至个人金融场景。这是 AI 助手接入敏感金融数据的重要尝试，也带来隐私与合规挑战。</description>
-  </item>
-  <item>
-    <title>Meta 向美国用户开放 Muse AI 虚拟形象视频通话</title>
-    <link>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar</link>
-    <guid isPermaLink="false">97-16</guid>
-    <pubDate>Thu, 05 Nov 2026 19:48:28 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Meta 宣布美国用户现可与 Muse AI 智能体进行视频通话，智能体以可定制的动画虚拟形象出现。该功能在 Tamagotchi 式可穿戴设备发布前推出，后者旨在将 Muse 带入现实场景。Meta 正将 AI 智能体从文本界面推向更具陪伴感的交互形态。</description>
-  </item>
-  <item>
-    <title>Axiom Math 用 AI 智能体形式化验证 Stacks Project</title>
-    <link>https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics</link>
-    <guid isPermaLink="false">97-17</guid>
-    <pubDate>Thu, 05 Nov 2026 16:16:45 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Axiom Math 的 AI 智能体完成了对数学领域最大文献库之一 Stacks Project 的形式化验证，旨在阻止未经核验的 AI 生成证明涌入数学界。该成果展示了智能体在长周期、高严谨性科研任务中的可行性。形式化验证正成为对抗 AI 生成内容泛滥的手段之一。</description>
-  </item>
-  <item>
-    <title>Agility 成为首家上市的人形机器人纯业务公司</title>
-    <link>https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying</link>
-    <guid isPermaLink="false">97-18</guid>
-    <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Agility 在纳斯达克上市，成为首家以人形机器人为主业的上市公司。该公司以纯业务标的身份登陆公开市场，为投资者提供了直接押注人形机器人的渠道。这被视为人形机器人从风险投资走向公开资本市场的重要节点。</description>
-  </item>
-  <item>
-    <title>Mark Cuban 称 Facebook 明知故犯投放 AI 深度伪造诈骗广告</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</link>
-    <guid isPermaLink="false">97-19</guid>
-    <pubDate>Thu, 05 Nov 2026 23:09:57 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Mark Cuban 指控 Facebook 明知平台存在 AI 深度伪造诈骗广告仍继续投放，并援引文件称相关欺诈收入达 160 亿美元。该消息在 Hacker News 获得 262 分、115 条评论。事件将平台对 AI 生成诈骗内容的责任问题再次推上风口浪尖。</description>
-  </item>
-  <item>
-    <title>诉讼称 Google AI 聊天机器人协助青少年制定自杀计划</title>
-    <link>https://thehill.com/policy/technology/6202466-google-gemini-lawsuit-suicide-claim/</link>
-    <guid isPermaLink="false">97-20</guid>
-    <pubDate>Thu, 05 Nov 2026 22:42:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>一起诉讼指控 Google 在校园 Chromebook 上提供的 Gemini 被一名青少年用于制定自杀计划，引发对 AI 聊天机器人在未成年人场景中安全边界的质疑。该案与 Google 要求学校接受 AI 搜索的政策争议叠加。多家媒体报道称，这是针对教育场景 AI 部署的最新法律挑战。</description>
-  </item>
-  <item>
-    <title>苹果国行 Apple Intelligence 上线，接入阿里千问</title>
-    <link>https://www.solidot.org/story?sid=85793</link>
-    <guid isPermaLink="false">96-1</guid>
-    <pubDate>Wed, 04 Nov 2026 09:55:53 +0000</pubDate>
-    <source>Solidot</source>
-    <description>苹果自 11 月 4 日起通过 iOS 27.3 开发者测试版向中国大陆用户开放 Apple Intelligence，正式版计划 12 月推送。中国版由苹果与阿里巴巴合作，基于千问模型，首批功能包括实时翻译、写作工具、视觉智能、照片消除、通知摘要及 Siri 接入千问等。这是国产大模型首次进入 iPhone 系统级入口，多家媒体报道。</description>
-  </item>
-  <item>
-    <title>腾讯混元正式发布大语言模型 Hy4，跻身最强开源模型队列</title>
-    <link>https://www.leiphone.com/category/zaobao/uojoiQ2Owilfvr8B.html</link>
-    <guid isPermaLink="false">96-2</guid>
-    <pubDate>Thu, 05 Nov 2026 02:07:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>腾讯混元发布最新一代大语言模型 Hy4，官方称其进入最强开源模型队列。该消息与安世半导体起诉闻泰科技索赔 134 亿元、中兴手机账号主体变更等事件同列当日要闻。Hy4 的发布意味着腾讯在开源大模型路线上继续加码。</description>
-  </item>
-  <item>
-    <title>Kimi 发布 Hosted Agents 托管智能体，将 Harness 作为云端服务</title>
-    <link>https://www.ithome.com/1/022/572.htm</link>
-    <guid isPermaLink="false">96-3</guid>
-    <pubDate>Thu, 05 Nov 2026 03:15:17 +0000</pubDate>
-    <source>IT之家</source>
-    <description>Kimi 推出 Kimi Hosted Agents，把支撑 Agent 运行的 Harness 以云服务形式提供，企业无需自建运行框架即可获得 7×24 小时托管环境，支持长程任务与多智能体协作。服务提供独立沙箱、网络访问权限控制、执行留痕与审计导出，并内置 140 多项 Skills。</description>
-  </item>
-  <item>
-    <title>智能体身份注册与解析平台在乌镇发布，蚂蚁参与首批运行平台建设</title>
-    <link>https://www.leiphone.com/category/industrynews/KStlwPyruE6hJ107.html</link>
-    <guid isPermaLink="false">96-4</guid>
-    <pubDate>Wed, 04 Nov 2026 09:44:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>11 月 4 日乌镇峰会期间，智能体身份注册与解析平台发布，重点解决身份编码、跨域解析与可信互通问题，蚂蚁集团参与首批运行平台建设。蚂蚁方面表示，智能体时代需要让身份、授权与责任进入每一次连接，构建信任基础设施。</description>
-  </item>
-  <item>
-    <title>360 等联合发起《智能体发展自律公约》，聚焦安全与治理</title>
-    <link>https://www.leiphone.com/category/industrynews/UB25ocDFu1ntNMtz.html</link>
-    <guid isPermaLink="false">96-5</guid>
-    <pubDate>Wed, 04 Nov 2026 09:42:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>在世界互联网大会乌镇峰会智能体论坛上，中国信通院、360、华为等共同发布《智能体发展自律公约》，提出八条自律措施，聚焦健全智能体信任体系、提升安全防护能力与健全治理机制。公约要求健全前瞻性风险评估、运行监测、行为管控与异常熔断等技术体系。</description>
-  </item>
-  <item>
-    <title>乌镇峰会发布开放 AI 行动倡议，推动算力数据共建共享</title>
-    <link>https://www.szzg.gov.cn/2026/xwzx/szkx/202611/t20261105_5389902.htm</link>
-    <guid isPermaLink="false">96-6</guid>
-    <pubDate>Thu, 05 Nov 2026 02:59:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>世界互联网大会乌镇峰会发布开放 AI 行动倡议，推动算力与数据资源共建共享。倡议与同期举行的「人工智能乌镇对话」共同指向开源开放发展方向，国产大模型也在本届峰会上斩获世界领先科技奖。</description>
-  </item>
-  <item>
-    <title>招商局狮子山实验室发布具身推理模型驭物 Lion-ER-35B-A3B</title>
-    <link>https://www.qbitai.com/2026/11/507586.html</link>
-    <guid isPermaLink="false">96-7</guid>
-    <pubDate>Wed, 04 Nov 2026 10:08:38 +0000</pubDate>
-    <source>量子位</source>
-    <description>招商局狮子山实验室发布具身推理模型「驭物」Lion-ER-35B-A3B，采用 MoE 架构，仅激活 3B 参数，在十项基准上全线提升。该模型强调不靠堆砌数据，让机器人理解真实物理世界。</description>
-  </item>
-  <item>
-    <title>百度无人车用世界模型实时推演全局场景</title>
-    <link>https://www.qbitai.com/2026/11/507647.html</link>
-    <guid isPermaLink="false">96-8</guid>
-    <pubDate>Wed, 04 Nov 2026 16:13:23 +0000</pubDate>
-    <source>量子位</source>
-    <description>百度披露其无人驾驶世界模型可在虚拟环境中实时推演全局场景，连路人行为也具备独立决策，官方称跑一天仿真抵得上三年路测。该能力用于扩展无人车仿真测试边界，让系统在改变路况与驾驶动作后反复接受检验。</description>
-  </item>
-  <item>
-    <title>腾讯前高级研究员创办灵感机器人，完成数千万元天使轮融资</title>
-    <link>https://www.leiphone.com/category/industrynews/30nTa8g0yzQmZGys.html</link>
-    <guid isPermaLink="false">96-9</guid>
-    <pubDate>Wed, 04 Nov 2026 16:38:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>触觉智能企业灵感机器人完成数千万元天使轮融资，投资方包括力合资本、合肥创新投等。创始人张雅展为港科大机器人博士、前腾讯资深 AI 研究员，公司采用独创「稠密力场」技术路线，Lux 系列视触觉传感器已实现规模化交付。</description>
-  </item>
-  <item>
-    <title>AI 预测引擎 Prophetlab 获数千万元种子轮融资</title>
-    <link>https://www.leiphone.com/category/industrynews/5gyZIVYyxDzi67wu.html</link>
-    <guid isPermaLink="false">96-10</guid>
-    <pubDate>Wed, 04 Nov 2026 16:30:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>AI 预测引擎公司 Prophetlab 成立不到四个月即获数千万元天使轮融资，由常春藤资本等投资。其预测引擎 Prophet Engine 登顶字节 Seed 发布的 FutureX 总榜，并已获得数百万元商业化订单，团队来自阿里千问、腾讯混元等项目的模型训练一线。</description>
-  </item>
-  <item>
-    <title>我国科研团队发布开源核糖核酸序列基础模型</title>
-    <link>https://xinwen.bjd.com.cn/content/s6aec0438e4b039a8e2f334ef.html</link>
-    <guid isPermaLink="false">96-11</guid>
-    <pubDate>Thu, 05 Nov 2026 04:21:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>我国科研团队发布开源 RNA 序列基础模型，相关成果登上国际顶刊《自然》。该模型面向核糖核酸序列建模，以开源方式对外发布，供科研社区使用。</description>
-  </item>
-  <item>
-    <title>网易《永劫无间》支持英伟达 DLSS 5，成首款实装国产游戏</title>
-    <link>https://www.ithome.com/1/022/614.htm</link>
-    <guid isPermaLink="false">96-12</guid>
-    <pubDate>Thu, 05 Nov 2026 04:11:28 +0000</pubDate>
-    <source>IT之家</source>
-    <description>网易《永劫无间》宣布正式支持英伟达 DLSS 5 及神经渲染技术，并支持最高 6 倍插帧，早于《燕云十六声》的 11 月 24 日，成为全球首批、国产首款实装该技术的游戏。DLSS 5 通过 AI 模型参与画面重建，提升纹理、皮肤次表面散射、接触阴影与头发渲染表现。</description>
-  </item>
-  <item>
-    <title>蚂蚁灵光开放生态扩容，外部连接器增至 40 项</title>
-    <link>https://www.leiphone.com/category/industrynews/KAD74l2DdSMcKPgY.html</link>
-    <guid isPermaLink="false">96-13</guid>
-    <pubDate>Wed, 04 Nov 2026 07:57:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>蚂蚁灵光完成新一轮升级，新增播客订阅、夸克网盘、哈啰打车、麦当劳和微信读书等连接器，外部连接器累计达 40 项。官方数据显示，用户请求中财务与消费场景占比 23.83%，健康与习惯场景占比 21.46%，AI 助手正从问答工具转为生活服务入口。</description>
-  </item>
-  <item>
-    <title>国产算力跑大模型准确率达 94.2%，生产交付仍存 gap</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopm4pSeOUVEhaRnfUbQrSbHbVqXa8Fplpd9Ac7ANAZ5Un7OMVWOQx363DS_vDZM7tT2s2Zv7qCfEB2RB_-wsInukuK8NCm0PLMURKHo9IhsqVRDe2n9geDfxOuH4EehedcGP2VKUTZatZc5HG0LkS7o_RVmdCEoQWQO7V6YoJ9nklvNhAtQAEiBOkk1p8c3_5Ee3Gf7KKv1nArRtmyIGw2VAg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=07F84BDC0C4ED6CBC6C39946053EADFEC6330BE16AEC13D2</link>
-    <guid isPermaLink="false">96-14</guid>
-    <pubDate>Thu, 05 Nov 2026 03:55:53 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>行业讨论指出，国产芯片跑大模型已被反复验证可行，部分场景准确率达到 94.2%，海光、昇腾、寒武纪、沐曦、壁仞等均有方案。但文章强调从「能跑起来」到「能交付生产」之间仍隔着运维、稳定性与工程化能力。</description>
-  </item>
-  <item>
-    <title>均胜电子机器人高算力控制器累计交付突破 2000 套</title>
-    <link>https://www.guandian.cn/article/20261105/623501.html</link>
-    <guid isPermaLink="false">96-15</guid>
-    <pubDate>Thu, 05 Nov 2026 02:49:21 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>均胜电子披露，其机器人高算力控制器累计生产交付突破 2000 套。该产品面向机器人算力控制场景，交付规模反映具身智能硬件供应链正在放量。</description>
-  </item>
-  <item>
-    <title>小米把「模型货架」开进 PC 客户端，聚合国产大模型</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopm4pSeOUVEhaRnfUbQrSbHbVqXa8Fplpd9cf0jiZW5EYATYYTzs9SknmINPIg8Ko9dje8eA0cw3j70Pf54cz7zLtN5X9eDqSTSHpwfO7TLJElCyS3_J9GyI_H4qeYuNRGd0u4A8IujceNCIe6oyaidetQbGqc4PQ-S45I-pt7yKDXbJbI1zkefs4Wzlu0nr401576oBbBgwJlQ_LeJW-Rhtg..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=07F84BDC0C4ED6CBC6C39946053EADFEC6330BE16AEC13D2</link>
-    <guid isPermaLink="false">96-16</guid>
-    <pubDate>Thu, 05 Nov 2026 00:08:25 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>小米推出 PC 客户端，将多家国产大模型聚合为「模型货架」，用户可在同一客户端内调用不同模型。该产品定位为把国产大模型半壁江山装进个人电脑，降低多模型使用门槛。</description>
-  </item>
-  <item>
-    <title>国产大模型拿下七成调用量却只分三成收入，行业寻求摆脱只卖 Token</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4T3V7gUeopm4pSeOUVEhaRnfUbQrSbHbVqXa8Fplpd99OnLfV3OcIuATIIOzI2NJOgWsgniG-2c_W8fVgBxoPG7SP_kfBNrhDkp8aLKOeGAWcP7a8HK7ufLFjAaNkmHs1GLhygUAbn8pZO3FNz8tcU6ttv8pINVyp1KsbPsdIxutIrlkG-WPjTJpHUHOnlCjGfFNoC47CFtRQuBtNbv2Tnm0CtGSSkZQQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=07F84BDC0C4ED6CBC6C39946053EADFEC6330BE16AEC13D2</link>
-    <guid isPermaLink="false">96-17</guid>
-    <pubDate>Thu, 05 Nov 2026 03:10:22 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>行业分析指出，国产大模型在调用量上占据优势，拿下约七成份额，但收入分成仅约三成，单纯按 Token 计费的商业模式承压。文章认为行业焦点已从跑分与调用量转向价值分配与商业化路径。</description>
-  </item>
-  <item>
-    <title>小米多款新机通过 SRRC 认证，支持端侧大模型</title>
-    <link>https://www.ithome.com/1/022/576.htm</link>
-    <guid isPermaLink="false">96-18</guid>
-    <pubDate>Thu, 05 Nov 2026 03:26:22 +0000</pubDate>
-    <source>IT之家</source>
-    <description>型号为 M016EB、M841EE、M077CE、M540BF 的小米新机通过 SRRC 认证，预计明年年初发布。认证信息显示新机支持小米自家端侧大模型，备案涉及小爱同学、澎湃视觉、澎湃感知与 MiMo 等模型。</description>
-  </item>
-  <item>
-    <title>百度首次披露 Apollo World 世界模型，用于萝卜快跑无人驾驶验证</title>
-    <link>https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu</link>
-    <guid isPermaLink="false">95-1</guid>
-    <pubDate>Tue, 03 Nov 2026 21:26:32 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>百度 Apollo 在深圳 AI Day 上首次披露面向物理 AI 的全模态世界模型 Apollo World，提出世界模型「2+3」判断标准，强调忠实还原物理规律而非渲染画质。该模型将虚拟场景内所有交通参与者建模为可决策交互的 AI 智能体，已用于萝卜快跑全球化测试与验证，后者端到端全无人运营超百万公里。这意味着世界模型正从内容生成工具转向无人驾驶安全验证的基础设施。</description>
-  </item>
-  <item>
-    <title>国行 Apple 智能与 Siri 上线，接入阿里千问</title>
-    <link>https://www.ithome.com/1/021/861.htm</link>
-    <guid isPermaLink="false">95-2</guid>
-    <pubDate>Tue, 03 Nov 2026 19:08:12 +0000</pubDate>
-    <source>IT之家</source>
-    <description>苹果向 iPhone 推送 iOS 27.3 开发者预览版，国行「Apple 智能与 Siri」如约而至，设置中已出现功能页面。国行版本与阿里巴巴合作，用户可在 Siri、写作工具和视觉智能中直接调用千问，覆盖文本与图像理解，无需跳转独立应用。首批开放实时翻译、写作改写校对摘要、视觉识别与照片消除等高频场景，千问集成范围将延伸至 iPadOS、macOS 与 visionOS。</description>
   </item>
 </channel></rss>
