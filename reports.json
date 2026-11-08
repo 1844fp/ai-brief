@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T18:05:23.018995",
+ "generated_at": "2026-11-09T07:30:52.259962",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 103,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-09",
+   "created_at": "2026-11-08T23:30:51.284394+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-09/news_daily-073051.html"
+  },
   {
    "id": 102,
    "task": "news_daily",
@@ -867,6 +876,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 以 1.25 万亿美元估值完成 110 亿美元融资",
+   "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+   "source": "Hacker News",
+   "summary": "OpenAI 在新一轮融资中筹集 110 亿美元，估值达 1.25 万亿美元，低于其最初寻求的 1.4 万亿美元。这是继今年 3 月以 8520 亿美元估值融资 1220 亿美元后的又一次大规模募资，多家媒体报道。该估值使 OpenAI 跻身全球市值最高公司之列，也显示资本对前沿模型公司的押注仍在加码。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-08T14:49:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Nvidia 启动调查：黄仁勋承认与疑似中国间谍人员存在婚外情",
+   "url": "https://www.independent.co.uk/news/world/americas/nvidia-ceo-jensen-huang-affair-spy-investigation-b3081353.html",
+   "source": "Google News 英文",
+   "summary": "Nvidia 董事会宣布对 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 的关系展开独立调查，后者据报被中国国家安全部招募以刺探公司情报。多家媒体报道，事件已引发公司治理与国家安全层面的双重关切。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-08T22:54:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "OpenAI 发布 GPT-6 Cyber，漏洞利用能力显著增强",
+   "url": "https://www.bankinfosecurity.com/openai-unveils-gpt-6-cyber-stronger-exploit-skills-a-33314",
+   "source": "Google News 英文",
+   "summary": "OpenAI 推出面向网络安全场景的 GPT-6 Cyber 模型，官方称其发现与利用漏洞的能力明显强于前代。该模型面向防御性安全研究，但更强的攻击性能力也引发双用途担忧。多家安全媒体对此进行了报道。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-08T20:40:07+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Anthropic 达成 34 亿美元燃气发电协议为数据中心供电",
+   "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+   "source": "Hacker News",
+   "summary": "Anthropic 与发电方达成 34 亿美元协议，专门为其 AI 数据中心建设燃气发电设施，以锁定长期电力供应。FT 报道称，这凸显 AI 算力扩张正直接推动化石能源投资。多家媒体跟进报道。",
+   "why": null,
+   "category": "算力与能源",
+   "heat": 4,
+   "published": "2026-11-08T12:41:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Anthropic 推进 IPO，将检验 AI 行业财务可持续性",
+   "url": "https://www.bankinfosecurity.com/anthropic-ipo-to-test-ai-industrys-financial-viability-a-33328",
+   "source": "Google News 英文",
+   "summary": "Anthropic 的上市计划被多家媒体解读为对 AI 行业商业模式的一次公开压力测试，市场关注其收入增速能否支撑高估值。相关报道同时提及 OpenAI 最新一轮 110 亿美元融资与 1.25 万亿美元估值作为对照。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 4,
+   "published": "2026-11-08T20:40:07+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Microsoft Research 的 AI Frontiers 团队宣告解散",
+   "url": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "summary": "微软研究院旗下 AI Frontiers 团队被确认结束，相关消息在技术社区引发大量讨论。该团队此前负责多项前沿模型与智能体研究，其解散被视为大厂研究组织向产品化收缩的信号。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-07T18:02:17+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Apple 加速推进 Siri 智能体化",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge AI",
+   "summary": "彭博社报道称，Apple CEO 正敦促软件负责人 Craig Federighi 加快 Siri 路线图，打造可与 OpenAI Dots、Meta Muse 竞争的 AI 智能体。公司已在极短周期内交付可用版本，但内部承认与对手仍有差距。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-08T19:18:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "METR 报告：Anthropic 用 AI 加速 AI 研发，引发研究者担忧",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge AI",
+   "summary": "AI 安全研究机构 METR 经 11 周调查发布报告称，Anthropic 正用 AI 构建更强的 AI，其模型改进速度约为一年前的两倍，且未见放缓迹象。研究者担忧这种递归式加速会压缩安全评估的时间窗口。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-07T12:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "美方放行 Nvidia 芯片给空壳中国公司，关联关系引忧",
+   "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+   "source": "Google News 英文",
+   "summary": "《纽约时报》调查称，美国商务部批准的 Nvidia H200 芯片接收方中，存在办公室空置、关联关系可疑的中国企业，审批尽职调查明显不足。The Verge 等媒体跟进报道，质疑出口管制的执行有效性。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-08T21:48:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "白宫要求 AI 安全中心员工直接汇报，独立性受质疑",
+   "url": "https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/",
+   "source": "Google News 英文",
+   "summary": "美联社报道称，美国 AI 安全中心的工作人员被要求向白宫汇报工作，引发对该机构独立性的担忧。相关消息由多家媒体转载，正值 AI 监管框架讨论升温之际。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-08T19:34:02+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "高盛在银行家与交易员中撤下 Claude Code",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "source": "Hacker News",
+   "summary": "高盛已停止向银行家和交易员提供 Claude Code 工具，相关消息在 Hacker News 获得高分讨论。此举发生在金融机构对 AI 编码工具的数据合规与输出可靠性审查趋严的背景下。",
+   "why": null,
+   "category": "行业应用",
+   "heat": 4,
+   "published": "2026-11-08T18:16:07+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Elvis 与 Eminem 版权方起诉 Suno",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge AI",
+   "summary": "Elvis Presley 音乐版权方与 Eminem 部分热门唱片出版方分别起诉 AI 音乐公司 Suno，指控其非法生成模仿这些艺人的音乐与歌词。Presley 一案的律师还援引田纳西州相关法律。",
+   "why": null,
+   "category": "法律与版权",
+   "heat": 3,
+   "published": "2026-11-08T17:23:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Crusoe 将陷入困境的怀俄明数据中心项目出售给 Google",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+   "source": "TechCrunch AI",
+   "summary": "Crusoe 把位于怀俄明州、进展不顺的大型 AI 数据中心项目转让给 Google。该交易凸显超大规模 AI 数据中心在选址、供电与建设上的现实挑战。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-07T01:40:28+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Apple CEO 施压软件负责人推进更激进的 AI 战略",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+   "source": "Hacker News",
+   "summary": "彭博社报道称，Apple 正探索将 Siri 改造为类似 ChatGPT Dots 的智能体，并计划在 iOS 28 周期进行较大调整。CEO 已要求软件负责人加快节奏。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-08T15:19:51+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "腾讯 AI 负责人：AI 将很快掌握生物学，带来新的安全风险",
+   "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+   "source": "Google News 英文",
+   "summary": "腾讯 AI 负责人公开表示，AI 在生物学领域的能力将迅速提升，可能释放新的生物安全风险。该表态由《南华早报》报道，反映中国科技企业对前沿模型双用途属性的警觉。",
+   "why": null,
+   "category": "安全与治理",
+   "heat": 3,
+   "published": "2026-11-08T10:22:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Anthropic 发布智能体记忆的组成要素研究",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Hacker News",
+   "summary": "Anthropic 发表研究，系统拆解智能体记忆的组成部分与设计取舍，为构建长期运行的 AI 智能体提供工程参考。该文在 Hacker News 获得较高关注。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-07T06:39:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "llama-modchip：在 64GB 内存、无 GPU 环境运行 284B 参数 DeepSeek",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "source": "Hacker News",
+   "summary": "开源项目 llama-modchip 展示了在 64GB 内存、不使用 GPU 的条件下运行 284B 参数 DeepSeek 模型的方法，通过内存与量化优化实现。该项目在 Hacker News 获得数百点讨论。",
+   "why": null,
+   "category": "开源与工具",
+   "heat": 3,
+   "published": "2026-11-08T10:22:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "世界模型将无处不在：你需要了解什么",
+   "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know",
+   "source": "Wired AI",
+   "summary": "Wired 撰文指出，世界模型正把 AI 从文本推进到三维空间，通过模拟真实物理规律来训练机器人与自动驾驶系统。文章梳理了该方向的技术路径与主要玩家。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-08T10:00:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
