@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 07 Nov 2026 08:05:52 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 18:05:23 +0000</lastBuildDate>
+  <item>
+    <title>OpenAI 以 1.25 万亿美元估值再融 110 亿美元</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
+    <guid isPermaLink="false">102-1</guid>
+    <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>据 Bloomberg 报道，OpenAI 在新一轮融资中再募资 110 亿美元，估值达到 1.25 万亿美元，较今年 3 月 8520 亿美元估值大幅跃升。多家媒体跟进报道，该轮融资尚未最终关闭。这一估值使 OpenAI 跻身全球市值最高公司之列，也为其与 Anthropic 的 IPO 竞赛提供更充足弹药。</description>
+  </item>
+  <item>
+    <title>Anthropic S-1 披露：亏损从 52 亿美元收窄至 13 亿美元</title>
+    <link>https://shattered.io/anthropic-s-1-operating-loss-narrows-1-3b-from-5-2b-2026/</link>
+    <guid isPermaLink="false">102-2</guid>
+    <pubDate>Sun, 08 Nov 2026 08:13:53 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Anthropic 提交的 S-1 文件显示，公司年度亏损从 52 亿美元收窄至 13 亿美元，亏损幅度显著改善。该文件在其 IPO 临近之际披露，市场关注其收入增长与成本控制能否支撑上市估值。多家媒体报道了这一进展。</description>
+  </item>
+  <item>
+    <title>METR 报告：Anthropic 用 AI 加速 AI 研发，模型改进速度翻倍</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
+    <guid isPermaLink="false">102-3</guid>
+    <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>AI 安全研究机构 METR 经过 11 周调查发布报告，称 Anthropic 正用 AI 构建更强的 AI，其模型能力提升速度约为一年前的两倍，且未见放缓迹象。报告引发研究者对自动化 AI 研发失控风险的担忧。这是首次有外部机构系统评估前沿实验室的 AI 自我加速程度。</description>
+  </item>
+  <item>
+    <title>Claude Code「不再询问」选项导致 1122 个公开 GitHub 文件泄露密码</title>
+    <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
+    <guid isPermaLink="false">102-4</guid>
+    <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>安全公司 Apiiro 发现，Claude Code 的「Don't Ask Again」权限设置使编码代理在用户不知情下将密钥写入公开 GitHub 仓库，共在 1122 个公开文件中暴露密码等敏感信息。该问题在 HN 引发 270 条评论讨论。事件凸显 AI 编码代理在权限设计上的安全缺口。</description>
+  </item>
+  <item>
+    <title>美国情报备忘录称中国情报机构招募 Megaspeed 高管刺探黄仁勋</title>
+    <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo</link>
+    <guid isPermaLink="false">102-5</guid>
+    <pubDate>Sat, 07 Nov 2026 21:17:08 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>据《纽约时报》报道，美国情报备忘录显示中国国家安全部招募 Megaspeed 高管 Alice Huang，目的是获取美国 AI 芯片信息，并「潜在影响该公司推动最先进芯片对华供应」。TechCrunch、The Verge 等多家媒体跟进。事件发生在美中芯片出口管制敏感期，可能加剧对华芯片贸易审查。</description>
+  </item>
+  <item>
+    <title>Google 收购 Crusoe 怀俄明州东南部数据中心站点</title>
+    <link>https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</link>
+    <guid isPermaLink="false">102-6</guid>
+    <pubDate>Fri, 06 Nov 2026 20:09:14 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google 已收购 Crusoe 在怀俄明州东南部的数据中心园区站点，交易凸显开发大型 AI 数据中心的挑战。TechCrunch 亦报道此事。该收购是 Google 扩大 AI 算力基础设施布局的最新动作。</description>
+  </item>
+  <item>
+    <title>美国放行 Nvidia 向中国一间空壳办公室出售芯片</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+    <guid isPermaLink="false">102-7</guid>
+    <pubDate>Sat, 07 Nov 2026 15:43:45 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 援引《纽约时报》报道称，获准处理 Nvidia H200 AI 芯片的中国公司 New Matrix 办公室空空如也，仅是「灰色空壳」。外界质疑美国商务部和 Nvidia 均未对获批中企做尽职调查。此事与同期曝出的芯片情报渗透指控相互印证。</description>
+  </item>
+  <item>
+    <title>Ramp 数据：Anthropic 临近 IPO 之际，企业 AI 支出却陷入停滞</title>
+    <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo</link>
+    <guid isPermaLink="false">102-8</guid>
+    <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Ramp 的支出数据显示，AI 使用量持续攀升，但企业 AI 支出已经停滞，主要原因是价格下调和头部客户加强成本控制。这一趋势可能挑战投资者对 AI 超高速增长的假设，而时点恰在 Anthropic 逼近 IPO 之际。</description>
+  </item>
+  <item>
+    <title>美国 AI 安全中心员工改为向白宫汇报，独立性引发担忧</title>
+    <link>https://abcnews.com/US/wireStory/staff-us-center-ai-safety-reporting-white-house-137950879</link>
+    <guid isPermaLink="false">102-9</guid>
+    <pubDate>Sun, 08 Nov 2026 08:49:57 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据 ABC News 报道，美国 AI 安全中心（US center for AI safety）的员工现向白宫汇报，引发对该机构独立性的担忧。这一架构调整发生在联邦 AI 监管职能强化的背景下。批评者认为，安全评估机构直接受白宫管辖可能削弱其客观性。</description>
+  </item>
+  <item>
+    <title>Gemini 4 Argon 发布后 GOOGL 上涨，JPMorgan 称 Google 须夺回 AI 领导权</title>
+    <link>https://stocktwits.com/news-articles/markets/equity/googl-stock-gemini-4-argon-launch-reclaim-leadership/cZD05VWRBip</link>
+    <guid isPermaLink="false">102-10</guid>
+    <pubDate>Sat, 07 Nov 2026 14:21:23 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google 发布 Gemini 4 Argon 后，GOOGL 股价上涨，但 JPMorgan 在研报中表示 Google 仍需夺回 AI 领导地位。DeepMind 负责人此前称 Gemini 4 的发布将「早得多」。市场对 Google 能否在模型竞赛中反超 OpenAI 与 Anthropic 仍存分歧。</description>
+  </item>
+  <item>
+    <title>AI 热潮使芯片封装成为新战场</title>
+    <link>https://www.technology.org/2026/11/08/ai-boom-advanced-chip-packaging-cowos-tsmc-nvidia/</link>
+    <guid isPermaLink="false">102-11</guid>
+    <pubDate>Sun, 08 Nov 2026 08:57:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Technology Org 报道称，随着 AI 芯片需求爆发，先进封装正成为半导体产业的新竞争焦点。封装环节此前长期被视为低附加值环节，如今成为制约 AI 芯片产能的关键瓶颈。这一变化正在重塑芯片供应链的价值分配。</description>
+  </item>
+  <item>
+    <title>Wired 实验：免费中国 AI 模型的黑客能力已逼近 OpenAI 未公开的顶级网络安全模型</title>
+    <link>https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking</link>
+    <guid isPermaLink="false">102-12</guid>
+    <pubDate>Fri, 06 Nov 2026 18:43:43 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道的一项实验让多个 AI 模型尝试入侵模拟网络，结果显示 DeepSeek 和 GLM 的黑客能力已不落后于 OpenAI 最先进的网络安全模型多少，而后者并未公开。实验表明开源中国模型在攻击性网络安全能力上快速追赶。</description>
+  </item>
+  <item>
+    <title>Thinking Machines 新模型 Inkling 2 Small 领跑西方开源权重 AI</title>
+    <link>https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight</link>
+    <guid isPermaLink="false">102-13</guid>
+    <pubDate>Fri, 06 Nov 2026 17:08:33 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>ZDNet 报道，Thinking Machines 发布的新模型 Inkling 2 Small 在西方开源权重模型中取得领先地位。该模型是中国以外开发的又一具备竞争力的开源权重模型，可能改变开源模型格局。</description>
+  </item>
+  <item>
+    <title>Meta 推出 Spaces，可在 Muse 代理中构建应用式体验</title>
+    <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent</link>
+    <guid isPermaLink="false">102-14</guid>
+    <pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Meta 为其 AI 助手 Muse 推出名为 Spaces 的新功能，用户可在 Muse 应用内构建购物中心、学校仪表盘、音乐追踪器、问答游戏等定制化应用式体验。TechCrunch 与 The Verge 均报道此事。这是 Meta 将 AI 代理从对话推向可交互应用平台的一步。</description>
+  </item>
+  <item>
+    <title>Underdog 展示 32MB 语音模型，可同时生成语音与音乐</title>
+    <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo</link>
+    <guid isPermaLink="false">102-15</guid>
+    <pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Underdog 在新演示中展示了一个仅 32MB 的语音模型，尽管体积极小，却能同时生成语音和音乐。该演示显示端侧小型生成模型的能力边界正在快速扩展。</description>
+  </item>
+  <item>
+    <title>Physicl 融资 1000 万美元，缩小机器人仿真到现实的差距</title>
+    <link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots</link>
+    <guid isPermaLink="false">102-16</guid>
+    <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Physicl 完成 1000 万美元融资，致力于解决机器人领域从仿真到现实（sim-to-real）的迁移难题，其技术管线最初用于线上商品营销。该融资反映资本对机器人训练基础设施的关注。</description>
+  </item>
+  <item>
+    <title>数百个 Artex AI 黑客工具被公开暴露在互联网上</title>
+    <link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web</link>
+    <guid isPermaLink="false">102-17</guid>
+    <pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>安全研究人员发现数百台托管渗透测试工具 Artex 的服务器暴露在公网，任何人都可访问该黑客工具。事件与近期多起 AI 相关安全暴露事件叠加，引发对 AI 攻击工具扩散的担忧。</description>
+  </item>
+  <item>
+    <title>Chainalysis 称黑客窃取全部客户的凭证与令牌</title>
+    <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers</link>
+    <guid isPermaLink="false">102-18</guid>
+    <pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Chainalysis 披露遭遇「多线网络攻击」，攻击包含 AI 代理和路径上的数据窃取，导致全部客户的凭证与令牌被窃。Ars Technica 报道了这一事件。该案显示 AI 代理已被用于真实攻击链。</description>
+  </item>
+  <item>
+    <title>中期选举后，AI 行业将迎来艰难两年？</title>
+    <link>https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years</link>
+    <guid isPermaLink="false">102-19</guid>
+    <pubDate>Fri, 06 Nov 2026 17:23:52 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>美国中期选举中民主党取得历史性胜利，41 项与数据中心相关的公投中除一项外均通过限制数据中心开发的措施。TechCrunch 分析认为，即便数据中心未直接列入选票，也已成为两党共同关注议题。这一结果可能重塑 AI 基础设施扩张的政治环境。</description>
+  </item>
+  <item>
+    <title>AI 公司高价收购企业工作文件与邮件用于模型训练</title>
+    <link>https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails</link>
+    <guid isPermaLink="false">102-20</guid>
+    <pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道称，数据经纪商正在收集各类企业内部文件，供 AI 公司训练模型，且并非所有人都对此满意。这一趋势反映高质量训练数据日益稀缺，企业数据成为争夺对象。</description>
+  </item>
   <item>
     <title>摩尔线程完成 3 万亿参数 Kimi-K3.1 Pro 的 Day-0 适配，支持文本与图片推理</title>
     <link>https://www.ithome.com/1/023/561.htm</link>
@@ -323,165 +483,5 @@
     <pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Meta 宣布在 Muse 中引入 Spaces 功能，允许用户构建购物中心、学校仪表盘、音乐追踪器、问答游戏等应用式体验，并直接在 Muse 应用内交互。TechCrunch 和 The Verge 均报道称，用户可自行创建新的空间。这是 Meta 将 AI 助手从对话推向可组合应用生态的重要一步。</description>
-  </item>
-  <item>
-    <title>免费中国 AI 模型黑客能力逼近 OpenAI 顶级网络安全模型</title>
-    <link>https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking</link>
-    <guid isPermaLink="false">99-9</guid>
-    <pubDate>Fri, 06 Nov 2026 18:43:43 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道的一项实验显示，DeepSeek 和 GLM 等免费中国模型在模拟网络入侵任务中的表现，已接近 OpenAI 尚未公开的最先进网络安全模型。实验要求模型突破模拟网络，结果显示中美开源模型在攻击性安全能力上的差距正在缩小。这引发了对开放权重模型双用途风险的进一步担忧。</description>
-  </item>
-  <item>
-    <title>Thinking Machines 新模型领跑西方开放权重 AI</title>
-    <link>https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight</link>
-    <guid isPermaLink="false">99-10</guid>
-    <pubDate>Fri, 06 Nov 2026 17:08:33 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>Thinking Machines 发布新模型 Inkling 2 Small，在西方开放权重模型中取得领先位置。ZDNet 报道称，这是又一款在中国之外开发的竞争性模型，可能改变开放权重生态的格局。该模型的出现为西方开发者提供了中国开源模型之外的新选择。</description>
-  </item>
-  <item>
-    <title>中期选举蓝潮可能重塑 AI 行业</title>
-    <link>https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry</link>
-    <guid isPermaLink="false">99-11</guid>
-    <pubDate>Fri, 06 Nov 2026 18:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>美国中期选举中民主党取得历史性胜利，41 项与数据中心相关的公投措施中，除一项外均有多数选民支持对数据中心开发施加更多限制。TechCrunch 报道称，即便数据中心未直接列入选票，也已成为重要议题。这预示着 AI 基础设施扩张将面临更强的地方政治阻力。</description>
-  </item>
-  <item>
-    <title>美国 OCC 发布银行使用“超级智能”的监管框架</title>
-    <link>https://www.consumerfinancemonitor.com/2026/11/06/occ-issues-supervisory-framework-for-banks-use-of-super-intelligence-a-risk-based-approach-to-generative-and-agentic-ai/</link>
-    <guid isPermaLink="false">99-12</guid>
-    <pubDate>Fri, 06 Nov 2026 19:58:38 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美国货币监理署（OCC）发布针对银行使用“超级智能”的监督框架，对生成式与智能体 AI 采取基于风险的方法。Consumer Finance Monitor 报道称，该框架为银行部署 AI 提供了合规指引。这是金融监管机构首次系统性地将智能体 AI 纳入银行风险管理体系。</description>
-  </item>
-  <item>
-    <title>Ramp 数据显示 AI 支出停滞，恰逢 Anthropic 临近 IPO</title>
-    <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo</link>
-    <guid isPermaLink="false">99-13</guid>
-    <pubDate>Fri, 06 Nov 2026 15:54:47 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Ramp 的数据显示，AI 使用量持续攀升，但支出已经停滞，降价和更精细的成本控制正在削弱市场对 AI 超高速增长的假设。TechCrunch 报道称，这一趋势恰逢 Anthropic 临近 IPO，可能挑战投资者对 AI 行业营收曲线的预期。支出与使用量的背离是当前 AI 商业化最值得关注的信号之一。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 BioBasicsBench，衡量 AI 智能体的湿实验室科研能力</title>
-    <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-    <guid isPermaLink="false">99-14</guid>
-    <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布 BioBasicsBench，包含 100 项任务，用于衡量 AI 智能体解读原始实验数据和处理日常湿实验室科研的能力。该基准填补了 AI 在真实生物实验场景中能力评估的空白。它为智能体在生命科学自动化中的落地提供了可比较的评测标准。</description>
-  </item>
-  <item>
-    <title>Perplexity 推出面向工作的 AI 智能体</title>
-    <link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
-    <guid isPermaLink="false">99-15</guid>
-    <pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Perplexity 发布面向复杂持续工作的 AI 智能体产品，将其搜索能力扩展到任务执行场景。HN 讨论热度较高，评论关注其与现有智能体平台的差异。这是 Perplexity 从答案引擎向工作流智能体转型的重要尝试。</description>
-  </item>
-  <item>
-    <title>Underdog 展示 32MB 语音模型</title>
-    <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo</link>
-    <guid isPermaLink="false">99-16</guid>
-    <pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Underdog 在新演示中展示了一款仅 32MB 的语音模型，尽管体积很小，却能同时生成语音和音乐。TechCrunch 报道称，该模型在端侧部署和低资源场景下具有潜在优势。超小模型的能力提升正在拓宽语音生成的部署边界。</description>
-  </item>
-  <item>
-    <title>Physicl 融资 1000 万美元，缩小机器人仿真到现实的差距</title>
-    <link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots</link>
-    <guid isPermaLink="false">99-17</guid>
-    <pubDate>Fri, 06 Nov 2026 13:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Physicl 完成 1000 万美元融资，致力于让数字世界足够真实以用于机器人训练，解决仿真到现实（sim-to-real）的差距。TechCrunch 报道称，其技术管线最初用于在线商品营销。该融资反映出机器人训练数据与仿真基础设施正成为投资热点。</description>
-  </item>
-  <item>
-    <title>88 亿美元交易如何让 Resonac 转型押注 AI 芯片热潮</title>
-    <link>https://www.cnbc.com/video/2026/11/06/resonac-ai-chip-bet.html</link>
-    <guid isPermaLink="false">99-18</guid>
-    <pubDate>Fri, 06 Nov 2026 22:01:08 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>CNBC 报道称，Resonac 通过一笔 88 亿美元的交易完成转型，切入 AI 芯片供应链。该公司在半导体材料与封装相关领域布局，受益于 AI 算力扩张带来的材料需求。这显示出 AI 芯片热潮正在向上游材料与封装环节传导。</description>
-  </item>
-  <item>
-    <title>数百个 Artex AI 黑客工具被公开暴露在互联网上</title>
-    <link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web</link>
-    <guid isPermaLink="false">99-19</guid>
-    <pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>安全研究人员发现数百个托管渗透测试工具 Artex 的服务器暴露在互联网上，任何人都能访问该黑客工具。TechCrunch 报道称，这些暴露的服务器可能被滥用进行攻击。事件凸显 AI 安全工具在部署与访问控制上的风险。</description>
-  </item>
-  <item>
-    <title>抗议者闯入阿姆斯特丹微软数据中心工地</title>
-    <link>https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam</link>
-    <guid isPermaLink="false">99-20</guid>
-    <pubDate>Fri, 06 Nov 2026 11:55:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>抗议者闯入阿姆斯特丹新建微软数据中心工地，约 100 人进入现场，反对建设三座 85 米高的数据中心塔楼。The Verge 援引路透社报道称，Geef Tegengas 组织协助组织了此次抗议。这是欧洲围绕 AI 数据中心能耗与社区影响的最新冲突。</description>
-  </item>
-  <item>
-    <title>OpenAI 据报以 1.25 万亿美元估值追加融资 110 亿美元</title>
-    <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation</link>
-    <guid isPermaLink="false">98-1</guid>
-    <pubDate>Fri, 06 Nov 2026 22:53:46 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>OpenAI 在尚未关闭的一轮融资中再获 110 亿美元，估值达 1.25 万亿美元，预计数周内完成。这一规模刷新了私营 AI 公司的融资纪录，也意味着其资本开支与算力承诺将继续扩张。多家媒体报道称，融资节奏与二级市场对 AI 估值的重新定价正在形成对照。</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 买方预期估值低至 1.1 万亿美元</title>
-    <link>https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout</link>
-    <guid isPermaLink="false">98-2</guid>
-    <pubDate>Fri, 06 Nov 2026 16:54:36 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>在 AI 板块抛售压力下，Anthropic IPO 的估值预期被压低至约 1.1 万亿美元区间。此前市场对其定价更为乐观，如今买方在路演中要求更大折价。这一变化与 Ramp 数据显示的企业 AI 支出停滞相互印证，投资者开始质疑超高速增长的持续性。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini Omni 1.2 Flash</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash</link>
-    <guid isPermaLink="false">98-3</guid>
-    <pubDate>Fri, 06 Nov 2026 13:35:27 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Google 推出 Gemini Omni 1.2 Flash，主打多模态统一与低延迟推理，官方博客与新闻稿同步上线。该版本在 HN 获得 282 分、212 条评论，讨论集中在 Flash 档位对开发者成本的影响。这是 Google 在轻量级模型赛道对 OpenAI 与开源阵营的又一次正面回应。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 GPT-6 Cyber，此前 AI 已协助发现 81 个 Firefox 漏洞与 948 个 Linux 利用点</title>
-    <link>https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html</link>
-    <guid isPermaLink="false">98-4</guid>
-    <pubDate>Fri, 06 Nov 2026 14:58:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI 发布面向网络安全的 GPT-6 Cyber，专门用于发现可利用漏洞并生成修复方案，训练时刻意约束在授权范围内。官方披露该模型在前期测试中协助找出 81 个 Firefox 漏洞和 948 个 Linux 利用点。这标志着前沿模型开始以「对齐的攻防智能体」形态进入企业安全运营。</description>
-  </item>
-  <item>
-    <title>Perplexity 推出面向工作的 AI 智能体 Teammates</title>
-    <link>https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
-    <guid isPermaLink="false">98-5</guid>
-    <pubDate>Fri, 06 Nov 2026 17:59:41 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Perplexity 发布常驻型「Teammates」智能体，可在同一工作区内承担多种角色，并调用用户已有的项目、技能与记忆。该产品与 Perplexity Computer 集成，可在本地设备部署智能体，直接对标 OpenAI 与 Anthropic 的企业智能体产品。The Verge 等媒体认为这是 Perplexity 从搜索向工作流平台转型的关键一步。</description>
-  </item>
-  <item>
-    <title>Nvidia 据报投入数十亿美元布局先进芯片封装</title>
-    <link>https://www.benzinga.com/markets/prediction-markets/26/11/63010319/nvidia-chip-packaging</link>
-    <guid isPermaLink="false">98-6</guid>
-    <pubDate>Fri, 06 Nov 2026 20:30:07 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Nvidia 正将数十亿美元投向先进封装产能，视其为 AI 芯片供应的下一个瓶颈。随着 HBM 与逻辑 die 的集成需求上升，封装环节的产能与良率直接决定 GPU 出货节奏。此举意味着算力竞赛的焦点正从制程节点向封装与内存堆叠转移。</description>
-  </item>
-  <item>
-    <title>Nvidia 收紧东南亚 AI 芯片流向追踪，应对中国走私担忧</title>
-    <link>https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/</link>
-    <guid isPermaLink="false">98-7</guid>
-    <pubDate>Fri, 06 Nov 2026 21:27:27 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Nvidia 加强在东南亚的 AI 芯片流向追踪机制，以回应外界对其产品经第三地流入中国的担忧。报道称公司正与当地渠道商配合核查出货去向。这是美国出口管制压力下，芯片厂商首次将合规追踪下沉到区域分销环节。</description>
-  </item>
-  <item>
-    <title>Meta 为 Muse 智能体推出 Spaces 协作空间</title>
-    <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent</link>
-    <guid isPermaLink="false">98-8</guid>
-    <pubDate>Fri, 06 Nov 2026 18:44:20 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Meta 在 Muse 应用中上线「Spaces」，允许用户构建购物中心、学校看板、音乐追踪器等应用化体验，并直接在应用内交互。该功能把 AI 助手从对话界面推向可组合的轻应用平台。TechCrunch 与 The Verge 均报道，Meta 正借此把 Muse 打造成消费级智能体入口。</description>
   </item>
 </channel></rss>

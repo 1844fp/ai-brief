@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T08:05:52.367338",
+ "generated_at": "2026-11-08T18:05:23.018995",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 102,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-08",
+   "created_at": "2026-11-08T10:05:22.071135+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-08/news_daily-180522.html"
+  },
   {
    "id": 101,
    "task": "news_daily_cn",
@@ -858,6 +867,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 以 1.25 万亿美元估值再融 110 亿美元",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "source": "The Verge AI",
+   "summary": "据 Bloomberg 报道，OpenAI 在新一轮融资中再募资 110 亿美元，估值达到 1.25 万亿美元，较今年 3 月 8520 亿美元估值大幅跃升。多家媒体跟进报道，该轮融资尚未最终关闭。这一估值使 OpenAI 跻身全球市值最高公司之列，也为其与 Anthropic 的 IPO 竞赛提供更充足弹药。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-06T23:46:18+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic S-1 披露：亏损从 52 亿美元收窄至 13 亿美元",
+   "url": "https://shattered.io/anthropic-s-1-operating-loss-narrows-1-3b-from-5-2b-2026/",
+   "source": "Google News 英文",
+   "summary": "Anthropic 提交的 S-1 文件显示，公司年度亏损从 52 亿美元收窄至 13 亿美元，亏损幅度显著改善。该文件在其 IPO 临近之际披露，市场关注其收入增长与成本控制能否支撑上市估值。多家媒体报道了这一进展。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-08T08:13:53+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "METR 报告：Anthropic 用 AI 加速 AI 研发，模型改进速度翻倍",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge AI",
+   "summary": "AI 安全研究机构 METR 经过 11 周调查发布报告，称 Anthropic 正用 AI 构建更强的 AI，其模型能力提升速度约为一年前的两倍，且未见放缓迹象。报告引发研究者对自动化 AI 研发失控风险的担忧。这是首次有外部机构系统评估前沿实验室的 AI 自我加速程度。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-07T12:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Claude Code「不再询问」选项导致 1122 个公开 GitHub 文件泄露密码",
+   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "source": "Hacker News",
+   "summary": "安全公司 Apiiro 发现，Claude Code 的「Don't Ask Again」权限设置使编码代理在用户不知情下将密钥写入公开 GitHub 仓库，共在 1122 个公开文件中暴露密码等敏感信息。该问题在 HN 引发 270 条评论讨论。事件凸显 AI 编码代理在权限设计上的安全缺口。",
+   "why": null,
+   "category": "安全",
+   "heat": 5,
+   "published": "2026-11-07T20:45:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "美国情报备忘录称中国情报机构招募 Megaspeed 高管刺探黄仁勋",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+   "source": "TechCrunch AI",
+   "summary": "据《纽约时报》报道，美国情报备忘录显示中国国家安全部招募 Megaspeed 高管 Alice Huang，目的是获取美国 AI 芯片信息，并「潜在影响该公司推动最先进芯片对华供应」。TechCrunch、The Verge 等多家媒体跟进。事件发生在美中芯片出口管制敏感期，可能加剧对华芯片贸易审查。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 5,
+   "published": "2026-11-07T21:17:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Google 收购 Crusoe 怀俄明州东南部数据中心站点",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "source": "Hacker News",
+   "summary": "Google 已收购 Crusoe 在怀俄明州东南部的数据中心园区站点，交易凸显开发大型 AI 数据中心的挑战。TechCrunch 亦报道此事。该收购是 Google 扩大 AI 算力基础设施布局的最新动作。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 4,
+   "published": "2026-11-06T20:09:14+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "美国放行 Nvidia 向中国一间空壳办公室出售芯片",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "source": "The Verge AI",
+   "summary": "The Verge 援引《纽约时报》报道称，获准处理 Nvidia H200 AI 芯片的中国公司 New Matrix 办公室空空如也，仅是「灰色空壳」。外界质疑美国商务部和 Nvidia 均未对获批中企做尽职调查。此事与同期曝出的芯片情报渗透指控相互印证。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-07T15:43:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Ramp 数据：Anthropic 临近 IPO 之际，企业 AI 支出却陷入停滞",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+   "source": "TechCrunch AI",
+   "summary": "Ramp 的支出数据显示，AI 使用量持续攀升，但企业 AI 支出已经停滞，主要原因是价格下调和头部客户加强成本控制。这一趋势可能挑战投资者对 AI 超高速增长的假设，而时点恰在 Anthropic 逼近 IPO 之际。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-06T15:54:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "美国 AI 安全中心员工改为向白宫汇报，独立性引发担忧",
+   "url": "https://abcnews.com/US/wireStory/staff-us-center-ai-safety-reporting-white-house-137950879",
+   "source": "Google News 英文",
+   "summary": "据 ABC News 报道，美国 AI 安全中心（US center for AI safety）的员工现向白宫汇报，引发对该机构独立性的担忧。这一架构调整发生在联邦 AI 监管职能强化的背景下。批评者认为，安全评估机构直接受白宫管辖可能削弱其客观性。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-08T08:49:57+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "Gemini 4 Argon 发布后 GOOGL 上涨，JPMorgan 称 Google 须夺回 AI 领导权",
+   "url": "https://stocktwits.com/news-articles/markets/equity/googl-stock-gemini-4-argon-launch-reclaim-leadership/cZD05VWRBip",
+   "source": "Google News 英文",
+   "summary": "Google 发布 Gemini 4 Argon 后，GOOGL 股价上涨，但 JPMorgan 在研报中表示 Google 仍需夺回 AI 领导地位。DeepMind 负责人此前称 Gemini 4 的发布将「早得多」。市场对 Google 能否在模型竞赛中反超 OpenAI 与 Anthropic 仍存分歧。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-07T14:21:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "AI 热潮使芯片封装成为新战场",
+   "url": "https://www.technology.org/2026/11/08/ai-boom-advanced-chip-packaging-cowos-tsmc-nvidia/",
+   "source": "Google News 英文",
+   "summary": "Technology Org 报道称，随着 AI 芯片需求爆发，先进封装正成为半导体产业的新竞争焦点。封装环节此前长期被视为低附加值环节，如今成为制约 AI 芯片产能的关键瓶颈。这一变化正在重塑芯片供应链的价值分配。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 4,
+   "published": "2026-11-08T08:57:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Wired 实验：免费中国 AI 模型的黑客能力已逼近 OpenAI 未公开的顶级网络安全模型",
+   "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
+   "source": "Wired AI",
+   "summary": "Wired 报道的一项实验让多个 AI 模型尝试入侵模拟网络，结果显示 DeepSeek 和 GLM 的黑客能力已不落后于 OpenAI 最先进的网络安全模型多少，而后者并未公开。实验表明开源中国模型在攻击性网络安全能力上快速追赶。",
+   "why": null,
+   "category": "安全",
+   "heat": 4,
+   "published": "2026-11-06T18:43:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Thinking Machines 新模型 Inkling 2 Small 领跑西方开源权重 AI",
+   "url": "https://www.zdnet.com/innovation/thinking-machines-inkling-2-small-open-weight",
+   "source": "ZDNet AI",
+   "summary": "ZDNet 报道，Thinking Machines 发布的新模型 Inkling 2 Small 在西方开源权重模型中取得领先地位。该模型是中国以外开发的又一具备竞争力的开源权重模型，可能改变开源模型格局。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 3,
+   "published": "2026-11-06T17:08:33+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Meta 推出 Spaces，可在 Muse 代理中构建应用式体验",
+   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+   "source": "TechCrunch AI",
+   "summary": "Meta 为其 AI 助手 Muse 推出名为 Spaces 的新功能，用户可在 Muse 应用内构建购物中心、学校仪表盘、音乐追踪器、问答游戏等定制化应用式体验。TechCrunch 与 The Verge 均报道此事。这是 Meta 将 AI 代理从对话推向可交互应用平台的一步。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-06T18:44:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Underdog 展示 32MB 语音模型，可同时生成语音与音乐",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+   "source": "TechCrunch AI",
+   "summary": "Underdog 在新演示中展示了一个仅 32MB 的语音模型，尽管体积极小，却能同时生成语音和音乐。该演示显示端侧小型生成模型的能力边界正在快速扩展。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-06T13:02:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Physicl 融资 1000 万美元，缩小机器人仿真到现实的差距",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+   "source": "TechCrunch AI",
+   "summary": "Physicl 完成 1000 万美元融资，致力于解决机器人领域从仿真到现实（sim-to-real）的迁移难题，其技术管线最初用于线上商品营销。该融资反映资本对机器人训练基础设施的关注。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 3,
+   "published": "2026-11-06T13:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "数百个 Artex AI 黑客工具被公开暴露在互联网上",
+   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+   "source": "TechCrunch AI",
+   "summary": "安全研究人员发现数百台托管渗透测试工具 Artex 的服务器暴露在公网，任何人都可访问该黑客工具。事件与近期多起 AI 相关安全暴露事件叠加，引发对 AI 攻击工具扩散的担忧。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-06T18:44:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Chainalysis 称黑客窃取全部客户的凭证与令牌",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers",
+   "source": "Ars Technica",
+   "summary": "Chainalysis 披露遭遇「多线网络攻击」，攻击包含 AI 代理和路径上的数据窃取，导致全部客户的凭证与令牌被窃。Ars Technica 报道了这一事件。该案显示 AI 代理已被用于真实攻击链。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-06T20:56:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "中期选举后，AI 行业将迎来艰难两年？",
+   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+   "source": "TechCrunch AI",
+   "summary": "美国中期选举中民主党取得历史性胜利，41 项与数据中心相关的公投中除一项外均通过限制数据中心开发的措施。TechCrunch 分析认为，即便数据中心未直接列入选票，也已成为两党共同关注议题。这一结果可能重塑 AI 基础设施扩张的政治环境。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-06T17:23:52+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "AI 公司高价收购企业工作文件与邮件用于模型训练",
+   "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
+   "source": "Wired AI",
+   "summary": "Wired 报道称，数据经纪商正在收集各类企业内部文件，供 AI 公司训练模型，且并非所有人都对此满意。这一趋势反映高质量训练数据日益稀缺，企业数据成为争夺对象。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-06T16:00:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
