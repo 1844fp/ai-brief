@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 09 Nov 2026 08:02:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 08:02:13 +0000</lastBuildDate>
+  <item>
+    <title>蚂蚁集团 AI 助手灵光用户突破 2000 万，2.0 版本一周管理超 116 万项事务</title>
+    <link>https://www.ithome.com/1/024/010.htm</link>
+    <guid isPermaLink="false">106-1</guid>
+    <pubDate>Sun, 08 Nov 2026 14:47:23 +0000</pubDate>
+    <source>IT之家</source>
+    <description>蚂蚁集团宣布旗下 AI 助手灵光用户数已突破 2000 万；灵光 2.0 上线一周内帮助用户管理超 116 万项事务、执行超 360 万次任务。该版本将 AI 介入时点前移，可主动识别需求并发起分析监测，同时接入蚂蚁 APASS 统一账号与授权基础设施。这标志着国内个人 AI 助手从被动响应转向主动事务管理，用户规模已进入头部梯队。</description>
+  </item>
+  <item>
+    <title>腾讯元器平台正式停止服务，2027 年 1 月起不再受理数据导出</title>
+    <link>https://www.ithome.com/1/024/022.htm</link>
+    <guid isPermaLink="false">106-2</guid>
+    <pubDate>Sun, 08 Nov 2026 23:04:49 +0000</pubDate>
+    <source>IT之家</source>
+    <description>腾讯元器智能体平台今日起停止全部公众服务，应用访问、API 调用与控制台均不可用，已发布至公众号等渠道的智能体不再响应用户。用户须在 2027 年 1 月 9 日前完成数据导出，官方推荐迁移至腾讯云智能体开发平台（ADP）和公众号智能回复。此举意味着腾讯智能体战略从分散工具向云端统一平台收拢。</description>
+  </item>
+  <item>
+    <title>字节跳动拟扩大巴西数据中心项目，二期规模将超 100 亿美元在建项目</title>
+    <link>https://www.ithome.com/1/023/993.htm</link>
+    <guid isPermaLink="false">106-3</guid>
+    <pubDate>Sun, 08 Nov 2026 12:29:53 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据彭博社报道，字节跳动正物色开发商建设巴西塞阿拉州佩森港数据中心二期，规模将超过当地在建的 100 亿美元、300MW 项目，并考虑在港区外另建一座服务本地客户的数据中心。该项目可通过数据出境享受税收优惠，是字节在拉美最大的算力资产布局。多家媒体报道此事，显示中国云厂商正加速海外算力基建以支撑 AI 增长引擎。</description>
+  </item>
+  <item>
+    <title>台积电应英伟达要求考虑进入内存行业，生产 3D DRAM</title>
+    <link>https://www.solidot.org/story?sid=85826</link>
+    <guid isPermaLink="false">106-4</guid>
+    <pubDate>Sun, 08 Nov 2026 13:43:08 +0000</pubDate>
+    <source>Solidot</source>
+    <description>台积电正考虑应最大客户英伟达的要求进入先进内存芯片领域，生产 3D DRAM，项目由负责先进封装业务的副总裁徐国晋领导。台积电可能新建工厂或收购现有工厂改造，若成行将与三星、SK 海力士和美光直接竞争。这反映 AI 芯片对高带宽内存的需求正推动代工龙头向上游存储环节延伸。</description>
+  </item>
+  <item>
+    <title>上海交大 AI 原生科学实验室 AutoDNA 实现自主分子生物学实验，成果登《自然》</title>
+    <link>https://www.ithome.com/1/024/001.htm</link>
+    <guid isPermaLink="false">106-5</guid>
+    <pubDate>Sun, 08 Nov 2026 13:23:49 +0000</pubDate>
+    <source>IT之家</source>
+    <description>上海交大陈海波、王肇国团队与樊春海、王飞团队合作构建 AI 原生科学实验室装置 AutoDNA（思源一号），实现自主分子生物学实验操作，成果发表于《自然》并获官网首页头条报道。该装置通过模型、实验与仪器协同设计，解决复杂流程组织、多仪器协同及微米级定位、微升级液体处理等难题。这是国内 AI for Science 在自主实验方向的重要突破。</description>
+  </item>
+  <item>
+    <title>腾讯展示完整 Agent 布局：WorkBuddy 之外发布跨应用协同体系 Buddy One</title>
+    <link>https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html</link>
+    <guid isPermaLink="false">106-6</guid>
+    <pubDate>Sun, 08 Nov 2026 13:11:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>腾讯在 global 数字生态大会上发布跨应用协同体系 Buddy One，并围绕应用、数据、安全和工程四大板块举行 40 余场发布，呈现 WorkBuddy 之外的完整 Agent 布局。腾讯集团高级执行副总裁汤道生指出，企业落地 Agent 最大难题是“断点太多”，关键在于连接人、工具、系统与数据。这显示腾讯正把 Agent 从单点产品扩展为覆盖企业工作流的系统能力。</description>
+  </item>
+  <item>
+    <title>千问进入 iOS 27.3，国产模型首次住进系统层</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3GU9-78ySnfqVv5zUXuTxm4nwYuNwsdWFqXa8Fplpd9yIoQrNkw3zqkqeon1TPSkLKdCdrtmU8fiRpgrH61J2rigKSbQNWa4zGI2zq0DbUEiuJM1hfYUC-jdFzzn0KptZqTGzPooUSR30CZKO6lbREqs8VMlaBeN7YB4sumFovBkl4IfxZLE8mO7Mk1ek2QtEzg_OuTDdonNOKAZBpP-XxOJBjQH7pCxQ..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=339A87C5D80DC7DBD4D28B70BD6AE854D56E905C6AF10D11</link>
+    <guid isPermaLink="false">106-7</guid>
+    <pubDate>Sun, 08 Nov 2026 01:04:06 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>据微信公众号文章，千问已进入 iOS 27.3 系统层，国产大模型首次以系统级集成方式触达 iPhone 用户。此前国产模型出海多停留在榜单和 benchmark 层面，此次进入操作系统意味着分发渠道和用户习惯入口的实质性突破。若属实，将改变国产模型在海外市场的渗透路径。</description>
+  </item>
+  <item>
+    <title>拓斯达发布工业双足人形机器人 Star，双臂负载 10 公斤</title>
+    <link>https://www.guandian.cn/article/20261108/624687.html</link>
+    <guid isPermaLink="false">106-8</guid>
+    <pubDate>Sun, 08 Nov 2026 14:06:07 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>拓斯达发布全尺寸工业双足人形机器人 Star，双臂负载达 10 公斤，并集中发布三大场景方案。该产品面向工业场景，强调负载能力与场景落地，而非通用演示。多家媒体报道首秀，显示国内人形机器人正从样机展示转向工业场景的工程化交付。</description>
+  </item>
+  <item>
+    <title>英矽智能发布全天候多智能体系统“个人长寿超级智能”（PLSI）</title>
+    <link>https://hub.baai.ac.cn/view/59487</link>
+    <guid isPermaLink="false">106-9</guid>
+    <pubDate>Sun, 08 Nov 2026 16:40:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>英矽智能发布名为“个人长寿超级智能”（PLSI）的全天候多智能体系统，面向个人健康与长寿管理场景。该系统以多智能体架构提供持续运行的健康事务管理能力，是 AI 制药公司向个人健康 Agent 延伸的尝试。这反映生物计算企业正把药物研发能力产品化到消费级健康管理。</description>
+  </item>
+  <item>
+    <title>百图生科与 11 家伙伴战略合作，AI 生物计算覆盖医药研发及农业育种</title>
+    <link>https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html</link>
+    <guid isPermaLink="false">106-10</guid>
+    <pubDate>Sat, 07 Nov 2026 02:40:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>百图生科在第三届国际生物计算创新峰会上宣布与大学、科企及投资机构等 11 家伙伴启动合作，覆盖乳腺癌虚拟细胞大模型、AI 中医药联合实验室、农业育种等方向，合作网络延伸至日本、新加坡及“一带一路”市场。峰会汇聚约 300 名科研、产业及投资界代表。这显示生命科学基础大模型正从单点研发走向跨机构、跨区域的生态协作。</description>
+  </item>
+  <item>
+    <title>MiniMax 闫俊杰谈 AGI 路径：中美 AI 只差 5%，但追赶更难</title>
+    <link>https://www.tmtpost.com/8197537.html</link>
+    <guid isPermaLink="false">106-11</guid>
+    <pubDate>Sun, 08 Nov 2026 12:05:35 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>MiniMax 创始人闫俊杰在钛媒体文章中提出，中美 AI 差距仅约 5%，但追赶前面 95% 的难度更大，并阐述其“抄后路”的 AGI 实现思路。该观点为国产大模型在算力受限下的技术路线选择提供了来自一线创业者的判断。这反映国内模型公司在差距缩小后正重新思考差异化竞争策略。</description>
+  </item>
+  <item>
+    <title>国产大模型拿下全球七成调用量，却只分到三成收入</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3GU9-78ySnfqVv5zUXuTxm4nwYuNwsdWFqXa8Fplpd9Lp-4t09aXQEVvTJ5_XhzsFOL5WTMqEyYTrlvR6wjvtoxpgOq0f8V_YsqGdwIVmaK0KRDzV0TmjJw5Kwr4GmCygdYFn_BW61hJFz7p9HmeFlj0e6TJCeVCt2pCX8TX5EXOsUL7NvvroQhGc96gxdXXaJgCdKWsEgLqf79lG-vEJrwdVqCwyPdzA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=339A87C5D80DC7DBD4D28B70BD6AE854D56E905C6AF10D11</link>
+    <guid isPermaLink="false">106-12</guid>
+    <pubDate>Sun, 08 Nov 2026 11:03:58 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>微信公众号文章指出，国产大模型在全球 API 调用量中占比约七成，但收入份额仅约三成，厂商当前首要目标不是利润而是开发者阵地与用户习惯。文章认为，开发者用谁家 API 写应用、用户在谁家模型上养成习惯，决定下一阶段格局。这揭示国产模型以低价换份额的策略及其商业化压力。</description>
+  </item>
+  <item>
+    <title>量子位：资本正在撤离“世界模型”</title>
+    <link>https://www.qbitai.com/2026/11/508466.html</link>
+    <guid isPermaLink="false">106-13</guid>
+    <pubDate>Sun, 08 Nov 2026 04:09:55 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道称，资本正从世界模型赛道撤离，该领域经历短暂热潮后融资环境转冷。文章以“没有永远的夏天”概括这一转向，反映世界模型在技术验证与商业回报之间的落差。这与李飞飞团队等仍推进世界模型研究的动向形成对照，显示资本与学术的节奏分化。</description>
+  </item>
+  <item>
+    <title>钛媒体：AI 基建瓶颈从 GPU、电力转向电工等施工人力</title>
+    <link>https://www.tmtpost.com/8194549.html</link>
+    <guid isPermaLink="false">106-14</guid>
+    <pubDate>Sun, 08 Nov 2026 06:55:09 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体分析指出，AI 基础设施瓶颈已从 GPU、电力、电气设备转移至电工等施工人力，资本可以买断设备排期，却无法压缩技工数年的培养周期。这场竞赛正从资本密集转向人力密集，人力供给约束可能决定算力扩张的长期上限。这为理解全球数据中心建设进度提供了新视角。</description>
+  </item>
+  <item>
+    <title>荣耀 Magic9 AI Agent 实测：手机智能体能否自动办事引争议</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3GU9-78ySnfdOpVjkx921u4nwYuNwsdWFqXa8Fplpd9TLvYHoyjBIuUqF7TaAWe5ca3VuiiuonoSgg6Pc_pexusHvoYryLruqwo1kfQA7moVMvNzkrwTfE-30MUoQrqtQYde0GcTrx6NwP5jBLEGr1ZFaLeje7zZqgmKL9zreVVG5qenLAQ4kWwNQSS4_QL7kbT3C6VWl2kcYueNzsk_4Cq3X8EKMKOIA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=339A3410D80DC7DBD4D28B70BD6AE854D56E905C6AF10D09</link>
+    <guid isPermaLink="false">106-15</guid>
+    <pubDate>Sun, 08 Nov 2026 13:14:42 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>微信公众号对荣耀 Magic9 的 AI Agent 进行实测，讨论手机智能体究竟是能自动办事还是营销噱头，用户观点分为两派。文章聚焦展示效果与日常可用性之间的差距，涉及权限、可靠性与实际任务完成度。这反映端侧 Agent 在落地初期面临的信任与体验考验。</description>
+  </item>
+  <item>
+    <title>InfoQ：Agent 越用越多，企业为何仍不够 AI Native</title>
+    <link>https://www.infoq.cn/article/YZx670AAiudsqZjx3UNo</link>
+    <guid isPermaLink="false">106-16</guid>
+    <pubDate>Mon, 09 Nov 2026 00:08:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 文章探讨企业部署的 Agent 数量持续增加，但组织整体仍未达到 AI Native 状态的原因，涉及流程重构、数据打通与组织协作等层面。文章指出工具普及不等于工作方式转型，企业需要更深的系统改造。这为理解企业级 AI 落地的真实进度提供了工程视角。</description>
+  </item>
+  <item>
+    <title>InfoQ：自动路由未必省钱，便宜模型出错后人工修复成本更高</title>
+    <link>https://www.infoq.cn/article/gOcDmZM2MPAQhWtNb6IJ</link>
+    <guid isPermaLink="false">106-17</guid>
+    <pubDate>Sun, 08 Nov 2026 09:00:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 文章讨论大模型自动路由策略的经济性，指出便宜模型出错后人类修复一小时的成本可能高于节省的调用费用。文章提醒企业评估模型路由时需计入返工与人工成本，而非只看 API 单价。这对当前流行的多模型路由降本方案提出了务实质疑。</description>
+  </item>
+  <item>
+    <title>浙大 00 后博士生发布华为昇腾原生世界模型，集成十几种物理要素</title>
+    <link>https://www.qbitai.com/2026/11/508236.html</link>
+    <guid isPermaLink="false">106-18</guid>
+    <pubDate>Sat, 07 Nov 2026 03:31:44 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道，浙江大学一名 00 后博士生发布基于华为昇腾原生平台的世界模型，将十几种物理要素集成进单一模型，被称为“中国版 Cosmos”的又一进展。该工作强调在国产算力平台上实现世界模型训练与推理。这显示昇腾生态在前沿模型研究中的可用性正在提升。</description>
+  </item>
+  <item>
+    <title>钛媒体：华为、OpenAI、字节等科技巨头为何纷纷插手制药</title>
+    <link>https://www.tmtpost.com/8197608.html</link>
+    <guid isPermaLink="false">106-19</guid>
+    <pubDate>Sun, 08 Nov 2026 12:13:38 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体分析华为、OpenAI、字节跳动等科技巨头布局制药行业的动因，探讨 AI 能为药物研发带来多大改变。文章指出，巨头切入制药既是寻找大模型高价值落地场景，也是看中生物数据的长期壁垒。这反映 AI 制药正从初创公司专属走向平台级公司的战略选项。</description>
+  </item>
+  <item>
+    <title>黄仁勋反对全面限制对华 AI 芯片出口，称美国应以竞争取胜</title>
+    <link>https://news.mydrivers.com/1/1164/1164133.htm</link>
+    <guid isPermaLink="false">106-20</guid>
+    <pubDate>Sun, 08 Nov 2026 22:57:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>英伟达 CEO 黄仁勋公开反对全面限制对华 AI 芯片出口，认为美国应以竞争而非退出市场的方式取胜，并称中国在相关领域领先数年。该表态出现在美国对华芯片政策持续收紧的背景下，代表产业界对出口管制的不同声音。这为观察 AI 芯片地缘博弈提供了企业侧立场。</description>
+  </item>
   <item>
     <title>蚂蚁集团 AI 助手灵光用户突破 2000 万，2.0 版本一周管理超 116 万项事务</title>
     <link>https://www.ithome.com/1/024/010.htm</link>
@@ -323,165 +483,5 @@
     <pubDate>Sun, 08 Nov 2026 22:54:00 +0000</pubDate>
     <source>Google News 英文</source>
     <description>Nvidia 董事会宣布对 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 的关系展开独立调查，后者据报被中国国家安全部招募以刺探公司情报。多家媒体报道，事件已引发公司治理与国家安全层面的双重关切。</description>
-  </item>
-  <item>
-    <title>OpenAI 发布 GPT-6 Cyber，漏洞利用能力显著增强</title>
-    <link>https://www.bankinfosecurity.com/openai-unveils-gpt-6-cyber-stronger-exploit-skills-a-33314</link>
-    <guid isPermaLink="false">103-3</guid>
-    <pubDate>Sun, 08 Nov 2026 20:40:07 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI 推出面向网络安全场景的 GPT-6 Cyber 模型，官方称其发现与利用漏洞的能力明显强于前代。该模型面向防御性安全研究，但更强的攻击性能力也引发双用途担忧。多家安全媒体对此进行了报道。</description>
-  </item>
-  <item>
-    <title>Anthropic 达成 34 亿美元燃气发电协议为数据中心供电</title>
-    <link>https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0</link>
-    <guid isPermaLink="false">103-4</guid>
-    <pubDate>Sun, 08 Nov 2026 12:41:25 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 与发电方达成 34 亿美元协议，专门为其 AI 数据中心建设燃气发电设施，以锁定长期电力供应。FT 报道称，这凸显 AI 算力扩张正直接推动化石能源投资。多家媒体跟进报道。</description>
-  </item>
-  <item>
-    <title>Anthropic 推进 IPO，将检验 AI 行业财务可持续性</title>
-    <link>https://www.bankinfosecurity.com/anthropic-ipo-to-test-ai-industrys-financial-viability-a-33328</link>
-    <guid isPermaLink="false">103-5</guid>
-    <pubDate>Sun, 08 Nov 2026 20:40:07 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Anthropic 的上市计划被多家媒体解读为对 AI 行业商业模式的一次公开压力测试，市场关注其收入增速能否支撑高估值。相关报道同时提及 OpenAI 最新一轮 110 亿美元融资与 1.25 万亿美元估值作为对照。</description>
-  </item>
-  <item>
-    <title>Microsoft Research 的 AI Frontiers 团队宣告解散</title>
-    <link>https://hunch.net/?p=13764006</link>
-    <guid isPermaLink="false">103-6</guid>
-    <pubDate>Sat, 07 Nov 2026 18:02:17 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>微软研究院旗下 AI Frontiers 团队被确认结束，相关消息在技术社区引发大量讨论。该团队此前负责多项前沿模型与智能体研究，其解散被视为大厂研究组织向产品化收缩的信号。</description>
-  </item>
-  <item>
-    <title>Apple 加速推进 Siri 智能体化</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
-    <guid isPermaLink="false">103-7</guid>
-    <pubDate>Sun, 08 Nov 2026 19:18:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>彭博社报道称，Apple CEO 正敦促软件负责人 Craig Federighi 加快 Siri 路线图，打造可与 OpenAI Dots、Meta Muse 竞争的 AI 智能体。公司已在极短周期内交付可用版本，但内部承认与对手仍有差距。</description>
-  </item>
-  <item>
-    <title>METR 报告：Anthropic 用 AI 加速 AI 研发，引发研究者担忧</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
-    <guid isPermaLink="false">103-8</guid>
-    <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>AI 安全研究机构 METR 经 11 周调查发布报告称，Anthropic 正用 AI 构建更强的 AI，其模型改进速度约为一年前的两倍，且未见放缓迹象。研究者担忧这种递归式加速会压缩安全评估的时间窗口。</description>
-  </item>
-  <item>
-    <title>美方放行 Nvidia 芯片给空壳中国公司，关联关系引忧</title>
-    <link>https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html</link>
-    <guid isPermaLink="false">103-9</guid>
-    <pubDate>Sun, 08 Nov 2026 21:48:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>《纽约时报》调查称，美国商务部批准的 Nvidia H200 芯片接收方中，存在办公室空置、关联关系可疑的中国企业，审批尽职调查明显不足。The Verge 等媒体跟进报道，质疑出口管制的执行有效性。</description>
-  </item>
-  <item>
-    <title>白宫要求 AI 安全中心员工直接汇报，独立性受质疑</title>
-    <link>https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/</link>
-    <guid isPermaLink="false">103-10</guid>
-    <pubDate>Sun, 08 Nov 2026 19:34:02 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美联社报道称，美国 AI 安全中心的工作人员被要求向白宫汇报工作，引发对该机构独立性的担忧。相关消息由多家媒体转载，正值 AI 监管框架讨论升温之际。</description>
-  </item>
-  <item>
-    <title>高盛在银行家与交易员中撤下 Claude Code</title>
-    <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
-    <guid isPermaLink="false">103-11</guid>
-    <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>高盛已停止向银行家和交易员提供 Claude Code 工具，相关消息在 Hacker News 获得高分讨论。此举发生在金融机构对 AI 编码工具的数据合规与输出可靠性审查趋严的背景下。</description>
-  </item>
-  <item>
-    <title>Elvis 与 Eminem 版权方起诉 Suno</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
-    <guid isPermaLink="false">103-12</guid>
-    <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Elvis Presley 音乐版权方与 Eminem 部分热门唱片出版方分别起诉 AI 音乐公司 Suno，指控其非法生成模仿这些艺人的音乐与歌词。Presley 一案的律师还援引田纳西州相关法律。</description>
-  </item>
-  <item>
-    <title>Crusoe 将陷入困境的怀俄明数据中心项目出售给 Google</title>
-    <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google</link>
-    <guid isPermaLink="false">103-13</guid>
-    <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Crusoe 把位于怀俄明州、进展不顺的大型 AI 数据中心项目转让给 Google。该交易凸显超大规模 AI 数据中心在选址、供电与建设上的现实挑战。</description>
-  </item>
-  <item>
-    <title>Apple CEO 施压软件负责人推进更激进的 AI 战略</title>
-    <link>https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</link>
-    <guid isPermaLink="false">103-14</guid>
-    <pubDate>Sun, 08 Nov 2026 15:19:51 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>彭博社报道称，Apple 正探索将 Siri 改造为类似 ChatGPT Dots 的智能体，并计划在 iOS 28 周期进行较大调整。CEO 已要求软件负责人加快节奏。</description>
-  </item>
-  <item>
-    <title>腾讯 AI 负责人：AI 将很快掌握生物学，带来新的安全风险</title>
-    <link>https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns</link>
-    <guid isPermaLink="false">103-15</guid>
-    <pubDate>Sun, 08 Nov 2026 10:22:27 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>腾讯 AI 负责人公开表示，AI 在生物学领域的能力将迅速提升，可能释放新的生物安全风险。该表态由《南华早报》报道，反映中国科技企业对前沿模型双用途属性的警觉。</description>
-  </item>
-  <item>
-    <title>Anthropic 发布智能体记忆的组成要素研究</title>
-    <link>https://www.anthropic.com/research/components-of-agent-memory</link>
-    <guid isPermaLink="false">103-16</guid>
-    <pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 发表研究，系统拆解智能体记忆的组成部分与设计取舍，为构建长期运行的 AI 智能体提供工程参考。该文在 Hacker News 获得较高关注。</description>
-  </item>
-  <item>
-    <title>llama-modchip：在 64GB 内存、无 GPU 环境运行 284B 参数 DeepSeek</title>
-    <link>https://github.com/synchopate/llama-modchip</link>
-    <guid isPermaLink="false">103-17</guid>
-    <pubDate>Sun, 08 Nov 2026 10:22:04 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>开源项目 llama-modchip 展示了在 64GB 内存、不使用 GPU 的条件下运行 284B 参数 DeepSeek 模型的方法，通过内存与量化优化实现。该项目在 Hacker News 获得数百点讨论。</description>
-  </item>
-  <item>
-    <title>世界模型将无处不在：你需要了解什么</title>
-    <link>https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know</link>
-    <guid isPermaLink="false">103-18</guid>
-    <pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 撰文指出，世界模型正把 AI 从文本推进到三维空间，通过模拟真实物理规律来训练机器人与自动驾驶系统。文章梳理了该方向的技术路径与主要玩家。</description>
-  </item>
-  <item>
-    <title>OpenAI 以 1.25 万亿美元估值再融 110 亿美元</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation</link>
-    <guid isPermaLink="false">102-1</guid>
-    <pubDate>Fri, 06 Nov 2026 23:46:18 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>据 Bloomberg 报道，OpenAI 在新一轮融资中再募资 110 亿美元，估值达到 1.25 万亿美元，较今年 3 月 8520 亿美元估值大幅跃升。多家媒体跟进报道，该轮融资尚未最终关闭。这一估值使 OpenAI 跻身全球市值最高公司之列，也为其与 Anthropic 的 IPO 竞赛提供更充足弹药。</description>
-  </item>
-  <item>
-    <title>Anthropic S-1 披露：亏损从 52 亿美元收窄至 13 亿美元</title>
-    <link>https://shattered.io/anthropic-s-1-operating-loss-narrows-1-3b-from-5-2b-2026/</link>
-    <guid isPermaLink="false">102-2</guid>
-    <pubDate>Sun, 08 Nov 2026 08:13:53 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Anthropic 提交的 S-1 文件显示，公司年度亏损从 52 亿美元收窄至 13 亿美元，亏损幅度显著改善。该文件在其 IPO 临近之际披露，市场关注其收入增长与成本控制能否支撑上市估值。多家媒体报道了这一进展。</description>
-  </item>
-  <item>
-    <title>METR 报告：Anthropic 用 AI 加速 AI 研发，模型改进速度翻倍</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
-    <guid isPermaLink="false">102-3</guid>
-    <pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>AI 安全研究机构 METR 经过 11 周调查发布报告，称 Anthropic 正用 AI 构建更强的 AI，其模型能力提升速度约为一年前的两倍，且未见放缓迹象。报告引发研究者对自动化 AI 研发失控风险的担忧。这是首次有外部机构系统评估前沿实验室的 AI 自我加速程度。</description>
-  </item>
-  <item>
-    <title>Claude Code「不再询问」选项导致 1122 个公开 GitHub 文件泄露密码</title>
-    <link>https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</link>
-    <guid isPermaLink="false">102-4</guid>
-    <pubDate>Sat, 07 Nov 2026 20:45:32 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>安全公司 Apiiro 发现，Claude Code 的「Don't Ask Again」权限设置使编码代理在用户不知情下将密钥写入公开 GitHub 仓库，共在 1122 个公开文件中暴露密码等敏感信息。该问题在 HN 引发 270 条评论讨论。事件凸显 AI 编码代理在权限设计上的安全缺口。</description>
   </item>
 </channel></rss>
