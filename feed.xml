@@ -3,7 +3,87 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 09 Nov 2026 08:02:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 09:00:47 +0000</lastBuildDate>
+  <item>
+    <title>Agent Autoloop：让命令行 Agent 在后台自主接活并跟进到底</title>
+    <link>https://github.com/KKKKhazix/agent-autoloop</link>
+    <guid isPermaLink="false">107-1</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>该项目把 Claude Code、Codex 等命令行 Agent 从「人守终端」模式中解放出来，任务调度内核零外部依赖，事件来源、Agent、通知通道均以插件形式可替换。遇到需要决策的节点时，通过飞书、钉钉、企微、Slack、Discord 或桌面通知推送卡片请人拍板。适合希望把 Agent 用于长周期自动化任务、又不想自建云服务的个人与团队，文档与多语言 README 齐全，采用开源许可。</description>
+  </item>
+  <item>
+    <title>gputaskman：面向 Windows、Linux 与 WSL 的 GPU 任务管理器</title>
+    <link>https://github.com/shanselman/gputaskman</link>
+    <guid isPermaLink="false">107-2</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>由知名开发者 Scott Hanselman 发起，提供类似 htop 的终端界面，按进程展示显存占用、GPU 活动，并关联已加载的运行时、模型文件与 LLM 的 KV 缓存明细。它试图回答「15GB 显存到底被谁吃了」这一本地推理与微调中的高频问题，支持 Windows 上的 NVIDIA/AMD 以及 Linux、WSL 和 Apple Silicon。适合本地跑模型、排查显存瓶颈的开发者，项目处于早期但方向明确。</description>
+  </item>
+  <item>
+    <title>poki：让 AI Agent 操作真实 iPhone 的本地 MCP 服务器</title>
+    <link>https://github.com/JosssphZhou/poki</link>
+    <guid isPermaLink="false">107-3</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>poki 通过本地 MCP 服务器与 Agent，让 AI 直接操作未越狱、无需额外硬件的真实 iPhone，填补了移动端 Agent 执行环境的空白。项目以 JavaScript 实现，围绕 Model Context Protocol 构建，适合需要让 Agent 完成手机端自动化任务的开发者。与同周出现的 pinky、phoneuse 等手机操作类项目形成一个小赛道，生态尚处早期。</description>
+  </item>
+  <item>
+    <title>sand3d：为 LLM 设计的 Python 3D 建模库</title>
+    <link>https://github.com/Sandflow-ai/sand3d</link>
+    <guid isPermaLink="false">107-4</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>sand3d 基于 Blender 的 bpy，把 3D 对象写成短程序，用「剖面、实体、编辑、框架、关节、装配」等概念描述形状如何被逐部件构建。官方称同一部件比 Blender Python、CadQuery 或 FeatureScript 少用 2 至 6 倍 token，整个 API 约 3600 token 即可放入提示词。适合让 LLM 生成可读、可编辑的 3D 模型，配套网站、文档与数据集，生态完整度较高。</description>
+  </item>
+  <item>
+    <title>vork：面向 Agent 的无头 3D 与视觉特效引擎</title>
+    <link>https://github.com/voyager-so/vork</link>
+    <guid isPermaLink="false">107-5</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>Voyager 推出的 Rust 渲染内核，专为 Agent 设计无头 3D 与 VFX 工作流，支持 GPU、Metal 与光线追踪，官方演示片中的每一帧均由场景着色器基于真实三角面边线绘制。项目定位为研究预览，适合探索「Agent 直接产出影视级画面」的团队。与 cinecode 等代码生成视频项目相呼应，但更偏底层渲染能力。</description>
+  </item>
+  <item>
+    <title>cinecode：由 AI 编码 Agent 编写脚本并逐帧生成影片</title>
+    <link>https://github.com/sarpstar/cinecode</link>
+    <guid isPermaLink="false">107-6</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>cinecode 让 Claude Code 或 Cursor 中的编码 Agent 撰写脚本、用代码构建每一帧、设计声音，最终输出 MP4，覆盖短片、长视频、广告、解说与音乐视频。它运行在用户自己的电脑上，无需付费服务，配音可选 Gemini、ElevenLabs 或免费土耳其语语音。适合内容创作者与独立制片人低成本试水 AI 影片，README 提供多语言版本。</description>
+  </item>
+  <item>
+    <title>WebsiteBench：评测 AI Agent 能否通过浏览器探索重建网站</title>
+    <link>https://github.com/TIGER-AI-Lab/WebsiteBench</link>
+    <guid isPermaLink="false">107-7</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>来自 TIGER-AI-Lab 的基准测试，考察 AI Agent 在仅通过浏览器探索的情况下重建网站的能力，属于 Agent 评测方向中较少被覆盖的「逆向工程式」任务。项目提供 Python 实现与评测框架，适合研究 Agent 泛化能力与浏览器自动化上限的团队。在 Agent 能力宣称泛滥的当下，此类独立基准具有校准价值。</description>
+  </item>
+  <item>
+    <title>devvm：为每个项目提供隔离沙箱虚拟机</title>
+    <link>https://github.com/devvmhq/devvm</link>
+    <guid isPermaLink="false">107-8</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>devvm 基于 Lima 为每个项目创建带完整工具链的隔离虚拟机，人和编码 Agent 都可以直接进入开始写代码，避免 Agent 在宿主机上误操作或污染环境。项目以 Go 实现，定位为开发者工具，适合需要给编码 Agent 提供安全执行边界的团队。与本周多个 Agent 沙箱类项目共同构成「Agent 运行环境」这一细分方向。</description>
+  </item>
+  <item>
+    <title>mcode-agent-table：让多个 Agent 共享一张桌子的 BYOB 协议</title>
+    <link>https://github.com/MiniMax-AI/mcode-agent-table</link>
+    <guid isPermaLink="false">107-9</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>MiniMax 提出的 BYOB Table Protocol v0.1 及参考实现，允许用户自带 Agent（MiniMax Code 及其他）接入同一张「桌子」，进行任意拓扑结构的多 Agent 讨论与协作。项目以 JavaScript 实现，围绕 MCP 与多 Agent 协议展开，适合探索多 Agent 协作编排的开发者。协议尚处 v0.1，生态刚起步。</description>
+  </item>
+  <item>
+    <title>OpenAmika：可本地运行的开源 AI 伴侣，带 Live2D 形象与长期记忆</title>
+    <link>https://github.com/zeekk0/OpenAmika</link>
+    <guid isPermaLink="false">107-10</guid>
+    <pubDate>Mon, 09 Nov 2026 09:00:47 +0000</pubDate>
+    <source>GitHub</source>
+    <description>OpenAmika 是一个 Live2D 动漫形象 AI 伴侣，支持实时语音与文字对话、长期记忆，可运行在用户自己的电脑上，后端可接 OpenRouter 或完全本地的 Ollama。项目提供 Python 实现与多语言 README，并有托管版本可供体验。适合对 AI 伴侣、虚拟形象与本地推理感兴趣的开发者，但商用许可需自行确认。</description>
+  </item>
   <item>
     <title>蚂蚁集团 AI 助手灵光用户突破 2000 万，2.0 版本一周管理超 116 万项事务</title>
     <link>https://www.ithome.com/1/024/010.htm</link>
@@ -403,85 +483,5 @@
     <pubDate>Sun, 08 Nov 2026 18:16:07 +0000</pubDate>
     <source>Hacker News</source>
     <description>高盛已从银行家和交易员处撤下 Claude Code，HN 讨论热度很高。此举发生在金融机构对 AI 编码工具的数据合规与审计要求趋严的背景下。作为华尔街头部投行，高盛的取舍可能影响其他金融机构对第三方 AI 编码工具的采用节奏。</description>
-  </item>
-  <item>
-    <title>Apple CEO 施压软件负责人推进更激进的 AI 战略</title>
-    <link>https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</link>
-    <guid isPermaLink="false">104-11</guid>
-    <pubDate>Sun, 08 Nov 2026 15:19:51 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Bloomberg 报道称，Apple CEO 正敦促软件负责人采取更激进的 AI 战略，包括将 Siri 改造为类 ChatGPT 的智能体，并规划 iOS 28 层面的调整。报道显示 Apple 内部对当前 AI 进展不满，正寻求组织与路线图层面的变动。这与 Siri 智能体化的报道相互印证。</description>
-  </item>
-  <item>
-    <title>白宫要求美国 AI 安全中心员工直接汇报，独立性受质疑</title>
-    <link>https://www.unite.ai/white-house-request-raises-us-ai-safety-center-independence-concerns/</link>
-    <guid isPermaLink="false">104-12</guid>
-    <pubDate>Sun, 08 Nov 2026 19:34:02 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美联社援引消息称，美国 AI 安全中心的工作人员被要求向白宫汇报工作，引发对该机构独立性的担忧。报道认为这可能削弱安全评估与政策建议的客观性。此事发生在联邦层面 AI 监管架构调整的敏感期。</description>
-  </item>
-  <item>
-    <title>Elvis 与 Eminem 版权方起诉 Suno</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
-    <guid isPermaLink="false">104-13</guid>
-    <pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Elvis Presley 音乐版权方与 Eminem 部分热门唱片出版方分别起诉 AI 音乐公司 Suno，指控其非法生成模仿这些艺人的音乐与歌词。Presley 案律师还援引田纳西州相关法律主张权利。这是 Suno 面临的又一轮版权诉讼，AI 音乐生成的法律风险持续累积。</description>
-  </item>
-  <item>
-    <title>Crusoe 将陷入困境的怀俄明数据中心项目出售给 Google</title>
-    <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google</link>
-    <guid isPermaLink="false">104-14</guid>
-    <pubDate>Sat, 07 Nov 2026 01:40:28 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Crusoe 将其在怀俄明州进展不顺的大型数据中心项目出售给 Google，TechCrunch 报道。该交易凸显开发超大规模 AI 数据中心在选址、电力与建设上的现实挑战。Google 接手也显示其仍在扩张自建算力版图。</description>
-  </item>
-  <item>
-    <title>Anthropic 发布智能体记忆组件研究</title>
-    <link>https://www.anthropic.com/research/components-of-agent-memory</link>
-    <guid isPermaLink="false">104-15</guid>
-    <pubDate>Sat, 07 Nov 2026 06:39:04 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 发布关于智能体记忆组件的研究文章，系统拆解智能体在长期任务中如何存储、检索与更新记忆，HN 讨论热度较高。该研究为构建更可靠的智能体系统提供了工程化框架。随着智能体产品化加速，记忆机制正成为关键技术议题。</description>
-  </item>
-  <item>
-    <title>腾讯 AI 负责人警告：AI 将很快掌握生物学并带来新安全风险</title>
-    <link>https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns</link>
-    <guid isPermaLink="false">104-16</guid>
-    <pubDate>Sun, 08 Nov 2026 10:22:27 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>腾讯 AI 负责人公开表示，AI 很快将掌握生物学能力，可能释放新的安全风险。该表态来自中国科技公司高管，呼应了国际上对生物安全与 AI 双用途风险的担忧。随着模型在生命科学领域能力提升，相关治理讨论正在升温。</description>
-  </item>
-  <item>
-    <title>llama-modchip：在 64GB 内存、无 GPU 环境下运行 284B 参数 DeepSeek</title>
-    <link>https://github.com/synchopate/llama-modchip</link>
-    <guid isPermaLink="false">104-17</guid>
-    <pubDate>Sun, 08 Nov 2026 10:22:04 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>开源项目 llama-modchip 展示了在 64GB 内存、无 GPU 的普通硬件上运行 284B 参数 DeepSeek 模型的方法，HN 热度很高。该项目通过内存优化与量化技术突破了大模型对显存的依赖。这类工作推动大模型在消费级硬件上的本地部署边界。</description>
-  </item>
-  <item>
-    <title>世界模型即将无处不在：你需要了解什么</title>
-    <link>https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know</link>
-    <guid isPermaLink="false">104-18</guid>
-    <pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 撰文指出，世界模型正从文本走向三维空间，通过模拟真实物理规律来训练机器人与自动驾驶系统。文章梳理了世界模型的技术路线与应用前景。随着具身智能升温，世界模型被视为连接 AI 与物理世界的关键基础设施。</description>
-  </item>
-  <item>
-    <title>OpenAI 以 1.25 万亿美元估值完成 110 亿美元融资</title>
-    <link>https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought</link>
-    <guid isPermaLink="false">103-1</guid>
-    <pubDate>Sun, 08 Nov 2026 14:49:23 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>OpenAI 在新一轮融资中筹集 110 亿美元，估值达 1.25 万亿美元，低于其最初寻求的 1.4 万亿美元。这是继今年 3 月以 8520 亿美元估值融资 1220 亿美元后的又一次大规模募资，多家媒体报道。该估值使 OpenAI 跻身全球市值最高公司之列，也显示资本对前沿模型公司的押注仍在加码。</description>
-  </item>
-  <item>
-    <title>Nvidia 启动调查：黄仁勋承认与疑似中国间谍人员存在婚外情</title>
-    <link>https://www.independent.co.uk/news/world/americas/nvidia-ceo-jensen-huang-affair-spy-investigation-b3081353.html</link>
-    <guid isPermaLink="false">103-2</guid>
-    <pubDate>Sun, 08 Nov 2026 22:54:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Nvidia 董事会宣布对 CEO 黄仁勋与 Megaspeed 高管 Alice Huang 的关系展开独立调查，后者据报被中国国家安全部招募以刺探公司情报。多家媒体报道，事件已引发公司治理与国家安全层面的双重关切。</description>
   </item>
 </channel></rss>

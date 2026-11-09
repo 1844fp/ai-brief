@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GitHub 每周 AI 高星项目 · 2026-11-09</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1a1d24;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--warn:#b45309}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+ font:16px/1.75 -apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+.wrap{max-width:920px;margin:0 auto;padding:28px 20px 80px}
+header.top{background:linear-gradient(135deg,#1e3a8a,#2563eb);color:#fff;border-radius:14px;
+ padding:26px 28px;margin-bottom:22px}
+header.top h1{margin:0 0 6px;font-size:26px;line-height:1.3}
+header.top .sub{opacity:.9;font-size:14px}
+.overview{background:#eef4ff;border-left:4px solid var(--accent);border-radius:8px;
+ padding:16px 18px;margin:0 0 22px;white-space:pre-wrap}
+h2.group{font-size:19px;margin:30px 0 12px;padding-left:10px;border-left:4px solid var(--accent)}
+article{background:var(--card);border:1px solid var(--line);border-radius:12px;
+ padding:18px 20px;margin-bottom:14px;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+article h3{margin:0 0 8px;font-size:18px;line-height:1.45}
+article h3 .idx{color:var(--accent);font-weight:700;margin-right:6px}
+.meta{color:var(--muted);font-size:13px;margin-bottom:10px}
+.summary{margin:0 0 10px}
+.why{color:#334155;background:#f8fafc;border-radius:8px;padding:8px 12px;font-size:14px;margin:0 0 10px}
+.why b{color:var(--accent)}
+.link{font-size:14px;word-break:break-all}
+.link a{color:var(--accent);text-decoration:none}
+.link a:hover{text-decoration:underline}
+.orig{color:var(--muted);font-size:12px;margin-top:6px}
+.badge{display:inline-block;background:#fee2e2;color:#b91c1c;border-radius:6px;
+ padding:0 6px;font-size:12px;margin-left:6px}
+footer{color:var(--muted);font-size:13px;margin-top:34px}
+details.health{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-top:26px}
+details.health summary{cursor:pointer;font-weight:600}
+table{border-collapse:collapse;width:100%;margin-top:12px;font-size:13px}
+th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+th{background:#f3f4f6}
+.notes{background:#fffbeb;border-left:4px solid var(--warn);border-radius:8px;padding:12px 16px;margin-top:22px;font-size:14px}
+nav a{color:var(--accent);margin-right:14px;text-decoration:none;font-size:14px}
+</style></head><body><div class="wrap">
+<header class="top">
+  <h1>GitHub 每周 AI 高星项目 · 2026-11-09</h1>
+  <div class="sub">统计区间：最近 7 天新创建/活跃的 AI 相关仓库，按 Star 排序取前十 ｜ 生成于 2026-11-09 09:00</div>
+  <div class="sub">生成时间 2026-11-09 09:00（北京时间） ｜
+    抓取 147 条 ｜ 入选 10 条 ｜ 大模型摘要 ｜ 网络：境外源经代理 http://127.0.0.1:7897</div>
+  <nav style="margin-top:10px"><a href="../../index.html">首页</a><a href="../../index.html">← 返回看板首页</a></nav>
+</header>
+<div class="overview">本周 GitHub AI 高星项目呈现出明显的「Agent 落地化」趋势：命令行 Agent 开始脱离终端常驻后台，手机与 3D 内容成为新的操作对象，同时围绕 Agent 的评测、沙箱、协议与用量监控等基础设施快速补齐。另一方面，榜单中混入了大量刷星、破解与盗版类仓库，真实项目与噪音的区分成本正在上升。值得关注的是，多个项目开始强调「本地运行、零外部依赖、可插拔」，反映出开发者对可控性与可商用性的双重诉求。</div><article>
+<h3><span class="idx">1.</span>Agent Autoloop：让命令行 Agent 在后台自主接活并跟进到底<span class="badge">★★★★★</span></h3>
+<div class="meta">⭐ 4.1k · TypeScript · GitHub</div>
+<p class="summary">该项目把 Claude Code、Codex 等命令行 Agent 从「人守终端」模式中解放出来，任务调度内核零外部依赖，事件来源、Agent、通知通道均以插件形式可替换。遇到需要决策的节点时，通过飞书、钉钉、企微、Slack、Discord 或桌面通知推送卡片请人拍板。适合希望把 Agent 用于长周期自动化任务、又不想自建云服务的个人与团队，文档与多语言 README 齐全，采用开源许可。</p>
+<p class="why"><b>为什么重要</b>：它补上了命令行 Agent 缺少的「后台常驻 + 人工审批」闭环，是本周最具实用价值的 Agent 基础设施之一。</p>
+<div class="link">原文链接：<a href="https://github.com/KKKKhazix/agent-autoloop" target="_blank" rel="noopener">https://github.com/KKKKhazix/agent-autoloop</a></div>
+<div class="orig">原标题：KKKKhazix/agent-autoloop</div>
+</article><article>
+<h3><span class="idx">2.</span>gputaskman：面向 Windows、Linux 与 WSL 的 GPU 任务管理器<span class="badge">★★★★★</span></h3>
+<div class="meta">⭐ 1.0k · Python · GitHub</div>
+<p class="summary">由知名开发者 Scott Hanselman 发起，提供类似 htop 的终端界面，按进程展示显存占用、GPU 活动，并关联已加载的运行时、模型文件与 LLM 的 KV 缓存明细。它试图回答「15GB 显存到底被谁吃了」这一本地推理与微调中的高频问题，支持 Windows 上的 NVIDIA/AMD 以及 Linux、WSL 和 Apple Silicon。适合本地跑模型、排查显存瓶颈的开发者，项目处于早期但方向明确。</p>
+<p class="why"><b>为什么重要</b>：本地 LLM 推理的显存归因长期缺少趁手工具，该项目直击痛点且跨平台覆盖完整。</p>
+<div class="link">原文链接：<a href="https://github.com/shanselman/gputaskman" target="_blank" rel="noopener">https://github.com/shanselman/gputaskman</a></div>
+<div class="orig">原标题：shanselman/gputaskman</div>
+</article><article>
+<h3><span class="idx">3.</span>poki：让 AI Agent 操作真实 iPhone 的本地 MCP 服务器<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 607 · JavaScript · GitHub</div>
+<p class="summary">poki 通过本地 MCP 服务器与 Agent，让 AI 直接操作未越狱、无需额外硬件的真实 iPhone，填补了移动端 Agent 执行环境的空白。项目以 JavaScript 实现，围绕 Model Context Protocol 构建，适合需要让 Agent 完成手机端自动化任务的开发者。与同周出现的 pinky、phoneuse 等手机操作类项目形成一个小赛道，生态尚处早期。</p>
+<p class="why"><b>为什么重要</b>：手机是 Agent 尚未大规模接管的高价值终端，免越狱方案显著降低了尝试门槛。</p>
+<div class="link">原文链接：<a href="https://github.com/JosssphZhou/poki" target="_blank" rel="noopener">https://github.com/JosssphZhou/poki</a></div>
+<div class="orig">原标题：JosssphZhou/poki</div>
+</article><article>
+<h3><span class="idx">4.</span>sand3d：为 LLM 设计的 Python 3D 建模库<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 1.4k · HTML · GitHub</div>
+<p class="summary">sand3d 基于 Blender 的 bpy，把 3D 对象写成短程序，用「剖面、实体、编辑、框架、关节、装配」等概念描述形状如何被逐部件构建。官方称同一部件比 Blender Python、CadQuery 或 FeatureScript 少用 2 至 6 倍 token，整个 API 约 3600 token 即可放入提示词。适合让 LLM 生成可读、可编辑的 3D 模型，配套网站、文档与数据集，生态完整度较高。</p>
+<p class="why"><b>为什么重要</b>：它把「token 效率」作为 3D 库的一等设计目标，为 LLM 生成 CAD 内容提供了务实路径。</p>
+<div class="link">原文链接：<a href="https://github.com/Sandflow-ai/sand3d" target="_blank" rel="noopener">https://github.com/Sandflow-ai/sand3d</a></div>
+<div class="orig">原标题：Sandflow-ai/sand3d</div>
+</article><article>
+<h3><span class="idx">5.</span>vork：面向 Agent 的无头 3D 与视觉特效引擎<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 1.1k · Rust · GitHub</div>
+<p class="summary">Voyager 推出的 Rust 渲染内核，专为 Agent 设计无头 3D 与 VFX 工作流，支持 GPU、Metal 与光线追踪，官方演示片中的每一帧均由场景着色器基于真实三角面边线绘制。项目定位为研究预览，适合探索「Agent 直接产出影视级画面」的团队。与 cinecode 等代码生成视频项目相呼应，但更偏底层渲染能力。</p>
+<p class="why"><b>为什么重要</b>：把渲染引擎做成 Agent 可调用的无头服务，是 AI 生成视频走向工程化的关键一层。</p>
+<div class="link">原文链接：<a href="https://github.com/voyager-so/vork" target="_blank" rel="noopener">https://github.com/voyager-so/vork</a></div>
+<div class="orig">原标题：voyager-so/vork</div>
+</article><article>
+<h3><span class="idx">6.</span>cinecode：由 AI 编码 Agent 编写脚本并逐帧生成影片<span class="badge">★★★★</span></h3>
+<div class="meta">⭐ 1.6k · Python · GitHub</div>
+<p class="summary">cinecode 让 Claude Code 或 Cursor 中的编码 Agent 撰写脚本、用代码构建每一帧、设计声音，最终输出 MP4，覆盖短片、长视频、广告、解说与音乐视频。它运行在用户自己的电脑上，无需付费服务，配音可选 Gemini、ElevenLabs 或免费土耳其语语音。适合内容创作者与独立制片人低成本试水 AI 影片，README 提供多语言版本。</p>
+<p class="why"><b>为什么重要</b>：「代码即影片」的工作流把视频生产拆解为可版本管理的程序，创意门槛与成本同时下降。</p>
+<div class="link">原文链接：<a href="https://github.com/sarpstar/cinecode" target="_blank" rel="noopener">https://github.com/sarpstar/cinecode</a></div>
+<div class="orig">原标题：sarpstar/cinecode</div>
+</article><article>
+<h3><span class="idx">7.</span>WebsiteBench：评测 AI Agent 能否通过浏览器探索重建网站<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 133 · Python · GitHub</div>
+<p class="summary">来自 TIGER-AI-Lab 的基准测试，考察 AI Agent 在仅通过浏览器探索的情况下重建网站的能力，属于 Agent 评测方向中较少被覆盖的「逆向工程式」任务。项目提供 Python 实现与评测框架，适合研究 Agent 泛化能力与浏览器自动化上限的团队。在 Agent 能力宣称泛滥的当下，此类独立基准具有校准价值。</p>
+<p class="why"><b>为什么重要</b>：Agent 评测正从问答转向真实操作任务，该基准为「能否复现一个网站」提供了可量化标尺。</p>
+<div class="link">原文链接：<a href="https://github.com/TIGER-AI-Lab/WebsiteBench" target="_blank" rel="noopener">https://github.com/TIGER-AI-Lab/WebsiteBench</a></div>
+<div class="orig">原标题：TIGER-AI-Lab/WebsiteBench</div>
+</article><article>
+<h3><span class="idx">8.</span>devvm：为每个项目提供隔离沙箱虚拟机<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 412 · Go · GitHub</div>
+<p class="summary">devvm 基于 Lima 为每个项目创建带完整工具链的隔离虚拟机，人和编码 Agent 都可以直接进入开始写代码，避免 Agent 在宿主机上误操作或污染环境。项目以 Go 实现，定位为开发者工具，适合需要给编码 Agent 提供安全执行边界的团队。与本周多个 Agent 沙箱类项目共同构成「Agent 运行环境」这一细分方向。</p>
+<p class="why"><b>为什么重要</b>：给编码 Agent 划出可丢弃的隔离环境，是让 Agent 真正参与日常开发的前提条件。</p>
+<div class="link">原文链接：<a href="https://github.com/devvmhq/devvm" target="_blank" rel="noopener">https://github.com/devvmhq/devvm</a></div>
+<div class="orig">原标题：devvmhq/devvm</div>
+</article><article>
+<h3><span class="idx">9.</span>mcode-agent-table：让多个 Agent 共享一张桌子的 BYOB 协议<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 55 · JavaScript · GitHub</div>
+<p class="summary">MiniMax 提出的 BYOB Table Protocol v0.1 及参考实现，允许用户自带 Agent（MiniMax Code 及其他）接入同一张「桌子」，进行任意拓扑结构的多 Agent 讨论与协作。项目以 JavaScript 实现，围绕 MCP 与多 Agent 协议展开，适合探索多 Agent 协作编排的开发者。协议尚处 v0.1，生态刚起步。</p>
+<p class="why"><b>为什么重要</b>：多 Agent 协作目前缺统一接口，由模型厂商牵头提出开放协议值得持续观察。</p>
+<div class="link">原文链接：<a href="https://github.com/MiniMax-AI/mcode-agent-table" target="_blank" rel="noopener">https://github.com/MiniMax-AI/mcode-agent-table</a></div>
+<div class="orig">原标题：MiniMax-AI/mcode-agent-table</div>
+</article><article>
+<h3><span class="idx">10.</span>OpenAmika：可本地运行的开源 AI 伴侣，带 Live2D 形象与长期记忆<span class="badge">★★★</span></h3>
+<div class="meta">⭐ 543 · Python · GitHub</div>
+<p class="summary">OpenAmika 是一个 Live2D 动漫形象 AI 伴侣，支持实时语音与文字对话、长期记忆，可运行在用户自己的电脑上，后端可接 OpenRouter 或完全本地的 Ollama。项目提供 Python 实现与多语言 README，并有托管版本可供体验。适合对 AI 伴侣、虚拟形象与本地推理感兴趣的开发者，但商用许可需自行确认。</p>
+<p class="why"><b>为什么重要</b>：在 AI 伴侣类项目中少见地同时做到开源、本地可跑与长期记忆，兼顾隐私与可玩性。</p>
+<div class="link">原文链接：<a href="https://github.com/zeekk0/OpenAmika" target="_blank" rel="noopener">https://github.com/zeekk0/OpenAmika</a></div>
+<div class="orig">原标题：zeekk0/OpenAmika</div>
+</article>
+<details class="health"><summary>数据源健康（1 个源）</summary>
+<table><tr><th>来源</th><th>类型</th><th>抓取</th><th>保留</th><th>耗时</th><th>状态</th></tr>
+<tr><td>GitHub</td><td>github</td><td>147</td><td>147</td><td>15.7s</td><td>正常</td></tr></table></details>
+<footer>由 AI 情报助手生成 · 2026-11-09 09:00:46</footer>
+</div></body></html>

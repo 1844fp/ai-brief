@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T08:02:13.106094",
+ "generated_at": "2026-11-09T09:00:47.463718",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 107,
+   "task": "github_weekly",
+   "title": "GitHub 每周 AI 高星项目 · 2026-11-09",
+   "created_at": "2026-11-09T01:00:46.575941+00:00",
+   "item_count": 10,
+   "llm_ok": true,
+   "url": "reports/2026-11-09/github_weekly-090046.html"
+  },
   {
    "id": 106,
    "task": "news_daily_cn",
@@ -903,6 +912,126 @@
   }
  ],
  "items": [
+  {
+   "task": "github_weekly",
+   "rank": 1,
+   "title": "Agent Autoloop：让命令行 Agent 在后台自主接活并跟进到底",
+   "url": "https://github.com/KKKKhazix/agent-autoloop",
+   "source": "GitHub",
+   "summary": "该项目把 Claude Code、Codex 等命令行 Agent 从「人守终端」模式中解放出来，任务调度内核零外部依赖，事件来源、Agent、通知通道均以插件形式可替换。遇到需要决策的节点时，通过飞书、钉钉、企微、Slack、Discord 或桌面通知推送卡片请人拍板。适合希望把 Agent 用于长周期自动化任务、又不想自建云服务的个人与团队，文档与多语言 README 齐全，采用开源许可。",
+   "why": null,
+   "category": "智能体/自动化",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 2,
+   "title": "gputaskman：面向 Windows、Linux 与 WSL 的 GPU 任务管理器",
+   "url": "https://github.com/shanselman/gputaskman",
+   "source": "GitHub",
+   "summary": "由知名开发者 Scott Hanselman 发起，提供类似 htop 的终端界面，按进程展示显存占用、GPU 活动，并关联已加载的运行时、模型文件与 LLM 的 KV 缓存明细。它试图回答「15GB 显存到底被谁吃了」这一本地推理与微调中的高频问题，支持 Windows 上的 NVIDIA/AMD 以及 Linux、WSL 和 Apple Silicon。适合本地跑模型、排查显存瓶颈的开发者，项目处于早期但方向明确。",
+   "why": null,
+   "category": "开发工具/性能分析",
+   "heat": 5,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 3,
+   "title": "poki：让 AI Agent 操作真实 iPhone 的本地 MCP 服务器",
+   "url": "https://github.com/JosssphZhou/poki",
+   "source": "GitHub",
+   "summary": "poki 通过本地 MCP 服务器与 Agent，让 AI 直接操作未越狱、无需额外硬件的真实 iPhone，填补了移动端 Agent 执行环境的空白。项目以 JavaScript 实现，围绕 Model Context Protocol 构建，适合需要让 Agent 完成手机端自动化任务的开发者。与同周出现的 pinky、phoneuse 等手机操作类项目形成一个小赛道，生态尚处早期。",
+   "why": null,
+   "category": "智能体/移动端",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 4,
+   "title": "sand3d：为 LLM 设计的 Python 3D 建模库",
+   "url": "https://github.com/Sandflow-ai/sand3d",
+   "source": "GitHub",
+   "summary": "sand3d 基于 Blender 的 bpy，把 3D 对象写成短程序，用「剖面、实体、编辑、框架、关节、装配」等概念描述形状如何被逐部件构建。官方称同一部件比 Blender Python、CadQuery 或 FeatureScript 少用 2 至 6 倍 token，整个 API 约 3600 token 即可放入提示词。适合让 LLM 生成可读、可编辑的 3D 模型，配套网站、文档与数据集，生态完整度较高。",
+   "why": null,
+   "category": "多模态/3D 生成",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 5,
+   "title": "vork：面向 Agent 的无头 3D 与视觉特效引擎",
+   "url": "https://github.com/voyager-so/vork",
+   "source": "GitHub",
+   "summary": "Voyager 推出的 Rust 渲染内核，专为 Agent 设计无头 3D 与 VFX 工作流，支持 GPU、Metal 与光线追踪，官方演示片中的每一帧均由场景着色器基于真实三角面边线绘制。项目定位为研究预览，适合探索「Agent 直接产出影视级画面」的团队。与 cinecode 等代码生成视频项目相呼应，但更偏底层渲染能力。",
+   "why": null,
+   "category": "多模态/渲染引擎",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 6,
+   "title": "cinecode：由 AI 编码 Agent 编写脚本并逐帧生成影片",
+   "url": "https://github.com/sarpstar/cinecode",
+   "source": "GitHub",
+   "summary": "cinecode 让 Claude Code 或 Cursor 中的编码 Agent 撰写脚本、用代码构建每一帧、设计声音，最终输出 MP4，覆盖短片、长视频、广告、解说与音乐视频。它运行在用户自己的电脑上，无需付费服务，配音可选 Gemini、ElevenLabs 或免费土耳其语语音。适合内容创作者与独立制片人低成本试水 AI 影片，README 提供多语言版本。",
+   "why": null,
+   "category": "多模态/视频生成",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 7,
+   "title": "WebsiteBench：评测 AI Agent 能否通过浏览器探索重建网站",
+   "url": "https://github.com/TIGER-AI-Lab/WebsiteBench",
+   "source": "GitHub",
+   "summary": "来自 TIGER-AI-Lab 的基准测试，考察 AI Agent 在仅通过浏览器探索的情况下重建网站的能力，属于 Agent 评测方向中较少被覆盖的「逆向工程式」任务。项目提供 Python 实现与评测框架，适合研究 Agent 泛化能力与浏览器自动化上限的团队。在 Agent 能力宣称泛滥的当下，此类独立基准具有校准价值。",
+   "why": null,
+   "category": "评测/基准",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 8,
+   "title": "devvm：为每个项目提供隔离沙箱虚拟机",
+   "url": "https://github.com/devvmhq/devvm",
+   "source": "GitHub",
+   "summary": "devvm 基于 Lima 为每个项目创建带完整工具链的隔离虚拟机，人和编码 Agent 都可以直接进入开始写代码，避免 Agent 在宿主机上误操作或污染环境。项目以 Go 实现，定位为开发者工具，适合需要给编码 Agent 提供安全执行边界的团队。与本周多个 Agent 沙箱类项目共同构成「Agent 运行环境」这一细分方向。",
+   "why": null,
+   "category": "智能体/沙箱环境",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 9,
+   "title": "mcode-agent-table：让多个 Agent 共享一张桌子的 BYOB 协议",
+   "url": "https://github.com/MiniMax-AI/mcode-agent-table",
+   "source": "GitHub",
+   "summary": "MiniMax 提出的 BYOB Table Protocol v0.1 及参考实现，允许用户自带 Agent（MiniMax Code 及其他）接入同一张「桌子」，进行任意拓扑结构的多 Agent 讨论与协作。项目以 JavaScript 实现，围绕 MCP 与多 Agent 协议展开，适合探索多 Agent 协作编排的开发者。协议尚处 v0.1，生态刚起步。",
+   "why": null,
+   "category": "智能体/多 Agent 协议",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 10,
+   "title": "OpenAmika：可本地运行的开源 AI 伴侣，带 Live2D 形象与长期记忆",
+   "url": "https://github.com/zeekk0/OpenAmika",
+   "source": "GitHub",
+   "summary": "OpenAmika 是一个 Live2D 动漫形象 AI 伴侣，支持实时语音与文字对话、长期记忆，可运行在用户自己的电脑上，后端可接 OpenRouter 或完全本地的 Ollama。项目提供 Python 实现与多语言 README，并有托管版本可供体验。适合对 AI 伴侣、虚拟形象与本地推理感兴趣的开发者，但商用许可需自行确认。",
+   "why": null,
+   "category": "AI 伴侣/语音交互",
+   "heat": 3,
+   "published": null
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
