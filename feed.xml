@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 10 Nov 2026 07:30:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 07:31:07 +0000</lastBuildDate>
+  <item>
+    <title>Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 两款前沿模型</title>
+    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+    <guid isPermaLink="false">112-1</guid>
+    <pubDate>Mon, 09 Nov 2026 18:56:29 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 推出 Claude Fable 5.2 和 Claude Mythos 5.2，称其在编程、推理与视觉能力上较 5.1 版本提升，输出速度更快，面向高难度技术任务。多家媒体报道，这是 Anthropic 在 CEO Amodei 呼吁放缓前沿模型竞赛后首次发布前沿模型，恰逢其 IPO 预期升温。</description>
+  </item>
+  <item>
+    <title>Anthropic 拟于周二上午登陆纳斯达克 IPO</title>
+    <link>https://www.ifre.com/equities/2510788/anthropic-to-launch-nasdaq-ipo-tuesday-morning</link>
+    <guid isPermaLink="false">112-2</guid>
+    <pubDate>Mon, 09 Nov 2026 19:59:06 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据 International Financing Review 报道，Anthropic 计划于周二上午启动纳斯达克 IPO。这一时点与其新模型发布、大规模天然气涡轮机采购同步，显示公司正加速资本化以支撑算力扩张。</description>
+  </item>
+  <item>
+    <title>Nvidia 间谍风波全梳理：黄仁勋承认与 Alice Huang 存在婚外情</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+    <guid isPermaLink="false">112-3</guid>
+    <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 汇总称，Nvidia CEO 黄仁勋已承认与 AI 算力公司 Megaspeed 高管 Alice Huang 的婚外情，美国情报报告此前已将其识别为疑似中国情报人员。Nvidia 董事会已启动调查，事件引发全球对华芯片出口与公司治理的连锁讨论。</description>
+  </item>
+  <item>
+    <title>Google 发布 Gemini 4 Argon，支持百万级输出 token 与高级智能体推理</title>
+    <link>https://oodaloop.com/briefs/technology/google-releases-gemini-4-argon-showcasing-1m-output-tokens-and-advanced-agentic-reasoning/</link>
+    <guid isPermaLink="false">112-4</guid>
+    <pubDate>Mon, 09 Nov 2026 16:12:39 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google 推出 Gemini 4 Argon，主打 100 万输出 token 与更强的智能体推理能力。另一条报道显示该模型同时面向机器人控制、仿真与策略改进场景，表明 Google 正把大模型能力向具身智能延伸。</description>
+  </item>
+  <item>
+    <title>Meta 推出最小最高效模型 Muse Ember，输入 token 每百万仅 10 美分</title>
+    <link>https://research.meta.ai/blog/muse-ember</link>
+    <guid isPermaLink="false">112-5</guid>
+    <pubDate>Mon, 09 Nov 2026 17:58:46 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Meta 发布小模型 Muse Ember，输入 token 定价为每百万 10 美分，显著低于 Haiku、Luna 等前沿竞品。TechCrunch 亦报道此事，显示小模型价格战进一步白热化。</description>
+  </item>
+  <item>
+    <title>Anthropic 加入 AI 天然气抢购潮，斥资 34 亿美元购买涡轮机</title>
+    <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines</link>
+    <guid isPermaLink="false">112-6</guid>
+    <pubDate>Mon, 09 Nov 2026 16:56:54 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Anthropic 以 34 亿美元购买天然气涡轮机，为数据中心锁定自备电力。TechCrunch 指出，这笔交易可能让公司面临「买家懊悔」，反映 AI 算力扩张正直接绑定化石能源基础设施。</description>
+  </item>
+  <item>
+    <title>佩洛西继任者 Scott Wiener 准备推动联邦 AI 监管</title>
+    <link>https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai</link>
+    <guid isPermaLink="false">112-7</guid>
+    <pubDate>Mon, 09 Nov 2026 17:05:43 +0000</pubDate>
+    <source>MIT 科技评论</source>
+    <description>加州州参议员 Scott Wiener 赢下佩洛西空出的旧金山国会席位，他此前主导过针对先进 AI 风险的州级立法。MIT 科技评论专访称，他可能在联邦 AI 政策制定中扮演关键角色。</description>
+  </item>
+  <item>
+    <title>Nvidia 董事会调查引发股价下跌逾 4%，诉讼潮正在形成</title>
+    <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia</link>
+    <guid isPermaLink="false">112-8</guid>
+    <pubDate>Mon, 09 Nov 2026 22:23:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia 董事会就黄仁勋与疑似中国间谍的关系启动调查后，股价下跌超过 4%。证券法专家指出，公司此前坚称一切「正常」的表态可能演变为代价高昂的法律问题，已有多方准备提起诉讼。</description>
+  </item>
+  <item>
+    <title>路透：Nvidia 间谍指控或推动立法收紧中国获取 AI 芯片</title>
+    <link>https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/</link>
+    <guid isPermaLink="false">112-9</guid>
+    <pubDate>Mon, 09 Nov 2026 22:04:30 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>路透报道称，围绕 Nvidia CEO 的间谍指控可能促使美国国会推动新立法，进一步收紧中国获取 AI 芯片的渠道。这一动向与 Nvidia 此前游说放松出口管制的努力直接冲突。</description>
+  </item>
+  <item>
+    <title>AMD 加入 Google 的 AI 芯片阵营，共同对抗 Nvidia</title>
+    <link>https://www.benzinga.com/markets/prediction-markets/26/11/63061050/amd-google-tpu</link>
+    <guid isPermaLink="false">112-10</guid>
+    <pubDate>Mon, 09 Nov 2026 19:16:48 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Benzinga 报道，AMD 加入 Google 主导的 AI 芯片推进计划，形成对 Nvidia 的联合挑战。此举意味着超大规模云厂商与芯片厂商正加速构建非 Nvidia 的算力供应链。</description>
+  </item>
+  <item>
+    <title>迪士尼与 Adobe 合作开发「艺术家主导」的生成式 AI 工具</title>
+    <link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
+    <guid isPermaLink="false">112-11</guid>
+    <pubDate>Mon, 09 Nov 2026 15:38:56 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>迪士尼与 Adobe 宣布多年合作，共同开发专有的「艺术家主导」生成式 AI 模型，用于迪士尼从主题公园到邮轮的业务制作管线。Adobe 将向迪士尼提供最新技术的早期访问权限。</description>
+  </item>
+  <item>
+    <title>Google Gemini 被指将个人 Drive 文件与邮件转交人工标注员</title>
+    <link>https://github.com/thisisme6598/gemini_files</link>
+    <guid isPermaLink="false">112-12</guid>
+    <pubDate>Mon, 09 Nov 2026 18:24:38 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Hacker News 热帖引用 GitHub 项目称，Google Gemini 会将用户的个人 Drive 文件与邮件内容路由给人工标注员审阅。该帖获得 267 分、51 条评论，引发对 AI 助手数据隐私边界的质疑。</description>
+  </item>
+  <item>
+    <title>ChatGPT 桌面端将本地 SSH agent 转发至远程机器</title>
+    <link>https://news.ycombinator.com/item?id=50422628</link>
+    <guid isPermaLink="false">112-13</guid>
+    <pubDate>Mon, 09 Nov 2026 08:17:49 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Hacker News 讨论指出，ChatGPT 桌面端会把用户的本地 SSH agent 转发到远程机器，使远程运行的 agent 能用本地凭据认证，例如向私有 GitHub 仓库推送代码。帖子附有 OpenAI Codex 仓库的 PR 讨论作为佐证。</description>
+  </item>
+  <item>
+    <title>Anthropic 因 Claude 订阅营销面临诉讼，法院允许继续审理</title>
+    <link>https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/</link>
+    <guid isPermaLink="false">112-14</guid>
+    <pubDate>Mon, 09 Nov 2026 19:38:42 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>路透报道，Anthropic 必须就 Claude 订阅服务的营销方式面对诉讼。案件聚焦其订阅宣传是否构成误导，法院已驳回撤诉请求。</description>
+  </item>
+  <item>
+    <title>苹果面临压力，需加速将 Siri 升级为 AI 智能体</title>
+    <link>https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy</link>
+    <guid isPermaLink="false">112-15</guid>
+    <pubDate>Mon, 09 Nov 2026 17:54:25 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>ZDNet 报道称，苹果对外宣称对 Siri AI 发布满意，但内部压力与紧张情绪正在累积，公司被要求更快把 Siri 升级为可执行任务的 AI 智能体。</description>
+  </item>
+  <item>
+    <title>苹果推出 50 美元 Intelligence 用量包，部分 AI 功能开始收费</title>
+    <link>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</link>
+    <guid isPermaLink="false">112-16</guid>
+    <pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>苹果在 Logic Pro 中新增「购买更多用量」选项，一次性收费 49.99 美元，用于扩展部分 Apple Intelligence 功能的使用额度。此前苹果已发布支持文档说明相关用量限制。</description>
+  </item>
+  <item>
+    <title>三星考虑为 Galaxy AI 设置用量上限与订阅分层</title>
+    <link>https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription</link>
+    <guid isPermaLink="false">112-17</guid>
+    <pubDate>Mon, 09 Nov 2026 16:55:56 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>ZDNet 报道，三星正评估对 Galaxy AI 的重度使用设置限制，并引入订阅分层，部分长期免费的功能可能开始收费。</description>
+  </item>
+  <item>
+    <title>数据中心抗议的真正焦点可能只是电力</title>
+    <link>https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity</link>
+    <guid isPermaLink="false">112-18</guid>
+    <pubDate>Mon, 09 Nov 2026 19:35:33 +0000</pubDate>
+    <source>MIT 科技评论</source>
+    <description>MIT 科技评论记者走访弗吉尼亚州阿什本「数据中心巷」后指出，围绕数据中心的反对声浪本质上是对电力消耗与电网负荷的担忧。随着全美投票推进，能源议题正成为数据中心选址的核心变量。</description>
+  </item>
+  <item>
+    <title>ChatGPT Enterprise 上线 AWS Marketplace</title>
+    <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
+    <guid isPermaLink="false">112-19</guid>
+    <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 宣布 ChatGPT Enterprise 已在 AWS Marketplace 上架，企业可通过既有的 AWS 采购与账单关系完成购买。此举旨在简化企业采购流程，降低签约门槛。</description>
+  </item>
+  <item>
+    <title>Automattic 推出 Spacefast，进军 vibe-coding 应用部署平台</title>
+    <link>https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet</link>
+    <guid isPermaLink="false">112-20</guid>
+    <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Automattic 发布平台 Spacefast，用于部署由自然语言生成的 vibe-coding 应用，直接对标 Lovable 等新兴工具。该产品被视为 Automattic 在互联网形态变化下的新押注。</description>
+  </item>
   <item>
     <title>Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 两款前沿模型</title>
     <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
@@ -323,165 +483,5 @@
     <pubDate>Sat, 07 Nov 2026 21:31:06 +0000</pubDate>
     <source>Google News 中文</source>
     <description>上海数据集团与华为联合启动城市可信数据空间（上海）样板点建设，聚焦城市级数据流通利用基础设施的落地形态。样板点将围绕公共数据与社会数据融合、跨主体可信流通等场景开展验证，为可信数据空间从技术方案走向城市级运营提供参照。此举与上海同期发布的公共数据开发利用成果形成配套，显示地方正把可信数据空间作为数据要素市场的基础设施抓手。</description>
-  </item>
-  <item>
-    <title>上海发布公共数据开发利用系列成果，首批近300个公共数据产品亮相</title>
-    <link>https://www.shobserver.cn/news/detail?id</link>
-    <guid isPermaLink="false">109-3</guid>
-    <pubDate>Tue, 03 Nov 2026 12:09:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>上海集中发布公共数据开发利用三项成果，首批近300个公共数据产品对外亮相，覆盖多个行业场景。这是地方公共数据授权运营从制度设计走向产品化供给的标志性动作，产品数量与品类直接反映公共数据开放的深度。多家媒体报道称，成果发布同时配套了开发利用机制安排，为公共数据「供得出、流得动、用得好」提供地方样本。</description>
-  </item>
-  <item>
-    <title>广东发布健康医疗数据产权登记与资产价值评估两项地方标准</title>
-    <link>https://www.smartcity.team/policies/shujuyaosu/%E5%B9%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97%E6%95%B0%E6%8D%AE%E6%A0%87%E5%87%86/</link>
-    <guid isPermaLink="false">109-4</guid>
-    <pubDate>Thu, 29 Oct 2026 16:04:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>广东发布健康医疗数据产权登记与资产价值评估两项地方标准，分别将于2026年10月25日和12月29日正式实施。两项标准针对医疗健康这一高敏感、高价值领域，明确了产权登记流程与资产价值评估方法，填补了行业级数据资产制度空白。健康医疗数据长期受制于合规与估值双重难题，地方标准的实施将为该领域数据资产入表与交易提供可操作依据。</description>
-  </item>
-  <item>
-    <title>全国数标委发布《城市全域数字化转型标准体系研究报告》及12项技术文件，含城市可信数据空间运行服务指引</title>
-    <link>https://www.nda.gov.cn/sjj/zwgk/tzgg/1026/20261026210239813554415_pc.html</link>
-    <guid isPermaLink="false">109-5</guid>
-    <pubDate>Mon, 26 Oct 2026 21:02:39 +0000</pubDate>
-    <source>国家数据局·通知公告</source>
-    <description>全国数据标准化技术委员会在国家数据局指导下发布《城市全域数字化转型标准体系研究报告》及12项技术文件，覆盖城市感知体系、数字底座、实体统一标识、数字资源统一调度、智慧社区更新、城市智能体等方向。其中《城市可信数据空间运行服务指引》直接规范可信数据空间的运行服务要求，为地方建设提供标准依据。这批文件将城市全域数字化转型从政策倡导推进到标准化实施阶段。</description>
-  </item>
-  <item>
-    <title>中国气象局发布气象行业可信数据空间</title>
-    <link>https://www.21jingji.com/article/20261030/herald/91783ba816a30340701116a450e4fb25.html</link>
-    <guid isPermaLink="false">109-6</guid>
-    <pubDate>Fri, 30 Oct 2026 04:52:44 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>中国气象局在2026全球数商大会期间发布气象行业可信数据空间，并同步推出两项重大成果。气象数据具有公益性与商业化双重属性，行业可信数据空间的建立旨在解决数据开放共享与权属保护的平衡问题。这是继城市级可信数据空间之后，行业级可信数据空间落地的又一案例，显示可信数据空间正从通用基础设施向垂直行业渗透。</description>
-  </item>
-  <item>
-    <title>四川发布数据要素改革三年攻坚路线图</title>
-    <link>https://epaper.scdaily.cn/shtml/scrb/20261027/1092938.html</link>
-    <guid isPermaLink="false">109-7</guid>
-    <pubDate>Mon, 26 Oct 2026 22:02:27 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>四川发布数据要素改革三年攻坚路线图，明确未来三年数据要素市场化配置改革的重点任务与时间表。路线图围绕数据产权、流通交易、收益分配、安全治理等基础制度作出地方性部署，并结合四川产业特点提出攻坚方向。在國家层面「十五五」数据要素部署明确后，省级三年路线图是地方承接政策、细化落实的典型样本。</description>
-  </item>
-  <item>
-    <title>数据资产入表风险识别与应对</title>
-    <link>http://repository.hkust.edu.hk/ir/Record/1783.1-168471</link>
-    <guid isPermaLink="false">109-8</guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>文章基于《企业数据资源相关会计处理暂行规定》自2024年1月1日执行以来的实践，系统梳理数据资产入表在确认、计量、价值评估与披露环节的风险。研究指出，数据资产的虚拟性、易变性、可复用性和价值难以量化等特征，导致入表实践缺乏统一的理论体系、政策指引和作业标准。文章结合入表项目实施经验提出风险管理应对措施，为完善数据资产管理制度标准体系提供参考。</description>
-  </item>
-  <item>
-    <title>数据资产入表：企业的「新资产」来了</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3GU9-78ySnfk8XC5E93M-a4nwYuNwsdWFqXa8Fplpd9e5UCCr4EYLmKISPtin1suLNQDpaN1olxYpMPWBpXCrPE5-rzRbsrjVmHO4zJ8bQKwIbSJvqBMyBm1SVniF3lSQ4eUnWePX-S3vxhhrFnu6Ll07KwYI9UZFXHmWxa7xEa3rdfT2pUmZlSnys2z7ypK6RiCqFHlD6CTYjj-jbtKaMNGbbB75bUeA..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7%E5%85%A5%E8%A1%A8&amp;token=3473715FAAE5311F6F6831A288C2B69F6F3789BE6AF12220</link>
-    <guid isPermaLink="false">109-9</guid>
-    <pubDate>Sun, 01 Nov 2026 09:37:14 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>文章指出数据资产入表已从概念讨论进入实操阶段，本质是资产负债表的一次新扩容。内容围绕企业如何识别可入表的数据资源、入表对财务报表的影响以及实操中的难点展开。在财政部暂行规定执行两年后，市场对入表的关注点正从「要不要入」转向「怎么入、入得对不对」。</description>
-  </item>
-  <item>
-    <title>词元经济：数据要素领域词元计量与交易试点典型案例盘点</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3GU9-78ySnfAgzEJCbAYIa4nwYuNwsdWFqXa8Fplpd9Yvzb3Y1Cm4CW0yt4x8Sc0UW0Vw6RmJleIxtDCMI07TALxMT4njxMDtVjSLhEtjxEB-Jo8h0rGyA191bOEc1psmgAA24LmM6rYhrOfNoToWSwvVBsYzTFwEkQr9W6UOvEAtDT1BVQ1idB27NWFJypVg8vBvC4ttn51f7UhQcekypQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=347354E3AAE5311F6F6831A288C2B69F6F3789BE6AF1221D</link>
-    <guid isPermaLink="false">109-10</guid>
-    <pubDate>Sun, 08 Nov 2026 23:53:02 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>文章梳理公开可查的词元计量与交易相关试点案例，探讨数据要素价值流通中「词元」作为计量单元的可能路径。在高质量数据集与大模型训练需求增长的背景下，按词元计量数据价值为数据交易提供了一种可操作的定价思路。尽管落地路径仍处摸索阶段，但词元计量已从概念讨论进入局部试点。</description>
-  </item>
-  <item>
-    <title>「数据要素×」大赛收官：2.9万支队伍参赛，考题从「怎么确权」转向「能不能用起来」</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS3GU9-78ySnfAgzEJCbAYIa4nwYuNwsdWFqXa8Fplpd952hBWRS9WvExnpoocZ47xwR7mQJgfodah05bzDuidN6R59mb2vgFC64A9-iuaSBpifjB7eD6VKmR2OSAXJDCqKeqWTnE9w4EprJbxvCxSx665pjgaucDbfUhk0OV-aYo5ohOPT2tzWykd6RfujiARQXW44OLP-kkApq1Rmd9rgBFkDr8IT4KYw..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=347354E3AAE5311F6F6831A288C2B69F6F3789BE6AF1221D</link>
-    <guid isPermaLink="false">109-11</guid>
-    <pubDate>Sun, 08 Nov 2026 15:05:23 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>2026年「数据要素×」大赛全国总决赛在青岛颁奖，今年共有2.9万支队伍参赛，赛事三年累计吸引超7万支队伍。文章指出，大赛考题已从早期的「怎么确权」转向「数据到底能不能用起来」，反映数据要素工作重心从制度建设向场景价值释放迁移。这一转向与国家数据局强调的场景牵引、以用促建思路一致。</description>
-  </item>
-  <item>
-    <title>专家解读：以需求牵引让高质量科学数据赋能科学智能</title>
-    <link>https://www.nda.gov.cn/sjj/zwgk/zjjd/1106/20261106153251367850250_pc.html</link>
-    <guid isPermaLink="false">109-12</guid>
-    <pubDate>Fri, 06 Nov 2026 15:32:51 +0000</pubDate>
-    <source>国家数据局·专家解读</source>
-    <description>中国科学院计算机网络信息中心主任周园春在「数据要素×」大赛期间指出，参赛项目对数据要素的理解持续加深、越来越聚焦具体问题，科技创新赛道今年有大量企业参与。他提出，人工智能赋能科研正在改变数据使用方式——从科研人员直接下载分析，转向由智能体和大模型调用数据，数据采集、使用与验证模式均发生变化。这为高质量科学数据供给与科研范式变革的关系提供了来自一线的判断。</description>
-  </item>
-  <item>
-    <title>数据要素流通背景下敏感数据安全保护研究</title>
-    <link>https://doi.org/10.61654/zzhqkx0905</link>
-    <guid isPermaLink="false">109-13</guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>研究指出，数据要素流通覆盖多类敏感信息，当前存在风险管控盲区、分类分级标准不统一、技术防护适配性不足、参与主体权责模糊等问题，直接抬高流通信任成本、制约数据价值释放。文章提出通过全流程风险防控、分级权限管理、技术赋能、协同监管等路径优化完善。该研究为敏感数据在流通中的安全治理提供了问题清单与改进方向。</description>
-  </item>
-  <item>
-    <title>数据要素流通中的隐私计算应用</title>
-    <link>https://doi.org/10.54254/3050-2187/2025.30930</link>
-    <guid isPermaLink="false">109-14</guid>
-    <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>文章聚焦差分隐私与同态加密两类核心隐私计算技术，通过理论综述梳理技术原理，并借助实证研究量化分析隐私保护强度与数据可用性之间的权衡。研究结合典型案例验证技术落地价值，同时剖析应用现存挑战。隐私计算「数据可用不可见」的机制被视为平衡流通与保护的关键技术方案，其量化评估对数据交易场景的技术选型具有参考意义。</description>
-  </item>
-  <item>
-    <title>数字经济背景下数据资产会计确认与计量研究</title>
-    <link>https://doi.org/10.61369/er.10107</link>
-    <guid isPermaLink="false">109-15</guid>
-    <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>文章指出传统财务报表侧重实物与金融资本，忽略信息资本带来的经济效益，用户行为数据、市场调研数据、生产运营数据已成为企业重要生产要素。研究主张重新分析数据资源性质，度量其对企业未来收益的边际成本与贡献，将数据资源定位至数据资产范畴，并明确界定其能否转化为实际经济价值。文章重点讨论数据资产的会计确认与计量问题，为入表提供理论支撑。</description>
-  </item>
-  <item>
-    <title>数据要素聚集与出口企业供应链韧性：基于大数据综试区的准自然实验</title>
-    <link>https://doi.org/10.54254/2978-1736/2026.32644</link>
-    <guid isPermaLink="false">109-16</guid>
-    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>研究以2013—2023年A股上市出口企业面板数据为样本，运用双重差分模型评估大数据综合试验区试点政策对出口企业供应链韧性的影响。结果表明，试验区政策显著提高出口企业供应链韧性，机制在于促进技术创新与提升数字化转型两条路径。异质性分析显示，政策效应在非国有出口企业、非高新技术行业和东部地区企业中更为显著。</description>
-  </item>
-  <item>
-    <title>西安以赛促用孵化数据基础设施应用场景，开放公共数据目录6000余条</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/dfdt/1106/20261106191924205065540_pc.html</link>
-    <guid isPermaLink="false">109-17</guid>
-    <pubDate>Fri, 06 Nov 2026 19:19:24 +0000</pubDate>
-    <source>国家数据局·地方动态</source>
-    <description>西安作为首批国家数据基础设施建设先行先试城市，依托「丝路数港」西安节点举办首届数据基础设施应用场景创新大赛，辐射200余家市场主体，孵化遴选20个场景进入决赛。赛事开放市级公共数据资源目录6000余条，按需匹配公共数据78类、社会数据175类，设施能力累计申请调用132次。赛事强调场景是否真实运行在设施上、设施能力是否被实质调用，避免「纸面方案」。</description>
-  </item>
-  <item>
-    <title>汽车融资租赁加速数据确权，纬网智联两大数据集获官方登记证书</title>
-    <link>https://k.sina.com.cn/article_3244012052_c15bb21400101n0eq.html?from</link>
-    <guid isPermaLink="false">109-18</guid>
-    <pubDate>Tue, 03 Nov 2026 16:14:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>纬网智联在汽车融资租赁领域的两大数据集获得官方数据登记证书，显示数据确权正在向垂直行业业务场景渗透。汽车融资租赁涉及车辆、客户、履约等多维数据，数据登记有助于明确权属并支撑后续资产化运作。行业级数据登记案例的积累，是国家数据产权登记服务系统落地的重要微观基础。</description>
-  </item>
-  <item>
-    <title>WebsiteBench：让智能体通过浏览器探索逆向重建整站</title>
-    <link>https://github.com/TIGER-AI-Lab/WebsiteBench</link>
-    <guid isPermaLink="false">108-1</guid>
-    <pubDate>Tue, 10 Nov 2026 07:30:46 +0000</pubDate>
-    <source>GitHub</source>
-    <description>TIGER-AI-Lab 发布 WebsiteBench，给定一个生产级网站，要求智能体仅通过浏览器探索逆向还原出可运行的全栈实现，覆盖前端结构、交互逻辑与后端接口。项目提供任务集、排行榜、Hugging Face 数据集与 PyPI 包，并支持在云端批量跑分。它把「智能体能否真正操作并理解真实网站」变成可量化指标，对浏览器智能体与自动化测试方向有直接参考价值。</description>
-  </item>
-  <item>
-    <title>kota：在 GNOME 顶栏统一监控各家 AI 服务用量与额度</title>
-    <link>https://github.com/ensignalp/kota</link>
-    <guid isPermaLink="false">108-2</guid>
-    <pubDate>Tue, 10 Nov 2026 07:30:46 +0000</pubDate>
-    <source>GitHub</source>
-    <description>kota 用 Rust 编写，把 Claude、Codex、Gemini、GitHub Copilot 及各类 API 余额的用量限制直接显示在 GNOME 顶部面板，含百分比、环形进度、重置时间、按当前速率推算的耗尽预测，以及最近 24 小时 token 曲线。它还能列出正在运行的 AI 智能体进程及其端口、内存占用，并支持一键停止。对同时订阅多家 AI 服务的开发者来说，这是一个轻量但实用的桌面侧监控入口。</description>
-  </item>
-  <item>
-    <title>AI Manus：沙箱内自主执行代码与浏览器操作的通用智能体（多仓库重复上传）</title>
-    <link>https://github.com/Abdul-Rehman7826/ai-manus</link>
-    <guid isPermaLink="false">108-3</guid>
-    <pubDate>Tue, 10 Nov 2026 07:30:46 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该仓库提供一个通用 AI 智能体系统，核心能力是在沙箱环境中自主执行代码、控制浏览器完成导航与表单填写，并支持函数调用与多工具编排。需要特别提示：候选池中共有 18 个账号上传了内容几乎完全相同的副本，README 内嵌第三方网盘下载链接与促销码，Fork 数与 Star 数高度雷同，属于批量刷量行为，并非社区自然增长。建议仅将其视为一份智能体沙箱实现的参考代码，商用前需自行审计来源与许可证。</description>
-  </item>
-  <item>
-    <title>LiveWall：Windows 桌面动态壁纸与桌面小组件工具</title>
-    <link>https://github.com/elunboundfiremail/LiveWall---Live-Wallpaper-For-Desktop</link>
-    <guid isPermaLink="false">108-4</guid>
-    <pubDate>Tue, 10 Nov 2026 07:30:46 +0000</pubDate>
-    <source>GitHub</source>
-    <description>LiveWall 是一款面向 Windows 的免费动态壁纸工具，支持使用本地视频或内置场景库作为桌面背景，并在其上叠加时钟、天气、音乐等小组件，提供暂停、倍速、循环等播放控制，且无订阅与授权费用。项目虽被打上 ai 标签，但实际功能与 AI 无关，更接近桌面美化类工具。适合希望低成本个性化桌面的普通用户，文档以官网为主，成熟度一般。</description>
   </item>
 </channel></rss>

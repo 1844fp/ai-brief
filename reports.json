@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:30:46.098443",
+ "generated_at": "2026-11-10T07:31:07.805517",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 112,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-10",
+   "created_at": "2026-11-09T23:31:06.846157+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-10/news_daily-073106.html"
+  },
   {
    "id": 111,
    "task": "news_daily",
@@ -948,6 +957,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 两款前沿模型",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "summary": "Anthropic 推出 Claude Fable 5.2 和 Claude Mythos 5.2，称其在编程、推理与视觉能力上较 5.1 版本提升，输出速度更快，面向高难度技术任务。多家媒体报道，这是 Anthropic 在 CEO Amodei 呼吁放缓前沿模型竞赛后首次发布前沿模型，恰逢其 IPO 预期升温。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-09T18:56:29+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic 拟于周二上午登陆纳斯达克 IPO",
+   "url": "https://www.ifre.com/equities/2510788/anthropic-to-launch-nasdaq-ipo-tuesday-morning",
+   "source": "Google News 英文",
+   "summary": "据 International Financing Review 报道，Anthropic 计划于周二上午启动纳斯达克 IPO。这一时点与其新模型发布、大规模天然气涡轮机采购同步，显示公司正加速资本化以支撑算力扩张。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 5,
+   "published": "2026-11-09T19:59:06+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Nvidia 间谍风波全梳理：黄仁勋承认与 Alice Huang 存在婚外情",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+   "source": "The Verge AI",
+   "summary": "The Verge 汇总称，Nvidia CEO 黄仁勋已承认与 AI 算力公司 Megaspeed 高管 Alice Huang 的婚外情，美国情报报告此前已将其识别为疑似中国情报人员。Nvidia 董事会已启动调查，事件引发全球对华芯片出口与公司治理的连锁讨论。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-09T23:07:59+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Google 发布 Gemini 4 Argon，支持百万级输出 token 与高级智能体推理",
+   "url": "https://oodaloop.com/briefs/technology/google-releases-gemini-4-argon-showcasing-1m-output-tokens-and-advanced-agentic-reasoning/",
+   "source": "Google News 英文",
+   "summary": "Google 推出 Gemini 4 Argon，主打 100 万输出 token 与更强的智能体推理能力。另一条报道显示该模型同时面向机器人控制、仿真与策略改进场景，表明 Google 正把大模型能力向具身智能延伸。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-09T16:12:39+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Meta 推出最小最高效模型 Muse Ember，输入 token 每百万仅 10 美分",
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "source": "Hacker News",
+   "summary": "Meta 发布小模型 Muse Ember，输入 token 定价为每百万 10 美分，显著低于 Haiku、Luna 等前沿竞品。TechCrunch 亦报道此事，显示小模型价格战进一步白热化。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-09T17:58:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Anthropic 加入 AI 天然气抢购潮，斥资 34 亿美元购买涡轮机",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 以 34 亿美元购买天然气涡轮机，为数据中心锁定自备电力。TechCrunch 指出，这笔交易可能让公司面临「买家懊悔」，反映 AI 算力扩张正直接绑定化石能源基础设施。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-09T16:56:54+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "佩洛西继任者 Scott Wiener 准备推动联邦 AI 监管",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
+   "source": "MIT 科技评论",
+   "summary": "加州州参议员 Scott Wiener 赢下佩洛西空出的旧金山国会席位，他此前主导过针对先进 AI 风险的州级立法。MIT 科技评论专访称，他可能在联邦 AI 政策制定中扮演关键角色。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-09T17:05:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Nvidia 董事会调查引发股价下跌逾 4%，诉讼潮正在形成",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+   "source": "TechCrunch AI",
+   "summary": "Nvidia 董事会就黄仁勋与疑似中国间谍的关系启动调查后，股价下跌超过 4%。证券法专家指出，公司此前坚称一切「正常」的表态可能演变为代价高昂的法律问题，已有多方准备提起诉讼。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-09T22:23:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "路透：Nvidia 间谍指控或推动立法收紧中国获取 AI 芯片",
+   "url": "https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/",
+   "source": "Google News 英文",
+   "summary": "路透报道称，围绕 Nvidia CEO 的间谍指控可能促使美国国会推动新立法，进一步收紧中国获取 AI 芯片的渠道。这一动向与 Nvidia 此前游说放松出口管制的努力直接冲突。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-09T22:04:30+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "AMD 加入 Google 的 AI 芯片阵营，共同对抗 Nvidia",
+   "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63061050/amd-google-tpu",
+   "source": "Google News 英文",
+   "summary": "Benzinga 报道，AMD 加入 Google 主导的 AI 芯片推进计划，形成对 Nvidia 的联合挑战。此举意味着超大规模云厂商与芯片厂商正加速构建非 Nvidia 的算力供应链。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-09T19:16:48+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "迪士尼与 Adobe 合作开发「艺术家主导」的生成式 AI 工具",
+   "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+   "source": "The Verge AI",
+   "summary": "迪士尼与 Adobe 宣布多年合作，共同开发专有的「艺术家主导」生成式 AI 模型，用于迪士尼从主题公园到邮轮的业务制作管线。Adobe 将向迪士尼提供最新技术的早期访问权限。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-09T15:38:56+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Google Gemini 被指将个人 Drive 文件与邮件转交人工标注员",
+   "url": "https://github.com/thisisme6598/gemini_files",
+   "source": "Hacker News",
+   "summary": "Hacker News 热帖引用 GitHub 项目称，Google Gemini 会将用户的个人 Drive 文件与邮件内容路由给人工标注员审阅。该帖获得 267 分、51 条评论，引发对 AI 助手数据隐私边界的质疑。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-09T18:24:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "ChatGPT 桌面端将本地 SSH agent 转发至远程机器",
+   "url": "https://news.ycombinator.com/item?id=50422628",
+   "source": "Hacker News",
+   "summary": "Hacker News 讨论指出，ChatGPT 桌面端会把用户的本地 SSH agent 转发到远程机器，使远程运行的 agent 能用本地凭据认证，例如向私有 GitHub 仓库推送代码。帖子附有 OpenAI Codex 仓库的 PR 讨论作为佐证。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-09T08:17:49+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Anthropic 因 Claude 订阅营销面临诉讼，法院允许继续审理",
+   "url": "https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/",
+   "source": "Google News 英文",
+   "summary": "路透报道，Anthropic 必须就 Claude 订阅服务的营销方式面对诉讼。案件聚焦其订阅宣传是否构成误导，法院已驳回撤诉请求。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-09T19:38:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "苹果面临压力，需加速将 Siri 升级为 AI 智能体",
+   "url": "https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy",
+   "source": "ZDNet AI",
+   "summary": "ZDNet 报道称，苹果对外宣称对 Siri AI 发布满意，但内部压力与紧张情绪正在累积，公司被要求更快把 Siri 升级为可执行任务的 AI 智能体。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-09T17:54:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "苹果推出 50 美元 Intelligence 用量包，部分 AI 功能开始收费",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge AI",
+   "summary": "苹果在 Logic Pro 中新增「购买更多用量」选项，一次性收费 49.99 美元，用于扩展部分 Apple Intelligence 功能的使用额度。此前苹果已发布支持文档说明相关用量限制。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-09T19:09:58+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "三星考虑为 Galaxy AI 设置用量上限与订阅分层",
+   "url": "https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription",
+   "source": "ZDNet AI",
+   "summary": "ZDNet 报道，三星正评估对 Galaxy AI 的重度使用设置限制，并引入订阅分层，部分长期免费的功能可能开始收费。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-09T16:55:56+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "数据中心抗议的真正焦点可能只是电力",
+   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity",
+   "source": "MIT 科技评论",
+   "summary": "MIT 科技评论记者走访弗吉尼亚州阿什本「数据中心巷」后指出，围绕数据中心的反对声浪本质上是对电力消耗与电网负荷的担忧。随着全美投票推进，能源议题正成为数据中心选址的核心变量。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-09T19:35:33+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "ChatGPT Enterprise 上线 AWS Marketplace",
+   "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 宣布 ChatGPT Enterprise 已在 AWS Marketplace 上架，企业可通过既有的 AWS 采购与账单关系完成购买。此举旨在简化企业采购流程，降低签约门槛。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-09T19:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Automattic 推出 Spacefast，进军 vibe-coding 应用部署平台",
+   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+   "source": "TechCrunch AI",
+   "summary": "Automattic 发布平台 Spacefast，用于部署由自然语言生成的 vibe-coding 应用，直接对标 Lovable 等新兴工具。该产品被视为 Automattic 在互联网形态变化下的新押注。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-09T14:00:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
