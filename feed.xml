@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 10 Nov 2026 08:01:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 08:02:15 +0000</lastBuildDate>
+  <item>
+    <title>千问办公 2.0 发布，推出首个支持多人与 Agent 协作的 Team Agent</title>
+    <link>https://www.infoq.cn/article/1Mz0ADa02PxcDsVfpVEb</link>
+    <guid isPermaLink="false">114-1</guid>
+    <pubDate>Mon, 09 Nov 2026 16:26:51 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>千问办公 2.0 正式发布，核心亮点是首个支持多人与 Agent 协作的 Team Agent，允许多个用户与 AI 智能体在同一工作空间内协同完成任务。这标志着国产办公 AI 从单点助手向团队级智能体协作平台演进，有望重塑企业协作流程。</description>
+  </item>
+  <item>
+    <title>字节跳动发布豆包图像模型 Seedream 5.5</title>
+    <link>https://www.tmtpost.com/8198851.html</link>
+    <guid isPermaLink="false">114-2</guid>
+    <pubDate>Mon, 09 Nov 2026 23:20:00 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>字节跳动在钛晨报中披露发布豆包图像模型 Seedream 5.5，这是豆包系列图像生成模型的重要版本迭代。该模型有望进一步提升国产图像生成能力，并在字节系产品中广泛落地。</description>
+  </item>
+  <item>
+    <title>面向太空算力网，「星云星座计划」发布</title>
+    <link>https://m.sohu.com/a/1099309812_120988576?scm</link>
+    <guid isPermaLink="false">114-3</guid>
+    <pubDate>Mon, 09 Nov 2026 14:18:10 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>「星云星座计划」正式发布，面向太空算力网部署，旨在构建天基算力基础设施。该计划是中国在太空计算领域的重要布局，多家媒体报道其将加快中国太空算力网的部署进程。</description>
+  </item>
+  <item>
+    <title>谷歌发布两款 AI 芯片 8tx 与 8i Max：8tx 最高提速两倍，挑战英伟达</title>
+    <link>https://original.ifeng.com/c/8xvlYo1cCxx</link>
+    <guid isPermaLink="false">114-4</guid>
+    <pubDate>Mon, 09 Nov 2026 23:16:32 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>谷歌推出 TPU 8tx 和 8i Max 两款 AI 芯片，其中 8tx 最高提速两倍，分别面向保密计算与长上下文 AI 应用。AMD 参与合作，第五代 EPYC 处理器为谷歌 TPU 提供主机基础设施，进一步加剧与英伟达的竞争。</description>
+  </item>
+  <item>
+    <title>Claude Fable 5.2 登顶世界第一，超越 Opus 5.5</title>
+    <link>https://www.ifanr.com/1688605</link>
+    <guid isPermaLink="false">114-5</guid>
+    <pubDate>Mon, 09 Nov 2026 22:54:06 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>Anthropic 发布 Claude Fable 5.2 与 Claude Mythos 5.2，基于同一底层模型，前者面向普通用户并内置安全防护，后者面向审核机构开放。Fable 5.2 在评测中登顶世界第一，API 调用费下降 20%，生成速度最高提升 30%。</description>
+  </item>
+  <item>
+    <title>Anthropic 推进 IPO：最快下周上市，估值预期遭遇市场降温</title>
+    <link>https://www.ithome.com/1/024/576.htm</link>
+    <guid isPermaLink="false">114-6</guid>
+    <pubDate>Mon, 09 Nov 2026 23:32:38 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Anthropic 正推进纳斯达克 IPO，目标下周四或周五开始交易，股票代码拟定为 ANT。市场原本预期估值约 1.5 万亿美元，但 AI 股票回调后机构投资者施压要求更低估值，更现实区间可能落在 1.1 万亿至 1.3 万亿美元。</description>
+  </item>
+  <item>
+    <title>特朗普称不希望监管导致美国在 AI 领域落后中国一大截</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7TGgy0mOK3rTB0zwnY3xEQFbKrrjhDkOFqXa8Fplpd9EcGb1MA1y87HSE5-gD9P8kfANIaqR1aIrHM9XujaF7Yz211x8xBvYsae4OABwo1CEQm7gBwWo6lGnEnl9WIzEz1OcH9i4CmGA0nKyJKEFKYB5_gUsahusOMxjXMf0xvLYiZEbQfQXtdqTqzj5JBKGOzYzJpqedxQ2POM1TMUoTQYJSSFPgfogQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=3F75424A57158E909E9BC27D5D6B7F4E9E94D80F6AF25E99</link>
+    <guid isPermaLink="false">114-7</guid>
+    <pubDate>Mon, 09 Nov 2026 15:18:37 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>美国总统特朗普在 CBS《60 分钟》采访中表示，AI 竞赛是美国和中国之间的竞争，「没有别的对手」，不希望监管措施导致美国落后中国一大截。此番表态凸显中美 AI 竞争已成为美国政策制定的核心考量。</description>
+  </item>
+  <item>
+    <title>皮尔法伯集团与晶泰科技达成 AI 驱动药物发现合作</title>
+    <link>https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html</link>
+    <guid isPermaLink="false">114-8</guid>
+    <pubDate>Mon, 09 Nov 2026 07:28:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>法国皮尔法伯集团与晶泰科技宣布达成合作协议，将在肿瘤领域联合开展多个研发项目，晶泰科技依托「AI+机器人」能力从头设计并交付新型小分子药物。合作有望拓展至皮肤病、罕见病等领域，体现国产 AI 制药能力获国际药企认可。</description>
+  </item>
+  <item>
+    <title>ChatGPT 突然大规模封号，包括每月 200 美元的 Pro 付费用户</title>
+    <link>https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html</link>
+    <guid isPermaLink="false">114-9</guid>
+    <pubDate>Mon, 09 Nov 2026 10:32:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>多家技术社区曝出 OpenAI 突发大规模账号封禁，大量用户无预警停用，其中包括每月订阅费 200 美元的 Pro 用户，部分用户长期聊天记录无法访问。封禁疑似系统后台批量识别所致，引发付费用户对账号安全与数据归属的担忧。</description>
+  </item>
+  <item>
+    <title>黄仁勋承认婚外情，消息称其去年已聘请危机公关公司</title>
+    <link>https://www.ithome.com/1/024/565.htm</link>
+    <guid isPermaLink="false">114-10</guid>
+    <pubDate>Mon, 09 Nov 2026 15:14:20 +0000</pubDate>
+    <source>IT之家</source>
+    <description>英伟达 CEO 黄仁勋承认与一名女性存在婚外情，据《连线》报道，其早在一年前就已聘请擅长处理公众丑闻的危机公关公司 Heller。该事件可能影响英伟达公司治理与华盛顿对其 AI 政策关系的评估。</description>
+  </item>
+  <item>
+    <title>黄仁勋婚外情背后：48 亿美元芯片生意与美国政策博弈</title>
+    <link>https://www.tmtpost.com/8198370.html</link>
+    <guid isPermaLink="false">114-11</guid>
+    <pubDate>Mon, 09 Nov 2026 11:00:11 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体深度报道黄仁勋婚外情事件背后的复杂关系，涉及 48 亿美元芯片生意与美国政策博弈。英伟达需查清该关系是否越过公司制度边界，华盛顿也将借此重新计算黄仁勋与英伟达同美国 AI 政策之间的距离。</description>
+  </item>
+  <item>
+    <title>科技估值挤压潮：AI 资本开支收缩如何掀起全球连锁震荡</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7TGgy0mOK3rTB0zwnY3xEQFbKrrjhDkOFqXa8Fplpd9XtIXdGtoWIb0u-VhsbKbkatXCRvIwPLVciVilXdxsLzyaJiY9ET7Apyz4IKrrSAE-TK664UFXsP_cTQCsblA5yOx9lLYSM3EPqI4weoKjEmLqxSuc27Bd5Xyoj2xRjNq_bHBG1rgTGX2yGIkr297UMgE7VnE8yq7Tp_Odnd4mlgGX_iHL9MadA..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=3F75424A57158E909E9BC27D5D6B7F4E9E94D80F6AF25E99</link>
+    <guid isPermaLink="false">114-12</guid>
+    <pubDate>Mon, 09 Nov 2026 18:34:19 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>全球 AI 产业经历近代金融史上最集中的资本倾斜运动后，AI 资本开支收缩正引发全球科技股估值挤压。对冲基金以史上最快速度之一抛售全球科技股，市场对 AI 投资回报周期的质疑升温。</description>
+  </item>
+  <item>
+    <title>不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少</title>
+    <link>https://www.infoq.cn/article/mBvmvcQ8a8ty2Ob1xN64</link>
+    <guid isPermaLink="false">114-13</guid>
+    <pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 报道指出，AI 用于 CVE 漏洞分诊可提升效率，但不能替代人工审查。文章强调安全体系不应完全押注大模型，人工复核仍是必要环节，为 AI 在安全运营中的落地边界提供了务实参考。</description>
+  </item>
+  <item>
+    <title>Anthropic 工程师长文谈 Agent 管理实战：不想当管理者就用不好 Coding Agent</title>
+    <link>https://www.infoq.cn/article/YPQyY6bqhzhtO8MN6XUb</link>
+    <guid isPermaLink="false">114-14</guid>
+    <pubDate>Mon, 09 Nov 2026 18:24:32 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>Anthropic 工程师发布长文，分享 Coding Agent 的管理实战经验，核心观点是不具备管理者思维就难以用好 Coding Agent。文章从任务拆解、上下文管理、审查机制等角度给出可操作建议，对开发者使用 AI 编程工具具有参考价值。</description>
+  </item>
+  <item>
+    <title>L3 大撤退：奔驰宝马官宣不玩了，称还没 L2 好用</title>
+    <link>https://www.qbitai.com/2026/11/508629.html</link>
+    <guid isPermaLink="false">114-15</guid>
+    <pubDate>Mon, 09 Nov 2026 07:02:36 +0000</pubDate>
+    <source>量子位</source>
+    <description>奔驰与宝马官宣放弃 L3 级自动驾驶推进，称其体验还不如 L2 好用。作为最早量产 L3 的车企亲自泼冷水，反映出高阶自动驾驶在法规、成本与用户体验上的现实困境，对国内自动驾驶路线选择亦有警示意义。</description>
+  </item>
+  <item>
+    <title>Meta 将在全球推广 AI 年龄估算技术，青少年填「成年人」也无效</title>
+    <link>https://www.ithome.com/1/024/546.htm</link>
+    <guid isPermaLink="false">114-16</guid>
+    <pubDate>Mon, 09 Nov 2026 13:43:55 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Meta 宣布在全球推广 AI 年龄估算技术，即使青少年填写出生日期为成年人，也会被纳入「青少年账户」保护范围，覆盖 Instagram、Facebook 和 Messenger。此举背景是 Meta 因涉嫌伤害未成年用户面临多起诉讼，并与美国多州达成最高 180 亿美元和解。</description>
+  </item>
+  <item>
+    <title>Meta 旗下 AI 助手 Muse 登陆苹果 Apple Watch</title>
+    <link>https://www.ithome.com/1/024/571.htm</link>
+    <guid isPermaLink="false">114-17</guid>
+    <pubDate>Mon, 09 Nov 2026 22:58:32 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Meta 更新 iOS 版 Muse 应用，新增 Apple Watch 支持，用户可在腕上通过打字、语音输入或拨打语音电话使用个人 AI 智能体。Muse 已集成至 Instagram、Facebook 等 Meta 应用，此次登陆手表端进一步扩展其可穿戴场景。</description>
+  </item>
+  <item>
+    <title>「AI 毁了我的计算机学位」：教授也用 Claude 糊弄</title>
+    <link>https://www.qbitai.com/2026/11/508706.html</link>
+    <guid isPermaLink="false">114-18</guid>
+    <pubDate>Mon, 09 Nov 2026 08:57:20 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道称，AI 工具普及正在冲击计算机学位教育，学生依赖 AI 完成作业，甚至教授也用 Claude 应付教学任务。文章引发对计算机教育价值与评估方式改革的讨论，反映 AI 对高等教育体系的深层冲击。</description>
+  </item>
   <item>
     <title>美团龙猫开源 LongCat-2.5：总参数 1.6 万亿，支持百万上下文</title>
     <link>https://www.ithome.com/1/024/556.htm</link>
@@ -339,149 +483,5 @@
     <pubDate>Mon, 09 Nov 2026 16:56:54 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Anthropic 以约 34 亿美元购入天然气涡轮机，加入 AI 行业自建电力供应的浪潮。报道指出，这笔交易可能让公司面临买家懊悔的风险，反映算力扩张正把电力保障推到前台。</description>
-  </item>
-  <item>
-    <title>AMD 加入 Google 自研 AI 芯片阵营，共同对抗 Nvidia</title>
-    <link>https://www.benzinga.com/markets/prediction-markets/26/11/63061050/amd-google-tpu</link>
-    <guid isPermaLink="false">111-7</guid>
-    <pubDate>Mon, 09 Nov 2026 19:16:48 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>AMD 加入 Google 的 AI 芯片推进计划，与 Google 联手挑战 Nvidia 在 AI 加速器市场的主导地位。此举意味着 Google 的 TPU 生态可能向第三方芯片伙伴开放。</description>
-  </item>
-  <item>
-    <title>Google Gemini 被指将个人 Drive 文件与邮件转交人工标注员</title>
-    <link>https://github.com/thisisme6598/gemini_files</link>
-    <guid isPermaLink="false">111-8</guid>
-    <pubDate>Mon, 09 Nov 2026 18:24:38 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>有开发者披露，Google Gemini 会将用户的个人 Drive 文件与邮件内容路由给人工标注员处理。该指控在 Hacker News 引发热议，涉及 AI 助手的数据隐私边界。</description>
-  </item>
-  <item>
-    <title>Nvidia 间谍指控或推动立法收紧中国获取 AI 芯片</title>
-    <link>https://www.reuters.com/legal/litigation/nvidia-spy-allegations-likely-spur-laws-to-tighten-chinas-access-ai-chips-2026-11-09/</link>
-    <guid isPermaLink="false">111-9</guid>
-    <pubDate>Mon, 09 Nov 2026 22:04:30 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>路透社报道，Nvidia 间谍指控很可能促使美国国会推动立法，进一步收紧中国获取 AI 芯片的渠道。此前 Nvidia 一直游说放宽出口限制，如今政治环境明显转向。</description>
-  </item>
-  <item>
-    <title>Nvidia 面临集体诉讼潮，股价下跌逾 4%</title>
-    <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia</link>
-    <guid isPermaLink="false">111-10</guid>
-    <pubDate>Mon, 09 Nov 2026 22:23:42 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia 董事会对黄仁勋与疑似中国间谍的关系展开调查后，公司股价下跌逾 4%，证券法律专家认为公司此前坚称一切「正常」的表态可能带来高昂代价。多家律所正竞相发起诉讼。</description>
-  </item>
-  <item>
-    <title>Disney 与 Adobe 合作开发生成式 AI 工具</title>
-    <link>https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership</link>
-    <guid isPermaLink="false">111-11</guid>
-    <pubDate>Mon, 09 Nov 2026 15:38:56 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Disney 与 Adobe 宣布多年期合作，共同开发专有的「艺术家主导」生成式 AI 模型，用于 Disney 的制作流程。Adobe 将向 Disney 提供其最新技术的早期访问权限，覆盖主题公园、邮轮等业务。</description>
-  </item>
-  <item>
-    <title>接替佩洛西的 Scott Wiener 准备推动 AI 监管</title>
-    <link>https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai</link>
-    <guid isPermaLink="false">111-12</guid>
-    <pubDate>Mon, 09 Nov 2026 17:05:43 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>加州州参议员 Scott Wiener 赢下旧金山选区众议员席位，接替前议长佩洛西。他此前主导起草针对先进 AI 风险的州级立法，未来可能在联邦 AI 政策制定中扮演关键角色。</description>
-  </item>
-  <item>
-    <title>ChatGPT Enterprise 上线 AWS Marketplace</title>
-    <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-    <guid isPermaLink="false">111-13</guid>
-    <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 宣布 ChatGPT Enterprise 已在 AWS Marketplace 上架，企业可通过既有的 AWS 采购与计费关系完成购买。此举降低了企业采购门槛，并深化了 OpenAI 与 AWS 的渠道合作。</description>
-  </item>
-  <item>
-    <title>Apple 推出 49.99 美元 Intelligence 用量包，部分 AI 功能开始收费</title>
-    <link>https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro</link>
-    <guid isPermaLink="false">111-14</guid>
-    <pubDate>Mon, 09 Nov 2026 19:09:58 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Apple 更新 Logic Pro，新增「购买更多用量」选项，一次性收费 49.99 美元，用于扩展部分 Apple Intelligence 功能的使用额度。此前 Apple 已发布支持文档说明相关用量限制。</description>
-  </item>
-  <item>
-    <title>Apple 面临压力，需加速升级 Siri 智能体能力</title>
-    <link>https://www.zdnet.com/home-and-office/apple-siri-ai-agentic-strategy</link>
-    <guid isPermaLink="false">111-15</guid>
-    <pubDate>Mon, 09 Nov 2026 17:54:25 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>报道称 Apple 对外宣称对 Siri AI 发布满意，但内部压力与紧张情绪正在累积，公司被要求更快把 Siri 升级为智能体。这反映 Apple 在生成式 AI 助手竞赛中的追赶姿态。</description>
-  </item>
-  <item>
-    <title>Anthropic 须面对 Claude 订阅营销相关诉讼</title>
-    <link>https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/</link>
-    <guid isPermaLink="false">111-16</guid>
-    <pubDate>Mon, 09 Nov 2026 19:38:42 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>路透社报道，法院裁定 Anthropic 必须面对有关 Claude 订阅营销的诉讼。案件聚焦其订阅宣传是否误导消费者，正值 Anthropic 筹备 IPO 的敏感时点。</description>
-  </item>
-  <item>
-    <title>黄仁勋绯闻牵出中国间谍疑云，Nvidia 对华布局承压</title>
-    <link>https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny</link>
-    <guid isPermaLink="false">111-17</guid>
-    <pubDate>Mon, 09 Nov 2026 18:09:52 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，黄仁勋与疑似中国间谍的绯闻可能使 Nvidia 游说放宽美国芯片出口限制、维持中国 AI 市场准入的努力复杂化。多家媒体跟进，事件已从个人丑闻升级为国家安全议题。</description>
-  </item>
-  <item>
-    <title>黄仁勋退出 ElevenLabs 峰会，Nvidia 风波波及公开活动</title>
-    <link>https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy</link>
-    <guid isPermaLink="false">111-18</guid>
-    <pubDate>Mon, 09 Nov 2026 20:09:06 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>受 Nvidia 间谍风波影响，CEO 黄仁勋退出 ElevenLabs 峰会，并从 Anthropic 与 ElevenLabs 的活动嘉宾名单中消失。这是丑闻发酵后其首次公开行程调整。</description>
-  </item>
-  <item>
-    <title>Automattic 推出 Spacefast，进军氛围编程应用部署平台</title>
-    <link>https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet</link>
-    <guid isPermaLink="false">111-19</guid>
-    <pubDate>Mon, 09 Nov 2026 14:00:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Automattic 发布 Spacefast 平台，用于部署「氛围编程」生成的应用，直接对标 Lovable 等新兴工具。该产品面向在 AI 辅助下快速构建应用的开发者群体。</description>
-  </item>
-  <item>
-    <title>Samsung 考虑为 Galaxy AI 设置用量上限并推出订阅档位</title>
-    <link>https://www.zdnet.com/innovation/samsung-galaxy-ai-paid-subscription</link>
-    <guid isPermaLink="false">111-20</guid>
-    <pubDate>Mon, 09 Nov 2026 16:55:56 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>Samsung 正评估对 Galaxy AI 功能设置使用限制，并引入订阅分层，重度用户可能需为长期免费的功能付费。此举与 Apple 的 AI 用量包思路相似。</description>
-  </item>
-  <item>
-    <title>国家数据局明确「十五五」数据要素五方面举措，产权登记凭证将向交易、入表、司法裁判延伸</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/xwfb/1103/20261103204643794126975_pc.html</link>
-    <guid isPermaLink="false">110-1</guid>
-    <pubDate>Tue, 03 Nov 2026 20:46:43 +0000</pubDate>
-    <source>国家数据局·新闻发布</source>
-    <description>国家数据局政策和规划司司长栾婕在「十五五」系列新闻发布会上表示，「数据要素×」三年行动累计吸引超7万支队伍、36万人参赛，覆盖17个重点行业，挖掘632个优秀项目。下一步将健全数据产权、流通利用、收益分配、安全治理等基础制度，推动国家数据产权登记服务系统出具的登记凭证在数据交易、资产入表、司法裁判中发挥可信证明作用。这意味着数据产权登记正从确权工具升级为贯穿交易与会计环节的制度基础设施。</description>
-  </item>
-  <item>
-    <title>上海发布公共数据开发利用系列成果，首批近300个公共数据产品亮相</title>
-    <link>https://www.shobserver.cn/news/detail?id</link>
-    <guid isPermaLink="false">110-2</guid>
-    <pubDate>Tue, 03 Nov 2026 12:09:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>上海集中发布三项公共数据开发利用成果，首批近300个公共数据产品正式亮相，覆盖多个行业场景。这是地方公共数据授权运营从制度设计走向产品化供给的标志性动作，为场内数据交易提供了可交易的公共数据标的。多家媒体报道了同一事项。</description>
-  </item>
-  <item>
-    <title>上海数据集团与华为联合启动城市可信数据空间（上海）样板点建设</title>
-    <link>https://www.yicai.com/news/103428759.html</link>
-    <guid isPermaLink="false">110-3</guid>
-    <pubDate>Sat, 07 Nov 2026 21:31:06 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>上海数据集团与华为联合启动城市可信数据空间（上海）样板点建设，聚焦城市级数据流通利用基础设施的落地形态。可信数据空间正从政策文件中的概念转化为可运营的城市级节点，为跨主体数据融合提供可信环境。</description>
-  </item>
-  <item>
-    <title>广东发布健康医疗数据产权登记与资产价值评估两项地方标准</title>
-    <link>https://www.smartcity.team/policies/shujuyaosu/%E5%B9%BF%E4%B8%9C%E5%8F%91%E5%B8%83%E5%81%A5%E5%BA%B7%E5%8C%BB%E7%96%97%E6%95%B0%E6%8D%AE%E6%A0%87%E5%87%86/</link>
-    <guid isPermaLink="false">110-4</guid>
-    <pubDate>Thu, 29 Oct 2026 16:04:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>广东发布健康医疗数据产权登记与资产价值评估两项地方标准，将分别于2026年10月25日和12月29日正式实施。这是国内较早针对垂直行业数据产权登记与价值评估出台的地方标准，为医疗数据的确权与估值提供了可操作依据。</description>
   </item>
 </channel></rss>
