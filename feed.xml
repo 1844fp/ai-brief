@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 11 Nov 2026 15:41:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:07:59 +0000</lastBuildDate>
+  <item>
+    <title>英伟达股价下跌，董事会据报准备罢免 CEO 黄仁勋</title>
+    <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang</link>
+    <guid isPermaLink="false">116-1</guid>
+    <pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>《华尔街日报》报道称，英伟达董事会正筹备罢免 CEO 黄仁勋，起因是《纽约时报》披露其第二桩婚外情指控，而数天前他才承认与一名被指为中国间谍的女性有染。消息导致英伟达股价下挫，多家媒体跟进报道。此事将全球市值最高的 AI 芯片公司的治理风险推至台前，可能影响其对华业务与供应链决策。</description>
+  </item>
+  <item>
+    <title>美国国会传唤黄仁勋，就涉中国间谍婚外情指控作闭门说明</title>
+    <link>https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair</link>
+    <guid isPermaLink="false">116-2</guid>
+    <pubDate>Wed, 11 Nov 2026 19:22:22 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>美国众议院共和党人要求英伟达 CEO 黄仁勋在周三前回应闭门简报的传唤，就他与被指为中国间谍的女性之间的婚外情接受质询。此事与董事会酝酿罢免他的报道叠加，使英伟达陷入政治与治理双重危机。国会介入意味着事件正从公司丑闻升级为国家安全议题。</description>
+  </item>
+  <item>
+    <title>黄仁勋丑闻会否促使华盛顿堵住中国获取英伟达 AI 芯片的漏洞？</title>
+    <link>https://moderndiplomacy.eu/2026/11/12/could-the-jensen-huang-scandal-push-washington-to-close-chinas-nvidia-ai-chip-loophole/</link>
+    <guid isPermaLink="false">116-3</guid>
+    <pubDate>Thu, 12 Nov 2026 05:50:57 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>多家媒体报道，黄仁勋卷入的间谍丑闻正推动华盛顿考虑收紧对华 AI 芯片出口的现有漏洞。报道指出，中国利用性间谍手段是成熟的情报战术，而全球最具权力的 AI 高管却落入圈套。这一事件可能成为美国进一步限制英伟达对华销售的催化剂。</description>
+  </item>
+  <item>
+    <title>中国 AI 公司抢购英伟达芯片产能，担忧美国收紧管制</title>
+    <link>https://www.japantimes.co.jp/business/2026/11/12/tech/china-ai-nvidia-spy-us-chip-curbs/</link>
+    <guid isPermaLink="false">116-4</guid>
+    <pubDate>Thu, 12 Nov 2026 07:27:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>路透社独家报道，随着间谍丑闻加剧美国可能收紧出口管制的担忧，中国 AI 公司正争相锁定英伟达芯片产能。这一抢购潮反映出中国企业对供应链中断的高度焦虑。若管制落地，中国 AI 训练算力成本可能进一步上升。</description>
+  </item>
+  <item>
+    <title>OpenAI 季度营收据报首次突破 100 亿美元</title>
+    <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time</link>
+    <guid isPermaLink="false">116-5</guid>
+    <pubDate>Wed, 11 Nov 2026 16:14:44 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，OpenAI 季度营收首次超过 100 亿美元，较第二季度的 67 亿美元增长近 50%。这一增速显示企业级与消费者订阅需求仍在快速扩张。在 IPO 预期升温的背景下，该数据将强化市场对头部 AI 公司商业化能力的信心。</description>
+  </item>
+  <item>
+    <title>英国 Fractile 完成 7.2 亿美元融资，跻身 AI 芯片竞赛前列</title>
+    <link>https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips</link>
+    <guid isPermaLink="false">116-6</guid>
+    <pubDate>Wed, 11 Nov 2026 19:34:55 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>英国 AI 芯片初创公司 Fractile 完成 7.2 亿美元融资，成为专用 AI 芯片赛道中融资额最高的玩家之一。该公司主打面向 AI 推理的定制芯片，试图在英伟达主导的市场中开辟差异化路线。大额融资表明资本仍在押注 AI 芯片的多元化供应格局。</description>
+  </item>
+  <item>
+    <title>Google 发布 Gemini Decisions API</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api</link>
+    <guid isPermaLink="false">116-7</guid>
+    <pubDate>Wed, 11 Nov 2026 18:32:42 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Google 推出 Gemini Decisions API，由名为 Gemini Decision 的模型驱动，主打快速、经过校准的多模态决策能力。该 API 面向开发者，强调在需要可靠判断的场景中提供可校准的输出。这标志着 Google 正将 Gemini 从内容生成推向自动化决策工作流。</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 AlphaGenome 2，解读细胞如何读取 DNA 以理解疾病</title>
+    <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease</link>
+    <guid isPermaLink="false">116-8</guid>
+    <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
+    <source>Google DeepMind 博客</source>
+    <description>Google DeepMind 发布 AlphaGenome 2，能够预测 DNA 序列及其变异如何影响特定人类细胞类型与疾病。该模型在前代基础上进一步细化对基因调控的理解，为疾病机理研究和药物靶点发现提供工具。多家媒体报道称这是基因 AI 领域的重要进展。</description>
+  </item>
+  <item>
+    <title>Google DeepMind 发布新一代机器人 AI 模型与基因预测模型</title>
+    <link>https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/</link>
+    <guid isPermaLink="false">116-9</guid>
+    <pubDate>Wed, 11 Nov 2026 16:30:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google DeepMind 同时发布先进机器人 AI 模型和下一代基因预测模型，前者面向机器人控制与操作能力，后者即 AlphaGenome 2。双线发布显示 DeepMind 在具身智能与生物科学两个前沿方向同时推进。机器人模型的更新可能影响通用机器人平台的竞争格局。</description>
+  </item>
+  <item>
+    <title>Claude 即将能参与团队会议，角色类似实习生</title>
+    <link>https://www.zdnet.com/innovation/claude-meetings-workplace-features</link>
+    <guid isPermaLink="false">116-10</guid>
+    <pubDate>Wed, 11 Nov 2026 16:46:09 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>ZDNet 报道，Anthropic 的 Claude 将能够接受日历邀请并参与团队会议，但存在一定限制，同时 Anthropic 还推出两项已可用的新功能。这意味着 Claude 正从对话助手转向工作场所协作代理。会议场景的介入将加剧 AI 助手在企业办公市场的竞争。</description>
+  </item>
+  <item>
+    <title>Anthropic IPO 对标 SpaceX：28% 被动需求</title>
+    <link>https://shattered.io/anthropic-ipo-mirrors-spacex-playbook-28-percent-passive-demand-2026/</link>
+    <guid isPermaLink="false">116-11</guid>
+    <pubDate>Thu, 12 Nov 2026 06:18:35 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>有分析称 Anthropic 的 IPO 结构类似 SpaceX，约 28% 为被动需求。报道未披露具体估值与时间表，但显示 Anthropic 正稳步推进上市准备。在 OpenAI 营收破百亿的背景下，头部 AI 公司的资本化进程明显加速。</description>
+  </item>
+  <item>
+    <title>纽约在 RAISE 法案截止前启动 AI 安全中心</title>
+    <link>https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/</link>
+    <guid isPermaLink="false">116-12</guid>
+    <pubDate>Wed, 11 Nov 2026 19:39:46 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>纽约州宣布成立 AI 安全研究中心，由哥伦比亚大学的 Jeannette Wing 共同领导，时间点恰在 RAISE 法案截止期限之前。该中心将聚焦 AI 安全研究，为州级立法提供技术支撑。这反映美国州层面正在抢先构建 AI 治理基础设施。</description>
+  </item>
+  <item>
+    <title>日本拟对 AI 开发者施加更严格的安全处罚</title>
+    <link>https://cryptobriefing.com/japan-stricter-penalties-ai-developers/</link>
+    <guid isPermaLink="false">116-13</guid>
+    <pubDate>Thu, 12 Nov 2026 03:06:19 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>日本正在探讨针对 AI 开发者的更严格处罚措施，以回应安全担忧。若落地，日本将成为少数对 AI 开发者设定明确法律责任的主要经济体之一。此举可能影响在日本运营的国内外 AI 公司的合规成本。</description>
+  </item>
+  <item>
+    <title>美联航禁止 AI 代理代旅客订票</title>
+    <link>https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights</link>
+    <guid isPermaLink="false">116-14</guid>
+    <pubDate>Wed, 11 Nov 2026 21:24:35 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>美联航出台新规，禁止 AI 机器人代旅客预订机票，理由是隐私与监管方面的担忧。公司表示目前实际使用 AI 代理订票的旅客并不多，但希望提前设限。这是航空公司首次明确对 AI 代理设置准入壁垒，可能引发其他服务行业效仿。</description>
+  </item>
+  <item>
+    <title>CoreWeave 转向客户预付款与短期合同为 AI 扩张融资</title>
+    <link>https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth</link>
+    <guid isPermaLink="false">116-15</guid>
+    <pubDate>Wed, 11 Nov 2026 19:54:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>CoreWeave 第三季度财报显示，公司越来越多要求客户预付费用、以特定合同为抵押借款，并寻求短期交易，可能导致价格上涨。这反映 AI 云服务商在高速扩张中面临资本结构压力。融资方式的变化可能推高 AI 算力的使用成本。</description>
+  </item>
+  <item>
+    <title>Meta 长期基础设施负责人将离职</title>
+    <link>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure</link>
+    <guid isPermaLink="false">116-16</guid>
+    <pubDate>Wed, 11 Nov 2026 20:12:01 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Meta 基础设施负责人 Santosh Janardhan 宣布将卸任，他于 2009 年加入公司。该职位负责 Meta 全球数据中心与 AI 算力基础设施，离职时点正值各大公司竞相扩建 AI 数据中心。继任者人选与战略连续性值得关注。</description>
+  </item>
+  <item>
+    <title>初创公司 Radical Numerics 用 AI 对抗 AI 生物武器</title>
+    <link>https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai</link>
+    <guid isPermaLink="false">116-17</guid>
+    <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Radical Numerics 开发出一款模型，声称可在无网络连接的情况下识别天然与 AI 工程化的病原体。该工具针对 AI 被滥用于设计生物武器的风险，强调离线部署以保障安全。这代表 AI 安全防御正从文本领域扩展到生物安全。</description>
+  </item>
+  <item>
+    <title>Adobe 展示 AI 实验功能：在照片中行走、与角色对话</title>
+    <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
+    <guid isPermaLink="false">116-18</guid>
+    <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Adobe 在 Max 大会上公布多项实验性 AI 功能，可将图像转化为可探索的 3D 场景、通过对话设计 AI 角色，并把照片编辑变成复制粘贴式操作。这些功能尚未正式发布，但展示了创意工具与生成式 AI 融合的方向。对内容创作工作流可能产生实质影响。</description>
+  </item>
+  <item>
+    <title>Google 推出 Tabletop AI 实验，可构建自定义协作应用</title>
+    <link>https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability</link>
+    <guid isPermaLink="false">116-19</guid>
+    <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Google Labs 推出实验性 AI 工具 Tabletop，用户可通过自然语言描述生成个性化的协作中心，用于家庭和朋友间的行程、投票等协调。该工具视觉上类似 Asana、Monday 等工作管理应用，但内置 AI 生成能力。目前开放候补名单。</description>
+  </item>
+  <item>
+    <title>Databricks 新 AI 代理向 CEO 汇报不加修饰的真相</title>
+    <link>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth</link>
+    <guid isPermaLink="false">116-20</guid>
+    <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Databricks 更新其 Genie 代理，用于向 CEO Ali Ghodsi 汇报公司内部问题。在 1.2 万名员工的规模下，Ghodsi 表示无法亲自了解所有情况，而 AI 代理可提供未经粉饰的信息。这展示了企业级 AI 代理在管理决策中的实际应用。</description>
+  </item>
   <item>
     <title>Anthropic 投行团队寻求提高 IPO 估值，最高或达 1.4 万亿美元</title>
     <link>https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record</link>
@@ -323,165 +483,5 @@
     <pubDate>Mon, 09 Nov 2026 08:44:00 +0000</pubDate>
     <source>量子位</source>
     <description>腾讯混元发布 Hy4 模型，实测显示其在多模态 Agent 任务中交付能力突出，搭配 WorkBuddy 可完成复杂工作流。多家评测认为其已进入全球最强开源模型行列，进一步加剧国内开源模型竞争。</description>
-  </item>
-  <item>
-    <title>字节跳动发布 Seedream 5.5 图像模型，上线豆包、即梦</title>
-    <link>https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html</link>
-    <guid isPermaLink="false">113-3</guid>
-    <pubDate>Mon, 09 Nov 2026 09:41:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>字节跳动发布豆包图像创作模型 Seedream 5.5，生成速度大幅提升，增强多轮编辑稳定性，原生支持透明素材生成，并优化图像真实感与小字渲染。豆包、豆包工作、即梦已同步接入，API 即将上线火山方舟，2K 方图编辑单张成本约 0.28 元，不到上一代一半。</description>
-  </item>
-  <item>
-    <title>百度文心首次披露 RSI 进展：ERNIE Evolve 已用于模型研发，文心 5.5 Flash 将发布</title>
-    <link>https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html</link>
-    <guid isPermaLink="false">113-4</guid>
-    <pubDate>Mon, 09 Nov 2026 09:18:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>百度文心公布自动研究系统 ERNIE Evolve，可自主提出研究方向、开展实验并积累经验，在 NanoChat AutoResearch 与 NanoGPT Speedrun 三项指标上取得公开 SOTA。该系统已用于即将发布的文心 5.5 Flash 推理优化，包括昆仑芯 P800 低时延场景性能优化。</description>
-  </item>
-  <item>
-    <title>千问办公 2.0 发布，推出首个支持多人与 Agent 协作的 Team Agent</title>
-    <link>https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html</link>
-    <guid isPermaLink="false">113-5</guid>
-    <pubDate>Mon, 09 Nov 2026 14:16:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>千问办公发布 2.0 版本，推出行业首个支持多人与 Agent 协作的功能“协作”，宣布迈向 Team Agent 时代。该功能试图解决 Agent 独立完成任务后人与人之间任务流转效率低的问题，提升组织生产力。</description>
-  </item>
-  <item>
-    <title>百度搭子连中三元：中信建投、国家电投数科、通用数科竞标均列第一</title>
-    <link>https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html</link>
-    <guid isPermaLink="false">113-6</guid>
-    <pubDate>Mon, 09 Nov 2026 14:16:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>中信建投证券、国家电投集团数字科技、通用技术数科公司相继公布成交候选人名单，百度搭子在三个项目中均排名第一。百度搭子为通用智能体，可调度搜索、秒哒、胜算、伐谋等能力，QuestMobile 数据显示其 9 月多端月活季度环比增长 1567.5%。</description>
-  </item>
-  <item>
-    <title>阿里云获中国专利金奖：破解超大规模智能算力调度难题</title>
-    <link>https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html</link>
-    <guid isPermaLink="false">113-7</guid>
-    <pubDate>Mon, 09 Nov 2026 10:03:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>阿里云专利“一种用户请求的处理方法和装置”获第二十六届中国专利金奖，为本届唯一获奖云厂商。该技术可动态感知算力需求潮汐，实现超大规模智能算力按需分配、随需伸缩与多租户安全隔离。阿里云已在全球布局超万件专利，聚焦云计算、AI、大模型与芯片。</description>
-  </item>
-  <item>
-    <title>中科星云发布“星云星座计划”，拟建天地对等太空算力网</title>
-    <link>https://wallstreetcn.com/articles/3785592</link>
-    <guid isPermaLink="false">113-8</guid>
-    <pubDate>Mon, 09 Nov 2026 14:18:40 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>中科星云发布“星云星座计划”，拟建设“天地对等”的太空算力网络，推动算力资源向太空延伸。多家媒体报道该计划，被视为中国太空算力网部署的重要进展。</description>
-  </item>
-  <item>
-    <title>移动云与智谱签署合作协议，打通国产大模型算力到商业化落地链路</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7TGgy0mOK3ry7dHmXZDDB8FbKrrjhDkOFqXa8Fplpd9gMcqkptfHLpqM31cfoVsP7z7RXAGMBYnqemRM2TpadiNGQCPI2-rcPrmcPr9fw__Q9Z2roiW3u7wB9TFsp6CxWuhkHytTJnOwB9Sm2H9pL7DqjGhXLiv7cVvHNqkb-zCPjibr0dustymhNyLC_FIjtDYeWYZ6yxmgRJ0Jv7Z4rdhWLv6O878UA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=3F74CCA85504CFFE8F89D06F4D37B720901FA0D06AF25E8C</link>
-    <guid isPermaLink="false">113-9</guid>
-    <pubDate>Mon, 09 Nov 2026 02:12:52 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>移动云与智谱签署合作协议，将智谱模型接入移动云平台，降低企业接入国产大模型的技术门槛。此次合作扩充了移动云平台内可选的国产基础大模型阵容，丰富面向政企客户的模型供给。</description>
-  </item>
-  <item>
-    <title>全国首笔金融垂类大模型“Token贷”授信落地，讯兔科技获授信</title>
-    <link>https://k.sina.com.cn/article_5675440730_152485a5a020028uoi.html?from</link>
-    <guid isPermaLink="false">113-10</guid>
-    <pubDate>Mon, 09 Nov 2026 23:44:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>上海虹口发布消息，讯兔科技获得金融垂类大模型领域全国首笔“Token贷”授信。该模式以 Token 消耗量作为授信依据，探索 AI 企业融资新路径。</description>
-  </item>
-  <item>
-    <title>云深处发布四足机器人绝影 X50，实现 50kg 大负载与复杂地形作业</title>
-    <link>https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html</link>
-    <guid isPermaLink="false">113-11</guid>
-    <pubDate>Mon, 09 Nov 2026 15:27:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>云深处科技发布四足机器人绝影 X50，通过感控融合与高刚性关节系统，在不增加机身尺寸前提下将持续行进负载提升至 50kg，可在楼梯斜坡、崎岖山路等复杂路况稳定负重。该产品面向应急消防、能源电力等高风险行业重载作业场景。</description>
-  </item>
-  <item>
-    <title>首届蚂蚁灵波具身大模型挑战赛决赛：15 支战队展开 48 小时真机角逐</title>
-    <link>https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html</link>
-    <guid isPermaLink="false">113-12</guid>
-    <pubDate>Mon, 09 Nov 2026 09:16:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>首届蚂蚁灵波具身大模型挑战赛公布决赛名单，15 支战队从全球 1855 支队伍中晋级，将于 11 月 14 日至 15 日在上海张江进行 48 小时线下真机黑客松。初赛 GPU 投入由 200 张增至 350 张，累计提供超 34 万卡时算力。</description>
-  </item>
-  <item>
-    <title>拓斯达全球开放日发布人形机器人 Star，签约算力产业链企业凯航科技</title>
-    <link>https://www.eet-china.com/mp/a538007.html</link>
-    <guid isPermaLink="false">113-13</guid>
-    <pubDate>Mon, 09 Nov 2026 12:30:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>拓斯达在全球开放日发布人形机器人 Star，同时旗下“小拓”与算力产业链企业凯航科技签约。该发布展示拓斯达在人形机器人整机与算力协同方面的布局。</description>
-  </item>
-  <item>
-    <title>基元律动发布 NeoHorse-1.5-Flash Preview，Agent 模型 RSI 进入第二轮迭代</title>
-    <link>https://www.qbitai.com/2026/11/508603.html</link>
-    <guid isPermaLink="false">113-14</guid>
-    <pubDate>Mon, 09 Nov 2026 05:09:23 +0000</pubDate>
-    <source>量子位</source>
-    <description>基元律动（TokenRhythm）发布 Agent 原生模型 NeoHorse-1.5-Flash Preview，其 Agent 模型递归自我改进（RSI）进入第二轮迭代。该模型面向 Agent 任务原生设计，强调自我迭代能力。</description>
-  </item>
-  <item>
-    <title>AI 接管 8 万 Star 开源公司：写代码、派任务、查 Bug 全包</title>
-    <link>https://www.qbitai.com/2026/11/508607.html</link>
-    <guid isPermaLink="false">113-15</guid>
-    <pubDate>Mon, 09 Nov 2026 05:47:58 +0000</pubDate>
-    <source>量子位</source>
-    <description>有报道称一家拥有 8 万 Star 的开源公司由 AI 接管日常研发，主管 Agent 可自行招募 Worker Agent，完成写代码、派发任务与查 Bug 等工作。该案例展示多 Agent 协作在真实软件工程中的落地形态。</description>
-  </item>
-  <item>
-    <title>开源终端 uniTerm v1.12 发布：Docker 多租户部署与终端录制上线</title>
-    <link>https://www.oschina.net/news/503487</link>
-    <guid isPermaLink="false">113-16</guid>
-    <pubDate>Mon, 09 Nov 2026 09:04:39 +0000</pubDate>
-    <source>开源中国</source>
-    <description>开源终端软件 uniTerm 发布 v1.12，新增 Docker Web 多租户部署、本地服务、终端录制与批量执行功能。该软件整合终端、文件传输、远程桌面、数据库客户端与容器五大类协议，安装包不到 20MB，内置可自主执行多轮 Shell 命令的 AI Agent。</description>
-  </item>
-  <item>
-    <title>Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2 两款前沿模型</title>
-    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-    <guid isPermaLink="false">112-1</guid>
-    <pubDate>Mon, 09 Nov 2026 18:56:29 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 推出 Claude Fable 5.2 和 Claude Mythos 5.2，称其在编程、推理与视觉能力上较 5.1 版本提升，输出速度更快，面向高难度技术任务。多家媒体报道，这是 Anthropic 在 CEO Amodei 呼吁放缓前沿模型竞赛后首次发布前沿模型，恰逢其 IPO 预期升温。</description>
-  </item>
-  <item>
-    <title>Anthropic 拟于周二上午登陆纳斯达克 IPO</title>
-    <link>https://www.ifre.com/equities/2510788/anthropic-to-launch-nasdaq-ipo-tuesday-morning</link>
-    <guid isPermaLink="false">112-2</guid>
-    <pubDate>Mon, 09 Nov 2026 19:59:06 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 International Financing Review 报道，Anthropic 计划于周二上午启动纳斯达克 IPO。这一时点与其新模型发布、大规模天然气涡轮机采购同步，显示公司正加速资本化以支撑算力扩张。</description>
-  </item>
-  <item>
-    <title>Nvidia 间谍风波全梳理：黄仁勋承认与 Alice Huang 存在婚外情</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
-    <guid isPermaLink="false">112-3</guid>
-    <pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 汇总称，Nvidia CEO 黄仁勋已承认与 AI 算力公司 Megaspeed 高管 Alice Huang 的婚外情，美国情报报告此前已将其识别为疑似中国情报人员。Nvidia 董事会已启动调查，事件引发全球对华芯片出口与公司治理的连锁讨论。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini 4 Argon，支持百万级输出 token 与高级智能体推理</title>
-    <link>https://oodaloop.com/briefs/technology/google-releases-gemini-4-argon-showcasing-1m-output-tokens-and-advanced-agentic-reasoning/</link>
-    <guid isPermaLink="false">112-4</guid>
-    <pubDate>Mon, 09 Nov 2026 16:12:39 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google 推出 Gemini 4 Argon，主打 100 万输出 token 与更强的智能体推理能力。另一条报道显示该模型同时面向机器人控制、仿真与策略改进场景，表明 Google 正把大模型能力向具身智能延伸。</description>
-  </item>
-  <item>
-    <title>Meta 推出最小最高效模型 Muse Ember，输入 token 每百万仅 10 美分</title>
-    <link>https://research.meta.ai/blog/muse-ember</link>
-    <guid isPermaLink="false">112-5</guid>
-    <pubDate>Mon, 09 Nov 2026 17:58:46 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Meta 发布小模型 Muse Ember，输入 token 定价为每百万 10 美分，显著低于 Haiku、Luna 等前沿竞品。TechCrunch 亦报道此事，显示小模型价格战进一步白热化。</description>
-  </item>
-  <item>
-    <title>Anthropic 加入 AI 天然气抢购潮，斥资 34 亿美元购买涡轮机</title>
-    <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines</link>
-    <guid isPermaLink="false">112-6</guid>
-    <pubDate>Mon, 09 Nov 2026 16:56:54 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Anthropic 以 34 亿美元购买天然气涡轮机，为数据中心锁定自备电力。TechCrunch 指出，这笔交易可能让公司面临「买家懊悔」，反映 AI 算力扩张正直接绑定化石能源基础设施。</description>
   </item>
 </channel></rss>

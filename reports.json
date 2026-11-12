@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T15:41:00.084919",
+ "generated_at": "2026-11-12T16:07:59.612828",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 116,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-12",
+   "created_at": "2026-11-12T08:07:57.837694+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-12/news_daily-160757.html"
+  },
   {
    "id": 115,
    "task": "news_daily",
@@ -984,6 +993,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "英伟达股价下跌，董事会据报准备罢免 CEO 黄仁勋",
+   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+   "source": "TechCrunch AI",
+   "summary": "《华尔街日报》报道称，英伟达董事会正筹备罢免 CEO 黄仁勋，起因是《纽约时报》披露其第二桩婚外情指控，而数天前他才承认与一名被指为中国间谍的女性有染。消息导致英伟达股价下挫，多家媒体跟进报道。此事将全球市值最高的 AI 芯片公司的治理风险推至台前，可能影响其对华业务与供应链决策。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-11-11T23:28:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "美国国会传唤黄仁勋，就涉中国间谍婚外情指控作闭门说明",
+   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+   "source": "TechCrunch AI",
+   "summary": "美国众议院共和党人要求英伟达 CEO 黄仁勋在周三前回应闭门简报的传唤，就他与被指为中国间谍的女性之间的婚外情接受质询。此事与董事会酝酿罢免他的报道叠加，使英伟达陷入政治与治理双重危机。国会介入意味着事件正从公司丑闻升级为国家安全议题。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-11T19:22:22+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "黄仁勋丑闻会否促使华盛顿堵住中国获取英伟达 AI 芯片的漏洞？",
+   "url": "https://moderndiplomacy.eu/2026/11/12/could-the-jensen-huang-scandal-push-washington-to-close-chinas-nvidia-ai-chip-loophole/",
+   "source": "Google News 英文",
+   "summary": "多家媒体报道，黄仁勋卷入的间谍丑闻正推动华盛顿考虑收紧对华 AI 芯片出口的现有漏洞。报道指出，中国利用性间谍手段是成熟的情报战术，而全球最具权力的 AI 高管却落入圈套。这一事件可能成为美国进一步限制英伟达对华销售的催化剂。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-12T05:50:57+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "中国 AI 公司抢购英伟达芯片产能，担忧美国收紧管制",
+   "url": "https://www.japantimes.co.jp/business/2026/11/12/tech/china-ai-nvidia-spy-us-chip-curbs/",
+   "source": "Google News 英文",
+   "summary": "路透社独家报道，随着间谍丑闻加剧美国可能收紧出口管制的担忧，中国 AI 公司正争相锁定英伟达芯片产能。这一抢购潮反映出中国企业对供应链中断的高度焦虑。若管制落地，中国 AI 训练算力成本可能进一步上升。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-12T07:27:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "OpenAI 季度营收据报首次突破 100 亿美元",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，OpenAI 季度营收首次超过 100 亿美元，较第二季度的 67 亿美元增长近 50%。这一增速显示企业级与消费者订阅需求仍在快速扩张。在 IPO 预期升温的背景下，该数据将强化市场对头部 AI 公司商业化能力的信心。",
+   "why": null,
+   "category": "融资与商业",
+   "heat": 5,
+   "published": "2026-11-11T16:14:44+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "英国 Fractile 完成 7.2 亿美元融资，跻身 AI 芯片竞赛前列",
+   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+   "source": "TechCrunch AI",
+   "summary": "英国 AI 芯片初创公司 Fractile 完成 7.2 亿美元融资，成为专用 AI 芯片赛道中融资额最高的玩家之一。该公司主打面向 AI 推理的定制芯片，试图在英伟达主导的市场中开辟差异化路线。大额融资表明资本仍在押注 AI 芯片的多元化供应格局。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-11T19:34:55+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Google 发布 Gemini Decisions API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+   "source": "Hacker News",
+   "summary": "Google 推出 Gemini Decisions API，由名为 Gemini Decision 的模型驱动，主打快速、经过校准的多模态决策能力。该 API 面向开发者，强调在需要可靠判断的场景中提供可校准的输出。这标志着 Google 正将 Gemini 从内容生成推向自动化决策工作流。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 4,
+   "published": "2026-11-11T18:32:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "DeepMind 发布 AlphaGenome 2，解读细胞如何读取 DNA 以理解疾病",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 发布 AlphaGenome 2，能够预测 DNA 序列及其变异如何影响特定人类细胞类型与疾病。该模型在前代基础上进一步细化对基因调控的理解，为疾病机理研究和药物靶点发现提供工具。多家媒体报道称这是基因 AI 领域的重要进展。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-11T15:00:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Google DeepMind 发布新一代机器人 AI 模型与基因预测模型",
+   "url": "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model/",
+   "source": "Google News 英文",
+   "summary": "Google DeepMind 同时发布先进机器人 AI 模型和下一代基因预测模型，前者面向机器人控制与操作能力，后者即 AlphaGenome 2。双线发布显示 DeepMind 在具身智能与生物科学两个前沿方向同时推进。机器人模型的更新可能影响通用机器人平台的竞争格局。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-11T16:30:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "Claude 即将能参与团队会议，角色类似实习生",
+   "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features",
+   "source": "ZDNet AI",
+   "summary": "ZDNet 报道，Anthropic 的 Claude 将能够接受日历邀请并参与团队会议，但存在一定限制，同时 Anthropic 还推出两项已可用的新功能。这意味着 Claude 正从对话助手转向工作场所协作代理。会议场景的介入将加剧 AI 助手在企业办公市场的竞争。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 4,
+   "published": "2026-11-11T16:46:09+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Anthropic IPO 对标 SpaceX：28% 被动需求",
+   "url": "https://shattered.io/anthropic-ipo-mirrors-spacex-playbook-28-percent-passive-demand-2026/",
+   "source": "Google News 英文",
+   "summary": "有分析称 Anthropic 的 IPO 结构类似 SpaceX，约 28% 为被动需求。报道未披露具体估值与时间表，但显示 Anthropic 正稳步推进上市准备。在 OpenAI 营收破百亿的背景下，头部 AI 公司的资本化进程明显加速。",
+   "why": null,
+   "category": "融资与商业",
+   "heat": 3,
+   "published": "2026-11-12T06:18:35+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "纽约在 RAISE 法案截止前启动 AI 安全中心",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-york-launches-ai-safety-center-ahead-of-raise-act-deadline/",
+   "source": "Google News 英文",
+   "summary": "纽约州宣布成立 AI 安全研究中心，由哥伦比亚大学的 Jeannette Wing 共同领导，时间点恰在 RAISE 法案截止期限之前。该中心将聚焦 AI 安全研究，为州级立法提供技术支撑。这反映美国州层面正在抢先构建 AI 治理基础设施。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-11T19:39:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "日本拟对 AI 开发者施加更严格的安全处罚",
+   "url": "https://cryptobriefing.com/japan-stricter-penalties-ai-developers/",
+   "source": "Google News 英文",
+   "summary": "日本正在探讨针对 AI 开发者的更严格处罚措施，以回应安全担忧。若落地，日本将成为少数对 AI 开发者设定明确法律责任的主要经济体之一。此举可能影响在日本运营的国内外 AI 公司的合规成本。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-12T03:06:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "美联航禁止 AI 代理代旅客订票",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+   "source": "Hacker News",
+   "summary": "美联航出台新规，禁止 AI 机器人代旅客预订机票，理由是隐私与监管方面的担忧。公司表示目前实际使用 AI 代理订票的旅客并不多，但希望提前设限。这是航空公司首次明确对 AI 代理设置准入壁垒，可能引发其他服务行业效仿。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-11T21:24:35+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "CoreWeave 转向客户预付款与短期合同为 AI 扩张融资",
+   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+   "source": "TechCrunch AI",
+   "summary": "CoreWeave 第三季度财报显示，公司越来越多要求客户预付费用、以特定合同为抵押借款，并寻求短期交易，可能导致价格上涨。这反映 AI 云服务商在高速扩张中面临资本结构压力。融资方式的变化可能推高 AI 算力的使用成本。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-11T19:54:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Meta 长期基础设施负责人将离职",
+   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+   "source": "TechCrunch AI",
+   "summary": "Meta 基础设施负责人 Santosh Janardhan 宣布将卸任，他于 2009 年加入公司。该职位负责 Meta 全球数据中心与 AI 算力基础设施，离职时点正值各大公司竞相扩建 AI 数据中心。继任者人选与战略连续性值得关注。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-11T20:12:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "初创公司 Radical Numerics 用 AI 对抗 AI 生物武器",
+   "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai",
+   "source": "Wired AI",
+   "summary": "Radical Numerics 开发出一款模型，声称可在无网络连接的情况下识别天然与 AI 工程化的病原体。该工具针对 AI 被滥用于设计生物武器的风险，强调离线部署以保障安全。这代表 AI 安全防御正从文本领域扩展到生物安全。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-11T17:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Adobe 展示 AI 实验功能：在照片中行走、与角色对话",
+   "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "source": "The Verge AI",
+   "summary": "Adobe 在 Max 大会上公布多项实验性 AI 功能，可将图像转化为可探索的 3D 场景、通过对话设计 AI 角色，并把照片编辑变成复制粘贴式操作。这些功能尚未正式发布，但展示了创意工具与生成式 AI 融合的方向。对内容创作工作流可能产生实质影响。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 3,
+   "published": "2026-11-11T14:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Google 推出 Tabletop AI 实验，可构建自定义协作应用",
+   "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "source": "The Verge AI",
+   "summary": "Google Labs 推出实验性 AI 工具 Tabletop，用户可通过自然语言描述生成个性化的协作中心，用于家庭和朋友间的行程、投票等协调。该工具视觉上类似 Asana、Monday 等工作管理应用，但内置 AI 生成能力。目前开放候补名单。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 3,
+   "published": "2026-11-11T16:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Databricks 新 AI 代理向 CEO 汇报不加修饰的真相",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+   "source": "TechCrunch AI",
+   "summary": "Databricks 更新其 Genie 代理，用于向 CEO Ali Ghodsi 汇报公司内部问题。在 1.2 万名员工的规模下，Ghodsi 表示无法亲自了解所有情况，而 AI 代理可提供未经粉饰的信息。这展示了企业级 AI 代理在管理决策中的实际应用。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 3,
+   "published": "2026-11-11T15:00:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
