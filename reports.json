@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T16:07:59.612828",
+ "generated_at": "2026-11-13T16:58:36.477230",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 117,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-13",
+   "created_at": "2026-11-13T08:58:35.044905+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-13/news_daily-165835.html"
+  },
   {
    "id": 116,
    "task": "news_daily",
@@ -993,6 +1002,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "黄仁勋辞任 Nvidia CEO，董事会调查多起婚外情与涉嫌间谍事件",
+   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+   "source": "Hacker News",
+   "summary": "Nvidia 联合创始人、总裁兼 CEO 黄仁勋在承认与 Megaspeed 高管 Alice Huang 的婚外情后宣布辞职，随后《纽约时报》又曝出他与一名直接汇报的下属存在另一段关系。董事会已启动调查，首席财务官 Colette Kress 出任临时接任者。此事发生在公司因对华芯片销售与特朗普政府关系而备受审视的敏感时点，直接动摇了全球市值最高半导体公司的治理根基。",
+   "why": null,
+   "category": "公司治理/芯片",
+   "heat": 5,
+   "published": "2026-11-12T13:52:29+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Google 发布 Gemini 4 Hydrogen，并接入 Google 搜索",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+   "source": "Hacker News",
+   "summary": "Google 正式推出 Gemini 4 Hydrogen 模型，并同步在 Google 搜索、Gemini 应用及所有付费层级上线。该模型擅长拆解多部分问题、容错拼写错误并处理高度具体的请求，发布仅四周便在评测中超过体量更大的 Argon 模型。这意味着 Google 正把最强模型直接嵌入其最大流量入口，搜索与对话式 AI 的边界进一步消融。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-12T18:01:48+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Anthropic IPO 据报获六倍超额认购",
+   "url": "https://ipo.anthropic.com/us",
+   "source": "Hacker News",
+   "summary": "Anthropic 的首次公开募股据多家媒体报道已获得约六倍超额认购，市场认购情绪远超预期。作为 OpenAI 最主要的竞争对手之一，Anthropic 的上市定价与认购热度将成为衡量公开市场对前沿大模型公司估值容忍度的关键标尺。若顺利挂牌，将为后续 AI 公司上市打开窗口。",
+   "why": null,
+   "category": "融资/IPO",
+   "heat": 5,
+   "published": "2026-11-12T11:46:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "美国民主党对 Nvidia 发起调查，并就黄仁勋与特朗普的「交易」致信抨击",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+   "source": "TechCrunch AI",
+   "summary": "美国国会民主党人宣布对 Nvidia 的对华销售及其与特朗普政府的往来展开调查，并致信严厉批评黄仁勋的相关「安排」。这是自涉嫌间谍丑闻爆发以来针对 Nvidia 的第二项国会调查。调查叠加 CEO 辞职，使 Nvidia 的对华出口政策面临更大政治压力。",
+   "why": null,
+   "category": "监管/政策",
+   "heat": 4,
+   "published": "2026-11-12T22:42:51+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "黄仁勋离职令 Nvidia 对开源 AI 的支持前景存疑",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 分析指出，黄仁勋的辞职使 Nvidia 对开源 AI 的承诺——包括 Hugging Face 收购、开放权重模型以及反对限制开源的政策游说——面临不确定性。黄仁勋此前是公司内部开源路线的主要推动者，领导层过渡期可能使相关项目放缓或转向。开源社区正密切关注 Nvidia 是否延续既有立场。",
+   "why": null,
+   "category": "行业格局/开源",
+   "heat": 4,
+   "published": "2026-11-12T18:39:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Nvidia 私下确认技术上可追踪芯片以打击走私，行业组织却公开质疑可行性",
+   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking",
+   "source": "MIT 科技评论",
+   "summary": "Nvidia 代表向伊利诺伊州众议员 Bill Foster 表示，落实《芯片安全法案》所要求的反走私追踪措施在技术上可行，尽管行业团体称其「可能不可行」。Foster 向《MIT 科技评论》透露了这一表态。这一私下确认与公开质疑的矛盾，凸显芯片追踪政策在立法推进中的博弈。",
+   "why": null,
+   "category": "监管/芯片",
+   "heat": 4,
+   "published": "2026-11-12T20:16:24+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Nebius 以 400 亿美元支出计划检验「新云」模式",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+   "source": "TechCrunch AI",
+   "summary": "AI 云服务商 Nebius 计划通过客户预付款与贷款为其 400 亿美元的 AI 基础设施扩张融资。与此同时，其一处微软数据中心的延期交付引发外界对其融资模式的质疑。这一案例被视为「新云」厂商在高杠杆扩张下能否持续的关键测试。",
+   "why": null,
+   "category": "算力/基础设施",
+   "heat": 4,
+   "published": "2026-11-12T21:27:10+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Norwest 设立 40 亿美元新基金，加码 AI 投资",
+   "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
+   "source": "TechCrunch AI",
+   "summary": "投资机构 Norwest 推出规模 40 亿美元的新基金，为其史上最大基金，并明确将加大对 AI 领域的布局。在 AI 一级市场融资持续升温的背景下，老牌风投正以更大体量押注 AI 基础设施与应用层。该基金规模也反映出 LP 对 AI 主题的持续配置意愿。",
+   "why": null,
+   "category": "融资",
+   "heat": 3,
+   "published": "2026-11-12T15:18:14+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Edge0-145B：在个人电脑上运行前沿级 AI 能力",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "source": "Hacker News",
+   "summary": "Edge0 发布 145B 参数模型 Edge0-145B，宣称可在用户自有电脑上提供前沿级 AI 能力。该发布延续了近期大模型端侧化、本地化部署的趋势，试图在隐私与成本上对抗云端 API。若其性能宣称属实，将显著改变个人设备上的 AI 应用形态。",
+   "why": null,
+   "category": "模型发布/端侧",
+   "heat": 4,
+   "published": "2026-11-12T23:06:17+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "研究称中国前沿 AI 模型带有出口管制 GPU 的「指纹」",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "source": "Hacker News",
+   "summary": "一项名为「checkpoint forensics」的分析声称，中国前沿 AI 模型的训练痕迹中带有受出口管制 GPU 的特征指纹。该研究试图通过模型检查点取证来推断训练所用硬件来源。若方法可靠，将为芯片出口管制的执法提供新的技术手段，但也引发对取证方法可靠性的讨论。",
+   "why": null,
+   "category": "前沿研究/芯片",
+   "heat": 4,
+   "published": "2026-11-12T21:56:11+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "纽约市议会通过禁止「监控定价」法案",
+   "url": "https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data",
+   "source": "Hacker News",
+   "summary": "纽约市议会通过法案，禁止依赖个人数据的「监控定价」行为，即企业利用个人数据对消费者实施差异化定价。这是美国地方层面针对算法定价与数据滥用的最新监管动作。法案将影响电商、零售与依赖用户画像定价的 AI 推荐系统。",
+   "why": null,
+   "category": "监管/政策",
+   "heat": 3,
+   "published": "2026-11-13T02:04:39+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "诉讼称 OpenAI、Anthropic 等 AI 公司无法控制其技术",
+   "url": "https://aa.com.tr/en/science-technology/lawsuit-claims-openai-anthropic-and-other-ai-companies-cannot-control-their-technology/4123785",
+   "source": "Google News 英文",
+   "summary": "一起诉讼指控 OpenAI、Anthropic 等多家 AI 公司无法控制其技术，将「不可控性」本身作为诉由。该案试图从产品责任角度追究前沿实验室对模型行为的责任。若法院受理并推进，可能为 AI 责任认定确立新的判例路径。",
+   "why": null,
+   "category": "法律/监管",
+   "heat": 3,
+   "published": "2026-11-13T08:43:40+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "研究发现 AI 聊天机器人会推荐虚假零售网站",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+   "source": "The Verge AI",
+   "summary": "IP 保护公司 Podqi 独家提供给 The Verge 的研究显示，ChatGPT、Gemini 与 Perplexity 在回答购物类问题时，会把用户引向仿冒网站及其他高风险站点。研究用一组购物相关问题测试了三大主流助手。这暴露出 AI 搜索引用来源的可信度缺口，对电商与消费者保护构成直接风险。",
+   "why": null,
+   "category": "产品安全",
+   "heat": 3,
+   "published": "2026-11-12T17:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "中芯国际称 AI 芯片供应链紧张将持续至 2027 年",
+   "url": "https://www.reuters.com/technology/smic-says-ai-chip-supply-chain-will-remain-tight-through-2027-2026-11-13/",
+   "source": "Google News 英文",
+   "summary": "中芯国际表示，AI 芯片供应链的紧张状况将至少延续到 2027 年。这一判断来自中国最大晶圆代工厂，反映先进制程与封装产能的持续瓶颈。在全球算力需求高企与出口管制并存的背景下，供应紧张将推高成本并加剧产能争夺。",
+   "why": null,
+   "category": "芯片/供应链",
+   "heat": 3,
+   "published": "2026-11-13T02:01:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "软银数十亿美元亏损或给 AI 天然气发电雄心降温",
+   "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+   "source": "TechCrunch AI",
+   "summary": "软银因预购天然气涡轮机为 AI 数据中心供电而损失逾 30 亿美元。这一亏损可能抑制科技公司以天然气为 AI 数据中心供电的扩张冲动。事件凸显 AI 算力扩张在电力供应与资本开支上的现实约束。",
+   "why": null,
+   "category": "算力/能源",
+   "heat": 3,
+   "published": "2026-11-12T17:00:52+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Google 搜索升级：Gemini 4 Hydrogen 应对复杂问题",
+   "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+   "source": "TechCrunch AI",
+   "summary": "Google 称新版 Gemini 4 Hydrogen 模型能更好地回答复杂问题，包括多部分问题、难以理解的拼写错误以及高度具体的请求，并可拆解问题逐项作答。该模型即日起在搜索、Gemini 应用及所有 Google 付费层级上线。这是 Google 将前沿模型直接嵌入核心搜索产品的又一动作。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-12T19:27:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "Google DeepMind 员工寻求英国政府介入工会化之争",
+   "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight",
+   "source": "Wired AI",
+   "summary": "在与公司管理层的初步谈判陷入停滞後，Google DeepMind 员工转向英国政府，试图绕过公司管理层推进工会化。这是 AI 实验室内部劳资关系紧张的最新案例。事件反映前沿 AI 公司员工对治理、伦理与劳动条件的话语权诉求上升。",
+   "why": null,
+   "category": "行业/劳工",
+   "heat": 2,
+   "published": "2026-11-12T18:05:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "OpenAI 投入 200 万美元支持 AI 与儿童安全研究",
+   "url": "https://openai.com/index/children-first-declaration",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 承诺投入 200 万美元用于 AI 与儿童安全相关研究，支持衡量青少年面临风险与机会的共享工具。该承诺属于「儿童优先宣言」框架下的行动。在各国监管机构加大对未成年人使用 AI 关注的背景下，这是头部实验室的主动合规姿态。",
+   "why": null,
+   "category": "安全/政策",
+   "heat": 2,
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "更多游戏开发者开始使用生成式 AI",
+   "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+   "source": "The Verge AI",
+   "summary": "GDC 游戏节最新年度行业调查显示，40% 的受访开发者表示在工作中使用生成式 AI，高于 2025 年的 36%。使用率在部分开发者群体中更高。这一数据表明生成式 AI 正从实验性工具转为游戏生产流程的常规组成。",
+   "why": null,
+   "category": "行业应用",
+   "heat": 2,
+   "published": "2026-11-12T17:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Muse 的 AI 现可代用户致电美国企业，但需付费",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+   "source": "TechCrunch AI",
+   "summary": "Muse 宣布其 AI 能够代用户向美国企业拨打外呼电话，但该功能需付费使用。这标志着语音 AI 代理从接听转向主动外呼的真实业务场景。付费模式也显示 AI 电话代理正走向商业化落地。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 2,
+   "published": "2026-11-12T22:22:28+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
