@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T16:58:36.477230",
+ "generated_at": "2026-11-14T07:30:51.093651",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 118,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-14",
+   "created_at": "2026-11-13T23:30:49.683206+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-14/news_daily-073049.html"
+  },
   {
    "id": 117,
    "task": "news_daily",
@@ -1002,6 +1011,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Google 发布 Gemini 4 Hydrogen 并推出 Orchestrator",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity",
+   "source": "Hacker News",
+   "summary": "Google 正式发布 Gemini 4 Hydrogen，并已接入 Google 搜索界面，同时推出名为 Orchestrator 的编排能力。该模型在 Google 官方博客与 DeepMind 博客同步披露，HN 讨论热度超过 550 分。这意味着 Google 正把最强模型直接嵌入搜索入口，与 OpenAI 在消费级 AI 入口的竞争进一步升级。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-12T18:52:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "OpenAI 解散独立机器人团队，通用模型开始驱动机器人",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+   "source": "Hacker News",
+   "summary": "据 Fortune 报道，OpenAI 已解散其独立机器人团队，转而依靠通用模型直接运行机器人。这反映出 OpenAI 认为通用模型能力已足以覆盖机器人控制，无需单独建制。对机器人赛道而言，通用大模型正成为新的技术底座，专用机器人团队的价值被重新评估。",
+   "why": null,
+   "category": "组织与战略",
+   "heat": 4,
+   "published": "2026-11-13T17:55:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "OpenAI 推出 ChatGPT Wallet，智能体可代用户完成支付",
+   "url": "https://openai.com/index/introducing-chatgpt-wallet",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布 ChatGPT Wallet，让 ChatGPT Work、Codex 和 dots 中的智能体在用户批准下使用现有银行卡完成购买。该功能率先向美国 18 岁以上 ChatGPT Pro 订阅用户开放，支持 American Express、Chase、Mastercard 和 Visa。多家媒体报道称，这标志着智能体从「建议」走向「执行交易」，支付环节成为智能体商业化的关键基础设施。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 5,
+   "published": "2026-11-13T15:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Jensen Huang 离任在 AI 初创融资中留下巨大缺口",
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+   "source": "TechCrunch AI",
+   "summary": "据 TechCrunch 报道，Nvidia 在 Huang 主导下曾向 AI 初创投入数百亿美元，其离任后创始人与风投预计将面临更小的支票和更低的估值。多家媒体将此与 Nvidia 近期市值大幅缩水联系起来。这意味着 AI 初创融资的重要资金来源出现真空，行业估值体系可能面临重估。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 5,
+   "published": "2026-11-13T22:43:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "研究显示中国最强 AI 模型依赖被出口管制的 Nvidia 芯片训练",
+   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 援引新研究称，中国最先进的一批 AI 模型是在被出口禁令覆盖的 Nvidia 芯片上训练完成的。这一发现直接挑战现行出口管制的有效性，并可能加剧美国对芯片走私的审查。对 Nvidia 而言，合规风险与政策压力同步上升。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-13T18:40:30+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "AI 智能体初创 LangChain 估值达到 30 亿美元",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+   "source": "TechCrunch AI",
+   "summary": "LangChain 宣布其模型与平台无关的智能体管理工具 LangSmith 已拥有 7000 家客户，公司估值达到 30 亿美元。这显示企业级智能体编排与管理层正在成为独立的高价值赛道。在基础模型竞争之外，智能体中间层正获得资本持续加注。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 4,
+   "published": "2026-11-13T19:37:57+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "AI 解锁哥德尔笔记，据称包含数百条已证明定理",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "source": "Hacker News",
+   "summary": "据《卫报》报道，AI 被用于解读数学家库尔特·哥德尔的笔记，据称其中包含数百条已证明的定理。这一工作展示了 AI 在整理与发现历史数学文献方面的潜力。对数学史与形式化证明研究而言，这可能带来一批此前未被识别的成果。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-13T17:30:10+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Claude.ai、Claude Code 与平台服务出现大规模错误",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "source": "Hacker News",
+   "summary": "Claude.ai、Claude Code 以及 platform.claude.com 出现 elevated errors，HN 讨论热度达 480 分、380 条评论。状态页面记录了此次事故，影响范围覆盖 Anthropic 的消费级与企业级入口。对依赖 Claude 的开发者与企业用户而言，服务稳定性再次成为关注焦点。",
+   "why": null,
+   "category": "服务故障",
+   "heat": 4,
+   "published": "2026-11-13T10:18:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Anthropic 警告 AI 安全评分可能具有误导性",
+   "url": "https://www.benzinga.com/markets/private-markets/26/11/63266209/anthropic-warns-ai-safety-scores-can-be-misleading-good-ones-are-hard-to-build",
+   "source": "Google News 英文",
+   "summary": "Anthropic 公开警告称，AI 安全评分可能产生误导，并指出「好的评分很难构建」。该公司同时发布了关于更可靠 AI 安全评估的指南。多家媒体报道此事，反映出安全评估标准缺失正成为行业治理的核心难题。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-13T20:31:12+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "Altman 与 Dario 共同支持 AI 芯片出口禁令，Nvidia 股价下挫",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-tanks-altman-joins-dario-200730448.html",
+   "source": "Google News 英文",
+   "summary": "据 Yahoo Finance 报道，Sam Altman 加入 Dario Amodei 的行列，公开支持 AI 芯片出口禁令，Nvidia 股价随之大幅下挫。与此同时，AMD 因 AI 芯片板块抛售单日下跌 8.75%。多家媒体报道显示，政策表态正在成为 AI 芯片股短期波动的直接触发因素。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-13T20:07:30+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "马来西亚与新加坡加强对 Nvidia 芯片调查，涉 917 台走私服务器",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+   "source": "Google News 英文",
+   "summary": "马来西亚与新加坡加强对 Nvidia AI 芯片的调查，一名中国籍人士因涉及 917 台走私服务器被起诉。处于 Jensen Huang 争议中心的企业宣布对全部受限 GPU 进行库存审计。多家媒体报道称，东南亚正成为芯片走私监管的关键节点。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-13T21:45:29+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Google 允许用户将 Gemini 连接至银行账户",
+   "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+   "source": "Google News 英文",
+   "summary": "据 Engadget 报道，Google 现在允许用户将 Gemini 与自己的银行账户连接。这是 Gemini 向个人财务场景延伸的重要一步，也意味着 AI 助手开始接触高敏感金融数据。如何在便利与隐私安全之间取得平衡，将成为此类功能落地的关键。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-13T19:15:32+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "三星发布 Gemini 驱动的 AI 眼镜，计划 12 月上市",
+   "url": "https://www.upi.com/Top_News/World-News/2026/11/13/samsung-google-gemini-ai-smart-glasses-gentle-monster-warby-parker/8511794603007/",
+   "source": "Google News 英文",
+   "summary": "三星发布由 Gemini 驱动的 AI 眼镜，计划于 12 月上市。这是三星在可穿戴 AI 硬件上的最新动作，也显示 Gemini 正在向手机之外的终端扩展。AI 眼镜赛道的竞争将围绕模型能力与硬件生态同时展开。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-13T20:54:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "美联航以网络安全风险为由禁止 AI 智能体订票",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+   "source": "TechCrunch AI",
+   "summary": "美联航表示，出于网络安全风险考虑，将不允许客户使用 AI 智能体预订航班和管理预订。这是大型航空公司首次明确对智能体操作设限。在智能体支付与代操作快速普及的背景下，企业风控策略正在成为落地阻力。",
+   "why": null,
+   "category": "行业应用",
+   "heat": 3,
+   "published": "2026-11-12T17:17:58+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Anthropic 面向消费者的智能体 Claude Duet 上手体验",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "source": "The Verge AI",
+   "summary": "The Verge 体验了 Anthropic 面向消费者的 AI 智能体 Claude Duet，称其「有点神经质但出奇地有用」。这是 AI 公司面向非程序员用户推广智能体的最新尝试。消费级智能体的可用性与交互设计，正成为差异化竞争点。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-13T14:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Microsoft 365 在 24 小时中断后恢复，官方称非网络攻击或 AI 所致",
+   "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage",
+   "source": "Wired AI",
+   "summary": "Microsoft 365 经历约 24 小时全球中断后逐步恢复，微软称原因是错误更新，而非网络攻击或 AI。有智库估算此次中断造成约 70 亿美元损失。对依赖云办公与 Copilot 的企业而言，此次事故再次暴露集中式云服务的脆弱性。",
+   "why": null,
+   "category": "服务故障",
+   "heat": 3,
+   "published": "2026-11-13T19:08:57+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "AI 智能体并未发现未知玛雅遗址，实为已发表成果",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+   "source": "The Verge AI",
+   "summary": "The Verge 报道称，Google 研究员 Pietro Miotti 声称 AI 智能体团队发现了一处可能未被测绘的墨西哥玛雅遗址，但该遗址去年已在学术期刊上发表。此事在考古学界引发批评，凸显 AI 智能体「发现」宣称需要更严格的验证。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-12T19:42:40+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "ElevenLabs 推出面向团队的会议记录与听写应用",
+   "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+   "source": "TechCrunch AI",
+   "summary": "ElevenLabs 推出新应用 ElevenAI，将会议记录与听写功能结合，面向团队与企业用户。这是 ElevenLabs 从语音合成向生产力工具扩展的又一步。语音 AI 公司正加速进入会议与办公场景。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 2,
+   "published": "2026-11-13T14:44:48+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
