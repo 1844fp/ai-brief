@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 14 Nov 2026 08:01:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 07:30:54 +0000</lastBuildDate>
+  <item>
+    <title>黄仁勋辞任 Nvidia CEO 事件全时间线</title>
+    <link>https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</link>
+    <guid isPermaLink="false">122-1</guid>
+    <pubDate>Fri, 13 Nov 2026 15:58:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia CEO 黄仁勋于周四正式辞去这家 AI 最重要公司的最高职位，TechCrunch 梳理了从绯闻到辞职的完整时间线。事件还牵涉 Nvidia 在中国的业务往来以及美国政府的出口管制态度，后续可能演变为更大的故事。多家媒体持续追踪，Nvidia 未来走向成为行业最大不确定性。</description>
+  </item>
+  <item>
+    <title>OpenAI 正式推出 ChatGPT Wallet</title>
+    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+    <guid isPermaLink="false">122-2</guid>
+    <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布 ChatGPT Wallet，让 ChatGPT Work、Codex 和 dots 中的智能体在用户批准下使用现有银行卡完成购买，并保留卡片原有保护机制。该功能首先面向美国 18 岁以上 ChatGPT Pro 订阅用户开放，支持美国运通、Chase、Mastercard 和 Visa 卡。这标志着 AI 智能体从对话工具向可执行交易的商业代理迈出关键一步。</description>
+  </item>
+  <item>
+    <title>Google 发布 Gemini 4 Hydrogen，性能提升 2.5 倍</title>
+    <link>https://bravenewcoin.com/insights/google-launches-gemini-4-hydrogen-with-2-5x-faster-performance-challenging-gpt-6-1-and-claude</link>
+    <guid isPermaLink="false">122-3</guid>
+    <pubDate>Sat, 14 Nov 2026 18:22:28 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google 推出 Gemini 4 Hydrogen，宣称性能较前代提升 2.5 倍，直接对标 GPT-6.1 与 Claude。这是 Google 在旗舰模型竞赛中的最新动作，试图在速度与能力上重新夺回话语权。模型发布正值 Nvidia 动荡与多家厂商密集迭代的窗口期，竞争进一步白热化。</description>
+  </item>
+  <item>
+    <title>FTC 对 Anthropic 与 OpenAI 的 AI 安全性展开调查</title>
+    <link>https://abcnews.com/Politics/ftc-opens-probe-safety-ai-including-anthropic-open/story?id</link>
+    <guid isPermaLink="false">122-4</guid>
+    <pubDate>Sat, 14 Nov 2026 14:14:24 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>美国联邦贸易委员会（FTC）已对包括 Anthropic 和 OpenAI 在内的 AI 公司展开安全性调查。这是美国监管机构对前沿 AI 企业发起的又一轮正式审查，聚焦模型安全与消费者保护。调查结果可能影响这些公司的产品发布节奏与合规成本。</description>
+  </item>
+  <item>
+    <title>马斯克等科技高管联署请愿，要求 Nvidia 恢复黄仁勋职位</title>
+    <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang</link>
+    <guid isPermaLink="false">122-5</guid>
+    <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Elon Musk 等科技高管签署请愿书，呼吁 Nvidia 重新任命黄仁勋为 CEO，截至周六下午签名已超过 11.5 万。请愿反映出业界对 Nvidia 领导层变动可能冲击 AI 供应链与投资生态的担忧。事件已从公司治理问题演变为行业性公共议题。</description>
+  </item>
+  <item>
+    <title>风投与创始人称黄仁勋离职将给 AI 初创融资留下巨大缺口</title>
+    <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say</link>
+    <guid isPermaLink="false">122-6</guid>
+    <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，黄仁勋治下 Nvidia 向 AI 初创投入数百亿美元，其离职让创始人与风投预期融资支票变小、估值走低。Nvidia 既是芯片供应商又是重要投资方，领导层真空可能重塑 AI 创业公司的资金链。多家机构正重新评估对算力密集型初创的押注。</description>
+  </item>
+  <item>
+    <title>AI 智能体初创 LangChain 估值达 30 亿美元</title>
+    <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation</link>
+    <guid isPermaLink="false">122-7</guid>
+    <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>LangChain 宣布估值达到 30 亿美元，其模型与平台无关的智能体管理工具 LangSmith 已拥有 7000 家客户。在 Nvidia 动荡与融资环境收紧的背景下，这一估值显示智能体基础设施仍是资本追逐的热点。LangChain 的客户规模也印证企业级智能体部署正在加速。</description>
+  </item>
+  <item>
+    <title>研究显示中国最强 AI 模型使用了被禁运的 Nvidia 芯片训练</title>
+    <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
+    <guid isPermaLink="false">122-8</guid>
+    <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 援引新研究称，中国最先进的 AI 模型是在被出口禁令限制的 Nvidia 芯片上训练的。这一发现与黄仁勋辞职风波叠加，令美国出口管制的实际效果受到质疑。芯片走私与算力获取路径成为政策辩论焦点。</description>
+  </item>
+  <item>
+    <title>分析师称 150 万块 AI GPU 走私或是黄仁勋离职深层原因</title>
+    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls</link>
+    <guid isPermaLink="false">122-9</guid>
+    <pubDate>Sat, 14 Nov 2026 15:58:57 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Tom's Hardware 报道，分析师称超过 1.5 吉瓦的禁运芯片被追踪流向中国，大规模 GPU 走私可能是黄仁勋离职的深层原因。报道将芯片出口管制执行漏洞与 Nvidia 高层变动直接关联。这一说法尚待证实，但已引发对出口管制执法力度的广泛讨论。</description>
+  </item>
+  <item>
+    <title>OpenAI、Anthropic、Google 等 AI 巨头面临要求暂停开发的诉讼</title>
+    <link>https://www.yahoo.com/news/politics/articles/openai-anthropic-google-other-ai-170102973.html</link>
+    <guid isPermaLink="false">122-10</guid>
+    <pubDate>Sat, 14 Nov 2026 17:01:02 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>OpenAI、Anthropic、Google 等多家 AI 巨头面临一起要求暂停 AI 开发的诉讼。诉讼试图通过司法途径对前沿模型研发施加冻结令，反映出 AI 安全倡导者正从政策游说转向法律行动。案件进展可能影响主要实验室的研发节奏。</description>
+  </item>
+  <item>
+    <title>日本考虑就安全风险对 AI 企业施加处罚</title>
+    <link>https://japantoday.com/category/tech/japan-mulls-penalties-for-ai-firms-over-safety-risks</link>
+    <guid isPermaLink="false">122-11</guid>
+    <pubDate>Sat, 14 Nov 2026 07:12:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>日本政府正在考虑针对 AI 安全风险对相关企业施加处罚，成为又一個收紧 AI 监管的亚洲国家。此举与 FTC 调查、欧盟 AI 法案形成呼应，显示全球监管同步趋严。日本此前以宽松立场吸引 AI 投资，政策转向值得关注。</description>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon 登顶 MathArena，但成本是 GPT-6.1 Sol 的 15 倍</title>
+    <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
+    <guid isPermaLink="false">122-12</guid>
+    <pubDate>Sat, 14 Nov 2026 16:50:59 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Gemini 4 Carbon 在 MathArena 基准上夺冠，但 The Decoder 指出其成本是 GPT-6.1 Sol 的 15 倍。这一对比凸显模型能力与推理经济性之间的权衡，也说明基准分数不再是唯一竞争维度。对企业和开发者而言，单位任务成本正成为选型关键。</description>
+  </item>
+  <item>
+    <title>报道称 Nvidia 通过资助 AI 初创购买自家 GPU 人为制造稀缺</title>
+    <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
+    <guid isPermaLink="false">122-13</guid>
+    <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>TechPowerUp 报道称，Nvidia 通过向 AI 初创提供资金、再让这些公司回购其 GPU，人为制造芯片稀缺。该指控与黄仁勋离职后的融资缺口讨论相互印证，引发对 Nvidia 销售模式的审视。若属实，可能招致监管机构对市场操纵的调查。</description>
+  </item>
+  <item>
+    <title>ggml 发布 v1.0.0 正式版</title>
+    <link>https://github.com/ggml-org/ggml/releases/tag/v1.0.0</link>
+    <guid isPermaLink="false">122-14</guid>
+    <pubDate>Sat, 14 Nov 2026 02:28:29 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>开源推理框架 ggml 发布 v1.0.0，标志着这一支撑大量本地 LLM 运行的项目进入稳定版本阶段。ggml 是 llama.cpp 等本地推理生态的底层基础，正式版发布有助于下游项目锁定 API。对边缘设备与消费级硬件上的模型部署具有实际意义。</description>
+  </item>
+  <item>
+    <title>Unsloth 发布 Qwen3.8-27B 动态 v3.1 量化版本</title>
+    <link>https://unsloth.ai/docs/models/qwen3.8</link>
+    <guid isPermaLink="false">122-15</guid>
+    <pubDate>Sat, 14 Nov 2026 00:06:04 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Unsloth 发布 Qwen3.8-27B 的 Dynamic v3.1 量化更新，进一步降低这一中等规模模型在本地运行的显存门槛。Qwen 系列在开源社区热度持续，量化版本的迭代直接影响开发者部署成本。该更新对消费级 GPU 上的推理与微调尤为实用。</description>
+  </item>
+  <item>
+    <title>Nvidia 展示跨两台 DGX 站以 vLLM 服务 GLM-5.3，达 607.8 tok/s</title>
+    <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm</link>
+    <guid isPermaLink="false">122-16</guid>
+    <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Nvidia 开发者博客展示如何用 vLLM 跨两台 DGX 站服务 GLM-5.3，实现 607.8 tok/s 的吞吐。该案例说明单 GPU 不足时多节点推理的工程路径已趋于成熟。对需要高吞吐服务大模型的企业具有参考价值。</description>
+  </item>
+  <item>
+    <title>ChatGPT Wallet 让 OpenAI 的 Dots 智能体代用户完成购买</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
+    <guid isPermaLink="false">122-17</guid>
+    <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道，OpenAI 在推出 Dots 智能体平台后，进一步上线 ChatGPT Wallet，让智能体可代用户完成购买。该功能面向美国 ChatGPT Pro 订阅用户，需绑定符合条件的美国发行信用卡。这使 AI 智能体从建议者变为交易执行者，支付安全与授权边界成为新议题。</description>
+  </item>
+  <item>
+    <title>Claude 服务中断，Anthropic 称过时提示习惯拖慢 Opus 5.5</title>
+    <link>https://status.claude.com/history</link>
+    <guid isPermaLink="false">122-18</guid>
+    <pubDate>Fri, 13 Nov 2026 10:20:09 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Claude 出现服务中断，Hacker News 讨论热烈，同时 Anthropic 表示过时的提示习惯正在拖慢 Claude Opus 5.5。服务稳定性与模型响应效率同时受到关注，反映出用户对前沿模型可用性的高期待。对依赖 Claude 的企业工作流而言，中断带来的业务影响不容忽视。</description>
+  </item>
+  <item>
+    <title>Claude 被要求重编页码却误删教授整份教学大纲与一年讲义</title>
+    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</link>
+    <guid isPermaLink="false">122-19</guid>
+    <pubDate>Sat, 14 Nov 2026 17:51:13 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Tom's Hardware 报道，一名法学教授让 Claude 重新编排页码，结果 Claude 误删了其整份教学大纲和一年的讲义笔记。Claude 事后承认「你生气是对的，我因自己的疏忽删除了你的文件」。该事件凸显智能体在文件操作权限上的风险，也引发对 AI 工具默认权限设计的讨论。</description>
+  </item>
+  <item>
+    <title>Amazon 计划建立全球在线购物数据索引「World Product Graph」</title>
+    <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+    <guid isPermaLink="false">122-20</guid>
+    <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 援引路透社报道，Amazon 计划构建名为 World Product Graph 的项目，为互联网上所有在售商品建立数据仓库，包括 Amazon 自身不销售的商品，并通过其站点提供检索。该计划旨在降低用户离开 Amazon 去别处比价的概率，强化其在 AI 购物搜索中的入口地位。</description>
+  </item>
   <item>
     <title>黄仁勋辞任英伟达 CEO，CFO 科莱特·克雷斯出任临时掌门</title>
     <link>https://www.oschina.net/news/503568/nvidia-announces-ceo-transition</link>
@@ -323,165 +483,5 @@
     <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>TechCrunch 报道，LangChain 估值达到 30 亿美元，其模型与平台无关的智能体管理工具 LangSmith 已拥有 7000 家客户。该融资显示智能体基础设施赛道持续升温。</description>
-  </item>
-  <item>
-    <title>Claude.ai、Claude Code 与平台服务出现大规模错误</title>
-    <link>https://status.claude.com/incidents/nn11wk485zfn</link>
-    <guid isPermaLink="false">119-9</guid>
-    <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 状态页面显示，claude.ai、Claude Code 和 platform.claude.com 出现高错误率，HN 讨论获得 480 分、380 条评论。此次故障影响开发者与终端用户，具体原因与恢复时间尚待官方说明。</description>
-  </item>
-  <item>
-    <title>Anthropic 发布更可靠 AI 安全评估指南</title>
-    <link>https://www.unite.ai/anthropic-publishes-guidance-for-more-reliable-ai-safety-evaluations/</link>
-    <guid isPermaLink="false">119-10</guid>
-    <pubDate>Fri, 13 Nov 2026 18:12:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Anthropic 发布关于更可靠 AI 安全评估的指导文件，并警告安全评分可能具有误导性，称“好的评分很难构建”。多家媒体同步报道，强调评估方法透明度的重要性。</description>
-  </item>
-  <item>
-    <title>AI 解锁哥德尔笔记，据称包含数百个已证明定理</title>
-    <link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
-    <guid isPermaLink="false">119-11</guid>
-    <pubDate>Fri, 13 Nov 2026 17:30:10 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>《卫报》报道，AI 帮助解锁数学家库尔特·哥德尔的笔记，其中据称包含数百个已证明定理。该消息在 HN 获得 293 分、84 条评论，引发对 AI 辅助科学发现的讨论。</description>
-  </item>
-  <item>
-    <title>Google 允许用户将 Gemini 连接至银行账户</title>
-    <link>https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/</link>
-    <guid isPermaLink="false">119-12</guid>
-    <pubDate>Fri, 13 Nov 2026 19:15:32 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Engadget 报道，Google 现在允许用户将 Gemini 与银行账户连接，以提供更个性化的金融服务。此举扩展了 Gemini 在个人财务场景中的能力，也带来数据隐私与安全考量。</description>
-  </item>
-  <item>
-    <title>三星发布 Gemini 驱动的 AI 眼镜，计划 12 月上市</title>
-    <link>https://www.upi.com/Top_News/World-News/2026/11/13/samsung-google-gemini-ai-smart-glasses-gentle-monster-warby-parker/8511794603007/</link>
-    <guid isPermaLink="false">119-13</guid>
-    <pubDate>Fri, 13 Nov 2026 20:54:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>三星发布由 Gemini 驱动的 AI 眼镜，计划于 12 月上市。该产品将 Gemini 能力带入可穿戴设备，是 Google 模型生态向硬件延伸的又一案例。</description>
-  </item>
-  <item>
-    <title>美联航以网络安全风险为由禁止 AI 智能体订票</title>
-    <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks</link>
-    <guid isPermaLink="false">119-14</guid>
-    <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>美联航表示，出于网络安全风险考虑，将不允许客户使用 AI 智能体预订航班和管理预订。该决定与 OpenAI 推出 ChatGPT Wallet 形成对照，显示企业对智能体自动交易的谨慎态度。</description>
-  </item>
-  <item>
-    <title>Anthropic 面向消费者的 Claude Duet 智能体上手体验</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
-    <guid isPermaLink="false">119-15</guid>
-    <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 体验了 Anthropic 面向消费者的 AI 智能体 Claude Duet，称其“有点神经质但出奇地有用”。该产品是 AI 公司向非程序员推广智能体能力的最新尝试。</description>
-  </item>
-  <item>
-    <title>ElevenLabs 推出面向团队的会议记录与听写应用</title>
-    <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams</link>
-    <guid isPermaLink="false">119-16</guid>
-    <pubDate>Fri, 13 Nov 2026 14:44:48 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>ElevenLabs 发布新应用 ElevenAI，将会议记录与听写功能结合，面向团队和企业用户。该产品扩展了 ElevenLabs 从语音合成向办公协作场景的布局。</description>
-  </item>
-  <item>
-    <title>AI 智能体并未发现未知玛雅遗址</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
-    <guid isPermaLink="false">119-17</guid>
-    <pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 报道，Google 研究员 Pietro Miotti 声称 AI 智能体团队发现了一处可能未被绘制的墨西哥玛雅遗址，但该遗址去年已在学术期刊上发表。事件在考古学界引发批评，凸显 AI 发现宣称的核实问题。</description>
-  </item>
-  <item>
-    <title>Microsoft 365 在 24 小时故障后逐步恢复</title>
-    <link>https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage</link>
-    <guid isPermaLink="false">119-18</guid>
-    <pubDate>Fri, 13 Nov 2026 19:08:57 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道，Microsoft 365 在经历约 24 小时全球性故障后逐步恢复，公司称原因是错误更新而非网络攻击或 AI。ZDNet 援引智库估算称此次故障成本达 70 亿美元。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini 4 Hydrogen 并推出 Orchestrator</title>
-    <link>https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity</link>
-    <guid isPermaLink="false">118-1</guid>
-    <pubDate>Thu, 12 Nov 2026 18:52:01 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Google 正式发布 Gemini 4 Hydrogen，并已接入 Google 搜索界面，同时推出名为 Orchestrator 的编排能力。该模型在 Google 官方博客与 DeepMind 博客同步披露，HN 讨论热度超过 550 分。这意味着 Google 正把最强模型直接嵌入搜索入口，与 OpenAI 在消费级 AI 入口的竞争进一步升级。</description>
-  </item>
-  <item>
-    <title>OpenAI 解散独立机器人团队，通用模型开始驱动机器人</title>
-    <link>https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots</link>
-    <guid isPermaLink="false">118-2</guid>
-    <pubDate>Fri, 13 Nov 2026 17:55:23 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>据 Fortune 报道，OpenAI 已解散其独立机器人团队，转而依靠通用模型直接运行机器人。这反映出 OpenAI 认为通用模型能力已足以覆盖机器人控制，无需单独建制。对机器人赛道而言，通用大模型正成为新的技术底座，专用机器人团队的价值被重新评估。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 ChatGPT Wallet，智能体可代用户完成支付</title>
-    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-    <guid isPermaLink="false">118-3</guid>
-    <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布 ChatGPT Wallet，让 ChatGPT Work、Codex 和 dots 中的智能体在用户批准下使用现有银行卡完成购买。该功能率先向美国 18 岁以上 ChatGPT Pro 订阅用户开放，支持 American Express、Chase、Mastercard 和 Visa。多家媒体报道称，这标志着智能体从「建议」走向「执行交易」，支付环节成为智能体商业化的关键基础设施。</description>
-  </item>
-  <item>
-    <title>Jensen Huang 离任在 AI 初创融资中留下巨大缺口</title>
-    <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say</link>
-    <guid isPermaLink="false">118-4</guid>
-    <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>据 TechCrunch 报道，Nvidia 在 Huang 主导下曾向 AI 初创投入数百亿美元，其离任后创始人与风投预计将面临更小的支票和更低的估值。多家媒体将此与 Nvidia 近期市值大幅缩水联系起来。这意味着 AI 初创融资的重要资金来源出现真空，行业估值体系可能面临重估。</description>
-  </item>
-  <item>
-    <title>研究显示中国最强 AI 模型依赖被出口管制的 Nvidia 芯片训练</title>
-    <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
-    <guid isPermaLink="false">118-5</guid>
-    <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 援引新研究称，中国最先进的一批 AI 模型是在被出口禁令覆盖的 Nvidia 芯片上训练完成的。这一发现直接挑战现行出口管制的有效性，并可能加剧美国对芯片走私的审查。对 Nvidia 而言，合规风险与政策压力同步上升。</description>
-  </item>
-  <item>
-    <title>AI 智能体初创 LangChain 估值达到 30 亿美元</title>
-    <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation</link>
-    <guid isPermaLink="false">118-6</guid>
-    <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>LangChain 宣布其模型与平台无关的智能体管理工具 LangSmith 已拥有 7000 家客户，公司估值达到 30 亿美元。这显示企业级智能体编排与管理层正在成为独立的高价值赛道。在基础模型竞争之外，智能体中间层正获得资本持续加注。</description>
-  </item>
-  <item>
-    <title>AI 解锁哥德尔笔记，据称包含数百条已证明定理</title>
-    <link>https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths</link>
-    <guid isPermaLink="false">118-7</guid>
-    <pubDate>Fri, 13 Nov 2026 17:30:10 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>据《卫报》报道，AI 被用于解读数学家库尔特·哥德尔的笔记，据称其中包含数百条已证明的定理。这一工作展示了 AI 在整理与发现历史数学文献方面的潜力。对数学史与形式化证明研究而言，这可能带来一批此前未被识别的成果。</description>
-  </item>
-  <item>
-    <title>Claude.ai、Claude Code 与平台服务出现大规模错误</title>
-    <link>https://status.claude.com/incidents/nn11wk485zfn</link>
-    <guid isPermaLink="false">118-8</guid>
-    <pubDate>Fri, 13 Nov 2026 10:18:13 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Claude.ai、Claude Code 以及 platform.claude.com 出现 elevated errors，HN 讨论热度达 480 分、380 条评论。状态页面记录了此次事故，影响范围覆盖 Anthropic 的消费级与企业级入口。对依赖 Claude 的开发者与企业用户而言，服务稳定性再次成为关注焦点。</description>
-  </item>
-  <item>
-    <title>Anthropic 警告 AI 安全评分可能具有误导性</title>
-    <link>https://www.benzinga.com/markets/private-markets/26/11/63266209/anthropic-warns-ai-safety-scores-can-be-misleading-good-ones-are-hard-to-build</link>
-    <guid isPermaLink="false">118-9</guid>
-    <pubDate>Fri, 13 Nov 2026 20:31:12 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Anthropic 公开警告称，AI 安全评分可能产生误导，并指出「好的评分很难构建」。该公司同时发布了关于更可靠 AI 安全评估的指南。多家媒体报道此事，反映出安全评估标准缺失正成为行业治理的核心难题。</description>
-  </item>
-  <item>
-    <title>Altman 与 Dario 共同支持 AI 芯片出口禁令，Nvidia 股价下挫</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/nvidia-tanks-altman-joins-dario-200730448.html</link>
-    <guid isPermaLink="false">118-10</guid>
-    <pubDate>Fri, 13 Nov 2026 20:07:30 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 Yahoo Finance 报道，Sam Altman 加入 Dario Amodei 的行列，公开支持 AI 芯片出口禁令，Nvidia 股价随之大幅下挫。与此同时，AMD 因 AI 芯片板块抛售单日下跌 8.75%。多家媒体报道显示，政策表态正在成为 AI 芯片股短期波动的直接触发因素。</description>
   </item>
 </channel></rss>
