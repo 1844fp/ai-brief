@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T08:01:16.193067",
+ "generated_at": "2026-11-14T08:01:29.474141",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 121,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-14",
+   "created_at": "2026-11-14T00:01:28.496381+00:00",
+   "item_count": 15,
+   "llm_ok": true,
+   "url": "reports/2026-11-14/news_daily_cn-080128.html"
+  },
   {
    "id": 120,
    "task": "news_daily_cn",
@@ -1029,6 +1038,186 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "黄仁勋辞任英伟达 CEO，CFO 科莱特·克雷斯出任临时掌门",
+   "url": "https://www.oschina.net/news/503568/nvidia-announces-ceo-transition",
+   "source": "开源中国",
+   "summary": "英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去总裁、CEO 及董事会成员职务，即刻生效，CFO 科莱特·克雷斯出任临时 CEO，董事会已启动正式 CEO 物色。消息公布后英伟达盘前股价下跌约 10%，市值约 4 万亿美元的 AI 算力中枢在投资周期关键节点由财务背景高管暂时掌舵。多家媒体报道，此事给即将上市的 Anthropic 及全球算力生态融资增添变数。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-11-13T08:39:45+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "李彦宏提出「智能组织是 AI 时代的新厂房」，百度发布芯云模体全栈进展",
+   "url": "http://www.geekpark.net/news/373937",
+   "source": "极客公园",
+   "summary": "11 月 12 日百度世界 2026 上，李彦宏称当前 AI 未产生预期经济效益，本质是企业只换了电机却没重新设计工厂，提出「智能组织」是 AI 时代的新厂房。大会主论坛发布「芯云模体」全栈 AI 布局最新进展，模型层面有系列更新。该判断把企业 AI 投入从工具部署引向组织流程重构。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 5,
+   "published": "2026-11-13T03:43:41+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "工信部筹备成立工业操作系统标准工作组，推进「人工智能+软件」专项行动",
+   "url": "https://www.ithome.com/1/027/011.htm",
+   "source": "IT之家",
+   "summary": "工信部表示正加快推进工业操作系统标准工作组筹建，同步推进重点标准研制与验证应用，将其定位为人工智能赋能工业的关键底座。《「人工智能+软件」专项行动实施方案》提出到 2028 年推广覆盖 2 万家规模以上软件企业、落地百项智能化技改项目、打造 100 个以上智能制造示范工厂。工业操作系统正从单点应用探索转向通用底座与行业能力协同。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-11-13T23:47:57+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "西湖大学成立世界模型研究中心，40 亿参数 Awomo-0.5 六项评测登顶",
+   "url": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
+   "source": "雷锋网",
+   "summary": "西湖大学成立世界模型研究中心，校长施一公亲自揭牌，同时发布首版基础模型 Awomo-0.5。该模型仅 40 亿参数，在物理推理、机器人操作与泛化等 6 项国际公开评测的不同榜单同时登顶。团队已开展三年世界模型研究，建有自主智能实验室 AutoLab。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-13T07:43:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "无界前沿开源生命科学模型 Fx-Bio-1031，高难盲测超越 GPT-6-Astra 与 Opus-5",
+   "url": "https://www.qbitai.com/2026/11/509663.html",
+   "source": "量子位",
+   "summary": "无界前沿开源 Fx-Bio-1031，主打数据不出域、本地可部署，在高难度盲测中表现超过 GPT-6-Astra 与 Opus-5。该模型把 RSI 思路引入生命科学场景，强调垂直领域推理能力。开源与本地部署特性对医疗、生物科研机构的合规使用有直接价值。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 4,
+   "published": "2026-11-13T07:06:32+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "燧原科技首席生态官李星宇离职，已入读港大-北大联合 DBA 项目",
+   "url": "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
+   "source": "雷锋网",
+   "summary": "雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职，随后入读港大-北大联合 DBA 博士项目，尚未披露下一步职业计划。李星宇有超 20 年半导体从业经验，曾任地平线创始管理团队成员、生态发展与战略规划副总裁，2022 年加入燧原。燧原科技于 2026 年 9 月上市。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-13T10:00:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "港大孵化金刚石半导体公司钻耐科思完成数千万元融资，耀途资本独家投资",
+   "url": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+   "source": "雷锋网",
+   "summary": "雷峰网·鲸犀独家获悉，港大孵化的钻耐科思科技（DiamNEX）完成数千万元新一轮融资，由耀途资本独家投资。公司专注金刚石半导体与量子技术，创始人褚智勤为港大电机与计算机工程系副教授，团队掌握三步剥出晶圆级薄膜的《Nature》技术。金刚石被视为突破 AI 算力散热天花板的终极半导体材料，英伟达下一代 Rubin GPU 功耗预计突破 2300W。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-13T09:22:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "openJiuwen 发布 RSI 原生 AgentOS，支持 Agent 自我开发与持续迭代",
+   "url": "https://www.qbitai.com/2026/11/509653.html",
+   "source": "量子位",
+   "summary": "openJiuwen 发布 RSI 原生 AgentOS，主打「想要什么功能，让 Agent 自己开发」，使智能体能够自由变身并持续迭代。该系统将自我改进能力作为操作系统级原生特性，而非外挂工具链。这为智能体从被动执行走向自主进化提供了新的工程范式。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-11-13T06:54:44+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "中金公司与蚂蚁集团达成战略合作，共探 AI 赋能财富管理",
+   "url": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+   "source": "雷锋网",
+   "summary": "11 月 13 日，中金公司与蚂蚁集团签署战略合作协议，围绕金融大模型技术创新、AI 赋能财富管理、客户全生命周期服务开展合作。双方计划打造服务与营销协同的智能体集群，将 AI 用于客户需求洞察、资产配置与投资研究，推动财富管理从被动响应转向主动服务。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-13T09:05:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "中国 AI 突破复杂肺癌诊疗，250 名三甲医院医生联合评测",
+   "url": "https://www.qbitai.com/2026/11/509796.html",
+   "source": "量子位",
+   "summary": "量子位报道，中国 AI 在复杂肺癌诊疗场景取得突破，由 250 名国内顶尖三甲医院医生联合参与评测。该成果在中美医疗圈引发关注，显示国产医疗 AI 在高难度临床决策任务上的能力提升。评测规模与医生参与度为其临床可信度提供了较强支撑。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-13T07:43:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "高德发布全球首个「飞行街景」，面向所有商家免费开放",
+   "url": "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html",
+   "source": "雷锋网",
+   "summary": "高德正式发布全球首个「飞行街景」，首次实现高拟真、连续动态的实景还原，用户可第一视角飞越城市街区、识别店铺门头并穿门入室。该功能面向所有商家免费开放，已实现规模化应用。谷歌地图的沉浸式视图至今未规模化落地，高德在空间智能的场景落地上先行一步。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-13T07:15:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "高德推出 AutoSDK 国际版，覆盖 170 余个国家与地区",
+   "url": "https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html",
+   "source": "雷锋网",
+   "summary": "高德发布 AutoSDK 国际版，集成定位、搜索、地图渲染、路线规划、基础导航信息等全链路在线导航能力，以及离线导航、ISA 信息播发等功能。产品已覆盖欧洲、东南亚、中东、南美、澳新、中亚、非洲等全球超 170 个国家与地区，支持 19 种全球主流语言。此举针对中国车企出海时海外导航体验薄弱的痛点。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-13T07:25:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "华为 HarmonyOS 7 小艺 AI 快捷栏再次延期，11 月中旬起分批推送",
+   "url": "https://www.ithome.com/1/026/962.htm",
+   "source": "IT之家",
+   "summary": "华为客服确认，HarmonyOS 7 的小艺 AI 快捷栏功能将于 2026 年 11 月中旬起分批推送，首批包括 Mate 90 系列与 Pura X View，12 月扩展至 Mate 80、Pura 90、Mate X7、nova 16 等机型及多款平板。该功能让小艺在桌面底部 Dock 栏常驻，此前曾预计 10 月底或 11 月初上线。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-13T14:41:59+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "流程工业智能工厂业务管理规范新国标发布，2027 年 5 月实施",
+   "url": "https://www.ithome.com/1/027/008.htm",
+   "source": "IT之家",
+   "summary": "市场监管总局批准发布《智能制造 流程工业智能工厂业务管理规范》（GB/T 48536—2026），自 2027 年 5 月 1 日起实施。标准首次提出涵盖研发设计、生产制造、运营支撑、全链协同和管理方法五大模块的业务管理框架，确立数据驱动、系统集成等五项原则。流程工业涵盖石油化工、钢铁、制药等领域，此前存在管理框架不统一、数据难共享等问题。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 2,
+   "published": "2026-11-13T23:35:26+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "2026 世界中文大会发布国际中文教育垂直大模型",
+   "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731714.shtml",
+   "source": "Google News 中文",
+   "summary": "据新华社消息，2026 世界中文大会发布国际中文教育垂直大模型。该模型面向中文教学场景，是垂直领域大模型在教育出海方向的新应用。具体参数与性能指标尚未披露。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 2,
+   "published": "2026-11-13T13:09:12+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

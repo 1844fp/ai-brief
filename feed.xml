@@ -3,7 +3,127 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 14 Nov 2026 08:01:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 08:01:29 +0000</lastBuildDate>
+  <item>
+    <title>黄仁勋辞任英伟达 CEO，CFO 科莱特·克雷斯出任临时掌门</title>
+    <link>https://www.oschina.net/news/503568/nvidia-announces-ceo-transition</link>
+    <guid isPermaLink="false">121-1</guid>
+    <pubDate>Fri, 13 Nov 2026 08:39:45 +0000</pubDate>
+    <source>开源中国</source>
+    <description>英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去总裁、CEO 及董事会成员职务，即刻生效，CFO 科莱特·克雷斯出任临时 CEO，董事会已启动正式 CEO 物色。消息公布后英伟达盘前股价下跌约 10%，市值约 4 万亿美元的 AI 算力中枢在投资周期关键节点由财务背景高管暂时掌舵。多家媒体报道，此事给即将上市的 Anthropic 及全球算力生态融资增添变数。</description>
+  </item>
+  <item>
+    <title>李彦宏提出「智能组织是 AI 时代的新厂房」，百度发布芯云模体全栈进展</title>
+    <link>http://www.geekpark.net/news/373937</link>
+    <guid isPermaLink="false">121-2</guid>
+    <pubDate>Fri, 13 Nov 2026 03:43:41 +0000</pubDate>
+    <source>极客公园</source>
+    <description>11 月 12 日百度世界 2026 上，李彦宏称当前 AI 未产生预期经济效益，本质是企业只换了电机却没重新设计工厂，提出「智能组织」是 AI 时代的新厂房。大会主论坛发布「芯云模体」全栈 AI 布局最新进展，模型层面有系列更新。该判断把企业 AI 投入从工具部署引向组织流程重构。</description>
+  </item>
+  <item>
+    <title>工信部筹备成立工业操作系统标准工作组，推进「人工智能+软件」专项行动</title>
+    <link>https://www.ithome.com/1/027/011.htm</link>
+    <guid isPermaLink="false">121-3</guid>
+    <pubDate>Fri, 13 Nov 2026 23:47:57 +0000</pubDate>
+    <source>IT之家</source>
+    <description>工信部表示正加快推进工业操作系统标准工作组筹建，同步推进重点标准研制与验证应用，将其定位为人工智能赋能工业的关键底座。《「人工智能+软件」专项行动实施方案》提出到 2028 年推广覆盖 2 万家规模以上软件企业、落地百项智能化技改项目、打造 100 个以上智能制造示范工厂。工业操作系统正从单点应用探索转向通用底座与行业能力协同。</description>
+  </item>
+  <item>
+    <title>西湖大学成立世界模型研究中心，40 亿参数 Awomo-0.5 六项评测登顶</title>
+    <link>https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html</link>
+    <guid isPermaLink="false">121-4</guid>
+    <pubDate>Fri, 13 Nov 2026 07:43:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>西湖大学成立世界模型研究中心，校长施一公亲自揭牌，同时发布首版基础模型 Awomo-0.5。该模型仅 40 亿参数，在物理推理、机器人操作与泛化等 6 项国际公开评测的不同榜单同时登顶。团队已开展三年世界模型研究，建有自主智能实验室 AutoLab。</description>
+  </item>
+  <item>
+    <title>无界前沿开源生命科学模型 Fx-Bio-1031，高难盲测超越 GPT-6-Astra 与 Opus-5</title>
+    <link>https://www.qbitai.com/2026/11/509663.html</link>
+    <guid isPermaLink="false">121-5</guid>
+    <pubDate>Fri, 13 Nov 2026 07:06:32 +0000</pubDate>
+    <source>量子位</source>
+    <description>无界前沿开源 Fx-Bio-1031，主打数据不出域、本地可部署，在高难度盲测中表现超过 GPT-6-Astra 与 Opus-5。该模型把 RSI 思路引入生命科学场景，强调垂直领域推理能力。开源与本地部署特性对医疗、生物科研机构的合规使用有直接价值。</description>
+  </item>
+  <item>
+    <title>燧原科技首席生态官李星宇离职，已入读港大-北大联合 DBA 项目</title>
+    <link>https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html</link>
+    <guid isPermaLink="false">121-6</guid>
+    <pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职，随后入读港大-北大联合 DBA 博士项目，尚未披露下一步职业计划。李星宇有超 20 年半导体从业经验，曾任地平线创始管理团队成员、生态发展与战略规划副总裁，2022 年加入燧原。燧原科技于 2026 年 9 月上市。</description>
+  </item>
+  <item>
+    <title>港大孵化金刚石半导体公司钻耐科思完成数千万元融资，耀途资本独家投资</title>
+    <link>https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html</link>
+    <guid isPermaLink="false">121-7</guid>
+    <pubDate>Fri, 13 Nov 2026 09:22:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>雷峰网·鲸犀独家获悉，港大孵化的钻耐科思科技（DiamNEX）完成数千万元新一轮融资，由耀途资本独家投资。公司专注金刚石半导体与量子技术，创始人褚智勤为港大电机与计算机工程系副教授，团队掌握三步剥出晶圆级薄膜的《Nature》技术。金刚石被视为突破 AI 算力散热天花板的终极半导体材料，英伟达下一代 Rubin GPU 功耗预计突破 2300W。</description>
+  </item>
+  <item>
+    <title>openJiuwen 发布 RSI 原生 AgentOS，支持 Agent 自我开发与持续迭代</title>
+    <link>https://www.qbitai.com/2026/11/509653.html</link>
+    <guid isPermaLink="false">121-8</guid>
+    <pubDate>Fri, 13 Nov 2026 06:54:44 +0000</pubDate>
+    <source>量子位</source>
+    <description>openJiuwen 发布 RSI 原生 AgentOS，主打「想要什么功能，让 Agent 自己开发」，使智能体能够自由变身并持续迭代。该系统将自我改进能力作为操作系统级原生特性，而非外挂工具链。这为智能体从被动执行走向自主进化提供了新的工程范式。</description>
+  </item>
+  <item>
+    <title>中金公司与蚂蚁集团达成战略合作，共探 AI 赋能财富管理</title>
+    <link>https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html</link>
+    <guid isPermaLink="false">121-9</guid>
+    <pubDate>Fri, 13 Nov 2026 09:05:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>11 月 13 日，中金公司与蚂蚁集团签署战略合作协议，围绕金融大模型技术创新、AI 赋能财富管理、客户全生命周期服务开展合作。双方计划打造服务与营销协同的智能体集群，将 AI 用于客户需求洞察、资产配置与投资研究，推动财富管理从被动响应转向主动服务。</description>
+  </item>
+  <item>
+    <title>中国 AI 突破复杂肺癌诊疗，250 名三甲医院医生联合评测</title>
+    <link>https://www.qbitai.com/2026/11/509796.html</link>
+    <guid isPermaLink="false">121-10</guid>
+    <pubDate>Fri, 13 Nov 2026 07:43:03 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道，中国 AI 在复杂肺癌诊疗场景取得突破，由 250 名国内顶尖三甲医院医生联合参与评测。该成果在中美医疗圈引发关注，显示国产医疗 AI 在高难度临床决策任务上的能力提升。评测规模与医生参与度为其临床可信度提供了较强支撑。</description>
+  </item>
+  <item>
+    <title>高德发布全球首个「飞行街景」，面向所有商家免费开放</title>
+    <link>https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html</link>
+    <guid isPermaLink="false">121-11</guid>
+    <pubDate>Fri, 13 Nov 2026 07:15:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>高德正式发布全球首个「飞行街景」，首次实现高拟真、连续动态的实景还原，用户可第一视角飞越城市街区、识别店铺门头并穿门入室。该功能面向所有商家免费开放，已实现规模化应用。谷歌地图的沉浸式视图至今未规模化落地，高德在空间智能的场景落地上先行一步。</description>
+  </item>
+  <item>
+    <title>高德推出 AutoSDK 国际版，覆盖 170 余个国家与地区</title>
+    <link>https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html</link>
+    <guid isPermaLink="false">121-12</guid>
+    <pubDate>Fri, 13 Nov 2026 07:25:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>高德发布 AutoSDK 国际版，集成定位、搜索、地图渲染、路线规划、基础导航信息等全链路在线导航能力，以及离线导航、ISA 信息播发等功能。产品已覆盖欧洲、东南亚、中东、南美、澳新、中亚、非洲等全球超 170 个国家与地区，支持 19 种全球主流语言。此举针对中国车企出海时海外导航体验薄弱的痛点。</description>
+  </item>
+  <item>
+    <title>华为 HarmonyOS 7 小艺 AI 快捷栏再次延期，11 月中旬起分批推送</title>
+    <link>https://www.ithome.com/1/026/962.htm</link>
+    <guid isPermaLink="false">121-13</guid>
+    <pubDate>Fri, 13 Nov 2026 14:41:59 +0000</pubDate>
+    <source>IT之家</source>
+    <description>华为客服确认，HarmonyOS 7 的小艺 AI 快捷栏功能将于 2026 年 11 月中旬起分批推送，首批包括 Mate 90 系列与 Pura X View，12 月扩展至 Mate 80、Pura 90、Mate X7、nova 16 等机型及多款平板。该功能让小艺在桌面底部 Dock 栏常驻，此前曾预计 10 月底或 11 月初上线。</description>
+  </item>
+  <item>
+    <title>流程工业智能工厂业务管理规范新国标发布，2027 年 5 月实施</title>
+    <link>https://www.ithome.com/1/027/008.htm</link>
+    <guid isPermaLink="false">121-14</guid>
+    <pubDate>Fri, 13 Nov 2026 23:35:26 +0000</pubDate>
+    <source>IT之家</source>
+    <description>市场监管总局批准发布《智能制造 流程工业智能工厂业务管理规范》（GB/T 48536—2026），自 2027 年 5 月 1 日起实施。标准首次提出涵盖研发设计、生产制造、运营支撑、全链协同和管理方法五大模块的业务管理框架，确立数据驱动、系统集成等五项原则。流程工业涵盖石油化工、钢铁、制药等领域，此前存在管理框架不统一、数据难共享等问题。</description>
+  </item>
+  <item>
+    <title>2026 世界中文大会发布国际中文教育垂直大模型</title>
+    <link>https://www.chinanews.com.cn/gn/2026/11-13/10731714.shtml</link>
+    <guid isPermaLink="false">121-15</guid>
+    <pubDate>Fri, 13 Nov 2026 13:09:12 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>据新华社消息，2026 世界中文大会发布国际中文教育垂直大模型。该模型面向中文教学场景，是垂直领域大模型在教育出海方向的新应用。具体参数与性能指标尚未披露。</description>
+  </item>
   <item>
     <title>黄仁勋辞任英伟达 CEO，CFO 科莱特·克雷斯出任临时 CEO</title>
     <link>https://www.oschina.net/news/503568/nvidia-announces-ceo-transition</link>
@@ -363,125 +483,5 @@
     <pubDate>Fri, 13 Nov 2026 20:07:30 +0000</pubDate>
     <source>Google News 英文</source>
     <description>据 Yahoo Finance 报道，Sam Altman 加入 Dario Amodei 的行列，公开支持 AI 芯片出口禁令，Nvidia 股价随之大幅下挫。与此同时，AMD 因 AI 芯片板块抛售单日下跌 8.75%。多家媒体报道显示，政策表态正在成为 AI 芯片股短期波动的直接触发因素。</description>
-  </item>
-  <item>
-    <title>马来西亚与新加坡加强对 Nvidia 芯片调查，涉 917 台走私服务器</title>
-    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus</link>
-    <guid isPermaLink="false">118-11</guid>
-    <pubDate>Fri, 13 Nov 2026 21:45:29 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>马来西亚与新加坡加强对 Nvidia AI 芯片的调查，一名中国籍人士因涉及 917 台走私服务器被起诉。处于 Jensen Huang 争议中心的企业宣布对全部受限 GPU 进行库存审计。多家媒体报道称，东南亚正成为芯片走私监管的关键节点。</description>
-  </item>
-  <item>
-    <title>Google 允许用户将 Gemini 连接至银行账户</title>
-    <link>https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/</link>
-    <guid isPermaLink="false">118-12</guid>
-    <pubDate>Fri, 13 Nov 2026 19:15:32 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据 Engadget 报道，Google 现在允许用户将 Gemini 与自己的银行账户连接。这是 Gemini 向个人财务场景延伸的重要一步，也意味着 AI 助手开始接触高敏感金融数据。如何在便利与隐私安全之间取得平衡，将成为此类功能落地的关键。</description>
-  </item>
-  <item>
-    <title>三星发布 Gemini 驱动的 AI 眼镜，计划 12 月上市</title>
-    <link>https://www.upi.com/Top_News/World-News/2026/11/13/samsung-google-gemini-ai-smart-glasses-gentle-monster-warby-parker/8511794603007/</link>
-    <guid isPermaLink="false">118-13</guid>
-    <pubDate>Fri, 13 Nov 2026 20:54:01 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>三星发布由 Gemini 驱动的 AI 眼镜，计划于 12 月上市。这是三星在可穿戴 AI 硬件上的最新动作，也显示 Gemini 正在向手机之外的终端扩展。AI 眼镜赛道的竞争将围绕模型能力与硬件生态同时展开。</description>
-  </item>
-  <item>
-    <title>美联航以网络安全风险为由禁止 AI 智能体订票</title>
-    <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks</link>
-    <guid isPermaLink="false">118-14</guid>
-    <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>美联航表示，出于网络安全风险考虑，将不允许客户使用 AI 智能体预订航班和管理预订。这是大型航空公司首次明确对智能体操作设限。在智能体支付与代操作快速普及的背景下，企业风控策略正在成为落地阻力。</description>
-  </item>
-  <item>
-    <title>Anthropic 面向消费者的智能体 Claude Duet 上手体验</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
-    <guid isPermaLink="false">118-15</guid>
-    <pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 体验了 Anthropic 面向消费者的 AI 智能体 Claude Duet，称其「有点神经质但出奇地有用」。这是 AI 公司面向非程序员用户推广智能体的最新尝试。消费级智能体的可用性与交互设计，正成为差异化竞争点。</description>
-  </item>
-  <item>
-    <title>Microsoft 365 在 24 小时中断后恢复，官方称非网络攻击或 AI 所致</title>
-    <link>https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage</link>
-    <guid isPermaLink="false">118-16</guid>
-    <pubDate>Fri, 13 Nov 2026 19:08:57 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Microsoft 365 经历约 24 小时全球中断后逐步恢复，微软称原因是错误更新，而非网络攻击或 AI。有智库估算此次中断造成约 70 亿美元损失。对依赖云办公与 Copilot 的企业而言，此次事故再次暴露集中式云服务的脆弱性。</description>
-  </item>
-  <item>
-    <title>AI 智能体并未发现未知玛雅遗址，实为已发表成果</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery</link>
-    <guid isPermaLink="false">118-17</guid>
-    <pubDate>Thu, 12 Nov 2026 19:42:40 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 报道称，Google 研究员 Pietro Miotti 声称 AI 智能体团队发现了一处可能未被测绘的墨西哥玛雅遗址，但该遗址去年已在学术期刊上发表。此事在考古学界引发批评，凸显 AI 智能体「发现」宣称需要更严格的验证。</description>
-  </item>
-  <item>
-    <title>ElevenLabs 推出面向团队的会议记录与听写应用</title>
-    <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams</link>
-    <guid isPermaLink="false">118-18</guid>
-    <pubDate>Fri, 13 Nov 2026 14:44:48 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>ElevenLabs 推出新应用 ElevenAI，将会议记录与听写功能结合，面向团队与企业用户。这是 ElevenLabs 从语音合成向生产力工具扩展的又一步。语音 AI 公司正加速进入会议与办公场景。</description>
-  </item>
-  <item>
-    <title>黄仁勋辞任 Nvidia CEO，董事会调查多起婚外情与涉嫌间谍事件</title>
-    <link>https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f</link>
-    <guid isPermaLink="false">117-1</guid>
-    <pubDate>Thu, 12 Nov 2026 13:52:29 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Nvidia 联合创始人、总裁兼 CEO 黄仁勋在承认与 Megaspeed 高管 Alice Huang 的婚外情后宣布辞职，随后《纽约时报》又曝出他与一名直接汇报的下属存在另一段关系。董事会已启动调查，首席财务官 Colette Kress 出任临时接任者。此事发生在公司因对华芯片销售与特朗普政府关系而备受审视的敏感时点，直接动摇了全球市值最高半导体公司的治理根基。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini 4 Hydrogen，并接入 Google 搜索</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen</link>
-    <guid isPermaLink="false">117-2</guid>
-    <pubDate>Thu, 12 Nov 2026 18:01:48 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Google 正式推出 Gemini 4 Hydrogen 模型，并同步在 Google 搜索、Gemini 应用及所有付费层级上线。该模型擅长拆解多部分问题、容错拼写错误并处理高度具体的请求，发布仅四周便在评测中超过体量更大的 Argon 模型。这意味着 Google 正把最强模型直接嵌入其最大流量入口，搜索与对话式 AI 的边界进一步消融。</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 据报获六倍超额认购</title>
-    <link>https://ipo.anthropic.com/us</link>
-    <guid isPermaLink="false">117-3</guid>
-    <pubDate>Thu, 12 Nov 2026 11:46:41 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 的首次公开募股据多家媒体报道已获得约六倍超额认购，市场认购情绪远超预期。作为 OpenAI 最主要的竞争对手之一，Anthropic 的上市定价与认购热度将成为衡量公开市场对前沿大模型公司估值容忍度的关键标尺。若顺利挂牌，将为后续 AI 公司上市打开窗口。</description>
-  </item>
-  <item>
-    <title>美国民主党对 Nvidia 发起调查，并就黄仁勋与特朗普的「交易」致信抨击</title>
-    <link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump</link>
-    <guid isPermaLink="false">117-4</guid>
-    <pubDate>Thu, 12 Nov 2026 22:42:51 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>美国国会民主党人宣布对 Nvidia 的对华销售及其与特朗普政府的往来展开调查，并致信严厉批评黄仁勋的相关「安排」。这是自涉嫌间谍丑闻爆发以来针对 Nvidia 的第二项国会调查。调查叠加 CEO 辞职，使 Nvidia 的对华出口政策面临更大政治压力。</description>
-  </item>
-  <item>
-    <title>黄仁勋离职令 Nvidia 对开源 AI 的支持前景存疑</title>
-    <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question</link>
-    <guid isPermaLink="false">117-5</guid>
-    <pubDate>Thu, 12 Nov 2026 18:39:23 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 分析指出，黄仁勋的辞职使 Nvidia 对开源 AI 的承诺——包括 Hugging Face 收购、开放权重模型以及反对限制开源的政策游说——面临不确定性。黄仁勋此前是公司内部开源路线的主要推动者，领导层过渡期可能使相关项目放缓或转向。开源社区正密切关注 Nvidia 是否延续既有立场。</description>
-  </item>
-  <item>
-    <title>Nvidia 私下确认技术上可追踪芯片以打击走私，行业组织却公开质疑可行性</title>
-    <link>https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking</link>
-    <guid isPermaLink="false">117-6</guid>
-    <pubDate>Thu, 12 Nov 2026 20:16:24 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>Nvidia 代表向伊利诺伊州众议员 Bill Foster 表示，落实《芯片安全法案》所要求的反走私追踪措施在技术上可行，尽管行业团体称其「可能不可行」。Foster 向《MIT 科技评论》透露了这一表态。这一私下确认与公开质疑的矛盾，凸显芯片追踪政策在立法推进中的博弈。</description>
-  </item>
-  <item>
-    <title>Nebius 以 400 亿美元支出计划检验「新云」模式</title>
-    <link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending</link>
-    <guid isPermaLink="false">117-7</guid>
-    <pubDate>Thu, 12 Nov 2026 21:27:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>AI 云服务商 Nebius 计划通过客户预付款与贷款为其 400 亿美元的 AI 基础设施扩张融资。与此同时，其一处微软数据中心的延期交付引发外界对其融资模式的质疑。这一案例被视为「新云」厂商在高杠杆扩张下能否持续的关键测试。</description>
   </item>
 </channel></rss>
