@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T08:02:40.591532",
+ "generated_at": "2026-11-16T07:30:52.780418",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 126,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-16",
+   "created_at": "2026-11-15T23:30:51.708580+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-16/news_daily-073051.html"
+  },
   {
    "id": 125,
    "task": "news_daily_cn",
@@ -1074,6 +1083,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "国会拟在 Nvidia 间谍风波后收紧 AI 芯片出口规则",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "source": "The Verge AI",
+   "summary": "在涉及前 Nvidia CEO 黄仁勋与一名疑似中国间谍的丑闻曝光后，美国国会两党共同推动多项收紧 AI 芯片出口的法案，并要求黄仁勋等 Nvidia 高管到国会作证。多家媒体报道称，这一动向可能进一步限制对华高端 AI 芯片供应。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-15T19:15:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Nvidia 被要求说明对华 120 亿美元 AI 芯片供应",
+   "url": "https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f",
+   "source": "Google News 英文",
+   "summary": "监管机构要求 Nvidia 就向中国供应价值约 120 亿美元的 AI 芯片作出解释，此事与芯片走私调查及公司领导层动荡交织。该要求加大了 Nvidia 在合规与业务连续性上的压力。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-15T19:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Google DeepMind 发布 Gemini Robotics 2.5，提升灵巧度与工业能力",
+   "url": "https://roboticsandautomationnews.com/2026/11/15/google-deepmind-launches-gemini-robotics-2-5-with-improved-dexterity-and-industrial-capabilities/107186/",
+   "source": "Google News 英文",
+   "summary": "Google DeepMind 推出 Gemini Robotics 2.5，在机械灵巧操作和工业场景能力上有明显改进。该版本面向真实产线与机器人任务，延续了 Gemini 向具身智能延伸的路线。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 5,
+   "published": "2026-11-15T18:53:31+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "报道称 Nvidia 通过循环融资交易刻意维持 GPU 高价",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "source": "Hacker News",
+   "summary": "有报道指控 Nvidia 通过向 AI 初创公司提供融资、再由这些公司回购芯片的循环交易结构，人为维持 GPU 高价并吸收过剩产能。该说法在 Hacker News 引发 442 分、232 条评论的热议。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-11-14T22:26:30+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "法院驳回动议，DRAM 价格操纵案继续审理",
+   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+   "source": "Hacker News",
+   "summary": "法院否决了三星、SK 海力士与美光提出的驳回动议，DRAM 价格操纵集体诉讼得以继续推进。该案涉及存储芯片价格协同行为，与当前 AI 算力紧张下的内存涨价背景高度相关。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-15T01:18:36+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Google Gemini 推出 Orchestrator，增强多模型工作流",
+   "url": "https://smallbiztrends.com/?p",
+   "source": "Google News 英文",
+   "summary": "Google Gemini 上线 Orchestrator 功能，用于编排多个模型协同完成复杂工作流。该能力让 Gemini 从单一助手转向多模型调度层，与企业级 Agent 平台形成直接竞争。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 4,
+   "published": "2026-11-15T19:58:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "OpenAI 披露 GPT-6 Astra 辅助完成标准模型格点定义证明",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布研究，提出标准模型的非微扰格点定义候选方案，并表示 GPT-6 Astra 帮助将该想法转化为详细证明。这是 AI 辅助理论物理研究的一次高调展示。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-15T22:00:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Nvidia 财报与 Anthropic IPO 成本周市场焦点",
+   "url": "https://www.barrons.com/articles/stock-futures-trading-sunday-4aaca5f4",
+   "source": "Google News 英文",
+   "summary": "市场关注 Nvidia 在黄仁勋离任后的首份财报，以及 Anthropic 即将启动的 IPO。两者被视为检验 AI 投资周期能否延续的关键事件。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 4,
+   "published": "2026-11-15T23:05:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "纽约州设立 AI 安全中心，独立测试 AI 模型",
+   "url": "https://www.technology.org/2026/11/15/new-york-ai-safety-center-binghamton-raise-act/",
+   "source": "Google News 英文",
+   "summary": "纽约州启动 AI 安全中心，计划对 AI 模型开展独立测试与评估。这是州层面在联邦监管缺位下推进 AI 治理的最新动作。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-15T07:39:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "马斯克等科技高管联署请愿，要求 Nvidia 恢复黄仁勋职务",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+   "source": "TechCrunch AI",
+   "summary": "包括 Elon Musk 在内的多位科技高管签署请愿书，要求 Nvidia 恢复黄仁勋的 CEO 职务，截至周六下午签名已超过 11.5 万。请愿反映出硅谷对 Nvidia 领导层变动的强烈不安。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-14T21:41:22+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "传黄仁勋正谋求重返 Nvidia CEO 之位",
+   "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+   "source": "The Verge AI",
+   "summary": "The Verge 报道称，围绕黄仁勋的剧情快速演变，出现其试图寻找路径重返 CEO 职位的传闻。相关消息与国会调查、芯片走私案相互叠加。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-15T20:43:49+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "博通股价大涨，Nvidia 领导层危机或带来十亿美元级机会",
+   "url": "https://www.barchart.com/story/news/8844179/broadcom-stock-jumps-as-nvidias-leadership-crisis-raises-a-billion-dollar-opportunity-for-its-ai-chip-business",
+   "source": "Google News 英文",
+   "summary": "受 Nvidia 领导层危机影响，博通股价跳涨，市场认为其 AI 芯片业务可能获得数十亿美元级替代订单。客户多元化定制的趋势正在加速。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-15T14:25:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "阿里巴巴被卷入美国新一轮 AI 芯片管制",
+   "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-nyse-baba-caught-us-220650183.html",
+   "source": "Google News 英文",
+   "summary": "在间谍风波发酵后，阿里巴巴被纳入美国新一轮 AI 芯片出口限制的波及范围。报道称相关管制可能影响其获取高端算力的渠道。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-15T22:06:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "OpenAI 上线科学博客，分享 AI 驱动科研发现",
+   "url": "https://openai.com/index/our-new-blog-for-science",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 推出面向科学的官方博客，发布新发现、实用方法以及研究人员使用 AI 推进科学发现的一手记录。该博客与同日发布的格点物理研究形成呼应。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-15T22:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Google Gemini 推出 Artificial Analysis 模型评测与基准功能",
+   "url": "https://smallbiztrends.com/google-gemini-launches-artificial-analysis-for-model-evaluation-and-benchmarking/",
+   "source": "Google News 英文",
+   "summary": "Google Gemini 上线 Artificial Analysis 功能，提供模型评测与基准对比能力。此举让开发者可在 Gemini 生态内直接比较模型表现。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 3,
+   "published": "2026-11-15T11:42:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "开发者用约 200 行纯 Jax 实现 DeepSeek V3",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "source": "Hacker News",
+   "summary": "有开发者在 Hacker News 展示用约 200 行纯 Jax 代码实现的 DeepSeek V3，获得 272 分。该实现以极简代码复现大模型结构，降低了研究与教学门槛。",
+   "why": null,
+   "category": "开源与研究",
+   "heat": 3,
+   "published": "2026-11-14T15:04:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "警惕 AI 驱动的新一轮勒索软件潮",
+   "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
+   "source": "Wired AI",
+   "summary": "Wired 报道称，完全自动化的勒索软件尚未到来，但技术并不高超的攻击者已借助 AI 工具造成更大破坏。攻击门槛下降正在改变勒索软件生态。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-14T13:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "亚马逊计划索引全球在线购物数据",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "source": "The Verge AI",
+   "summary": "据路透社报道，亚马逊计划构建名为 World Product Graph 的商品数据仓库，覆盖全网在售商品，包括亚马逊不自营的商品，并通过自家站点提供检索。该计划旨在降低用户跳出亚马逊搜索的意愿。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-13T23:49:11+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Linux 维护者不堪 AI 生成的缺陷报告重负",
+   "url": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows",
+   "source": "ZDNet AI",
+   "summary": "ZDNet 报道称，AI 让发现 Linux 缺陷变得容易，但修复仍是瓶颈，部分维护者因大量 AI 生成的缺陷报告而退出。开源社区的评审资源正被 AI 产出放大。",
+   "why": null,
+   "category": "开源与生态",
+   "heat": 3,
+   "published": "2026-11-14T01:20:06+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "家长为 Alpha 的 AI 学校支付 7.5 万美元，半数学生未达数学目标",
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
+   "source": "Hacker News",
+   "summary": "Fortune 报道称，Alpha 的 AI 学校学费高达 7.5 万美元，但一半学生未达到数学学习目标。该案例引发对 AI 教育效果与高收费模式的质疑。",
+   "why": null,
+   "category": "行业应用",
+   "heat": 3,
+   "published": "2026-11-15T19:39:46+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

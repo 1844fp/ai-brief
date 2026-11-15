@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sun, 15 Nov 2026 08:02:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 07:30:52 +0000</lastBuildDate>
+  <item>
+    <title>国会拟在 Nvidia 间谍风波后收紧 AI 芯片出口规则</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link>
+    <guid isPermaLink="false">126-1</guid>
+    <pubDate>Sun, 15 Nov 2026 19:15:43 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>在涉及前 Nvidia CEO 黄仁勋与一名疑似中国间谍的丑闻曝光后，美国国会两党共同推动多项收紧 AI 芯片出口的法案，并要求黄仁勋等 Nvidia 高管到国会作证。多家媒体报道称，这一动向可能进一步限制对华高端 AI 芯片供应。</description>
+  </item>
+  <item>
+    <title>Nvidia 被要求说明对华 120 亿美元 AI 芯片供应</title>
+    <link>https://www.thetimes.com/business/companies-markets/article/nvidia-jensen-huang-us-treasury-ai-chips-china-ckwd9037f</link>
+    <guid isPermaLink="false">126-2</guid>
+    <pubDate>Sun, 15 Nov 2026 19:00:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>监管机构要求 Nvidia 就向中国供应价值约 120 亿美元的 AI 芯片作出解释，此事与芯片走私调查及公司领导层动荡交织。该要求加大了 Nvidia 在合规与业务连续性上的压力。</description>
+  </item>
+  <item>
+    <title>Google DeepMind 发布 Gemini Robotics 2.5，提升灵巧度与工业能力</title>
+    <link>https://roboticsandautomationnews.com/2026/11/15/google-deepmind-launches-gemini-robotics-2-5-with-improved-dexterity-and-industrial-capabilities/107186/</link>
+    <guid isPermaLink="false">126-3</guid>
+    <pubDate>Sun, 15 Nov 2026 18:53:31 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google DeepMind 推出 Gemini Robotics 2.5，在机械灵巧操作和工业场景能力上有明显改进。该版本面向真实产线与机器人任务，延续了 Gemini 向具身智能延伸的路线。</description>
+  </item>
+  <item>
+    <title>报道称 Nvidia 通过循环融资交易刻意维持 GPU 高价</title>
+    <link>https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</link>
+    <guid isPermaLink="false">126-4</guid>
+    <pubDate>Sat, 14 Nov 2026 22:26:30 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>有报道指控 Nvidia 通过向 AI 初创公司提供融资、再由这些公司回购芯片的循环交易结构，人为维持 GPU 高价并吸收过剩产能。该说法在 Hacker News 引发 442 分、232 条评论的热议。</description>
+  </item>
+  <item>
+    <title>法院驳回动议，DRAM 价格操纵案继续审理</title>
+    <link>https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal</link>
+    <guid isPermaLink="false">126-5</guid>
+    <pubDate>Sun, 15 Nov 2026 01:18:36 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>法院否决了三星、SK 海力士与美光提出的驳回动议，DRAM 价格操纵集体诉讼得以继续推进。该案涉及存储芯片价格协同行为，与当前 AI 算力紧张下的内存涨价背景高度相关。</description>
+  </item>
+  <item>
+    <title>Google Gemini 推出 Orchestrator，增强多模型工作流</title>
+    <link>https://smallbiztrends.com/?p</link>
+    <guid isPermaLink="false">126-6</guid>
+    <pubDate>Sun, 15 Nov 2026 19:58:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google Gemini 上线 Orchestrator 功能，用于编排多个模型协同完成复杂工作流。该能力让 Gemini 从单一助手转向多模型调度层，与企业级 Agent 平台形成直接竞争。</description>
+  </item>
+  <item>
+    <title>OpenAI 披露 GPT-6 Astra 辅助完成标准模型格点定义证明</title>
+    <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+    <guid isPermaLink="false">126-7</guid>
+    <pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布研究，提出标准模型的非微扰格点定义候选方案，并表示 GPT-6 Astra 帮助将该想法转化为详细证明。这是 AI 辅助理论物理研究的一次高调展示。</description>
+  </item>
+  <item>
+    <title>Nvidia 财报与 Anthropic IPO 成本周市场焦点</title>
+    <link>https://www.barrons.com/articles/stock-futures-trading-sunday-4aaca5f4</link>
+    <guid isPermaLink="false">126-8</guid>
+    <pubDate>Sun, 15 Nov 2026 23:05:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>市场关注 Nvidia 在黄仁勋离任后的首份财报，以及 Anthropic 即将启动的 IPO。两者被视为检验 AI 投资周期能否延续的关键事件。</description>
+  </item>
+  <item>
+    <title>纽约州设立 AI 安全中心，独立测试 AI 模型</title>
+    <link>https://www.technology.org/2026/11/15/new-york-ai-safety-center-binghamton-raise-act/</link>
+    <guid isPermaLink="false">126-9</guid>
+    <pubDate>Sun, 15 Nov 2026 07:39:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>纽约州启动 AI 安全中心，计划对 AI 模型开展独立测试与评估。这是州层面在联邦监管缺位下推进 AI 治理的最新动作。</description>
+  </item>
+  <item>
+    <title>马斯克等科技高管联署请愿，要求 Nvidia 恢复黄仁勋职务</title>
+    <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang</link>
+    <guid isPermaLink="false">126-10</guid>
+    <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>包括 Elon Musk 在内的多位科技高管签署请愿书，要求 Nvidia 恢复黄仁勋的 CEO 职务，截至周六下午签名已超过 11.5 万。请愿反映出硅谷对 Nvidia 领导层变动的强烈不安。</description>
+  </item>
+  <item>
+    <title>传黄仁勋正谋求重返 Nvidia CEO 之位</title>
+    <link>https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed</link>
+    <guid isPermaLink="false">126-11</guid>
+    <pubDate>Sun, 15 Nov 2026 20:43:49 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 报道称，围绕黄仁勋的剧情快速演变，出现其试图寻找路径重返 CEO 职位的传闻。相关消息与国会调查、芯片走私案相互叠加。</description>
+  </item>
+  <item>
+    <title>博通股价大涨，Nvidia 领导层危机或带来十亿美元级机会</title>
+    <link>https://www.barchart.com/story/news/8844179/broadcom-stock-jumps-as-nvidias-leadership-crisis-raises-a-billion-dollar-opportunity-for-its-ai-chip-business</link>
+    <guid isPermaLink="false">126-12</guid>
+    <pubDate>Sun, 15 Nov 2026 14:25:25 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>受 Nvidia 领导层危机影响，博通股价跳涨，市场认为其 AI 芯片业务可能获得数十亿美元级替代订单。客户多元化定制的趋势正在加速。</description>
+  </item>
+  <item>
+    <title>阿里巴巴被卷入美国新一轮 AI 芯片管制</title>
+    <link>https://finance.yahoo.com/technology/ai/articles/alibaba-nyse-baba-caught-us-220650183.html</link>
+    <guid isPermaLink="false">126-13</guid>
+    <pubDate>Sun, 15 Nov 2026 22:06:50 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>在间谍风波发酵后，阿里巴巴被纳入美国新一轮 AI 芯片出口限制的波及范围。报道称相关管制可能影响其获取高端算力的渠道。</description>
+  </item>
+  <item>
+    <title>OpenAI 上线科学博客，分享 AI 驱动科研发现</title>
+    <link>https://openai.com/index/our-new-blog-for-science</link>
+    <guid isPermaLink="false">126-14</guid>
+    <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 推出面向科学的官方博客，发布新发现、实用方法以及研究人员使用 AI 推进科学发现的一手记录。该博客与同日发布的格点物理研究形成呼应。</description>
+  </item>
+  <item>
+    <title>Google Gemini 推出 Artificial Analysis 模型评测与基准功能</title>
+    <link>https://smallbiztrends.com/google-gemini-launches-artificial-analysis-for-model-evaluation-and-benchmarking/</link>
+    <guid isPermaLink="false">126-15</guid>
+    <pubDate>Sun, 15 Nov 2026 11:42:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google Gemini 上线 Artificial Analysis 功能，提供模型评测与基准对比能力。此举让开发者可在 Gemini 生态内直接比较模型表现。</description>
+  </item>
+  <item>
+    <title>开发者用约 200 行纯 Jax 实现 DeepSeek V3</title>
+    <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+    <guid isPermaLink="false">126-16</guid>
+    <pubDate>Sat, 14 Nov 2026 15:04:15 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>有开发者在 Hacker News 展示用约 200 行纯 Jax 代码实现的 DeepSeek V3，获得 272 分。该实现以极简代码复现大模型结构，降低了研究与教学门槛。</description>
+  </item>
+  <item>
+    <title>警惕 AI 驱动的新一轮勒索软件潮</title>
+    <link>https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom</link>
+    <guid isPermaLink="false">126-17</guid>
+    <pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>Wired 报道称，完全自动化的勒索软件尚未到来，但技术并不高超的攻击者已借助 AI 工具造成更大破坏。攻击门槛下降正在改变勒索软件生态。</description>
+  </item>
+  <item>
+    <title>亚马逊计划索引全球在线购物数据</title>
+    <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
+    <guid isPermaLink="false">126-18</guid>
+    <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>据路透社报道，亚马逊计划构建名为 World Product Graph 的商品数据仓库，覆盖全网在售商品，包括亚马逊不自营的商品，并通过自家站点提供检索。该计划旨在降低用户跳出亚马逊搜索的意愿。</description>
+  </item>
+  <item>
+    <title>Linux 维护者不堪 AI 生成的缺陷报告重负</title>
+    <link>https://www.zdnet.com/innovation/ai-bug-reports-linux-windows</link>
+    <guid isPermaLink="false">126-19</guid>
+    <pubDate>Sat, 14 Nov 2026 01:20:06 +0000</pubDate>
+    <source>ZDNet AI</source>
+    <description>ZDNet 报道称，AI 让发现 Linux 缺陷变得容易，但修复仍是瓶颈，部分维护者因大量 AI 生成的缺陷报告而退出。开源社区的评审资源正被 AI 产出放大。</description>
+  </item>
+  <item>
+    <title>家长为 Alpha 的 AI 学校支付 7.5 万美元，半数学生未达数学目标</title>
+    <link>https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals</link>
+    <guid isPermaLink="false">126-20</guid>
+    <pubDate>Sun, 15 Nov 2026 19:39:46 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Fortune 报道称，Alpha 的 AI 学校学费高达 7.5 万美元，但一半学生未达到数学学习目标。该案例引发对 AI 教育效果与高收费模式的质疑。</description>
+  </item>
   <item>
     <title>黄仁勋辞任英伟达 CEO，CFO 出任临时 CEO，股价重挫</title>
     <link>http://www.geekpark.net/news/373907</link>
@@ -323,165 +483,5 @@
     <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
     <source>The Verge AI</source>
     <description>OpenAI 为 Dots AI 智能体平台推出 ChatGPT Wallet，首先面向美国 18 岁以上 ChatGPT Pro 订阅用户开放，支持符合条件的美国运通、Chase、Mastercard 和 Visa 卡。智能体可在用户批准下完成购买，并保留现有卡片保护机制。</description>
-  </item>
-  <item>
-    <title>OpenAI 正式介绍 ChatGPT Wallet</title>
-    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-    <guid isPermaLink="false">123-6</guid>
-    <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 官方博客发文介绍 ChatGPT Wallet，称其为一种安全方式，让 ChatGPT Work、Codex 和 dots 中的智能体在用户批准下使用现有卡片保护完成购买。多家媒体报道了该产品的推出。</description>
-  </item>
-  <item>
-    <title>AI 智能体初创公司 LangChain 估值达 30 亿美元</title>
-    <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation</link>
-    <guid isPermaLink="false">123-7</guid>
-    <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>LangChain 宣布其模型与平台无关的智能体管理工具 LangSmith 已拥有 7000 家客户，公司估值达到 30 亿美元。这显示企业级智能体编排工具的市场需求持续升温。</description>
-  </item>
-  <item>
-    <title>Gemini 4 Carbon 登顶 MathArena，但成本是 GPT-6.1 Sol 的 15 倍</title>
-    <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
-    <guid isPermaLink="false">123-8</guid>
-    <pubDate>Sat, 14 Nov 2026 16:50:59 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google 的 Gemini 4 Carbon 在 MathArena 基准上夺得第一，但运行成本高达 GPT-6.1 Sol 的 15 倍。这凸显了前沿模型在性能与推理经济性之间的取舍。</description>
-  </item>
-  <item>
-    <title>Nvidia 被指通过投资 AI 初创公司购买自家 GPU 来人为制造稀缺</title>
-    <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-    <guid isPermaLink="false">123-9</guid>
-    <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>TechPowerUp 报道称，Nvidia 涉嫌通过资助 AI 初创公司来购买其 GPU，从而人为制造供应稀缺。该指控在 Hacker News 上引发 1019 分、612 条评论的热议。</description>
-  </item>
-  <item>
-    <title>研究显示中国最强 AI 模型使用了被出口禁令限制的 Nvidia 芯片训练</title>
-    <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
-    <guid isPermaLink="false">123-10</guid>
-    <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道的新研究显示，中国最先进的一些 AI 模型是在被美国出口禁令限制的 Nvidia 芯片上训练的。这一发现与黄仁勋辞职风波中的芯片走私疑云相互交织。</description>
-  </item>
-  <item>
-    <title>分析师称 150 万块 AI GPU 走私可能是黄仁勋离职的深层原因</title>
-    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls</link>
-    <guid isPermaLink="false">123-11</guid>
-    <pubDate>Sat, 14 Nov 2026 15:58:57 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Tom's Hardware 援引分析师说法称，超过 1.5 吉瓦的禁运芯片被追踪到流入中国，大规模 GPU 走私可能是黄仁勋离职的深层原因。该报道将芯片出口管制漏洞与 Nvidia 高层变动联系起来。</description>
-  </item>
-  <item>
-    <title>风投与创始人称黄仁勋离职给 AI 初创融资留下巨大缺口</title>
-    <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say</link>
-    <guid isPermaLink="false">123-12</guid>
-    <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，黄仁勋治下 Nvidia 向 AI 初创公司投入了数百亿美元，随着他离任，创始人和风投正准备迎接更小的支票和更低的估值。Nvidia 作为战略投资人的角色可能显著收缩。</description>
-  </item>
-  <item>
-    <title>OpenAI、Anthropic、Google 等 AI 巨头面临要求暂停开发的诉讼</title>
-    <link>https://www.yahoo.com/news/politics/articles/openai-anthropic-google-other-ai-170102973.html</link>
-    <guid isPermaLink="false">123-13</guid>
-    <pubDate>Sat, 14 Nov 2026 17:01:02 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI、Anthropic、Google 等多家 AI 巨头面临一起诉讼，原告要求法院下令暂停相关 AI 开发。这是针对前沿 AI 开发节奏的最新法律挑战。</description>
-  </item>
-  <item>
-    <title>日本考虑就安全风险对 AI 企业施加处罚</title>
-    <link>https://japantoday.com/category/tech/japan-mulls-penalties-for-ai-firms-over-safety-risks</link>
-    <guid isPermaLink="false">123-14</guid>
-    <pubDate>Sat, 14 Nov 2026 07:12:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>日本政府正在考虑针对 AI 安全风险对相关企业施加处罚，这是日本在 AI 监管立法方面的新动向。此举与欧美监管趋势相呼应。</description>
-  </item>
-  <item>
-    <title>纽约州扩大独立 AI 安全研究网络</title>
-    <link>https://casrai.org/news/new-york-cairr-ai-safety-network-launch-2026</link>
-    <guid isPermaLink="false">123-15</guid>
-    <pubDate>Sat, 14 Nov 2026 07:38:39 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>纽约州宣布扩大其独立 AI 安全研究网络 CASRAI，以增强对 AI 风险的独立评估能力。这是州层面推动 AI 安全研究的又一举措。</description>
-  </item>
-  <item>
-    <title>GGML 发布 v1.0.0 版本</title>
-    <link>https://github.com/ggml-org/ggml/releases/tag/v1.0.0</link>
-    <guid isPermaLink="false">123-16</guid>
-    <pubDate>Sat, 14 Nov 2026 02:28:29 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>GGML 发布 v1.0.0，这是该项目的重要里程碑版本。GGML 是支撑 llama.cpp 等本地推理生态的底层张量库，在 Hacker News 上获得 398 分。</description>
-  </item>
-  <item>
-    <title>Unsloth 发布 Qwen3.8-27B 动态 v3.1 量化更新</title>
-    <link>https://unsloth.ai/docs/models/qwen3.8</link>
-    <guid isPermaLink="false">123-17</guid>
-    <pubDate>Sat, 14 Nov 2026 00:06:04 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Unsloth 发布 Qwen3.8-27B 的量化更新，采用 Dynamic v3.1 方案，旨在降低显存占用并保持推理质量。该更新在 Hacker News 上获得 238 分。</description>
-  </item>
-  <item>
-    <title>Nvidia 展示用 vLLM 在两台 DGX Station 上以 607.8 tok/s 服务 GLM-5.3</title>
-    <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm</link>
-    <guid isPermaLink="false">123-18</guid>
-    <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Nvidia 开发者博客介绍如何用 vLLM 在两台 Nvidia DGX Station 上跨节点服务 GLM-5.3，达到 607.8 tok/s 的吞吐。该方案展示了单 GPU 不足时的横向扩展路径。</description>
-  </item>
-  <item>
-    <title>Microsoft 365 大规模宕机尚未完全恢复，智库估算损失达 70 亿美元</title>
-    <link>https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot</link>
-    <guid isPermaLink="false">123-19</guid>
-    <pubDate>Fri, 13 Nov 2026 21:43:32 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>Microsoft 365 经历约 24 小时的大规模宕机后逐步恢复，微软表示尚无完全恢复的时间表。一家智库估算此次宕机造成的损失约为 70 亿美元，微软称原因是错误更新而非网络攻击或 AI。</description>
-  </item>
-  <item>
-    <title>警惕新一轮由 AI 助推的勒索软件潮</title>
-    <link>https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom</link>
-    <guid isPermaLink="false">123-20</guid>
-    <pubDate>Sat, 14 Nov 2026 13:00:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道称，完全自动化的勒索软件尚未到来，但看似技术粗糙的攻击者正利用 AI 工具造成严重破坏。AI 正在降低网络犯罪的技术门槛。</description>
-  </item>
-  <item>
-    <title>黄仁勋辞任 Nvidia CEO 事件全时间线</title>
-    <link>https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</link>
-    <guid isPermaLink="false">122-1</guid>
-    <pubDate>Fri, 13 Nov 2026 15:58:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia CEO 黄仁勋于周四正式辞去这家 AI 最重要公司的最高职位，TechCrunch 梳理了从绯闻到辞职的完整时间线。事件还牵涉 Nvidia 在中国的业务往来以及美国政府的出口管制态度，后续可能演变为更大的故事。多家媒体持续追踪，Nvidia 未来走向成为行业最大不确定性。</description>
-  </item>
-  <item>
-    <title>OpenAI 正式推出 ChatGPT Wallet</title>
-    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-    <guid isPermaLink="false">122-2</guid>
-    <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布 ChatGPT Wallet，让 ChatGPT Work、Codex 和 dots 中的智能体在用户批准下使用现有银行卡完成购买，并保留卡片原有保护机制。该功能首先面向美国 18 岁以上 ChatGPT Pro 订阅用户开放，支持美国运通、Chase、Mastercard 和 Visa 卡。这标志着 AI 智能体从对话工具向可执行交易的商业代理迈出关键一步。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini 4 Hydrogen，性能提升 2.5 倍</title>
-    <link>https://bravenewcoin.com/insights/google-launches-gemini-4-hydrogen-with-2-5x-faster-performance-challenging-gpt-6-1-and-claude</link>
-    <guid isPermaLink="false">122-3</guid>
-    <pubDate>Sat, 14 Nov 2026 18:22:28 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google 推出 Gemini 4 Hydrogen，宣称性能较前代提升 2.5 倍，直接对标 GPT-6.1 与 Claude。这是 Google 在旗舰模型竞赛中的最新动作，试图在速度与能力上重新夺回话语权。模型发布正值 Nvidia 动荡与多家厂商密集迭代的窗口期，竞争进一步白热化。</description>
-  </item>
-  <item>
-    <title>FTC 对 Anthropic 与 OpenAI 的 AI 安全性展开调查</title>
-    <link>https://abcnews.com/Politics/ftc-opens-probe-safety-ai-including-anthropic-open/story?id</link>
-    <guid isPermaLink="false">122-4</guid>
-    <pubDate>Sat, 14 Nov 2026 14:14:24 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美国联邦贸易委员会（FTC）已对包括 Anthropic 和 OpenAI 在内的 AI 公司展开安全性调查。这是美国监管机构对前沿 AI 企业发起的又一轮正式审查，聚焦模型安全与消费者保护。调查结果可能影响这些公司的产品发布节奏与合规成本。</description>
-  </item>
-  <item>
-    <title>马斯克等科技高管联署请愿，要求 Nvidia 恢复黄仁勋职位</title>
-    <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang</link>
-    <guid isPermaLink="false">122-5</guid>
-    <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Elon Musk 等科技高管签署请愿书，呼吁 Nvidia 重新任命黄仁勋为 CEO，截至周六下午签名已超过 11.5 万。请愿反映出业界对 Nvidia 领导层变动可能冲击 AI 供应链与投资生态的担忧。事件已从公司治理问题演变为行业性公共议题。</description>
   </item>
 </channel></rss>
