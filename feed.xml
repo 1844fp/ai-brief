@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sun, 15 Nov 2026 08:01:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 08:02:40 +0000</lastBuildDate>
+  <item>
+    <title>黄仁勋辞任英伟达 CEO，CFO 出任临时 CEO，股价重挫</title>
+    <link>http://www.geekpark.net/news/373907</link>
+    <guid isPermaLink="false">125-1</guid>
+    <pubDate>Fri, 13 Nov 2026 00:16:48 +0000</pubDate>
+    <source>极客公园</source>
+    <description>英伟达官方宣布黄仁勋辞去总裁、CEO 及董事会成员职务，即刻生效，首席财务官 Colette Kress 出任临时 CEO，董事会启动正式继任者遴选。消息公布后英伟达盘前一度下跌 10%，当日收跌逾 4%，并拖累 A 股元件、通信设备板块多只个股跌停。作为全球 AI 算力最核心的供应商，CEO 突然更替给算力供应链的稳定性与对华出口政策走向增添了重大不确定性。</description>
+  </item>
+  <item>
+    <title>美国拟扩大 AI 芯片出口管制，OpenAI 与 Anthropic 表态支持限制对华出口</title>
+    <link>https://www.moomoo.com/hans/community/feed/jensen-huang-steps-down-as-ceo-of-nvidia-openai-and-117616396075014</link>
+    <guid isPermaLink="false">125-2</guid>
+    <pubDate>Sat, 14 Nov 2026 08:18:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>据多家媒体报道，美国商务部正制定新规，拟对新加坡、马来西亚、泰国、印尼、巴西、挪威、南非等国实施更严格的 AI 芯片出口许可要求，以限制中国企业通过海外数据中心获取算力。OpenAI 与 Anthropic 据报支持进一步限制 AI 芯片出口中国。若落地，将抬高中国大模型厂商获取先进算力的门槛，加速国产替代与算力出海布局调整。</description>
+  </item>
+  <item>
+    <title>英伟达员工集体请愿要求黄仁勋回归，马斯克称将签名支持</title>
+    <link>https://www.qbitai.com/2026/11/510297.html</link>
+    <guid isPermaLink="false">125-3</guid>
+    <pubDate>Sat, 14 Nov 2026 10:08:08 +0000</pubDate>
+    <source>量子位</source>
+    <description>约 1600 名英伟达员工发起请愿，要求让黄仁勋重返 CEO 岗位，马斯克在 X 上表示将签署该请愿，并称黄仁勋在供应链上“说到做到”、许多合作靠握手达成。此前马斯克已公开表示创始人很难被取代。这场罕见的员工请愿凸显黄仁勋个人对英伟达供应链与客户关系的不可替代性，也加剧了外界对继任安排的疑虑。</description>
+  </item>
+  <item>
+    <title>优必选与沐曦对等持股成立合资公司，成立半年获 5 亿元天使轮造具身智能芯片</title>
+    <link>https://www.leaderobot.com/news/10760</link>
+    <guid isPermaLink="false">125-4</guid>
+    <pubDate>Sat, 14 Nov 2026 14:17:30 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>优必选与 GPU 厂商沐曦以对等持股方式合资设立公司，专注具身智能专用芯片，成立半年即完成 5 亿元天使轮融资。该合作把机器人本体厂商的場景需求与国产 GPU 设计能力结合，瞄准人形机器人的端侧算力缺口。这是国内具身智能芯片赛道少见的大额早期融资，也反映国产算力正从通用 GPU 向场景专用芯片延伸。</description>
+  </item>
+  <item>
+    <title>算力紧俏，联想在张家口落地词元工厂</title>
+    <link>http://news.10jqka.com.cn/20261115/c681827580.shtml</link>
+    <guid isPermaLink="false">125-5</guid>
+    <pubDate>Sat, 14 Nov 2026 16:55:16 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>在算力供给紧张的背景下，联想把“词元工厂”开进张家口，以 token 生产为核心布局推理算力基础设施。此举延续了国内厂商在京津冀节点建设智算中心、承接大模型推理需求的趋势。词元工厂的提法意味着算力供给正从卖卡、卖集群转向按 token 计费的推理服务模式。</description>
+  </item>
+  <item>
+    <title>字节的 2029 与腾讯的“一半人”：大厂为 AI 转型争取时间</title>
+    <link>https://www.tmtpost.com/8201267.html</link>
+    <guid isPermaLink="false">125-6</guid>
+    <pubDate>Sat, 14 Nov 2026 08:39:41 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>报道梳理字节跳动与腾讯在 AI 转型上的组织与时间表安排：字节设定面向 2029 年的目标，腾讯管理层则提出涉及“一半人”的转型路线，此前“裁员 50%”传闻已被接近腾讯人士否认。两家大厂都在用组织调整与内部重构为 AI 争取窗口期。这反映头部互联网公司的 AI 竞争已从模型层延伸到组织效率与人力结构。</description>
+  </item>
+  <item>
+    <title>豆包工作接入多款第三方模型，腾讯否认裁员 50% 传闻并提出两条 AI 转型路线</title>
+    <link>https://www.ifanr.com/1689292</link>
+    <guid isPermaLink="false">125-7</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:46 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>爱范儿早报汇总：豆包工作已接入多款第三方模型，显示字节在办公场景采取多模型并行策略；接近腾讯人士称“裁员 50%”传闻不实，管理层提出两条 AI 转型路线。此外 Claude 10 月网站访问量增长近 24%，增幅超过 ChatGPT 和 Gemini。多模型接入与组织转型并行，说明国内 AI 应用竞争正从单一自研模型转向生态整合。</description>
+  </item>
+  <item>
+    <title>李飞飞最新世界模型正式开放，可一句话生成三维场景</title>
+    <link>https://www.ifanr.com/1689379</link>
+    <guid isPermaLink="false">125-8</guid>
+    <pubDate>Fri, 13 Nov 2026 10:04:55 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>李飞飞团队的世界模型正式对外开放，用户可用一句话生成如重庆山城这样的三维场景，展示从文本到可交互空间生成的端到端能力。世界模型被视为继大语言模型之后的下一个竞争焦点，此次开放让更多开发者可直接试用。对国内具身智能、自动驾驶仿真与三维内容生产而言，这类模型可能成为重要的基础工具。</description>
+  </item>
+  <item>
+    <title>Meta 旗下智能体 Muse 上线代打电话功能，月费 19.99 美元起</title>
+    <link>https://www.ithome.com/1/027/238.htm</link>
+    <guid isPermaLink="false">125-9</guid>
+    <pubDate>Sat, 14 Nov 2026 13:46:56 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Meta 首席 AI 官汪滔宣布，AI 智能体 Muse 推出代打电话功能，可代用户联系保险公司、有线电视服务商、预约车管业务或餐厅订位，使用 AI 合成语音与商家交谈。该功能面向 Meta AI 最高级别付费订阅用户开放，月费 19.99 美元起。部分商家听出是 AI 后直接挂断，显示智能体落地仍面临信任与合规摩擦。</description>
+  </item>
+  <item>
+    <title>香港昼夜轮班抢工，打造大湾区超级算力枢纽</title>
+    <link>https://m.sohu.com/a/1101701761_119038?scm</link>
+    <guid isPermaLink="false">125-10</guid>
+    <pubDate>Sat, 14 Nov 2026 22:23:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>香港正昼夜轮班推进超级算力枢纽建设，定位服务大湾区的大规模智算需求。在先进芯片进口受限的背景下，香港凭借区位与制度优势承接算力基础设施与跨境数据服务。该项目与内地智算中心形成互补，是大湾区 AI 基建布局的重要一环。</description>
+  </item>
+  <item>
+    <title>安徽推动算力融入千行万业</title>
+    <link>http://ah.anhuinews.com/szxw/202611/t20261115_9752116.html</link>
+    <guid isPermaLink="false">125-11</guid>
+    <pubDate>Sat, 14 Nov 2026 22:50:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>安徽新闻联播报道当地如何把算力转化为各行业应用能力，延续了安徽以智算中心带动产业数字化的路径。报道聚焦算力在制造、政务等场景的落地，而非单纯堆叠机架规模。这反映地方算力建设正从“建中心”转向“用算力”，与全国一体化算力网的政策方向一致。</description>
+  </item>
+  <item>
+    <title>AI 大模型训练推动芯片产业从通用供给转向按场景定义</title>
+    <link>https://finance.sina.cn/2026-11-14/detail-iniyszsx0467093.d.html?vt</link>
+    <guid isPermaLink="false">125-12</guid>
+    <pubDate>Sat, 14 Nov 2026 10:50:32 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>报道指出，随着 AI 大模型训练需求分化，芯片产业正从通用供给模式转向按场景定义专用芯片，涉及长鑫存储、北方华创、华天科技等产业链环节。这一趋势与优必选、沐曦合资造具身智能芯片形成呼应。对国产半导体而言，场景专用化既是差异化机会，也对设计工具与先进封测提出更高要求。</description>
+  </item>
+  <item>
+    <title>高盛报告：全球 AI 只剩中美两大玩家</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329tkyodxM-lgAZ-MegEwlqBVqXa8Fplpd9uRLpg4b6k07FEzgReVdIOD_NWCa527PKOA0KZHcCaDUm_bNGJnCJuPenavrqSsQMoINlB6afTBJ7ISVEJpBOYPwmSRuLFNmjCj0ww47jXOQjuBSdAXfx6mFwD731LTR_fcauH9jx3jIa4BZs9adLq_WkL0XwAbBY8hpleBGD-t5QL0Hr9Gyd3Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=77671F7BD6950C111F187F2F254744561FE6BA986AF8F610</link>
+    <guid isPermaLink="false">125-13</guid>
+    <pubDate>Sat, 14 Nov 2026 16:01:25 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>高盛最新报告认为，全球 AI 竞争格局已收敛为中美两大玩家，过去“谁能造出最聪明模型”的叙事正在让位于算力、资本与产业落地能力的综合比拼。报告对其他国家在基础模型层的参与空间持谨慎态度。这一判断与当前出口管制、算力基建竞赛的现实相互印证。</description>
+  </item>
+  <item>
+    <title>SpaceX 星舰首次实现发射塔机械臂捕获飞船，马斯克计划建 AI 数据中心星座</title>
+    <link>https://www.ithome.com/1/027/253.htm</link>
+    <guid isPermaLink="false">125-14</guid>
+    <pubDate>Sat, 14 Nov 2026 23:26:58 +0000</pubDate>
+    <source>IT之家</source>
+    <description>SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获从轨道返回的第二级飞船，飞船完成约 14 圈轨道飞行后离轨再入。马斯克称计划用该飞船在近地轨道构建由百万艘航天器组成的 AI 数据中心星座。快速复用能力被视为在轨组装巨型算力设施的前提，但工程与成本挑战仍然巨大。</description>
+  </item>
+  <item>
+    <title>白宫“超级智能工作组”建议放宽问责，鼓励 AI 企业主动报告安全事件</title>
+    <link>https://www.ithome.com/1/027/229.htm</link>
+    <guid isPermaLink="false">125-15</guid>
+    <pubDate>Sat, 14 Nov 2026 13:03:22 +0000</pubDate>
+    <source>IT之家</source>
+    <description>美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构在未来 12 个月内限制企业因网络安全事件承担的监管责任，以鼓励 AI 企业主动报告重大安全事件。工作组立场从此前倾向依法处罚转向减轻责任换取信息共享。这一转向发生在多起失控 AI 模型引发安全担忧之后，对全球 AI 安全监管思路有示范效应。</description>
+  </item>
+  <item>
+    <title>张吉豫谈生成式人工智能服务提供者侵犯著作权的责任认定</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329tkyodxM-lgAZ-MegEwlqBVqXa8Fplpd9EW9y5cJiDUpyTWfXmHQpvIv4sKMrfTR1yd03eKeb3WfKLUpi-4hnoDYv7DJbX2pHRh_sKoH49V_jk0i6zseAcv-_hR0TRjZLMMNaM9Xz0F_M4EIv0tOdCkMqZO5RmUatEdH7aR6zzLkFWn5dH6Qn2cInsehhIknpGcpSQahyKffdrgozfSg6bw..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=77671F7BD6950C111F187F2F254744561FE6BA986AF8F610</link>
+    <guid isPermaLink="false">125-16</guid>
+    <pubDate>Sat, 14 Nov 2026 10:05:31 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>张吉豫教授在“人工智能领域的多元归责机制”单元发言，聚焦生成式 AI 服务提供者在著作权侵权中的责任认定问题。发言涉及训练数据使用与输出内容侵权的归责边界，属于国内 AI 立法与司法实践的前沿议题。随着生成式内容规模化，责任分配规则将直接影响模型厂商的合规成本。</description>
+  </item>
+  <item>
+    <title>智慧消防公司菲思拓完成千万级天使轮融资，AI 方案接入超三万家单位</title>
+    <link>https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html</link>
+    <guid isPermaLink="false">125-17</guid>
+    <pubDate>Fri, 13 Nov 2026 09:04:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>菲思拓完成千万级天使轮融资，投资方为北京国润智投，投前估值 3 亿元，2025 年营收超 4000 万元。公司以防火封堵材料、自动灭火装置与智慧消防平台组合方案，已接入超三万家单位，其第四代主动灭火毯遇 120℃ 明火即触发，自动灭火装置可在 4 秒内完成灭火。AI 算力与储能电站推高火灾代价，使主动灭火成为刚需场景。</description>
+  </item>
+  <item>
+    <title>浙大彭思达：从元宇宙到具身智能，三维视觉研究者的八年</title>
+    <link>https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html</link>
+    <guid isPermaLink="false">125-18</guid>
+    <pubDate>Fri, 13 Nov 2026 16:50:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>报道介绍浙大彭思达博士的研究历程，其 Neural Body 入选 CVPR 2021 最佳论文候选，4K4D 将动态场景渲染推进到 4K 实时，FreeTimeGS 进一步提升渲染质量，相关技术已被创业公司 4DV.ai 采用，GitHub 累计超六万星。研究路径从动态三维人体重建延伸至具身智能与世界模型。这体现国内高校在三维视觉与空间智能方向的持续产出。</description>
+  </item>
   <item>
     <title>国产算力巨头超聚变创业板 IPO 过会，前身为华为 X86 服务器业务</title>
     <link>https://www.ithome.com/1/027/255.htm</link>
@@ -339,149 +483,5 @@
     <pubDate>Sat, 14 Nov 2026 21:41:22 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Elon Musk 等科技高管签署请愿书，呼吁 Nvidia 重新任命黄仁勋为 CEO，截至周六下午签名已超过 11.5 万。请愿反映出业界对 Nvidia 领导层变动可能冲击 AI 供应链与投资生态的担忧。事件已从公司治理问题演变为行业性公共议题。</description>
-  </item>
-  <item>
-    <title>风投与创始人称黄仁勋离职将给 AI 初创融资留下巨大缺口</title>
-    <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say</link>
-    <guid isPermaLink="false">122-6</guid>
-    <pubDate>Fri, 13 Nov 2026 22:43:00 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，黄仁勋治下 Nvidia 向 AI 初创投入数百亿美元，其离职让创始人与风投预期融资支票变小、估值走低。Nvidia 既是芯片供应商又是重要投资方，领导层真空可能重塑 AI 创业公司的资金链。多家机构正重新评估对算力密集型初创的押注。</description>
-  </item>
-  <item>
-    <title>AI 智能体初创 LangChain 估值达 30 亿美元</title>
-    <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation</link>
-    <guid isPermaLink="false">122-7</guid>
-    <pubDate>Fri, 13 Nov 2026 19:37:57 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>LangChain 宣布估值达到 30 亿美元，其模型与平台无关的智能体管理工具 LangSmith 已拥有 7000 家客户。在 Nvidia 动荡与融资环境收紧的背景下，这一估值显示智能体基础设施仍是资本追逐的热点。LangChain 的客户规模也印证企业级智能体部署正在加速。</description>
-  </item>
-  <item>
-    <title>研究显示中国最强 AI 模型使用了被禁运的 Nvidia 芯片训练</title>
-    <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
-    <guid isPermaLink="false">122-8</guid>
-    <pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 援引新研究称，中国最先进的 AI 模型是在被出口禁令限制的 Nvidia 芯片上训练的。这一发现与黄仁勋辞职风波叠加，令美国出口管制的实际效果受到质疑。芯片走私与算力获取路径成为政策辩论焦点。</description>
-  </item>
-  <item>
-    <title>分析师称 150 万块 AI GPU 走私或是黄仁勋离职深层原因</title>
-    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls</link>
-    <guid isPermaLink="false">122-9</guid>
-    <pubDate>Sat, 14 Nov 2026 15:58:57 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Tom's Hardware 报道，分析师称超过 1.5 吉瓦的禁运芯片被追踪流向中国，大规模 GPU 走私可能是黄仁勋离职的深层原因。报道将芯片出口管制执行漏洞与 Nvidia 高层变动直接关联。这一说法尚待证实，但已引发对出口管制执法力度的广泛讨论。</description>
-  </item>
-  <item>
-    <title>OpenAI、Anthropic、Google 等 AI 巨头面临要求暂停开发的诉讼</title>
-    <link>https://www.yahoo.com/news/politics/articles/openai-anthropic-google-other-ai-170102973.html</link>
-    <guid isPermaLink="false">122-10</guid>
-    <pubDate>Sat, 14 Nov 2026 17:01:02 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI、Anthropic、Google 等多家 AI 巨头面临一起要求暂停 AI 开发的诉讼。诉讼试图通过司法途径对前沿模型研发施加冻结令，反映出 AI 安全倡导者正从政策游说转向法律行动。案件进展可能影响主要实验室的研发节奏。</description>
-  </item>
-  <item>
-    <title>日本考虑就安全风险对 AI 企业施加处罚</title>
-    <link>https://japantoday.com/category/tech/japan-mulls-penalties-for-ai-firms-over-safety-risks</link>
-    <guid isPermaLink="false">122-11</guid>
-    <pubDate>Sat, 14 Nov 2026 07:12:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>日本政府正在考虑针对 AI 安全风险对相关企业施加处罚，成为又一個收紧 AI 监管的亚洲国家。此举与 FTC 调查、欧盟 AI 法案形成呼应，显示全球监管同步趋严。日本此前以宽松立场吸引 AI 投资，政策转向值得关注。</description>
-  </item>
-  <item>
-    <title>Gemini 4 Carbon 登顶 MathArena，但成本是 GPT-6.1 Sol 的 15 倍</title>
-    <link>https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/</link>
-    <guid isPermaLink="false">122-12</guid>
-    <pubDate>Sat, 14 Nov 2026 16:50:59 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Gemini 4 Carbon 在 MathArena 基准上夺冠，但 The Decoder 指出其成本是 GPT-6.1 Sol 的 15 倍。这一对比凸显模型能力与推理经济性之间的权衡，也说明基准分数不再是唯一竞争维度。对企业和开发者而言，单位任务成本正成为选型关键。</description>
-  </item>
-  <item>
-    <title>报道称 Nvidia 通过资助 AI 初创购买自家 GPU 人为制造稀缺</title>
-    <link>https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</link>
-    <guid isPermaLink="false">122-13</guid>
-    <pubDate>Sat, 14 Nov 2026 02:52:59 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>TechPowerUp 报道称，Nvidia 通过向 AI 初创提供资金、再让这些公司回购其 GPU，人为制造芯片稀缺。该指控与黄仁勋离职后的融资缺口讨论相互印证，引发对 Nvidia 销售模式的审视。若属实，可能招致监管机构对市场操纵的调查。</description>
-  </item>
-  <item>
-    <title>ggml 发布 v1.0.0 正式版</title>
-    <link>https://github.com/ggml-org/ggml/releases/tag/v1.0.0</link>
-    <guid isPermaLink="false">122-14</guid>
-    <pubDate>Sat, 14 Nov 2026 02:28:29 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>开源推理框架 ggml 发布 v1.0.0，标志着这一支撑大量本地 LLM 运行的项目进入稳定版本阶段。ggml 是 llama.cpp 等本地推理生态的底层基础，正式版发布有助于下游项目锁定 API。对边缘设备与消费级硬件上的模型部署具有实际意义。</description>
-  </item>
-  <item>
-    <title>Unsloth 发布 Qwen3.8-27B 动态 v3.1 量化版本</title>
-    <link>https://unsloth.ai/docs/models/qwen3.8</link>
-    <guid isPermaLink="false">122-15</guid>
-    <pubDate>Sat, 14 Nov 2026 00:06:04 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Unsloth 发布 Qwen3.8-27B 的 Dynamic v3.1 量化更新，进一步降低这一中等规模模型在本地运行的显存门槛。Qwen 系列在开源社区热度持续，量化版本的迭代直接影响开发者部署成本。该更新对消费级 GPU 上的推理与微调尤为实用。</description>
-  </item>
-  <item>
-    <title>Nvidia 展示跨两台 DGX 站以 vLLM 服务 GLM-5.3，达 607.8 tok/s</title>
-    <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm</link>
-    <guid isPermaLink="false">122-16</guid>
-    <pubDate>Sat, 14 Nov 2026 14:09:25 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Nvidia 开发者博客展示如何用 vLLM 跨两台 DGX 站服务 GLM-5.3，实现 607.8 tok/s 的吞吐。该案例说明单 GPU 不足时多节点推理的工程路径已趋于成熟。对需要高吞吐服务大模型的企业具有参考价值。</description>
-  </item>
-  <item>
-    <title>ChatGPT Wallet 让 OpenAI 的 Dots 智能体代用户完成购买</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet</link>
-    <guid isPermaLink="false">122-17</guid>
-    <pubDate>Fri, 13 Nov 2026 20:45:10 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 报道，OpenAI 在推出 Dots 智能体平台后，进一步上线 ChatGPT Wallet，让智能体可代用户完成购买。该功能面向美国 ChatGPT Pro 订阅用户，需绑定符合条件的美国发行信用卡。这使 AI 智能体从建议者变为交易执行者，支付安全与授权边界成为新议题。</description>
-  </item>
-  <item>
-    <title>Claude 服务中断，Anthropic 称过时提示习惯拖慢 Opus 5.5</title>
-    <link>https://status.claude.com/history</link>
-    <guid isPermaLink="false">122-18</guid>
-    <pubDate>Fri, 13 Nov 2026 10:20:09 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Claude 出现服务中断，Hacker News 讨论热烈，同时 Anthropic 表示过时的提示习惯正在拖慢 Claude Opus 5.5。服务稳定性与模型响应效率同时受到关注，反映出用户对前沿模型可用性的高期待。对依赖 Claude 的企业工作流而言，中断带来的业务影响不容忽视。</description>
-  </item>
-  <item>
-    <title>Claude 被要求重编页码却误删教授整份教学大纲与一年讲义</title>
-    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits</link>
-    <guid isPermaLink="false">122-19</guid>
-    <pubDate>Sat, 14 Nov 2026 17:51:13 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Tom's Hardware 报道，一名法学教授让 Claude 重新编排页码，结果 Claude 误删了其整份教学大纲和一年的讲义笔记。Claude 事后承认「你生气是对的，我因自己的疏忽删除了你的文件」。该事件凸显智能体在文件操作权限上的风险，也引发对 AI 工具默认权限设计的讨论。</description>
-  </item>
-  <item>
-    <title>Amazon 计划建立全球在线购物数据索引「World Product Graph」</title>
-    <link>https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search</link>
-    <guid isPermaLink="false">122-20</guid>
-    <pubDate>Fri, 13 Nov 2026 23:49:11 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>The Verge 援引路透社报道，Amazon 计划构建名为 World Product Graph 的项目，为互联网上所有在售商品建立数据仓库，包括 Amazon 自身不销售的商品，并通过其站点提供检索。该计划旨在降低用户离开 Amazon 去别处比价的概率，强化其在 AI 购物搜索中的入口地位。</description>
-  </item>
-  <item>
-    <title>黄仁勋辞任英伟达 CEO，CFO 科莱特·克雷斯出任临时掌门</title>
-    <link>https://www.oschina.net/news/503568/nvidia-announces-ceo-transition</link>
-    <guid isPermaLink="false">121-1</guid>
-    <pubDate>Fri, 13 Nov 2026 08:39:45 +0000</pubDate>
-    <source>开源中国</source>
-    <description>英伟达 11 月 12 日宣布，联合创始人黄仁勋辞去总裁、CEO 及董事会成员职务，即刻生效，CFO 科莱特·克雷斯出任临时 CEO，董事会已启动正式 CEO 物色。消息公布后英伟达盘前股价下跌约 10%，市值约 4 万亿美元的 AI 算力中枢在投资周期关键节点由财务背景高管暂时掌舵。多家媒体报道，此事给即将上市的 Anthropic 及全球算力生态融资增添变数。</description>
-  </item>
-  <item>
-    <title>李彦宏提出「智能组织是 AI 时代的新厂房」，百度发布芯云模体全栈进展</title>
-    <link>http://www.geekpark.net/news/373937</link>
-    <guid isPermaLink="false">121-2</guid>
-    <pubDate>Fri, 13 Nov 2026 03:43:41 +0000</pubDate>
-    <source>极客公园</source>
-    <description>11 月 12 日百度世界 2026 上，李彦宏称当前 AI 未产生预期经济效益，本质是企业只换了电机却没重新设计工厂，提出「智能组织」是 AI 时代的新厂房。大会主论坛发布「芯云模体」全栈 AI 布局最新进展，模型层面有系列更新。该判断把企业 AI 投入从工具部署引向组织流程重构。</description>
-  </item>
-  <item>
-    <title>工信部筹备成立工业操作系统标准工作组，推进「人工智能+软件」专项行动</title>
-    <link>https://www.ithome.com/1/027/011.htm</link>
-    <guid isPermaLink="false">121-3</guid>
-    <pubDate>Fri, 13 Nov 2026 23:47:57 +0000</pubDate>
-    <source>IT之家</source>
-    <description>工信部表示正加快推进工业操作系统标准工作组筹建，同步推进重点标准研制与验证应用，将其定位为人工智能赋能工业的关键底座。《「人工智能+软件」专项行动实施方案》提出到 2028 年推广覆盖 2 万家规模以上软件企业、落地百项智能化技改项目、打造 100 个以上智能制造示范工厂。工业操作系统正从单点应用探索转向通用底座与行业能力协同。</description>
   </item>
 </channel></rss>

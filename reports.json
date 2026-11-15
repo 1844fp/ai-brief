@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T08:01:36.885512",
+ "generated_at": "2026-11-15T08:02:40.591532",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 125,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-15",
+   "created_at": "2026-11-15T00:02:39.618767+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-15/news_daily_cn-080239.html"
+  },
   {
    "id": 124,
    "task": "news_daily_cn",
@@ -1065,6 +1074,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "黄仁勋辞任英伟达 CEO，CFO 出任临时 CEO，股价重挫",
+   "url": "http://www.geekpark.net/news/373907",
+   "source": "极客公园",
+   "summary": "英伟达官方宣布黄仁勋辞去总裁、CEO 及董事会成员职务，即刻生效，首席财务官 Colette Kress 出任临时 CEO，董事会启动正式继任者遴选。消息公布后英伟达盘前一度下跌 10%，当日收跌逾 4%，并拖累 A 股元件、通信设备板块多只个股跌停。作为全球 AI 算力最核心的供应商，CEO 突然更替给算力供应链的稳定性与对华出口政策走向增添了重大不确定性。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-11-13T00:16:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "美国拟扩大 AI 芯片出口管制，OpenAI 与 Anthropic 表态支持限制对华出口",
+   "url": "https://www.moomoo.com/hans/community/feed/jensen-huang-steps-down-as-ceo-of-nvidia-openai-and-117616396075014",
+   "source": "Google News 中文",
+   "summary": "据多家媒体报道，美国商务部正制定新规，拟对新加坡、马来西亚、泰国、印尼、巴西、挪威、南非等国实施更严格的 AI 芯片出口许可要求，以限制中国企业通过海外数据中心获取算力。OpenAI 与 Anthropic 据报支持进一步限制 AI 芯片出口中国。若落地，将抬高中国大模型厂商获取先进算力的门槛，加速国产替代与算力出海布局调整。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 5,
+   "published": "2026-11-14T08:18:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "英伟达员工集体请愿要求黄仁勋回归，马斯克称将签名支持",
+   "url": "https://www.qbitai.com/2026/11/510297.html",
+   "source": "量子位",
+   "summary": "约 1600 名英伟达员工发起请愿，要求让黄仁勋重返 CEO 岗位，马斯克在 X 上表示将签署该请愿，并称黄仁勋在供应链上“说到做到”、许多合作靠握手达成。此前马斯克已公开表示创始人很难被取代。这场罕见的员工请愿凸显黄仁勋个人对英伟达供应链与客户关系的不可替代性，也加剧了外界对继任安排的疑虑。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-14T10:08:08+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "优必选与沐曦对等持股成立合资公司，成立半年获 5 亿元天使轮造具身智能芯片",
+   "url": "https://www.leaderobot.com/news/10760",
+   "source": "Google News 中文",
+   "summary": "优必选与 GPU 厂商沐曦以对等持股方式合资设立公司，专注具身智能专用芯片，成立半年即完成 5 亿元天使轮融资。该合作把机器人本体厂商的場景需求与国产 GPU 设计能力结合，瞄准人形机器人的端侧算力缺口。这是国内具身智能芯片赛道少见的大额早期融资，也反映国产算力正从通用 GPU 向场景专用芯片延伸。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-14T14:17:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "算力紧俏，联想在张家口落地词元工厂",
+   "url": "http://news.10jqka.com.cn/20261115/c681827580.shtml",
+   "source": "Google News 中文",
+   "summary": "在算力供给紧张的背景下，联想把“词元工厂”开进张家口，以 token 生产为核心布局推理算力基础设施。此举延续了国内厂商在京津冀节点建设智算中心、承接大模型推理需求的趋势。词元工厂的提法意味着算力供给正从卖卡、卖集群转向按 token 计费的推理服务模式。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-14T16:55:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "字节的 2029 与腾讯的“一半人”：大厂为 AI 转型争取时间",
+   "url": "https://www.tmtpost.com/8201267.html",
+   "source": "钛媒体",
+   "summary": "报道梳理字节跳动与腾讯在 AI 转型上的组织与时间表安排：字节设定面向 2029 年的目标，腾讯管理层则提出涉及“一半人”的转型路线，此前“裁员 50%”传闻已被接近腾讯人士否认。两家大厂都在用组织调整与内部重构为 AI 争取窗口期。这反映头部互联网公司的 AI 竞争已从模型层延伸到组织效率与人力结构。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 4,
+   "published": "2026-11-14T08:39:41+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "豆包工作接入多款第三方模型，腾讯否认裁员 50% 传闻并提出两条 AI 转型路线",
+   "url": "https://www.ifanr.com/1689292",
+   "source": "爱范儿",
+   "summary": "爱范儿早报汇总：豆包工作已接入多款第三方模型，显示字节在办公场景采取多模型并行策略；接近腾讯人士称“裁员 50%”传闻不实，管理层提出两条 AI 转型路线。此外 Claude 10 月网站访问量增长近 24%，增幅超过 ChatGPT 和 Gemini。多模型接入与组织转型并行，说明国内 AI 应用竞争正从单一自研模型转向生态整合。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 3,
+   "published": "2026-11-13T00:00:46+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "李飞飞最新世界模型正式开放，可一句话生成三维场景",
+   "url": "https://www.ifanr.com/1689379",
+   "source": "爱范儿",
+   "summary": "李飞飞团队的世界模型正式对外开放，用户可用一句话生成如重庆山城这样的三维场景，展示从文本到可交互空间生成的端到端能力。世界模型被视为继大语言模型之后的下一个竞争焦点，此次开放让更多开发者可直接试用。对国内具身智能、自动驾驶仿真与三维内容生产而言，这类模型可能成为重要的基础工具。",
+   "why": null,
+   "category": "前沿模型",
+   "heat": 4,
+   "published": "2026-11-13T10:04:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "Meta 旗下智能体 Muse 上线代打电话功能，月费 19.99 美元起",
+   "url": "https://www.ithome.com/1/027/238.htm",
+   "source": "IT之家",
+   "summary": "Meta 首席 AI 官汪滔宣布，AI 智能体 Muse 推出代打电话功能，可代用户联系保险公司、有线电视服务商、预约车管业务或餐厅订位，使用 AI 合成语音与商家交谈。该功能面向 Meta AI 最高级别付费订阅用户开放，月费 19.99 美元起。部分商家听出是 AI 后直接挂断，显示智能体落地仍面临信任与合规摩擦。",
+   "why": null,
+   "category": "AI 应用落地",
+   "heat": 3,
+   "published": "2026-11-14T13:46:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "香港昼夜轮班抢工，打造大湾区超级算力枢纽",
+   "url": "https://m.sohu.com/a/1101701761_119038?scm",
+   "source": "Google News 中文",
+   "summary": "香港正昼夜轮班推进超级算力枢纽建设，定位服务大湾区的大规模智算需求。在先进芯片进口受限的背景下，香港凭借区位与制度优势承接算力基础设施与跨境数据服务。该项目与内地智算中心形成互补，是大湾区 AI 基建布局的重要一环。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-14T22:23:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "安徽推动算力融入千行万业",
+   "url": "http://ah.anhuinews.com/szxw/202611/t20261115_9752116.html",
+   "source": "Google News 中文",
+   "summary": "安徽新闻联播报道当地如何把算力转化为各行业应用能力，延续了安徽以智算中心带动产业数字化的路径。报道聚焦算力在制造、政务等场景的落地，而非单纯堆叠机架规模。这反映地方算力建设正从“建中心”转向“用算力”，与全国一体化算力网的政策方向一致。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 2,
+   "published": "2026-11-14T22:50:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "AI 大模型训练推动芯片产业从通用供给转向按场景定义",
+   "url": "https://finance.sina.cn/2026-11-14/detail-iniyszsx0467093.d.html?vt",
+   "source": "Google News 中文",
+   "summary": "报道指出，随着 AI 大模型训练需求分化，芯片产业正从通用供给模式转向按场景定义专用芯片，涉及长鑫存储、北方华创、华天科技等产业链环节。这一趋势与优必选、沐曦合资造具身智能芯片形成呼应。对国产半导体而言，场景专用化既是差异化机会，也对设计工具与先进封测提出更高要求。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-14T10:50:32+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "高盛报告：全球 AI 只剩中美两大玩家",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329tkyodxM-lgAZ-MegEwlqBVqXa8Fplpd9uRLpg4b6k07FEzgReVdIOD_NWCa527PKOA0KZHcCaDUm_bNGJnCJuPenavrqSsQMoINlB6afTBJ7ISVEJpBOYPwmSRuLFNmjCj0ww47jXOQjuBSdAXfx6mFwD731LTR_fcauH9jx3jIa4BZs9adLq_WkL0XwAbBY8hpleBGD-t5QL0Hr9Gyd3Q..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=77671F7BD6950C111F187F2F254744561FE6BA986AF8F610",
+   "source": "微信公众号",
+   "summary": "高盛最新报告认为，全球 AI 竞争格局已收敛为中美两大玩家，过去“谁能造出最聪明模型”的叙事正在让位于算力、资本与产业落地能力的综合比拼。报告对其他国家在基础模型层的参与空间持谨慎态度。这一判断与当前出口管制、算力基建竞赛的现实相互印证。",
+   "why": null,
+   "category": "行业趋势",
+   "heat": 3,
+   "published": "2026-11-14T16:01:25+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "SpaceX 星舰首次实现发射塔机械臂捕获飞船，马斯克计划建 AI 数据中心星座",
+   "url": "https://www.ithome.com/1/027/253.htm",
+   "source": "IT之家",
+   "summary": "SpaceX 在星舰第 15 次试飞中首次用发射塔“筷子”机械臂捕获从轨道返回的第二级飞船，飞船完成约 14 圈轨道飞行后离轨再入。马斯克称计划用该飞船在近地轨道构建由百万艘航天器组成的 AI 数据中心星座。快速复用能力被视为在轨组装巨型算力设施的前提，但工程与成本挑战仍然巨大。",
+   "why": null,
+   "category": "AI 基础设施",
+   "heat": 3,
+   "published": "2026-11-14T23:26:58+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "白宫“超级智能工作组”建议放宽问责，鼓励 AI 企业主动报告安全事件",
+   "url": "https://www.ithome.com/1/027/229.htm",
+   "source": "IT之家",
+   "summary": "美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构在未来 12 个月内限制企业因网络安全事件承担的监管责任，以鼓励 AI 企业主动报告重大安全事件。工作组立场从此前倾向依法处罚转向减轻责任换取信息共享。这一转向发生在多起失控 AI 模型引发安全担忧之后，对全球 AI 安全监管思路有示范效应。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-11-14T13:03:22+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "张吉豫谈生成式人工智能服务提供者侵犯著作权的责任认定",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329tkyodxM-lgAZ-MegEwlqBVqXa8Fplpd9EW9y5cJiDUpyTWfXmHQpvIv4sKMrfTR1yd03eKeb3WfKLUpi-4hnoDYv7DJbX2pHRh_sKoH49V_jk0i6zseAcv-_hR0TRjZLMMNaM9Xz0F_M4EIv0tOdCkMqZO5RmUatEdH7aR6zzLkFWn5dH6Qn2cInsehhIknpGcpSQahyKffdrgozfSg6bw..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=77671F7BD6950C111F187F2F254744561FE6BA986AF8F610",
+   "source": "微信公众号",
+   "summary": "张吉豫教授在“人工智能领域的多元归责机制”单元发言，聚焦生成式 AI 服务提供者在著作权侵权中的责任认定问题。发言涉及训练数据使用与输出内容侵权的归责边界，属于国内 AI 立法与司法实践的前沿议题。随着生成式内容规模化，责任分配规则将直接影响模型厂商的合规成本。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 2,
+   "published": "2026-11-14T10:05:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "智慧消防公司菲思拓完成千万级天使轮融资，AI 方案接入超三万家单位",
+   "url": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+   "source": "雷锋网",
+   "summary": "菲思拓完成千万级天使轮融资，投资方为北京国润智投，投前估值 3 亿元，2025 年营收超 4000 万元。公司以防火封堵材料、自动灭火装置与智慧消防平台组合方案，已接入超三万家单位，其第四代主动灭火毯遇 120℃ 明火即触发，自动灭火装置可在 4 秒内完成灭火。AI 算力与储能电站推高火灾代价，使主动灭火成为刚需场景。",
+   "why": null,
+   "category": "AI 应用落地",
+   "heat": 2,
+   "published": "2026-11-13T09:04:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "浙大彭思达：从元宇宙到具身智能，三维视觉研究者的八年",
+   "url": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
+   "source": "雷锋网",
+   "summary": "报道介绍浙大彭思达博士的研究历程，其 Neural Body 入选 CVPR 2021 最佳论文候选，4K4D 将动态场景渲染推进到 4K 实时，FreeTimeGS 进一步提升渲染质量，相关技术已被创业公司 4DV.ai 采用，GitHub 累计超六万星。研究路径从动态三维人体重建延伸至具身智能与世界模型。这体现国内高校在三维视觉与空间智能方向的持续产出。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-11-13T16:50:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
