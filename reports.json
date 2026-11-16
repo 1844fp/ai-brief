@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T08:02:23.041136",
+ "generated_at": "2026-11-16T09:00:40.699175",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 130,
+   "task": "github_weekly",
+   "title": "GitHub 每周 AI 高星项目 · 2026-11-16",
+   "created_at": "2026-11-16T01:00:39.655030+00:00",
+   "item_count": 10,
+   "llm_ok": true,
+   "url": "reports/2026-11-16/github_weekly-090039.html"
+  },
   {
    "id": 129,
    "task": "news_daily_cn",
@@ -1110,6 +1119,126 @@
   }
  ],
  "items": [
+  {
+   "task": "github_weekly",
+   "rank": 1,
+   "title": "blender-ai-mcp-addon：为 Blender 提供 MCP 服务器与可视化 AI 助手",
+   "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+   "source": "GitHub",
+   "summary": "该项目把内置的 Model Context Protocol 服务器装进 Blender，让 AI 助手能读取场景、创建物体、编辑材质、检索资产并执行多步工作流，同时提供可视化对话工作区。支持 ChatGPT、Claude、Gemini、Ollama 等多种模型后端，要求 Blender 4.2 以上，采用 MIT 协议并已发布 1.0.0 版本。它把 3D 内容生产接入智能体生态，适合技术美术与自动化流程开发者。",
+   "why": null,
+   "category": "智能体 / 3D 创作工具",
+   "heat": 4,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 2,
+   "title": "Gemini-Config-Checker：检测可访问 Google AI Studio 与 Gemini 的代理配置",
+   "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "工具以「已登录浏览器 + 真实链路」的方式逐条验证代理配置能否进入 Google AI Studio 与 Gemini，提供简单与高级两种检测模式，并宣称具备抗 DPI 能力，覆盖 Windows、macOS、Linux、Android。当前为 0.1.0 早期预发布，仅 Windows 平台经过端到端验证，其余平台构建来自 CI、未在真机测试。它面向需要稳定访问 Google AI 服务的开发者，商用与稳定性均不成熟。",
+   "why": null,
+   "category": "开发工具 / 网络配置",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 3,
+   "title": "GitHub Copilot 桌面端：面向智能体的仓库工作台",
+   "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+   "source": "GitHub",
+   "summary": "该项目描述了一个智能体原生的桌面应用，用于在 GitHub 仓库中查找、运行、引导并交付软件工作，围绕 agent skills 组织交互。候选信息中未提供 README 摘录、文档或协议说明，无法核实其与官方 GitHub Copilot 的关系。适合希望以桌面形态驱动仓库级智能体工作流的开发者关注，但目前生态成熟度无法评估。",
+   "why": null,
+   "category": "智能体 / 开发工具",
+   "heat": 2,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 4,
+   "title": "AI Manus 2.0：在沙箱中运行工具的通用智能体系统",
+   "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+   "source": "GitHub",
+   "summary": "项目定位为通用 AI Agent 系统，支持在沙箱环境中调用多种工具并执行操作，技术栈涉及 ai-sdk、Anthropic 与函数调用。候选信息未提供 README 摘录与文档，无法确认其与 Manus 官方产品的关联，也未说明许可证与商用条件。适合研究沙箱式智能体执行框架的开发者参考。",
+   "why": null,
+   "category": "智能体 / 沙箱执行",
+   "heat": 2,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 5,
+   "title": "WinnerSpecialist/Gemini-Config-Checker-",
+   "url": "https://github.com/WinnerSpecialist/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "why": null,
+   "category": "其他",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 6,
+   "title": "Visionbeyondtrack/Gemini-Config-Checker-",
+   "url": "https://github.com/Visionbeyondtrack/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "why": null,
+   "category": "其他",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 7,
+   "title": "TypeTyrantScheme/Gemini-Config-Checker-",
+   "url": "https://github.com/TypeTyrantScheme/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "why": null,
+   "category": "其他",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 8,
+   "title": "WingDataVacuum/Gemini-Config-Checker-",
+   "url": "https://github.com/WingDataVacuum/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "why": null,
+   "category": "其他",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 9,
+   "title": "WestLocksmithSpout/Gemini-Config-Checker-",
+   "url": "https://github.com/WestLocksmithSpout/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "why": null,
+   "category": "其他",
+   "heat": 3,
+   "published": null
+  },
+  {
+   "task": "github_weekly",
+   "rank": 10,
+   "title": "VisionWormStudio/Gemini-Config-Checker-",
+   "url": "https://github.com/VisionWormStudio/Gemini-Config-Checker-",
+   "source": "GitHub",
+   "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android)",
+   "why": null,
+   "category": "其他",
+   "heat": 3,
+   "published": null
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
