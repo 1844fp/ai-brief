@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T08:01:22.729062",
+ "generated_at": "2026-11-16T08:02:23.041136",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 129,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-16",
+   "created_at": "2026-11-16T00:02:21.980238+00:00",
+   "item_count": 17,
+   "llm_ok": true,
+   "url": "reports/2026-11-16/news_daily_cn-080221.html"
+  },
   {
    "id": 128,
    "task": "news_daily_cn",
@@ -1101,6 +1110,210 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "千问接入 iPhone：国产大模型首次进入苹果系统级入口",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329hrDCk2HaUBB0v8e-sR9qRVqXa8Fplpd9sZOjsSMz7mOohozs8xkKagauq04JS73usD3jfZb9EzeCFhVrV6Neq5Gku3YGHYsNQw6RkZ7qTmkO_s3MqW36335ybwgk4-rzMxA_tHe0ErQxygSXBSvGLs3DmJY_sWNcaTN7GhKQ4v8nXTZcbblhHExJwJpj98M_pUWuw2JZwwFOJBjQH7pCxQ..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=815C9434D6950C111F187F2F254744561FE6BA986AFA479D",
+   "source": "微信公众号",
+   "summary": "阿里与苹果合作落地，千问将作为 Siri 背后的回答引擎之一接入 iPhone 系统级入口。这是国产大模型首次站上苹果操作系统级入口，意味着国产模型在海外巨头生态中获得实质性认可。对行业而言，这为国产大模型出海与生态嵌入提供了标杆案例，也加剧了端侧 AI 入口的竞争。",
+   "why": null,
+   "category": "大模型生态",
+   "heat": 5,
+   "published": "2026-11-15T00:00:36+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "华为云上线开源盘古模型 openPangu-2.1-Pro，强化 Agent 与鸿蒙开发能力",
+   "url": "https://www.ithome.com/1/027/450.htm",
+   "source": "IT之家",
+   "summary": "华为云 MaaS 平台正式上线开源盘古模型 openPangu-2.1-Pro，围绕 Agent 开发、AI 编码和推理优化三大方向升级。该模型基于 10 万余条专项数据优化工具调用与任务规划，并针对鸿蒙 ArkTS 语言和昇腾算子生成进行适配，典型部署场景吞吐效率大幅提升。此举强化了华为从芯片、云到模型的全栈 AI 能力。",
+   "why": null,
+   "category": "大模型发布",
+   "heat": 5,
+   "published": "2026-11-15T13:16:54+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "百度词元所发布首日：供应商超 100 家，客户新增超 1000 家",
+   "url": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
+   "source": "雷锋网",
+   "summary": "百度在 11 月 12 日发布「词元所」后，首日新增申请入驻供应商超 100 家、新增客户超 1000 家。该平台主打模型验真与征信，已上架 40 余款模型，试运行期间日均调用突破 5000 万次。词元所试图解决模型交易中的信任与质量问题，若模式跑通，可能重塑大模型 API 的分发与计费生态。",
+   "why": null,
+   "category": "AI 平台",
+   "heat": 4,
+   "published": "2026-11-14T05:45:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "黄仁勋考虑重返英伟达任 CEO，硅谷盟友向董事会施压",
+   "url": "https://www.ithome.com/1/027/470.htm",
+   "source": "IT之家",
+   "summary": "据英国《金融时报》报道，黄仁勋正考虑重返英伟达担任 CEO，其硅谷盟友正组建「作战室」游说董事会，马斯克等高管公开支持联名信。但美国财政部长贝森特表示，黄仁勋离职后英伟达需遵守相关出口管制。此事牵动全球 AI 芯片供应链与中美科技博弈走向。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 5,
+   "published": "2026-11-15T23:26:25+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "联想提出「词元工厂」：绿电进、Token 出，年产 2000 万亿 Token",
+   "url": "https://www.qbitai.com/2026/11/510094.html",
+   "source": "量子位",
+   "summary": "联想发布「词元工厂」方案，以绿电为输入、Token 为产出，宣称年产可达 2000 万亿 Token，成本降低 70%。该模式将算力基础设施与能源供给直接挂钩，试图为大规模推理服务提供低成本、可持续的供给范式。对行业而言，这反映了算力竞争正从芯片层向能源与运营层延伸。",
+   "why": null,
+   "category": "算力基建",
+   "heat": 4,
+   "published": "2026-11-14T09:41:02+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "DeepSeek 开放全家桶 API，官方 App 功能可自由组合调用",
+   "url": "https://www.qbitai.com/2026/11/510003.html",
+   "source": "量子位",
+   "summary": "DeepSeek 宣布开放全家桶 API，官方 App 的各项功能均可通过 API 自由组合调用。此举降低了开发者集成 DeepSeek 能力的门槛，也意味着其从单一模型服务向平台化能力输出演进。在国产大模型 API 价格战背景下，开放组合能力有助于提升开发者粘性。",
+   "why": null,
+   "category": "大模型平台",
+   "heat": 4,
+   "published": "2026-11-14T02:39:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "美国会四项法案有望通过，收紧 AI 芯片出口及远程访问监管",
+   "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261115-%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%9B%9B%E9%A1%B9%E6%B3%95%E6%A1%88%E6%9C%89%E6%9C%9B%E9%80%9A%E8%BF%87-%E4%BB%A5%E6%94%B6%E7%B4%A7ai%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E5%8F%8A%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E7%9B%91%E7%AE%A1",
+   "source": "Google News 中文",
+   "summary": "美国国会四项法案有望通过，旨在收紧 AI 芯片出口及远程访问监管。若落地，将进一步限制中国获取高端算力芯片的渠道，并可能将云端的远程算力访问纳入管制范围。这对国内 AI 芯片自主化与算力租赁模式构成新的外部压力。",
+   "why": null,
+   "category": "政策监管",
+   "heat": 4,
+   "published": "2026-11-15T14:42:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "Anthropic 封死蒸馏通道后，国产大模型集体「哑火」？",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329hrDCk2HaUBB0v8e-sR9qRVqXa8Fplpd9gxQr4u3IODeh9qQUWf49t-57epDBIlxHz4KGTiOiIs-sTSeejtGnKnPL_Foy2q8nah95yRahBU-bPnARP2OhKKqcPHFbcNVkJ42l7UHNu-tTyja5HMOO9eS4J1bWlxU--x0Svz15rnYpA9_ugYWFTaatm2vcdTLVR2KlQmUDG-dflztgI7RZ1g..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=815C9434D6950C111F187F2F254744561FE6BA986AFA479D",
+   "source": "微信公众号",
+   "summary": "多家自媒体讨论称，Anthropic 关闭中国大模型的「蒸馏通道」后，部分国产模型迭代节奏明显放缓，Kimi k3.1 pro 上线百天未拿出亮眼更新。报道认为反蒸馏主要抬高数据获取成本，但未完全挡住模型扩展节奏。此事折射出国产大模型在数据与训练方法上对外部依赖的脆弱性。",
+   "why": null,
+   "category": "大模型技术",
+   "heat": 4,
+   "published": "2026-11-15T14:27:47+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "国产大模型调用量连超美国 28 周，但收入未同步",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329hrDCk2HaUBB0v8e-sR9qRVqXa8Fplpd9V24IhocTbU3nAJgXTAI9m-m6rvoz-1_Ec8iZL1IalSeU1UiJ0KBBoGHjbUhumzI3reL4l_K6Ax2V9Ek1PTFl5Eh3AWhXSe-t6Bu9nkIVmM9QiVPuYVOKG0JZivla1XIHA_2tWy5sVWEgDThS4eGFoUL0fKWFgif9RXS9LLBbUhaFW6cwuUnkdA..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=815C9434D6950C111F187F2F254744561FE6BA986AFA479D",
+   "source": "微信公众号",
+   "summary": "报道称国产大模型凭借性能迭代、成本效率和开源生态优势，全球开发者调用量已连续 28 周超过美国模型，但商业化收入并未同步增长。商业模式正从 API 调用向更多元方向探索。这反映出国产模型「叫好不叫座」的变现困境，价格战与开源策略压缩了利润空间。",
+   "why": null,
+   "category": "行业分析",
+   "heat": 3,
+   "published": "2026-11-15T03:38:33+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "一条推文蒸发近 3 万亿：美国 ASI 禁令传闻引爆科技股雪崩",
+   "url": "https://www.tmtpost.com/8205565.html",
+   "source": "钛媒体",
+   "summary": "市场传闻美国将出台 ASI 禁令，叠加马斯克转发推文，引发科技股一夜蒸发近 3 万亿美元市值。分析认为，议员 AI 监管表态只是情绪导火索，真正击穿行情的是地方算力限流与能耗管控引发的社会许可危机。AI 无限扩产的资本叙事面临现实约束。",
+   "why": null,
+   "category": "资本市场",
+   "heat": 4,
+   "published": "2026-11-15T02:30:42+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "黄仁勋离职风波冷思考：中国 AI 自主化与海外依赖的张力",
+   "url": "https://www.tmtpost.com/8205600.html",
+   "source": "钛媒体",
+   "summary": "钛媒体评论指出，黄仁勋离职风波不只是芯片转运与出口管制调查，更折射出中国 AI 产业在自主化与海外依赖之间的现实张力。若英伟达领导层变动影响对华供应策略，国内算力缺口可能进一步扩大。这为国产芯片与算力基建的紧迫性提供了注脚。",
+   "why": null,
+   "category": "行业分析",
+   "heat": 3,
+   "published": "2026-11-15T02:50:20+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "韩国税务师考试头名 AI 作弊曝光，政府全面调查国家资格考试",
+   "url": "https://www.ithome.com/1/027/453.htm",
+   "source": "IT之家",
+   "summary": "韩国税务师考试第一名考生被曝利用 AI 作弊，政府决定取消其成绩并禁考五年，同时对今年所有国家资格考试展开全面调查。措施包括引入红外线探测器、加强监控和明确智能设备处罚标准。这是 AI 作弊从个案上升为系统性监管问题的标志性事件。",
+   "why": null,
+   "category": "AI 治理",
+   "heat": 3,
+   "published": "2026-11-15T13:42:51+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "山东水产养殖用上「AI 渔夫」，北冥智渔渔业大模型落地",
+   "url": "https://www.sohu.com/a/1102008902_121345914?scm",
+   "source": "Google News 中文",
+   "summary": "山东推出北冥智渔渔业大模型，推动水产养殖从「经验养鱼」转向「数据养鱼」。该模型属于垂域大模型在农业场景的落地案例，通过数据驱动提升养殖决策效率。这体现了 AI 大模型向传统行业渗透的趋势，垂域模型成为行业智能化的切入点。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 2,
+   "published": "2026-11-15T22:37:45+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "创业者用自研模型实现「一句话生成你的家」",
+   "url": "http://finance.people.com.cn/n1/2026/1116/c1004-40834180.html",
+   "source": "Google News 中文",
+   "summary": "人民网报道年轻创业者利用自研模型，实现「一句话生成你的家」的家居设计应用。该案例展示了生成式 AI 在消费级设计场景的创业落地，降低了家居设计门槛。这类轻量级应用正成为 AI 技术变现的活跃试验田。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 2,
+   "published": "2026-11-15T22:00:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "存储厂商 SATA eSSD 市占率国内第一，端侧 AI 存储适配 AMD、高通",
+   "url": "https://finance.sina.cn/2026-11-15/detail-iniyvrfu6249300.d.html?vt",
+   "source": "Google News 中文",
+   "summary": "国内某存储厂商 SATA eSSD 市占率居国内第一，其端侧 AI 存储方案适配 AMD、高通平台，嵌入式存储产品供货宇树机器狗。这显示端侧 AI 与机器人场景正带动存储需求，国产存储厂商在 AI 终端供应链中占据一席之地。",
+   "why": null,
+   "category": "AI 芯片与存储",
+   "heat": 2,
+   "published": "2026-11-15T14:24:17+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台",
+   "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
+   "source": "InfoQ 中文",
+   "summary": "GitLab 19.5 发布，将 AI 智能体开发纳入可治理的 DevOps 平台能力，支持对智能体工作流进行版本管理与合规审计。这反映企业级 AI 开发正从实验走向工程化治理，智能体生命周期管理成为平台竞争新维度。",
+   "why": null,
+   "category": "开发者工具",
+   "heat": 2,
+   "published": "2026-11-15T09:00:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "开源终端 AI 编码 agent phimint v0.10.0 发布，可自动应答交互提示",
+   "url": "https://www.oschina.net/news/503576",
+   "source": "开源中国",
+   "summary": "Rust 编写的终端 AI 编码 agent phimint 发布 v0.10.0，新增读取屏幕并判断交互提示类型的能力，可自动应答「是/否」、选单、密码等命令提问。这提升了编码 agent 在真实终端环境中的自主性，减少了人工干预。开源编码 agent 的交互能力正快速迭代。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-11-14T04:24:27+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
