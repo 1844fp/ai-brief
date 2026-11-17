@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Wed, 18 Nov 2026 07:31:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:31:17 +0000</lastBuildDate>
+  <item>
+    <title>OpenAI 发布 GPT‑6.2 Astra 与 Sol，覆盖 ChatGPT Work、Codex 与 API</title>
+    <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+    <guid isPermaLink="false">136-1</guid>
+    <pubDate>Tue, 17 Nov 2026 17:46:43 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenAI 推出 GPT‑6.2 系列双模型 Astra 与 Sol，官方称在专业输出、编程、计算机操作与效率上均有提升，且成本更低。新模型同步接入 ChatGPT Work、Codex 与 API，Hacker News 讨论热度超过千分。这意味着 OpenAI 在旗舰模型迭代上继续压缩单位推理成本，并把竞争焦点转向 agent 式计算机操作与企业工作流。</description>
+  </item>
+  <item>
+    <title>微软发布 MAI Code 2 与 Code 2 Flash 编程模型</title>
+    <link>https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash</link>
+    <guid isPermaLink="false">136-2</guid>
+    <pubDate>Tue, 17 Nov 2026 18:25:13 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>微软在 Ignite 2026 上推出 MAI Code 2 与轻量版 Code 2 Flash，宣称性能可对标 Claude Opus 5.5，而成本仅约 5%。多家媒体报道称，这一自研模型阵容可能重塑微软与 OpenAI、Anthropic 的合作关系。编程模型是当前企业 AI 支出最集中的场景，低价高性能方案将直接压制定价空间。</description>
+  </item>
+  <item>
+    <title>Nvidia 董事会称不打算让 Jensen Huang 复职</title>
+    <link>https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo</link>
+    <guid isPermaLink="false">136-3</guid>
+    <pubDate>Tue, 17 Nov 2026 22:42:27 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>尽管特朗普、马斯克及多位硅谷高管施压，Nvidia 董事会仍表示「不打算」恢复被罢免 CEO Jensen Huang 的职位。此前社交媒体上的复职请愿已征集超过 11.5 万个签名。管理层动荡发生在 Nvidia 业绩仍超预期的节点，治理风险与业务基本面出现明显背离。</description>
+  </item>
+  <item>
+    <title>Isomorphic Labs 完成 50 亿美元 C 轮融资，推进候选药物进入临床试验</title>
+    <link>https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials</link>
+    <guid isPermaLink="false">136-4</guid>
+    <pubDate>Tue, 17 Nov 2026 14:50:58 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>从 DeepMind 分拆的 AI 药物发现平台 Isomorphic Labs 完成 50 亿美元 C 轮融资，资金将用于把候选药物推进至临床试验阶段。这是 AI 制药领域规模最大的单轮融资之一。大额资本注入表明，市场开始为 AI 药物发现的临床转化能力定价，而非仅停留在平台叙事。</description>
+  </item>
+  <item>
+    <title>Anthropic IPO 后亚马逊与谷歌合计持股近 30%</title>
+    <link>https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo</link>
+    <guid isPermaLink="false">136-5</guid>
+    <pubDate>Tue, 17 Nov 2026 22:29:05 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，Anthropic 完成 IPO 后，亚马逊持股略低于 15%，并保留大幅增持的选择权；谷歌以近 14% 紧随其后，两家合计接近 30%。这意味着 Anthropic 的股权结构高度集中于两大云厂商。基础模型公司的独立性与其算力金主之间的张力将进一步显性化。</description>
+  </item>
+  <item>
+    <title>SEC 就 Jensen Huang 离职展开调查，Huang 寻求回归 Nvidia</title>
+    <link>https://www.reuters.com/business/nvidia-board-forms-committee-national-security-export-control-oversight-2026-11-17/</link>
+    <guid isPermaLink="false">136-6</guid>
+    <pubDate>Tue, 17 Nov 2026 22:23:43 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>《华尔街日报》报道，SEC 已就 Jensen Huang 离职展开调查，此前 Huang 承认与一名疑似中国间谍存在婚外情。Huang 本人正试图推动回归 Nvidia。监管调查与公司治理危机叠加，使 Nvidia 面临业务之外的合规风险。</description>
+  </item>
+  <item>
+    <title>Nvidia Q3 财报达标，电话会未提 Huang 离职细节</title>
+    <link>https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang</link>
+    <guid isPermaLink="false">136-7</guid>
+    <pubDate>Tue, 17 Nov 2026 21:40:59 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>临时 CEO Colette Kress 公布 Nvidia 第三季度财报，业绩达到市场预期，但电话会开场未提及前 CEO Jensen Huang 的离职细节。董事会主席 Harvey Jones 明确表示不打算让 Huang 复职。财报本身稳健，但治理问题持续压制投资者情绪。</description>
+  </item>
+  <item>
+    <title>Nvidia 预计第四季度营收 1300 亿美元，业绩超预期</title>
+    <link>https://nypost.com/2026/11/17/business/nvidia-reports-strong-earnings-as-embattled-ai-giant-reels-from-jensen-huang-scandal/</link>
+    <guid isPermaLink="false">136-8</guid>
+    <pubDate>Tue, 17 Nov 2026 21:35:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>尽管深陷 Jensen Huang 丑闻，Nvidia 仍给出第四季度约 1300 亿美元的营收指引，并超出市场预期。AI 芯片需求未见放缓迹象。这一指引是当前 AI 基础设施投资周期最直接的景气度信号。</description>
+  </item>
+  <item>
+    <title>Google 将 Gemini 聊天记录保留期从 72 小时延长至两个月</title>
+    <link>https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off</link>
+    <guid isPermaLink="false">136-9</guid>
+    <pubDate>Tue, 17 Nov 2026 18:48:23 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Google 宣布即使关闭聊天历史，Gemini 仍会保留对话记录两个月，此前该期限为 72 小时，并将在未来数周全球推送。这一变更显著扩大了用户数据的留存范围。在隐私监管趋严的背景下，主流助手的数据保留策略正在成为合规焦点。</description>
+  </item>
+  <item>
+    <title>Google 扩大 Gemini Tasks 开放范围，可代打电话与下单</title>
+    <link>https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases</link>
+    <guid isPermaLink="false">136-10</guid>
+    <pubDate>Tue, 17 Nov 2026 19:02:20 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Google 将 Gemini 的 Task 模式向更多用户开放，该功能可协调通话、登录网站，甚至代替用户完成购买。The Verge 同时报道该 agent 已由 Spark 更名为 Tasks 并免费提供，底层由 Gemini 4 Hydrogen 模型驱动。消费级 agent 正从演示走向真实交易场景。</description>
+  </item>
+  <item>
+    <title>美国收紧 AI 芯片出口管制并调查 Megaspeed</title>
+    <link>https://americanbazaaronline.com/2026/11/17/us-ai-chip-export-controls-megaspeed-probe-492525/</link>
+    <guid isPermaLink="false">136-11</guid>
+    <pubDate>Tue, 17 Nov 2026 21:58:25 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>美国进一步收紧 AI 芯片出口管制，同时对新加坡数据中心公司 Megaspeed 展开调查。Megaspeed 与 Jensen Huang 离职事件存在关联。出口管制与个案调查并行，显示美国正加强对第三国转口路径的审查。</description>
+  </item>
+  <item>
+    <title>美国司法部确认正在调查 Megaspeed</title>
+    <link>https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update</link>
+    <guid isPermaLink="false">136-12</guid>
+    <pubDate>Tue, 17 Nov 2026 16:19:03 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>美国司法部与商务部表示正在调查新加坡数据中心公司 Megaspeed，此前有报道称相关调查在去年被叫停。该公司与 Nvidia CEO Jensen Huang 的辞职事件相互交织。官方罕见公开确认进行中的调查，表明此案政治敏感度较高。</description>
+  </item>
+  <item>
+    <title>Jensen Huang 丑闻推动两党联手推动限制对华 AI 芯片销售</title>
+    <link>https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html</link>
+    <guid isPermaLink="false">136-13</guid>
+    <pubDate>Tue, 17 Nov 2026 21:31:21 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>CNBC 报道，Jensen Huang 丑闻引发两党共同推动立法，限制向中国销售 AI 芯片。国家安全议题与公司治理危机叠加，使出口管制立法获得新的政治动能。若立法推进，将进一步压缩美国芯片厂商的中国市场空间。</description>
+  </item>
+  <item>
+    <title>特朗普新 AI 芯片规则引发东南亚震动</title>
+    <link>https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html</link>
+    <guid isPermaLink="false">136-14</guid>
+    <pubDate>Tue, 17 Nov 2026 21:04:16 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>《纽约时报》报道，特朗普政府新的 AI 芯片规则在东南亚引发不安。该地区是 AI 芯片转口与数据中心建设的关键节点。新规可能迫使当地数据中心运营商重新评估采购与合规路径。</description>
+  </item>
+  <item>
+    <title>Google 新 AI 芯片软件如何助其对抗 Nvidia</title>
+    <link>https://www.theinformation.com/newsletters/applied-ai/googles-new-ai-chip-software-helps-battle-nvidia</link>
+    <guid isPermaLink="false">136-15</guid>
+    <pubDate>Tue, 17 Nov 2026 20:49:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>The Information 报道，Google 推出新的 AI 芯片软件，以增强其 TPU 生态对 Nvidia 的竞争力。软件层是芯片替代的关键瓶颈，Google 正试图通过工具链降低客户迁移成本。这标志着云厂商自研芯片的竞争从硬件转向软件生态。</description>
+  </item>
+  <item>
+    <title>Model ML 融资 2.5 亿美元，自动化投行基础工作</title>
+    <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work</link>
+    <guid isPermaLink="false">136-16</guid>
+    <pubDate>Tue, 17 Nov 2026 19:32:11 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Model ML 完成 2.5 亿美元融资，其 agent 可理解交易全貌，并在新进展影响分析时自动更新财务模型与演示文稿。该公司瞄准投行与咨询业的高强度基础工作。这是垂直 agent 在专业服务领域规模最大的一笔融资之一。</description>
+  </item>
+  <item>
+    <title>Anthropic 警告 AI 安全测试正变得过于简单</title>
+    <link>https://www.bankinfosecurity.com/anthropic-warns-ai-safety-tests-are-becoming-too-easy-a-33424</link>
+    <guid isPermaLink="false">136-17</guid>
+    <pubDate>Tue, 17 Nov 2026 21:57:45 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Anthropic 警告称，当前 AI 安全测试的难度正在下降，难以有效评估前沿模型的风险。随着模型能力提升，现有评测基准可能失去区分度。这一表态呼应了业界对安全评估方法滞后于模型进展的普遍担忧。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 Astra for Law，法律智能评测排名第一</title>
+    <link>https://openai.com/index/astra-law-6-2</link>
+    <guid isPermaLink="false">136-18</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布 Astra for Law，在覆盖 24 个法律领域的发布评测中排名第一，ChatGPT Enterprise 客户可申请使用。这是 GPT‑6.2 发布后首个垂直行业产品。法律是知识工作自动化价值最高的场景之一，OpenAI 正以垂直产品巩固企业市场。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 ChatGPT for Sales 及 30 余个合作插件</title>
+    <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+    <guid isPermaLink="false">136-19</guid>
+    <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 发布面向销售的 ChatGPT 插件，可调研潜在客户、准备推介材料、更新 CRM 并推进交易，同时上线 30 多个新增与扩展的合作插件。这是 ChatGPT 向企业工作流嵌入的又一动作。插件生态的扩张将加剧其与 Salesforce 等 CRM 厂商的竞合关系。</description>
+  </item>
+  <item>
+    <title>Nvidia 称 Jensen Huang 离职后开源 AI 战略保持不变</title>
+    <link>https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit</link>
+    <guid isPermaLink="false">136-20</guid>
+    <pubDate>Tue, 17 Nov 2026 23:04:35 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Nvidia 表示，在 Jensen Huang 离职后，公司的开源 AI 战略保持完整。此前一份要求 Huang 复职的请愿书已征集到包括马斯克在内的多位知名签署人。开源社区与 Nvidia 的关系是该公司软件生态的重要支柱，此番表态意在稳定开发者信心。</description>
+  </item>
   <item>
     <title>OpenAI 发布 GPT-6.2 Astra 与 Sol，覆盖 ChatGPT Work、Codex 与 API</title>
     <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
@@ -323,165 +483,5 @@
     <pubDate>Sun, 15 Nov 2026 23:30:00 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>印度芯片初创公司 Bharat Semi 完成 2400 万美元种子轮融资，其 AI 传感器技术已获得包括 General Atomics 在内的客户设计订单。该公司瞄准全球 AI 传感器市场。这显示 AI 芯片创业正从通用算力向专用传感等细分环节扩散。</description>
-  </item>
-  <item>
-    <title>国家数据局谋划新一轮「数据要素×」三年行动，加快全国一体化数据市场顶层文件出台</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2yAWDmgV329j5eXaMnDRT90v8e-sR9qRVqXa8Fplpd9eK0k8D-dl0Pv7gbJynikaIboY_LAahCdcNzG6x8wLSJoQTu5WcTQzG_otdOcQDTm-sH8FDaSR7LuNAr2Fu7f0qT-8F7uIjxfoTdHMxlVsN8zbTjdTMzsjTK3cVxGGGjxQfQ8gUPEXaqwK8_xBTITH2FsorWtfVwb2F5oBE1hHiRQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E6%95%B0%E6%8D%AE%E8%A6%81%E7%B4%A0&amp;token=82039D66D6950C111F187F2F254744561FE6BA986AFA5CB7</link>
-    <guid isPermaLink="false">133-1</guid>
-    <pubDate>Mon, 16 Nov 2026 01:00:19 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>国家数据局在2026年11月3日国家发展改革委「奋进十五五」系列发布会上透露，正谋划新一轮「数据要素×」三年行动，并加快全国一体化数据市场顶层文件出台。这延续了2024—2026年首轮三年行动计划的政策节奏，意味着数据要素市场化配置改革将进入以全国统一市场为目标的制度深化阶段。对行业而言，顶层文件的出台预期将直接影响数据交易场所定位、场内市场规则与跨区域流通机制。</description>
-  </item>
-  <item>
-    <title>国家发展改革委「奋进十五五」发布会介绍数字中国、人工智能与数据要素十五五工作要点</title>
-    <link>https://www.smartcity.team/news/%E5%9F%B9%E8%82%B2%E5%A3%AE%E5%A4%A7%E6%96%B0%E5%8A%A8%E8%83%BD%E4%B8%93%E9%A2%98%E4%BC%9A/</link>
-    <guid isPermaLink="false">133-2</guid>
-    <pubDate>Thu, 12 Nov 2026 09:28:28 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>国家发展改革委举行「培育壮大新动能」主题新闻发布会，系统介绍数字中国建设、人工智能发展和数据要素在「十五五」期间的工作要点。发布会将数据要素置于培育新动能的整体框架中，与数字中国、人工智能统筹部署。这为后续数据产权、流通交易、收益分配等具体制度安排提供了上位规划依据。</description>
-  </item>
-  <item>
-    <title>高质量数据集和数据标注先行先试现场会在厦门召开</title>
-    <link>https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/1114/20261114110623086743990_pc.html</link>
-    <guid isPermaLink="false">133-3</guid>
-    <pubDate>Sat, 14 Nov 2026 11:06:23 +0000</pubDate>
-    <source>国家数据局·数据基础设施</source>
-    <description>国家数据局在厦门召开高质量数据集和数据标注先行先试建设现场会，局长刘烈宏出席并讲话，交通运输部、厦门、武汉及多家央企和标注企业交流经验。会议提出「一条主线、四个环节、一个闭环」的建设方法，即场景牵引为主线，覆盖需求定义、数据治理、专业标注、质量测评，并强调标注从通用标签向专家深度参与的知识密集型升级。这表明数据供给政策重心已从「有没有数据」转向「有没有对的、够用的、高质量的数据」。</description>
-  </item>
-  <item>
-    <title>教育部成立全国数据职业教育教学指导委员会（2026—2030年）</title>
-    <link>https://www.nda.gov.cn/sjj/zwgk/tzgg/1111/20261111164212994397664_pc.html</link>
-    <guid isPermaLink="false">133-4</guid>
-    <pubDate>Wed, 11 Nov 2026 16:42:12 +0000</pubDate>
-    <source>国家数据局·通知公告</source>
-    <description>教育部办公厅印发通知，成立全国数据职业教育教学指导委员会，任期2026年至2030年底，秘书处设在国家数据局数字科技和基础设施建设司。该委员会旨在落实五部门《关于加强数据要素学科专业建设和数字人才队伍建设的意见》，设主任委员1人、副主任委员8人。这是数据要素学科专业与数字人才队伍建设从政策倡导走向组织落地的标志。</description>
-  </item>
-  <item>
-    <title>重庆出台词元驱动的数据产业高质量发展行动计划（2026—2028年）</title>
-    <link>https://www.smartcity.team/policies/digitaleconomy/chongqing_token_eco/</link>
-    <guid isPermaLink="false">133-5</guid>
-    <pubDate>Fri, 13 Nov 2026 13:23:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>重庆发布促进词元驱动的数据产业高质量发展行动计划，提出可调度智算规模超10万P，构建词元试验场，重点打造20个以上词元创新平台、40个以上行业垂类模型和智能体集群、100个以上高质量数据集和可信数据空间。配套20条措施中，购买算力最高补贴1000万元。这是地方首次以「词元」为核心概念系统布局数据产业，将算力、数据集、模型与场景应用打包推进。</description>
-  </item>
-  <item>
-    <title>重庆出台20条措施支持词元驱动数据产业，买算力最高补贴1000万元</title>
-    <link>https://www.cqnews.net/web/content_1570394772377014272.html</link>
-    <guid isPermaLink="false">133-6</guid>
-    <pubDate>Thu, 12 Nov 2026 02:58:35 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>多家媒体报道重庆围绕词元驱动数据产业出台20条支持措施，其中企业购买算力最高可获1000万元补贴。政策与《重庆市促进词元驱动的数据产业高质量发展行动计划（2026—2028年）》配套，覆盖算力调度、数据集建设、模型培育等环节。这反映出地方在数据产业招商与生态培育上正从普惠补贴转向以算力和高质量数据为核心的精准支持。</description>
-  </item>
-  <item>
-    <title>数据资产入表风险识别与应对</title>
-    <link>http://repository.hkust.edu.hk/ir/Record/1783.1-168471</link>
-    <guid isPermaLink="false">133-7</guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>文章基于《企业数据资源相关会计处理暂行规定》自2024年1月1日执行的实践，系统分析数据资产入表在确认、计量、价值评估与披露环节的风险。研究指出数据资产具有虚拟性、易变性、可复用性和价值难以量化等特点，尚未形成统一的理论体系、政策指引和作业标准。文章结合入表项目实施经验提出风险管理应对措施，为完善数据资产管理制度标准体系提供参考。</description>
-  </item>
-  <item>
-    <title>数智化背景下数据资产审计风险研究</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/3663</link>
-    <guid isPermaLink="false">133-8</guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究基于现代审计风险理论，从重大错报风险和检查风险两方面分析数据资产入表后的审计挑战。重大错报风险集中于确权「可控制」边界模糊、资本化与费用化时点划分不当、估值方法缺乏统一标准及披露不充分；检查风险源于专项审计准则缺位、传统程序难以适配数据资产技术依赖性以及审计人员复合能力不足。文章提出从准则建设、内控审计、大数据审计工具和人才储备四方面协同防控。</description>
-  </item>
-  <item>
-    <title>数据资产入表的实务困境与路径优化——以南钢股份为例</title>
-    <link>https://www.economics-journal.com/index.php/ej/article/view/3678</link>
-    <guid isPermaLink="false">133-9</guid>
-    <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>文章以首批完成数据资产入表的南钢股份为案例，梳理其在业财协同、数据分类管理、成本归集方面的经验，同时指出权属界定模糊、核算精度不足、计量模式单一、内部治理薄弱以及信息披露保密与公开冲突等问题。研究认为这是会计核算、业务管理与数据治理协同不足带来的综合性矛盾，提出构建「业务—数据—财务」协同机制，采用表内成本核算搭配表外补充披露的优化思路。</description>
-  </item>
-  <item>
-    <title>数据资产入表后的减值识别与会计处理</title>
-    <link>https://doi.org/10.64216/3080-1486.26.11.033</link>
-    <guid isPermaLink="false">133-10</guid>
-    <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>文章针对数据资源入表后的后续计量问题，区分正常价值消耗、异常减值和经济利益灭失，分析业务风险转化为会计减值证据的条件。研究按数据资源确认为存货或无形资产的不同情形，讨论减值测试单元、计量依据、账务处理和转回规则，并指出数据资产台账、权利记录和运营数据可增强估计依据的可验证性，但不能替代可变现净值或可收回金额的计量。</description>
-  </item>
-  <item>
-    <title>交易场景下GA-BP神经网络数据资产价值评估研究</title>
-    <link>https://doi.org/10.64216/3080-1486.26.10.038</link>
-    <guid isPermaLink="false">133-11</guid>
-    <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-    <source>OpenAlex 中文学术</source>
-    <description>研究构建数据质量、市场属性、合规保障三维评估指标体系，引入遗传算法优化BP神经网络搭建数据资产价值评估模型，以贵阳大数据交易所228条真实交易数据开展实证检验。结果表明GA-BP模型在评估精度与拟合效果上显著优于单一BP神经网络。这为交易场景下的数据资产市场评估与价值发现提供了可验证的技术路径。</description>
-  </item>
-  <item>
-    <title>江西首家供水企业数据产品挂牌上海数据交易所</title>
-    <link>https://m.sohu.com/a/1101235408_122014422?scm</link>
-    <guid isPermaLink="false">133-12</guid>
-    <pubDate>Fri, 13 Nov 2026 13:02:11 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>江西一家供水企业的数据产品在上海数据交易所挂牌，成为该省首家登陆场内市场的水务企业。公共事业类数据产品化并进入交易所流通，表明场内市场的数据供给正从互联网和金融向市政公用领域延伸。这对探索公共数据授权运营与市场化流通的衔接具有样本意义。</description>
-  </item>
-  <item>
-    <title>上海聚焦人工智能与可信数据流通，激活高端航运服务新动能</title>
-    <link>https://www.thepaper.cn/newsDetail_forward_34469259</link>
-    <guid isPermaLink="false">133-13</guid>
-    <pubDate>Fri, 13 Nov 2026 12:04:51 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>上海围绕人工智能与可信数据流通推动高端航运服务发展，探索以可信数据空间支撑航运领域数据跨主体流通与融合应用。航运数据涉及港口、船公司、货代与监管多方，可信流通机制是释放其价值的前提。这体现了上海在可信数据空间与行业场景结合上的先行探索。</description>
-  </item>
-  <item>
-    <title>江苏发布2026年第9批公共数据「跑起来」案例</title>
-    <link>http://js.people.com.cn/n2/2026/1112/c358232-41748393.html</link>
-    <guid isPermaLink="false">133-14</guid>
-    <pubDate>Wed, 11 Nov 2026 23:21:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>江苏发布2026年第9批公共数据「跑起来」案例，持续以案例形式推动公共数据开发利用。批次化发布表明江苏已形成公共数据授权运营与场景应用的常态化推进机制。这类案例积累为公共数据资源开发利用的制度设计提供了地方经验。</description>
-  </item>
-  <item>
-    <title>安徽省深化数据要素市场化配置改革专题培训班举办</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/dfdt/1113/20261113195153467414720_pc.html</link>
-    <guid isPermaLink="false">133-15</guid>
-    <pubDate>Fri, 13 Nov 2026 19:51:53 +0000</pubDate>
-    <source>国家数据局·地方动态</source>
-    <description>安徽省数据资源局承办深化数据要素市场化配置改革专题培训班，各市政府分管负责同志、数据资源局主要负责人及省属企业负责人等140余人参加。培训围绕数据要素市场化配置改革、公共数据资源开发利用、城市全域数字化转型、数据基础设施建设运营等议题研讨。这反映出国家数据要素综合试验区建设正在向地市级领导干部的能力建设延伸。</description>
-  </item>
-  <item>
-    <title>辽宁数字人才协同创新培育行动走深走实</title>
-    <link>https://www.nda.gov.cn/sjj/swdt/dfdt/1113/20261113165738460425269_pc.html</link>
-    <guid isPermaLink="false">133-16</guid>
-    <pubDate>Fri, 13 Nov 2026 16:57:38 +0000</pubDate>
-    <source>国家数据局·地方动态</source>
-    <description>辽宁依托国家数据要素综合试验区建设，推进「省级统筹、地方点单、政校企协同」的数字人才培育机制，10个政校企供需对接项目在东北财经大学签约，本溪站培训覆盖100余名首席数据官。8家试点单位在人工智能训练师、数据标注工程师、工业互联网等方向差异化布局。这为数据要素试验区的人才支撑提供了可复制的组织模式。</description>
-  </item>
-  <item>
-    <title>数据要素流通背景下敏感数据安全保护研究</title>
-    <link>https://doi.org/10.61654/zzhqkx0905</link>
-    <guid isPermaLink="false">133-17</guid>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>研究指出数据要素流通覆盖多类敏感信息，当前存在风险管控盲区、分类分级标准不统一、技术防护适配性不足、参与主体权责模糊等问题，直接抬高流通信任成本并制约数据价值释放。文章提出通过全流程风险防控、分级权限管理、技术赋能和协同监管等路径优化完善。这为数据流通制度设计中的安全与利用平衡提供了分析框架。</description>
-  </item>
-  <item>
-    <title>数据要素聚集与出口企业供应链韧性——基于大数据综合试验区的准自然实验</title>
-    <link>https://doi.org/10.54254/2978-1736/2026.32644</link>
-    <guid isPermaLink="false">133-18</guid>
-    <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-    <source>Crossref 中文期刊</source>
-    <description>研究以2013—2023年A股上市出口企业面板数据为样本，运用双重差分模型评估大数据综合试验区试点政策对出口企业供应链韧性的影响。结果表明该政策显著提高供应链韧性，机制为促进技术创新和提升数字化转型，且效应在非国有、非高新技术行业和东部地区企业中更显著。这为数据要素集聚政策的产业效应提供了因果证据。</description>
-  </item>
-  <item>
-    <title>专家解读：转动数据飞轮，挖掘场景价值</title>
-    <link>https://www.nda.gov.cn/sjj/zwgk/zjjd/1106/20261106152652343709965_pc.html</link>
-    <guid isPermaLink="false">133-19</guid>
-    <pubDate>Fri, 06 Nov 2026 15:26:52 +0000</pubDate>
-    <source>国家数据局·专家解读</source>
-    <description>中国科学院大气物理研究所原所长曹军骥结合「数据要素×」大赛项目指出，高质量数据集的价值不再是一次性的，可多轮次反复挖掘，形成「数据飞轮」效应。他以气象领域为例，全国约10万个气象站的数据可在一分钟内汇集至数据中心并处理提供给预报中心，叠加人工智能模型后可快速抵达场景应用。文章同时指出数据产权不清仍是数据流通的核心障碍。</description>
-  </item>
-  <item>
-    <title>专家解读：数据要素从概念走向实效，重在场景落地、乘数效应与市场化主导</title>
-    <link>https://www.nda.gov.cn/sjj/zwgk/zjjd/1105/20261105165107902766500_pc.html</link>
-    <guid isPermaLink="false">133-20</guid>
-    <pubDate>Thu, 05 Nov 2026 16:51:07 +0000</pubDate>
-    <source>国家数据局·专家解读</source>
-    <description>国家数据局官网刊发专家解读，围绕「数据要素×」大赛观察指出数据要素正从概念走向实效，关键在于场景落地、乘数效应和市场化主导。解读强调以真实场景牵引数据应用，通过市场化机制配置数据资源。这与新一轮「数据要素×」三年行动的政策取向相互呼应。</description>
   </item>
 </channel></rss>

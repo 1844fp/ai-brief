@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:31:02.044488",
+ "generated_at": "2026-11-18T07:31:17.553801",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 136,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-18",
+   "created_at": "2026-11-17T23:31:16.553750+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-18/news_daily-073116.html"
+  },
   {
    "id": 135,
    "task": "news_daily",
@@ -1164,6 +1173,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 发布 GPT‑6.2 Astra 与 Sol，覆盖 ChatGPT Work、Codex 与 API",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "Hacker News",
+   "summary": "OpenAI 推出 GPT‑6.2 系列双模型 Astra 与 Sol，官方称在专业输出、编程、计算机操作与效率上均有提升，且成本更低。新模型同步接入 ChatGPT Work、Codex 与 API，Hacker News 讨论热度超过千分。这意味着 OpenAI 在旗舰模型迭代上继续压缩单位推理成本，并把竞争焦点转向 agent 式计算机操作与企业工作流。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-17T17:46:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "微软发布 MAI Code 2 与 Code 2 Flash 编程模型",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash",
+   "source": "Hacker News",
+   "summary": "微软在 Ignite 2026 上推出 MAI Code 2 与轻量版 Code 2 Flash，宣称性能可对标 Claude Opus 5.5，而成本仅约 5%。多家媒体报道称，这一自研模型阵容可能重塑微软与 OpenAI、Anthropic 的合作关系。编程模型是当前企业 AI 支出最集中的场景，低价高性能方案将直接压制定价空间。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-17T18:25:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Nvidia 董事会称不打算让 Jensen Huang 复职",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
+   "source": "TechCrunch AI",
+   "summary": "尽管特朗普、马斯克及多位硅谷高管施压，Nvidia 董事会仍表示「不打算」恢复被罢免 CEO Jensen Huang 的职位。此前社交媒体上的复职请愿已征集超过 11.5 万个签名。管理层动荡发生在 Nvidia 业绩仍超预期的节点，治理风险与业务基本面出现明显背离。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-11-17T22:42:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Isomorphic Labs 完成 50 亿美元 C 轮融资，推进候选药物进入临床试验",
+   "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+   "source": "TechCrunch AI",
+   "summary": "从 DeepMind 分拆的 AI 药物发现平台 Isomorphic Labs 完成 50 亿美元 C 轮融资，资金将用于把候选药物推进至临床试验阶段。这是 AI 制药领域规模最大的单轮融资之一。大额资本注入表明，市场开始为 AI 药物发现的临床转化能力定价，而非仅停留在平台叙事。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-17T14:50:58+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Anthropic IPO 后亚马逊与谷歌合计持股近 30%",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，Anthropic 完成 IPO 后，亚马逊持股略低于 15%，并保留大幅增持的选择权；谷歌以近 14% 紧随其后，两家合计接近 30%。这意味着 Anthropic 的股权结构高度集中于两大云厂商。基础模型公司的独立性与其算力金主之间的张力将进一步显性化。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-17T22:29:05+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "SEC 就 Jensen Huang 离职展开调查，Huang 寻求回归 Nvidia",
+   "url": "https://www.reuters.com/business/nvidia-board-forms-committee-national-security-export-control-oversight-2026-11-17/",
+   "source": "Google News 英文",
+   "summary": "《华尔街日报》报道，SEC 已就 Jensen Huang 离职展开调查，此前 Huang 承认与一名疑似中国间谍存在婚外情。Huang 本人正试图推动回归 Nvidia。监管调查与公司治理危机叠加，使 Nvidia 面临业务之外的合规风险。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T22:23:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Nvidia Q3 财报达标，电话会未提 Huang 离职细节",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge AI",
+   "summary": "临时 CEO Colette Kress 公布 Nvidia 第三季度财报，业绩达到市场预期，但电话会开场未提及前 CEO Jensen Huang 的离职细节。董事会主席 Harvey Jones 明确表示不打算让 Huang 复职。财报本身稳健，但治理问题持续压制投资者情绪。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-17T21:40:59+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Nvidia 预计第四季度营收 1300 亿美元，业绩超预期",
+   "url": "https://nypost.com/2026/11/17/business/nvidia-reports-strong-earnings-as-embattled-ai-giant-reels-from-jensen-huang-scandal/",
+   "source": "Google News 英文",
+   "summary": "尽管深陷 Jensen Huang 丑闻，Nvidia 仍给出第四季度约 1300 亿美元的营收指引，并超出市场预期。AI 芯片需求未见放缓迹象。这一指引是当前 AI 基础设施投资周期最直接的景气度信号。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 4,
+   "published": "2026-11-17T21:35:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Google 将 Gemini 聊天记录保留期从 72 小时延长至两个月",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+   "source": "TechCrunch AI",
+   "summary": "Google 宣布即使关闭聊天历史，Gemini 仍会保留对话记录两个月，此前该期限为 72 小时，并将在未来数周全球推送。这一变更显著扩大了用户数据的留存范围。在隐私监管趋严的背景下，主流助手的数据保留策略正在成为合规焦点。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T18:48:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "Google 扩大 Gemini Tasks 开放范围，可代打电话与下单",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+   "source": "TechCrunch AI",
+   "summary": "Google 将 Gemini 的 Task 模式向更多用户开放，该功能可协调通话、登录网站，甚至代替用户完成购买。The Verge 同时报道该 agent 已由 Spark 更名为 Tasks 并免费提供，底层由 Gemini 4 Hydrogen 模型驱动。消费级 agent 正从演示走向真实交易场景。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-17T19:02:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "美国收紧 AI 芯片出口管制并调查 Megaspeed",
+   "url": "https://americanbazaaronline.com/2026/11/17/us-ai-chip-export-controls-megaspeed-probe-492525/",
+   "source": "Google News 英文",
+   "summary": "美国进一步收紧 AI 芯片出口管制，同时对新加坡数据中心公司 Megaspeed 展开调查。Megaspeed 与 Jensen Huang 离职事件存在关联。出口管制与个案调查并行，显示美国正加强对第三国转口路径的审查。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T21:58:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "美国司法部确认正在调查 Megaspeed",
+   "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "source": "The Verge AI",
+   "summary": "美国司法部与商务部表示正在调查新加坡数据中心公司 Megaspeed，此前有报道称相关调查在去年被叫停。该公司与 Nvidia CEO Jensen Huang 的辞职事件相互交织。官方罕见公开确认进行中的调查，表明此案政治敏感度较高。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T16:19:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Jensen Huang 丑闻推动两党联手推动限制对华 AI 芯片销售",
+   "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+   "source": "Google News 英文",
+   "summary": "CNBC 报道，Jensen Huang 丑闻引发两党共同推动立法，限制向中国销售 AI 芯片。国家安全议题与公司治理危机叠加，使出口管制立法获得新的政治动能。若立法推进，将进一步压缩美国芯片厂商的中国市场空间。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T21:31:21+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "特朗普新 AI 芯片规则引发东南亚震动",
+   "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+   "source": "Google News 英文",
+   "summary": "《纽约时报》报道，特朗普政府新的 AI 芯片规则在东南亚引发不安。该地区是 AI 芯片转口与数据中心建设的关键节点。新规可能迫使当地数据中心运营商重新评估采购与合规路径。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-17T21:04:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Google 新 AI 芯片软件如何助其对抗 Nvidia",
+   "url": "https://www.theinformation.com/newsletters/applied-ai/googles-new-ai-chip-software-helps-battle-nvidia",
+   "source": "Google News 英文",
+   "summary": "The Information 报道，Google 推出新的 AI 芯片软件，以增强其 TPU 生态对 Nvidia 的竞争力。软件层是芯片替代的关键瓶颈，Google 正试图通过工具链降低客户迁移成本。这标志着云厂商自研芯片的竞争从硬件转向软件生态。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 3,
+   "published": "2026-11-17T20:49:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Model ML 融资 2.5 亿美元，自动化投行基础工作",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+   "source": "TechCrunch AI",
+   "summary": "Model ML 完成 2.5 亿美元融资，其 agent 可理解交易全貌，并在新进展影响分析时自动更新财务模型与演示文稿。该公司瞄准投行与咨询业的高强度基础工作。这是垂直 agent 在专业服务领域规模最大的一笔融资之一。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 3,
+   "published": "2026-11-17T19:32:11+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "Anthropic 警告 AI 安全测试正变得过于简单",
+   "url": "https://www.bankinfosecurity.com/anthropic-warns-ai-safety-tests-are-becoming-too-easy-a-33424",
+   "source": "Google News 英文",
+   "summary": "Anthropic 警告称，当前 AI 安全测试的难度正在下降，难以有效评估前沿模型的风险。随着模型能力提升，现有评测基准可能失去区分度。这一表态呼应了业界对安全评估方法滞后于模型进展的普遍担忧。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-17T21:57:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "OpenAI 推出 Astra for Law，法律智能评测排名第一",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布 Astra for Law，在覆盖 24 个法律领域的发布评测中排名第一，ChatGPT Enterprise 客户可申请使用。这是 GPT‑6.2 发布后首个垂直行业产品。法律是知识工作自动化价值最高的场景之一，OpenAI 正以垂直产品巩固企业市场。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-17T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "OpenAI 推出 ChatGPT for Sales 及 30 余个合作插件",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布面向销售的 ChatGPT 插件，可调研潜在客户、准备推介材料、更新 CRM 并推进交易，同时上线 30 多个新增与扩展的合作插件。这是 ChatGPT 向企业工作流嵌入的又一动作。插件生态的扩张将加剧其与 Salesforce 等 CRM 厂商的竞合关系。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-17T08:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Nvidia 称 Jensen Huang 离职后开源 AI 战略保持不变",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
+   "source": "TechCrunch AI",
+   "summary": "Nvidia 表示，在 Jensen Huang 离职后，公司的开源 AI 战略保持完整。此前一份要求 Huang 复职的请愿书已征集到包括马斯克在内的多位知名签署人。开源社区与 Nvidia 的关系是该公司软件生态的重要支柱，此番表态意在稳定开发者信心。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-17T23:04:35+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
