@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:51:16.993053",
+ "generated_at": "2026-11-18T07:31:02.044488",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 135,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-18",
+   "created_at": "2026-11-17T23:31:01.114539+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-18/news_daily-073101.html"
+  },
   {
    "id": 134,
    "task": "news_daily",
@@ -1155,6 +1164,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "OpenAI 发布 GPT-6.2 Astra 与 Sol，覆盖 ChatGPT Work、Codex 与 API",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "Hacker News",
+   "summary": "OpenAI 推出 GPT-6.2 Astra 和 Sol 两款模型，在专业任务输出、编程、计算机使用和效率上均有提升，并强调更低成本。新模型同步接入 ChatGPT Work、Codex 和 API，官方称其为面向企业工作流的重要升级。这意味着 OpenAI 在模型能力与性价比两条线上同时施压竞争对手。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-17T17:46:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "微软发布 MAI Code 2 与 MAI Code 2 Flash",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash",
+   "source": "Hacker News",
+   "summary": "微软推出 MAI Code 2 和轻量版 MAI Code 2 Flash 两款编程模型，主打代码生成与代理式开发场景。Flash 版本面向低延迟、低成本调用，与标准版形成分层。这是微软在自研模型线上对开发者工具链的进一步加码。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-17T18:25:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "英伟达董事会称不打算让黄仁勋复职",
+   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
+   "source": "TechCrunch AI",
+   "summary": "尽管特朗普总统、马斯克和多位硅谷高管施压，英伟达董事会仍表示“不打算”恢复被罢免 CEO 黄仁勋的职务。董事会主席 Harvey Jones 在财报电话会上率先表态，多家媒体报道了这一立场。这一决定意味着英伟达管理层动荡短期内难以平息。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-11-17T22:42:27+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Isomorphic Labs 完成 50 亿美元 C 轮融资，推进候选药物进入临床试验",
+   "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+   "source": "TechCrunch AI",
+   "summary": "从 DeepMind 分拆的 AI 药物发现平台 Isomorphic Labs 完成 50 亿美元 C 轮融资。公司计划将候选药物推进至临床试验阶段，这是 AI 制药领域规模最大的融资之一。大额资本注入表明市场对 AI 驱动药物发现进入验证期的信心。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-17T14:50:58+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Anthropic IPO 后亚马逊与谷歌将合计持股近 30%",
+   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 完成 IPO 后，亚马逊将持有略低于 15% 的股份并保留增持选项，谷歌以近 14% 紧随其后，两家合计接近 30%。这意味着 Anthropic 的治理结构将深度受两大云厂商影响。对 AI 模型公司而言，资本与算力绑定正变得难以分割。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-11-17T22:29:05+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "SEC 对英伟达展开调查，黄仁勋寻求回归",
+   "url": "https://www.reuters.com/business/nvidia-board-forms-committee-national-security-export-control-oversight-2026-11-17/",
+   "source": "Google News 英文",
+   "summary": "据《华尔街日报》报道，SEC 在黄仁勋离职后对英伟达展开调查，黄仁勋本人承认与一名被指为中国间谍的人士存在婚外情。与此同时，黄仁勋正积极寻求重返公司。调查与人事风波叠加，令英伟达面临监管与治理双重压力。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 5,
+   "published": "2026-11-17T22:23:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "英伟达 Q3 财报达标，电话会未提黄仁勋事件",
+   "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+   "source": "The Verge AI",
+   "summary": "临时 CEO Colette Kress 公布英伟达 Q3 财报，业绩符合预期，但开场未提及黄仁勋离职细节。董事会主席 Harvey Jones 在电话会上明确表示不打算让黄仁勋复职。财报本身稳健，但治理不确定性仍是市场关注焦点。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-17T21:40:59+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "英伟达预计 Q4 营收 1300 亿美元，芯片巨头业绩超预期",
+   "url": "https://nypost.com/2026/11/17/business/nvidia-reports-strong-earnings-as-embattled-ai-giant-reels-from-jensen-huang-scandal/",
+   "source": "Google News 英文",
+   "summary": "英伟达给出 Q4 营收 1300 亿美元的指引，尽管黄仁勋丑闻持续发酵，公司业绩仍超出市场预期。这一指引显示 AI 芯片需求未见明显降温。对行业而言，算力采购周期仍处于高位。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 4,
+   "published": "2026-11-17T21:35:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "美国司法部与商务部称正在调查 Megaspeed",
+   "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+   "source": "The Verge AI",
+   "summary": "美国司法部与商务部表示正在调查新加坡数据中心公司 Megaspeed，该公司与黄仁勋辞职事件密切相关。此前有报道称相关调查去年曾被叫停，官方此次罕见公开确认调查进行中。案件可能牵涉 AI 芯片转口与出口管制执行。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T16:19:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "黄仁勋丑闻推动两党联手施压，要求限制对华 AI 芯片销售",
+   "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+   "source": "Google News 英文",
+   "summary": "黄仁勋事件引发美国两党议员联合推动限制对华 AI 芯片出口。CNBC 报道称，这一政治压力正在加速立法层面的动作。芯片出口管制可能进一步收紧，波及英伟达在华业务。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T21:31:21+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "特朗普新 AI 芯片规则震动东南亚",
+   "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
+   "source": "Google News 英文",
+   "summary": "《纽约时报》报道，特朗普政府推出的新 AI 芯片规则在东南亚引发震动。新规可能改变该地区数据中心与算力转口贸易的合规路径。东南亚作为 AI 芯片中转枢纽的地位面临重新评估。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-17T21:04:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Model ML 融资 2.5 亿美元，自动化投行基础工作",
+   "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+   "source": "TechCrunch AI",
+   "summary": "Model ML 完成 2.5 亿美元融资，其智能体可理解投行与咨询交易全流程上下文，并在新进展影响分析时自动更新财务模型和演示文稿。这是 AI 智能体切入高价值专业服务的最新案例。金融服务业的基础岗位自动化正在加速。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 4,
+   "published": "2026-11-17T19:32:11+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "谷歌将 Gemini 聊天记录保留期从 72 小时延长至两个月，关闭历史记录也不例外",
+   "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+   "source": "TechCrunch AI",
+   "summary": "谷歌宣布 Gemini 聊天记录保留期从 72 小时延长至两个月，即使关闭历史记录功能也适用，将在未来数周全球推送。这一变化引发隐私担忧，因为用户此前预期关闭历史即不留存。谷歌在功能与隐私之间的平衡正受到审视。",
+   "why": null,
+   "category": "产品动态",
+   "heat": 4,
+   "published": "2026-11-17T18:48:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "谷歌将 Spark 智能体更名为 Tasks 并免费开放",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge AI",
+   "summary": "谷歌将 Spark AI 智能体更名为 Tasks 并免费开放，该功能由新的 Gemini 4 Hydrogen 模型驱动。Tasks 可制定餐食计划、管理日历、检索邮件中的重复支出等。美国用户已可优先使用，这是谷歌将智能体能力推向大众市场的重要一步。",
+   "why": null,
+   "category": "产品动态",
+   "heat": 4,
+   "published": "2026-11-17T18:58:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "谷歌扩大 Gemini Tasks 访问范围，可代打电话与购物",
+   "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+   "source": "TechCrunch AI",
+   "summary": "谷歌扩大 Gemini Tasks 模式访问权限，该功能可协调通话、登录网站，甚至代用户完成购买。与更名免费开放同步，Tasks 正从实验功能转向日常工具。代理式购物与通话的落地将考验平台责任边界。",
+   "why": null,
+   "category": "产品动态",
+   "heat": 4,
+   "published": "2026-11-17T19:02:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Anthropic 警告 AI 安全测试正变得过于简单",
+   "url": "https://www.bankinfosecurity.com/anthropic-warns-ai-safety-tests-are-becoming-too-easy-a-33424",
+   "source": "Google News 英文",
+   "summary": "Anthropic 警告称当前 AI 安全测试正变得过于容易通过，难以真实反映模型风险。这一表态指向评测基准与真实部署场景之间的差距。对监管者而言，安全测试的有效性正成为新的争议点。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-17T21:57:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "美国收紧 AI 芯片管制并调查 Megaspeed",
+   "url": "https://americanbazaaronline.com/2026/11/17/us-ai-chip-export-controls-megaspeed-probe-492525/",
+   "source": "Google News 英文",
+   "summary": "美国进一步收紧 AI 芯片出口管制，同时对 Megaspeed 展开调查。政策与执法同步推进，显示对芯片转口路径的关注升级。相关企业合规成本将上升。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-17T21:58:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "谷歌新 AI 芯片软件如何助其对抗英伟达",
+   "url": "https://www.theinformation.com/newsletters/applied-ai/googles-new-ai-chip-software-helps-battle-nvidia",
+   "source": "Google News 英文",
+   "summary": "The Information 报道谷歌推出新的 AI 芯片软件，以增强其 TPU 生态对英伟达的竞争力。软件层优化是谷歌缩小与英伟达 CUDA 生态差距的关键手段。算力市场的软硬一体竞争正在加剧。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 3,
+   "published": "2026-11-17T20:49:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "OpenAI 推出 ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布面向销售场景的 ChatGPT for Sales，包含新的 Sales 插件及 30 多个新增与扩展合作伙伴插件。功能覆盖潜在客户调研、推介材料准备、CRM 更新和推进交易。这是 OpenAI 将 ChatGPT 嵌入企业职能工作流的最新动作。",
+   "why": null,
+   "category": "产品动态",
+   "heat": 3,
+   "published": "2026-11-17T08:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Astra for Law 在法律智能评测中排名第一",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 推出 Astra for Law，在覆盖 24 个法律领域的发布评测中排名第一。所有 ChatGPT Enterprise 客户均可申请访问。这是 GPT-6.2 发布后首个垂直行业落地产品。法律行业成为大模型专业化的首批试验场。",
+   "why": null,
+   "category": "产品动态",
+   "heat": 3,
+   "published": "2026-11-17T00:00:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
