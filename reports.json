@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:31:17.553801",
+ "generated_at": "2026-11-18T08:01:32.621199",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 137,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-18",
+   "created_at": "2026-11-18T00:01:31.691212+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-18/news_daily_cn-080131.html"
+  },
   {
    "id": 136,
    "task": "news_daily",
@@ -1173,6 +1182,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "阿里发布 Qwen4-Max：2.4 万亿参数，单任务成本下降 58%",
+   "url": "http://www.geekpark.net/news/374079",
+   "source": "极客公园",
+   "summary": "阿里千问正式发布新一代旗舰模型 Qwen4-Max，维持 2.4 万亿主干参数，原生支持文本、图像和视频输入，上下文窗口达 100 万 Token。官方数据显示，在模拟真实工作场景的评测中，单任务平均费用从上一代的 26.58 元降至 11.16 元，降幅 58%。这标志着国产旗舰模型从拼跑分转向拼真实工作流中的可用性与经济性。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-11-17T06:41:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "腾讯 Hy4 flash 实测：主打快速、实惠，国模进入「过日子」时代",
+   "url": "http://www.geekpark.net/news/374083",
+   "source": "极客公园",
+   "summary": "极客公园实测腾讯 Hy4 flash，指出在 Agent 场景下模型调用次数激增，Token 消耗成为核心成本项，OpenRouter 平台上 Agent 的 Token 用量已达人类直接调用的约七倍。Hy4 flash 以低成本和快速响应为卖点，反映国产模型竞争从能力刷新转向单位任务经济性。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-11-17T07:12:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "寒武纪 Day 0 完成商汤 SenseNova Loop-9B 适配",
+   "url": "https://www.ithome.com/1/028/568.htm",
+   "source": "IT之家",
+   "summary": "商汤发布 SenseNova Loop-9B 模型，通过 Loop 结构复用模型层参数并结合流形约束超连接（mHC），以约 9B 参数扩展计算深度，面向复杂推理、代码与工具调用。寒武纪基于 vllm_mlu 完成 Day 0 适配，围绕 Loop 循环层展开、MLU 算子适配和 mHC 路由优化打通推理链路。国产芯片与国产模型的协同适配速度成为生态竞争焦点。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-17T16:58:02+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "中国「灵晟」蝉联 TOP500 超算榜首",
+   "url": "https://www.solidot.org/story?sid=85913",
+   "source": "Solidot",
+   "summary": "2026 年 11 月 TOP500 榜单公布，深圳国家超算中心的灵晟以 2.198 Exaflop/s 的 HPL 性能第二次登顶，成为首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的系统。灵晟采用 304 核的 LX2 CPU，总计 1379 万核心，运行麒麟操作系统，功耗 42.2 兆瓦。前十名榜单与上期完全一致。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-17T09:54:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "华为云开源昇腾原生具身世界模型 CloudRobo-WM1.2",
+   "url": "https://www.oschina.net/news/503602",
+   "source": "开源中国",
+   "summary": "华为云「行业AI梦工厂」发布并开源昇腾原生的具身世界模型 CloudRobo-WM1.2，采用共享世界模型骨干网络实现预测增强的世界表征，基于原生 DualAct 架构实现世界模型原生动作生成。该模型在 RoboTwin 2.0、LiberoPro 2.0 评测中均位列第一，旨在加速具身智能从实验室走向产业。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-11-16T12:52:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "中国与东盟宣布将 2027 年定为人工智能合作年",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxTSeI6shcwqQXoYBSXmINlMW31KZQ9l6VqXa8Fplpd9iEmOr6jUJwAl4aoae-2mhwvZ0_KOnCPCb3cfwaONf1-VyFAHRSwRMb1pD8YULRtwwCOb5Ql68VUeRnvSfBoptA714Trbh1OSrdr3014jjHI2ITJafWu54UMEAhm-dZvyIvaPVW2774o9eEaoZPnrHLj7rWyC6RBr8xxFT-yXqwbzAjcIGepUqA..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=937C7A57FB9E001C12157392A282E9A213C0E7B26AFCEA86",
+   "source": "微信公众号",
+   "summary": "据新华社消息，第 29 次中国—东盟领导人会议宣布将 2027 年定为人工智能合作年，以 AI 为桥梁推动数字丝路建设。这一安排为国产 AI 技术与产品出海东南亚提供政策框架，也呼应了区域数字基础设施互联的趋势。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-11-17T23:33:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "美国商务部发布先进 AI 芯片出口管制新规，东南亚五国纳入许可清单",
+   "url": "https://www.eet-china.com/news/202611171218.html",
+   "source": "Google News 中文",
+   "summary": "美国商务部发布先进 AI 芯片出口管制新规，将东南亚五国纳入许可清单，进一步收紧中国通过海外算力通道获取先进芯片的路径。新规叠加此前多轮管制，使中国 AI 算力的海外获取渠道持续收窄，国产替代压力上升。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-11-17T02:51:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "《数字广东建设「十五五」规划》提出攻关 AI 芯片、存算一体芯片",
+   "url": "https://www.mrjjxw.com/articles/2026-11-17/4650409.html",
+   "source": "Google News 中文",
+   "summary": "《数字广东建设「十五五」规划》提出壮大集成电路制造，攻关人工智能芯片、存算一体芯片等硬件，并加快部署超高速光传输网络。同期八省市获批工信部 6G 创新部省协同试点。地方规划把 AI 芯片与算力基础设施列为重点方向。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-11-17T22:13:56+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "阿里云连续六年香港 IaaS 第一，企业客户 AI 渗透率达 95%",
+   "url": "https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html",
+   "source": "雷锋网",
+   "summary": "阿里云在香港峰会上宣布连续六年位居香港 IaaS 市场份额第一，在港企业级客户 AI 服务启用率超过 95%。保诚保险基于阿里云推出「AI 核保师」，准确率超过 95%，从概念到上线不到三个月；香港特区政府空间数据共享平台也用千问开发了政务 AI 助手。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-17T09:24:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "美团 AI 助手三线及以下城市商家使用量环比增长超 200%",
+   "url": "http://www.geekpark.net/news/374101",
+   "source": "极客公园",
+   "summary": "美团数据显示，近一个月三线及以下城市使用美团 AI 助手的商家数量环比增长超 200%，主动发起的对话量增长约 3 倍。OpenAI 同期上线「Businesses in ChatGPT」测试功能，让商家认领资料并查看互动。AI 在本地商业和小城商家中的落地正在加速。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-17T09:58:33+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "闲鱼在 COP31 分享 AI 加速闲置流转实践",
+   "url": "https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html",
+   "source": "雷锋网",
+   "summary": "在土耳其安塔利亚举行的第 31 届联合国气候变化大会中国角边会上，闲鱼 ESG 负责人分享 AI 促进闲置流通的案例：一台上架 923 天的相机经 AI 辅助调整信息和价格后约两小时售出，一台屏幕损坏的播放器经 AI 梳理功能后 65 分钟找到买家。闲鱼基于千问大模型和平台交易数据，已将 AI 融入发布、搜索和交易管理环节。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-17T06:40:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "材料科学智能体 MatOS 正式开源",
+   "url": "https://www.qbitai.com/2026/11/510652.html",
+   "source": "量子位",
+   "summary": "材料科学智能体 MatOS 正式开源，可执行筛材料、找配方、开发新模型等多项科研任务，官方称大幅提高材料研发任务成功率。该智能体面向材料研发流程中的重复性高、试错成本大的环节，试图用 Agent 方式压缩研发周期。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 3,
+   "published": "2026-11-17T06:09:40+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "智源联合多校发布悟界·PhysCapBench 物理数据评测基准",
+   "url": "https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html",
+   "source": "雷锋网",
+   "summary": "智源研究院联合逆矩阵、北京大学、清华大学、北京航空航天大学推出悟界·PhysCapBench，这是首个覆盖第三人称场景、第一人称操作与手持夹爪示范三大领域的视频描述物理信息评测基准。该基准从视频描述入手，统一度量描述对物理信息的覆盖与保真，为物理 AI 基模的数据选择与标注质量评估提供量尺。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-17T08:33:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "李沐加盟的 Aimotion 瞄准「产业级世界模型」",
+   "url": "https://www.qbitai.com/2026/11/510688.html",
+   "source": "量子位",
+   "summary": "量子位报道李沐加盟的 Aimotion 定位为「产业级世界模型」公司，聚焦将世界模型能力落地到产业场景。世界模型被视为具身智能与物理 AI 的核心基座，产业级定位意味着其目标客户为有真实物理场景需求的企业。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-17T11:40:37+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "腾讯优图实验室研究总监孙星离职",
+   "url": "https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html",
+   "source": "雷锋网",
+   "summary": "雷峰网独家报道，腾讯优图实验室研究总监、专家研究员孙星已离职。孙星 2016 年加入腾讯优图，早期深耕医疗影像 AI，参与腾讯觅影相关研究；大模型时代转向多模态大模型、Agent 与 RAG，主导或参与 Video-MME、VITA、Youtu-VL、Youtu-Agent、Youtu-GraphRAG 等项目。其去向尚未披露。",
+   "why": null,
+   "category": "人事变动",
+   "heat": 3,
+   "published": "2026-11-17T08:28:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "蚂蚁灵波首届具身大模型挑战赛落幕，00 后战队夺冠",
+   "url": "https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁灵波首届具身大模型挑战赛总决赛结果出炉，平均年龄 25 岁的「TARS」战队获得一等奖。15 支决赛队伍在 48 小时内以开源预训练模型 LingBot-VLA 2.0 为底座，使用统一机器人硬件和推理算力完成单臂抓取、双臂清扫等真机任务。赛事以统一底座比拼真机泛化能力。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 2,
+   "published": "2026-11-16T14:56:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "Rust 终端编码 Agent phimint v0.11.0 发布，1 核 1G 可运行",
+   "url": "https://www.oschina.net/news/503617",
+   "source": "开源中国",
+   "summary": "开源项目 phimint 发布 v0.11.0，这是一个用 Rust 编写的终端 AI 编码 Agent，不依赖 Node.js 和 Python，以静态二进制形式分发，可在 1 核 1G 环境运行。新版本强调「装上就跑」、诊断秒回和交互轮次少。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-11-17T06:55:39+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "qOntology 开源版 v1.1.3 发布，优化长文档抽取稳定性",
+   "url": "https://www.oschina.net/news/503620",
+   "source": "开源中国",
+   "summary": "qOntology 开源版 v1.1.3 围绕 AI 辅助本体建模流程进行完善，重点优化分窗抽取、异常窗口重试与任务续跑机制，并调整四轮抽取提示词和候选数据校验规则。该版本针对长文档抽取中的执行稳定性与候选数据规范性问题。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-11-17T08:11:29+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
