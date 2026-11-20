@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:55:10.043641",
+ "generated_at": "2026-11-21T07:30:49.821354",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 144,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-21",
+   "created_at": "2026-11-20T23:30:48.884785+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-21/news_daily-073048.html"
+  },
   {
    "id": 143,
    "task": "news_daily_cn",
@@ -1236,6 +1245,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "Anthropic IPO 后股价大跌，纳斯达克回吐 2026 年全部涨幅",
+   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+   "source": "Hacker News",
+   "summary": "Anthropic 以每股 83 美元完成 IPO，募资超过 800 亿美元，但上市后股价迅速下挫，并拖累纳斯达克指数抹平 2026 年全部涨幅。多家媒体报道，承销银行已平掉用于稳定股价的仓位，进一步削弱了支撑。这一走势令市场对 AI 巨头高估值与上市窗口的可持续性产生明显动摇。",
+   "why": null,
+   "category": "融资与资本市场",
+   "heat": 5,
+   "published": "2026-11-20T17:44:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic 创纪录 IPO 未能止住 AI 抛售，全球股市下挫",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
+   "summary": "Anthropic 的创纪录 IPO 未能扭转市场情绪，全球主要股市随之走低，AI 板块遭遇广泛抛售。投资者开始重新评估 AI 基础设施投入与回报周期之间的错配。这是本轮 AI 行情以来最明显的一次系统性回调。",
+   "why": null,
+   "category": "融资与资本市场",
+   "heat": 5,
+   "published": "2026-11-20T13:29:59+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Nvidia CEO 黄仁勋风波持续发酵，公司停止对华销售 H200 芯片",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+   "source": "TechCrunch AI",
+   "summary": "Nvidia 在罢免 CEO 黄仁勋的风波中发布最新财报，业绩仍保持增长，但公司宣布停止在中国销售 H200 芯片，并拒绝了部分外部诉求。多家媒体报道称，这一决定与出口管制及政治压力直接相关。芯片巨头的管理层动荡与地缘政策风险正在叠加。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 5,
+   "published": "2026-11-20T14:55:44+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Google 发布 Gemini 4 Neon，提供 100 万 token 上下文窗口",
+   "url": "https://www.technology.org/2026/11/20/google-gemini-4-neon-1m-token-context-pricing-benchmarks/",
+   "source": "Google News 英文",
+   "summary": "Google 推出 Gemini 4 Neon，主打 100 万 token 上下文窗口，面向编程与研究场景。该模型延续了 Gemini 系列在长上下文上的投入，直接对标同类前沿模型。长上下文正成为模型厂商竞争的核心指标之一。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 5,
+   "published": "2026-11-20T13:03:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Anthropic 数学家称借助 Claude 证明黎曼猜想",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge AI",
+   "summary": "Anthropic 数学家 Levent Alpöge 宣称在 Claude 协助下证明了黎曼猜想，这一悬置 167 年的千禧年难题若被验证，将是 AI 在数学领域的又一标志性突破。多家媒体报道称，目前该证明仍待同行验证。此事也加剧了外界对 AI 科研能力边界的讨论。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-20T16:34:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "AI 宣称解决 167 年黎曼猜想，人类数学家同时给出证明",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+   "source": "TechCrunch AI",
+   "summary": "在 AI 宣称借助 Claude 解决黎曼猜想的同时，一名人类数学家也提交了独立证明，形成 AI 与人类同台竞逐的局面。数学界对这两份结果均高度关注，验证工作正在进行。这一巧合本身已成为 AI 科研能力讨论的焦点。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-20T19:32:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Frostbite：由 AI 发现、设计并验证的新 CPU 架构",
+   "url": "https://architectlabs.com/blog/frostbite",
+   "source": "Hacker News",
+   "summary": "Architect Labs 披露 Frostbite，一种由 AI 完成发现、设计与验证全流程的 CPU 架构。该项目声称 AI 在架构探索与形式化验证环节均独立完成关键工作。若属实，这将把 AI 在硬件设计中的角色从辅助推进到主导。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-20T10:01:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Thinking Machines 发布 Inkling 2 Mini",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini",
+   "source": "Hacker News",
+   "summary": "Thinking Machines 推出 Inkling 2 Mini 模型，在 Hacker News 获得高度关注。该发布延续了公司在小型高效模型方向上的布局。具体能力指标尚未在摘要中披露，但社区讨论热度显示其受关注程度较高。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 4,
+   "published": "2026-11-20T20:12:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "特朗普威胁对在境外建设 AI 数据中心的企业征收重税",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge AI",
+   "summary": "特朗普表示将对在美国境外建设数据中心的企业征收“巨额税”，并称不会允许本国公司将数据中心建到国外。与此同时，美国多个州市正在限制新建数据中心的申请。这一表态将数据中心选址问题进一步政治化。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-20T18:50:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "美参议院民主党领袖指责特朗普对华出售 AI 芯片危及国家安全",
+   "url": "https://www.aa.com.tr/en/americas/top-us-senate-democrat-accuses-trump-of-putting-national-security-at-risk-with-ai-chip-sales-to-china/4132631",
+   "source": "Google News 英文",
+   "summary": "美国参议院高层民主党人指责特朗普政府批准对华出售 AI 芯片，认为此举将国家安全置于风险之中。相关争议与 Nvidia 对华销售政策及出口管制收紧的呼声交织。国会围绕 AI 芯片出口的博弈正在升级。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-20T22:45:12+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "美国批准向中国企业交付 87.9 万颗 AI 芯片",
+   "url": "https://journalrecord.com/2026/11/20/us-approved-879000-ai-chip-shipments-chinese-firms/",
+   "source": "Google News 英文",
+   "summary": "据报道，美国已批准向中国公司交付约 87.9 万颗 AI 芯片，这一数字引发对出口管制实际执行力度的质疑。该数据与国会收紧管制的呼声形成鲜明对比。芯片出口许可的规模正成为政策辩论的核心事实。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-20T16:47:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Signal 阻止 Gemini 与 Siri 等 AI 代理读取屏幕内容",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "source": "The Verge AI",
+   "summary": "Signal 在 Android 与 iOS 上限制截图功能，以阻止操作系统内置的 AI 代理读取用户消息与屏幕信息。Signal 总裁称，这类代理式 AI 能力正在削弱其独立保障隐私的能力。这是即时通讯应用首次针对 AI 代理采取系统性防御。",
+   "why": null,
+   "category": "安全与隐私",
+   "heat": 4,
+   "published": "2026-11-20T12:30:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Meta 的 AI 代理 Muse 被曝混淆对话并泄露私人数据",
+   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+   "source": "TechCrunch AI",
+   "summary": "报道称 Meta 的 AI 代理 Muse 出现对话混淆，向员工展示了他们从未提出的育儿请求、未下过的订单以及不属于自己的银行账户余额。这些案例显示代理在会话隔离与数据归属上存在严重缺陷。Meta 尚未就此作出完整回应。",
+   "why": null,
+   "category": "安全与隐私",
+   "heat": 4,
+   "published": "2026-11-19T17:38:40+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "研究者在 AI 供应链植入 200 万个“金丝雀”，暴露隐私灾难",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+   "source": "Ars Technica",
+   "summary": "一名研究者向 AI 供应链注入 200 万个带有唯一可追踪标记的提示，结果显示这些秘密数据并未保持私密。实验证明，用户数据在 AI 供应链中会以惊人速度外泄。该研究为 AI 数据治理提供了可量化的风险证据。",
+   "why": null,
+   "category": "安全与隐私",
+   "heat": 4,
+   "published": "2026-11-20T20:59:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "OpenAI 发布对抗性蒸馏的防御方法",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 公布其对抗性蒸馏的分层防御方案，结合模型训练、安全护栏、检测与执法手段，防止模型能力被提取。该方法针对的是通过蒸馏窃取前沿模型能力的灰色产业链。模型能力保护正成为头部厂商的常态化投入。",
+   "why": null,
+   "category": "安全与隐私",
+   "heat": 3,
+   "published": "2026-11-20T10:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "METR 更新 AI 能力时间跨度图：编程进步快于判断力",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+   "source": "MIT 科技评论",
+   "summary": "AI 评估非营利机构 METR 更新其广受引用的时间跨度图，显示部分 AI 能力仍沿指数轨迹提升，但模型在需要判断力的任务上明显弱于编程类任务。该报告修正了外界对 AI 能力曲线的常见误读。能力提升的不均衡性对部署场景选择有直接影响。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-20T18:15:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "SpaceX 为 AI 芯片发行 320 亿美元债务，收益率与轨道部署引发担忧",
+   "url": "https://www.investors.com/news/spacex-sells-32-billion-debt-yield-nvidia-ai-chip-financing-orbital-data-center-concerns/",
+   "source": "Google News 英文",
+   "summary": "SpaceX 发行 320 亿美元债务用于 AI 芯片相关投入，但债券收益率与轨道部署的可行性引发市场疑虑。贷款方对将抵押物送入轨道持谨慎态度。太空数据中心这一构想正面临融资现实的第一道考验。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-20T21:25:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Apple 或在开发可操控 Mac 的自有 AI 代理",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+   "source": "TechCrunch AI",
+   "summary": "报道称 Apple 正在构建能够操作 Mac 的 AI 代理，意图与 Meta Muse、Claude 及 OpenAI Dots 等产品竞争。该代理将深度整合进操作系统层面。桌面端代理的竞争正在升温。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 3,
+   "published": "2026-11-20T00:56:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Meta 新款 Muse Charm 设备或定价 300 美元",
+   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+   "source": "TechCrunch AI",
+   "summary": "Meta 计划将带屏幕、可与其 Muse AI 代理对话的小型设备 Muse Charm 定价为 300 美元，并计划在 12 月假日季前出货。该产品是 Meta 将 AI 代理硬件化的重要尝试。消费级 AI 硬件的价格带正在形成。",
+   "why": null,
+   "category": "模型与产品发布",
+   "heat": 3,
+   "published": "2026-11-19T21:58:06+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "美国众议员成立两党 AI 安全与创新党团",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/11/house-members-launch-bipartisan-ai-safety-and-innovation-caucus/417374/",
+   "source": "Google News 英文",
+   "summary": "美国众议院议员成立跨党派的 AI 安全与创新党团，旨在推动有实质意义的 AI 安全立法。该党团试图在安全监管与产业创新之间建立立法共识。国会在 AI 立法上的组织化动作正在加快。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-20T17:39:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
