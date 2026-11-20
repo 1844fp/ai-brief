@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Thu, 19 Nov 2026 08:12:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 18:55:10 +0000</lastBuildDate>
+  <item>
+    <title>DeepSeek 完成千亿级融资，梁文锋合计持股约 67.42% 保留控制权</title>
+    <link>https://www.ithome.com/1/030/199.htm</link>
+    <guid isPermaLink="false">143-1</guid>
+    <pubDate>Fri, 20 Nov 2026 10:47:45 +0000</pubDate>
+    <source>IT之家</source>
+    <description>工商信息显示 DeepSeek 运营主体杭州深度求索完成增资，注册资本增至约 1991.87 万元，新增杭州程砚为股东。据证券时报援引知情人士，本轮募资规模在 1000 亿至 1055 亿元，投后估值约 6155 亿元，叠加 6 月首轮约 510 亿元，两轮累计吸金超 1500 亿元。梁文锋直接及间接持股约 67.42%，千亿资本入场未改变控制权归属。</description>
+  </item>
+  <item>
+    <title>阿里发布 2027 财年 Q2 财报：阿里云 AI 收入增长 53%，AI 产品连续十三季三位数增长</title>
+    <link>https://www.tmtpost.com/8212798.html</link>
+    <guid isPermaLink="false">143-2</guid>
+    <pubDate>Fri, 20 Nov 2026 10:31:54 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>阿里云 AI 相关收入同比增长 53%，AI 相关产品收入已连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩大算力采购。财报同时显示即时零售业务减亏。</description>
+  </item>
+  <item>
+    <title>华为云开源昇腾原生具身世界模型 CloudRobo-WM1.2，两项评测均列第一</title>
+    <link>https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA</link>
+    <guid isPermaLink="false">143-3</guid>
+    <pubDate>Fri, 20 Nov 2026 18:19:11 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>华为云开源昇腾原生具身世界模型 CloudRobo-WM1.2，在两项评测中均排名第一。该模型完全基于昇腾算力训练，配套的整套底座同步对外开放，覆盖训练效率、数据规模与部署成本等环节。</description>
+  </item>
+  <item>
+    <title>昇腾算力训出双榜 SOTA 具身世界模型，华为云开放整套底座</title>
+    <link>https://www.qbitai.com/2026/11/511610.html</link>
+    <guid isPermaLink="false">143-4</guid>
+    <pubDate>Fri, 20 Nov 2026 08:04:58 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道，华为云用昇腾算力训练出具身世界模型并在两项榜单达到 SOTA，同时把整套训练与部署底座对外开放。报道指出，国产算力成熟正把具身竞争维度从「芯片有多强」拉入训练效率、数据规模、部署成本与场景落地速度的多维比拼。</description>
+  </item>
+  <item>
+    <title>华为发布首款鸿蒙 AI 手机，全新子品牌 OSTA 星芒亮相</title>
+    <link>https://www.ifanr.com/1690642</link>
+    <guid isPermaLink="false">143-5</guid>
+    <pubDate>Fri, 20 Nov 2026 09:17:05 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>华为在鸿蒙智行享界 V8 及星芒品牌发布会上推出全新子品牌 OSTA 星芒及首款机型 OSTA O1 Pro，定位「首款为 AI 而生的鸿蒙手机」，首发搭载 HarmonyOS 7 AI 先锋版系统，支持全新 AI 交互、系统主动智能与业界首个系统级 AI 屏。</description>
+  </item>
+  <item>
+    <title>华为星芒 OSTA O1 Pro 发布：5499 元起，搭载麒麟 9030S 与 7000mAh 电池</title>
+    <link>https://www.ithome.com/1/030/120.htm</link>
+    <guid isPermaLink="false">143-6</guid>
+    <pubDate>Fri, 20 Nov 2026 08:43:27 +0000</pubDate>
+    <source>IT之家</source>
+    <description>OSTA O1 Pro 采用 6.39 英寸 1.5K LTPS 阔直板屏，屏占比 96.1%，搭载麒麟 9030S 处理器，最高 16GB 内存与 1TB 存储，内置 7000mAh 电池并支持 66W 有线充电。影像为 2 亿像素 RYYB 主摄加 5000 万像素潜望长焦，12GB+256GB 首发价 5499 元。</description>
+  </item>
+  <item>
+    <title>小米 MiMo Token Plan 的 Pro / Max 套餐限时支持 UltraSpeed 超高速推理模型</title>
+    <link>https://www.ithome.com/1/030/193.htm</link>
+    <guid isPermaLink="false">143-7</guid>
+    <pubDate>Fri, 20 Nov 2026 10:11:05 +0000</pubDate>
+    <source>IT之家</source>
+    <description>小米 MiMo 官方文档显示，11 月 19 日起 Token Plan 的 Pro / Max 套餐限时开放 MiMo-V2.6-Pro-UltraSpeed 超高速推理模型，在保持 V2.6-Pro 性能的同时提供最高 20 倍输出速度，面向量化交易、实时风控、科学研究与实时编程辅助等场景。</description>
+  </item>
+  <item>
+    <title>福建印发推动「人工智能+」行动方案（2026—2028 年）</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itgyIaulzzXp6AF3hjXPQYRK1qXa8Fplpd9kzi5PD0xSgNvGUFYzXNQHKGkLPsDm72IOG_4ue2fG5AfCV6X_QqXT1d6Iv3TqVfJ1cO7_KopG036QHRbGPWT5I3T3KEravesueV0ktI_SLwFHZzL6JzaXB6Nq5UPmm4ErRN1jpQr4VWFCmEfVywyLC3fo89UZSR0NAniNsaihoT2CsG6-xMgzQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=A66F5A60C80B8F94F0F79042E1A7B569F15D45E16B0026E2</link>
+    <guid isPermaLink="false">143-8</guid>
+    <pubDate>Fri, 20 Nov 2026 09:30:59 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>福建省政府办公厅印发《福建省推动「人工智能+」行动方案（2026—2028 年）》，提出未来三年推动人工智能与各行业深度融合的总体部署。方案由省级政府层面统筹，覆盖技术攻关、场景落地与产业生态等方向。</description>
+  </item>
+  <item>
+    <title>我国首个自主指令集综合开源社区开放原子龙架构社区成立</title>
+    <link>https://www.ithome.com/1/030/139.htm</link>
+    <guid isPermaLink="false">143-9</guid>
+    <pubDate>Fri, 20 Nov 2026 09:44:40 +0000</pubDate>
+    <source>IT之家</source>
+    <description>2026 开放原子开发者大会上，龙芯中科与开放原子开源基金会联合共建的开放原子龙架构社区正式成立，是我国自主指令集领域首个综合性开源社区。社区首批成员单位 22 家，重点布局 IP 核、二进制翻译、基础操作系统三大专项，OpenLA132 处理器核、LATU/LATS 翻译器与 LoongHong 操作系统等项目已上线。</description>
+  </item>
+  <item>
+    <title>蚂蚁 OceanBase 团队开源 PowerContext，提供跨对话的 Agent 记忆服务</title>
+    <link>https://www.oschina.net/news/503704/oceanbase-powercontex</link>
+    <guid isPermaLink="false">143-10</guid>
+    <pubDate>Fri, 20 Nov 2026 07:55:30 +0000</pubDate>
+    <source>开源中国</source>
+    <description>蚂蚁 OceanBase 团队开源 PowerContext，定位为「给 AI Agent 用的开源上下文服务」，把决策、约束、证据、进度等耐久信息从单次对话中抽离到外部存储，使下一个会话、下一个 Agent 或接手的人能从当前状态继续，无需重读聊天记录。</description>
+  </item>
+  <item>
+    <title>蚂蚁灵光新增企业微信、腾讯文档等 7 项连接能力，外部服务累计 54 项</title>
+    <link>https://www.leiphone.com/category/industrynews/walzAUin5QxPaCOQ.html</link>
+    <guid isPermaLink="false">143-11</guid>
+    <pubDate>Fri, 20 Nov 2026 07:43:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蚂蚁集团旗下 AI 助手灵光宣布开放生态扩容，新增企业微信、腾讯文档、腾讯会议、飞常准等 7 项外部连接能力，支持的外部服务从 47 项增至 54 项，覆盖个人生活、办公协作与差旅出行场景，并新增相册连接与系统快捷指令。</description>
+  </item>
+  <item>
+    <title>商汤林达华谈 20% 资源投入逻辑：Seko 用户增长 7 至 8 倍</title>
+    <link>https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html</link>
+    <guid isPermaLink="false">143-12</guid>
+    <pubDate>Fri, 20 Nov 2026 01:47:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>商汤联合创始人、首席科学家林达华在访谈中回应 Seko 与字节 Seedance 的定位差异，指出 Seko 面向的是百集短剧的完整创作流程，而非单段视频渲染。他透露该产品今年用户增长 7 到 8 倍，平台已产出播放量过亿的短剧，并谈及商汤在空间智能与长期竞争力上的资源投入取舍。</description>
+  </item>
+  <item>
+    <title>理想自研智驾芯片登上台积电讲台，强调让用户开车时忘掉芯片</title>
+    <link>https://www.ifanr.com/1690596</link>
+    <guid isPermaLink="false">143-13</guid>
+    <pubDate>Fri, 20 Nov 2026 10:39:47 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>爱范儿报道，理想汽车自研的智驾芯片登上台积电讲台，公司强调最好的智驾芯片是让用户彻底忘掉它。报道聚焦理想在智驾芯片自研上的进展与产品理念，即芯片能力应服务于无感的驾驶体验而非参数宣传。</description>
+  </item>
+  <item>
+    <title>第六代 AMD EPYC 处理器技术峰会在京举行，聚焦 Agentic AI 基础设施</title>
+    <link>https://www.leiphone.com/category/industrynews/TVtcS88CGW5q5JDk.html</link>
+    <guid isPermaLink="false">143-14</guid>
+    <pubDate>Fri, 20 Nov 2026 07:47:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>AMD 在北京举办第六代 EPYC 处理器（代号 Venice）技术峰会，1237 位嘉宾参会，联合服务器系统厂商与软硬件生态伙伴举行基于该处理器的服务器新品上市仪式。峰会指出智能体规模化部署带来大量沙箱与并发计算需求，CPU 的处理能力与平台扩展性成为 Agentic AI 基础设施的关键。</description>
+  </item>
+  <item>
+    <title>国内首个酶设计大模型「天华开物」在天津大学发布</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itgTGjLLwtaAloF3hjXPQYRK1qXa8Fplpd99ef8qDh-9ldhW36KYdq9oaw7P9S-Cqv9pQ6eXyp3uxyHe7EwUO35wbgEqLfvXOxDrPEzy3QMChwe3psbibOh0OZXBF4-IztwMx_-IZpx3_N5LK3A5Yy_014lMXRiJDQhZMzlgDSXjyaLWa4wH8nkN6REuPACfeAeVLPiZ3zPEF0NGbbB75bUeA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=A66F8519C80B8F94F0F79042E1A7B569F15D45E16B0026EB</link>
+    <guid isPermaLink="false">143-15</guid>
+    <pubDate>Fri, 20 Nov 2026 09:12:57 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>国内首个酶设计大模型「天华开物」在天津大学正式发布，具备通用大模型所不具备的反应工艺数据，并适配国产算力，支持企业本地化私有部署以保障产业数据安全。</description>
+  </item>
+  <item>
+    <title>Agnes 以双系统决策加双层自进化将 Agent 效率最高提升 14 倍、成本降至 1/27</title>
+    <link>https://www.qbitai.com/2026/11/511582.html</link>
+    <guid isPermaLink="false">143-16</guid>
+    <pubDate>Fri, 20 Nov 2026 05:24:11 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道，Agnes 采用双系统决策与双层自进化架构，使 Agent 效率最高提升 14 倍，成本降至原来的 1/27，并已开源 Agnes Harness。</description>
+  </item>
+  <item>
+    <title>影石研究院首度公开：字节旧将亓鲁任负责人兼首席 AI 官</title>
+    <link>https://www.leiphone.com/category/weiwu/o4pLV3X7mPE6sfxq.html</link>
+    <guid isPermaLink="false">143-17</guid>
+    <pubDate>Fri, 20 Nov 2026 02:01:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>雷峰网独家获悉，影石创新董事亓鲁已出任影石研究院中心负责人并兼任首席 AI 官，主要负责算法及人工智能领域研发。亓鲁为武汉大学计算机学院教授，曾任字节跳动高级研究科学家并任职于 Seed 大模型部门，2024 年加入影石。研究院主要围绕影像算法、计算机视觉及人工智能开展研究。</description>
+  </item>
+  <item>
+    <title>前京东健康市场营销部总经理王丁虓加入面壁智能，任品牌公关负责人</title>
+    <link>https://www.leiphone.com/category/industrynews/r1chb5ofkWYaKjMn.html</link>
+    <guid isPermaLink="false">143-18</guid>
+    <pubDate>Fri, 20 Nov 2026 02:58:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>雷峰网独家获悉，原京东健康市场营销部总经理王丁虓已加入面壁智能担任品牌公关负责人。王丁虓曾任职电通数码、奥美广告，后加入字节跳动负责商业化营销与抖音生活服务区域市场，2025 年出任京东健康市场部营销部总经理。面壁智能孵化自清华 NLP 实验室，主攻端侧基座大模型。</description>
+  </item>
+  <item>
+    <title>前三季度我国数字产业收入 32.41 万亿元，同比增长 14.8%</title>
+    <link>https://www.ithome.com/1/030/135.htm</link>
+    <guid isPermaLink="false">143-19</guid>
+    <pubDate>Fri, 20 Nov 2026 09:34:36 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据央视新闻，前三季度我国数字产业实现收入 32.41 万亿元，同比增长 14.8%，增速较上年同期加快 5.2 个百分点；利润 2.78 万亿元，同比增长 23.4%。其中制造业部分收入 19.32 万亿元、增长 20.5%，人工智能需求旺盛与出口强劲是主要拉动因素。</description>
+  </item>
+  <item>
+    <title>范式智能发布 Phai-A1 等两款自研模型，基于国产算力全链路训练</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS70o-oTW0itgTGjLLwtaAloF3hjXPQYRK1qXa8Fplpd9j2g64OOBIGH7zeo65_TVgJyVUOi4oCSCifRgVG5n-4VY0Ca2-oLgfH_kPvjs2HPgPTyIVY-1Y6_0fOh-QqvsTKmbMwn8y9QPvmx8zeRMZRJZ6Ojs-0o_fDHd20JfhkePKrWHoL6MkGCCiM84tAQ9OOF3w0IrpTDIO-D-VvZWf7C54z_tGSZTqA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=A66F8519C80B8F94F0F79042E1A7B569F15D45E16B0026EB</link>
+    <guid isPermaLink="false">143-20</guid>
+    <pubDate>Fri, 20 Nov 2026 10:45:14 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>老牌 AI 公司范式智能（原第四范式）发布两款自研模型 Phai-A1 等，均基于国产算力完成全链路训练。相关报道同时讨论国产算力宣传中「快 10 倍」等口径的实际可用性，以及普通团队如何落地使用。</description>
+  </item>
   <item>
     <title>智源与清昴智能上线基于国产芯片的商用 Token 工厂</title>
     <link>https://www.leiphone.com/category/industrynews/ukrIJ082d0MIuodR.html</link>
@@ -323,165 +483,5 @@
     <pubDate>Wed, 18 Nov 2026 06:47:26 +0000</pubDate>
     <source>Hacker News</source>
     <description>独立网站 All About Berlin 的作者发文称，AI 生成内容与搜索流量结构变化正在摧毁其业务。该文在 Hacker News 获得 747 分、678 条评论，成为当日最热讨论之一。</description>
-  </item>
-  <item>
-    <title>OpenAI 模型用于芯片设计，优化 Jalapeño 硅片电路</title>
-    <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-    <guid isPermaLink="false">139-10</guid>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 称其 GPT-6 Astra 模型优化了 Jalapeño 硅片所用电路，并改进了 RISC-V 核心设计。这是 OpenAI 首次系统披露模型在芯片设计环节的落地效果。</description>
-  </item>
-  <item>
-    <title>更多银行称使用 AI 智能体的客户风险自担，即使被黑</title>
-    <link>https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked</link>
-    <guid isPermaLink="false">139-11</guid>
-    <pubDate>Wed, 18 Nov 2026 17:32:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>花旗成为最新一家对个人理财 AI 智能体设限的大型金融机构，明确客户使用此类智能体时风险自担。多家银行正收紧对 AI 代理访问账户的授权。</description>
-  </item>
-  <item>
-    <title>银行 CEO 与 NSA 向国会称 AI 驱动的补丁导致系统中断</title>
-    <link>https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages</link>
-    <guid isPermaLink="false">139-12</guid>
-    <pubDate>Wed, 18 Nov 2026 01:45:11 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>银行 CEO 与美国国家安全局向国会作证，称 AI 驱动的补丁更新是近期多起系统中断的原因之一。听证会聚焦自动化运维在关键金融基础设施中的风险。</description>
-  </item>
-  <item>
-    <title>Artex 成为犯罪分子的新宠“傻瓜式”AI 黑客工具</title>
-    <link>https://www.wired.com/story/artex-ai-hacking-tools</link>
-    <guid isPermaLink="false">139-13</guid>
-    <pubDate>Wed, 18 Nov 2026 16:35:24 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>Wired 报道称，Artex 等渗透测试工具让新手黑客通过向聊天机器人输入提示词，即可扫描目标系统漏洞并发动攻击。此类工具降低了网络攻击的技术门槛。</description>
-  </item>
-  <item>
-    <title>气味初创公司 Osmo 称其 AI 鼻子达到人类水平</title>
-    <link>https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans</link>
-    <guid isPermaLink="false">139-14</guid>
-    <pubDate>Wed, 18 Nov 2026 10:20:30 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>MIT 科技评论报道，初创公司 Osmo 在新泽西实验室训练约 30 名人类嗅辨员，为号称全球首个气味基础模型构建训练数据。公司称其 AI 鼻子在气味识别上可与人类媲美。</description>
-  </item>
-  <item>
-    <title>Snapchat 允许开发者用 Claude Code、Cursor 等 AI 编程助手构建 AR 滤镜</title>
-    <link>https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor</link>
-    <guid isPermaLink="false">139-15</guid>
-    <pubDate>Wed, 18 Nov 2026 19:56:39 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Snapchat 宣布 Lens 创作者可用自然语言描述想要的滤镜，由 Claude Code、Cursor 等 AI 编程助手完成从开发到上线的全流程。这降低了 AR 内容开发的门槛。</description>
-  </item>
-  <item>
-    <title>Google 搜索的 AI 功能上线独立无痕模式</title>
-    <link>https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode</link>
-    <guid isPermaLink="false">139-16</guid>
-    <pubDate>Wed, 18 Nov 2026 18:04:05 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Google 为搜索中的 AI 模式推出临时会话功能，用户对话不会进入搜索历史，也不会影响后续推荐。这是 AI 搜索产品在隐私设计上的一次补课。</description>
-  </item>
-  <item>
-    <title>Suno 推出 Visuals，可为 AI 音乐生成视频</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature</link>
-    <guid isPermaLink="false">139-17</guid>
-    <pubDate>Wed, 18 Nov 2026 11:16:53 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Suno 上线 Visuals 功能，用户可把生成的歌曲转为自动对口型的 AI 视频片段，也可通过提示词生成封面图与专辑美术。这是 Suno 从音乐向多模态内容平台的扩张。</description>
-  </item>
-  <item>
-    <title>特朗普菲律宾之行推动 AI 芯片与数据中心布局</title>
-    <link>https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica</link>
-    <guid isPermaLink="false">139-18</guid>
-    <pubDate>Wed, 18 Nov 2026 19:40:36 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>特朗普访问菲律宾期间推进一项 AI 枢纽计划，涉及芯片与数据中心合作。The Verge 报道称该安排与美方在亚太的算力供应链布局相关。</description>
-  </item>
-  <item>
-    <title>阿里发布 Qwen4-Max：2.4 万亿参数，单任务成本降 58%</title>
-    <link>http://www.geekpark.net/news/374079</link>
-    <guid isPermaLink="false">138-1</guid>
-    <pubDate>Tue, 17 Nov 2026 06:41:48 +0000</pubDate>
-    <source>极客公园</source>
-    <description>阿里千问正式发布新一代旗舰模型 Qwen4-Max，维持 2.4 万亿总参数，原生支持文本、图像、视频输入，上下文窗口达 100 万 Token。官方数据显示，在模拟真实工作场景的评测中，单任务平均费用从上一代的 26.58 元降至 11.16 元，降幅 58%。这标志着国产旗舰模型从拼跑分转向拼真实工作流中的可用性与经济性。</description>
-  </item>
-  <item>
-    <title>腾讯 Hy4 flash 实测：国模进入「过日子」时代</title>
-    <link>http://www.geekpark.net/news/374083</link>
-    <guid isPermaLink="false">138-2</guid>
-    <pubDate>Tue, 17 Nov 2026 07:12:48 +0000</pubDate>
-    <source>极客公园</source>
-    <description>腾讯混元推出 Hy4 flash 模型，极客公园实测评价为快速、实惠、聪明，主打 Agent 场景下的高频调用经济性。文章指出，2026 年 Agent 流行后，模型竞争焦点已从 SOTA 能力转向能否用得起、等得起，OpenRouter 平台上 Agent 的 Token 用量已达人类直接调用的约七倍。</description>
-  </item>
-  <item>
-    <title>商汤发布 SenseNova Loop-9B，寒武纪完成 Day 0 适配</title>
-    <link>https://www.ithome.com/1/028/568.htm</link>
-    <guid isPermaLink="false">138-3</guid>
-    <pubDate>Tue, 17 Nov 2026 16:58:02 +0000</pubDate>
-    <source>IT之家</source>
-    <description>商汤科技发布 SenseNova Loop-9B 模型，通过 Loop 结构复用模型层参数并结合流形约束超连接（mHC），以约 9B 参数扩展计算深度，面向复杂推理、代码、工具调用和多模态任务。寒武纪基于 vllm_mlu 完成 Day 0 适配，围绕循环层展开、MLU 算子适配和 mHC 路由优化打通推理链路。</description>
-  </item>
-  <item>
-    <title>中国「灵晟」蝉联 TOP500 超算榜首，首个纯 CPU 双精度破 2 Exaflops</title>
-    <link>https://www.solidot.org/story?sid=85913</link>
-    <guid isPermaLink="false">138-4</guid>
-    <pubDate>Tue, 17 Nov 2026 09:54:30 +0000</pubDate>
-    <source>Solidot</source>
-    <description>2026 年 11 月 TOP500 榜单公布，深圳国家超算中心的灵晟以 2.198 Exaflop/s 的 HPL 性能连续第二次登顶，成为榜单中首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的系统。灵晟采用 304 核的 LX2 CPU，共 1379 万核心，运行麒麟操作系统，功耗 42.2 兆瓦。</description>
-  </item>
-  <item>
-    <title>华为云开源昇腾原生具身世界模型 CloudRobo-WM1.2</title>
-    <link>https://www.oschina.net/news/503602</link>
-    <guid isPermaLink="false">138-5</guid>
-    <pubDate>Mon, 16 Nov 2026 12:52:16 +0000</pubDate>
-    <source>开源中国</source>
-    <description>华为云「行业AI梦工厂」发布并开源昇腾原生的具身世界模型 CloudRobo-WM1.2，采用共享世界模型骨干网络实现预测增强的世界表征，基于原生 DualAct 架构实现世界模型原生动作生成。该模型在 RoboTwin 2.0、LiberoPro 2.0 评测中均位列第一。</description>
-  </item>
-  <item>
-    <title>中国与东盟宣布将 2027 年定为人工智能合作年</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxTSeI6shcwqgJe57CzwmWpMW31KZQ9l6VqXa8Fplpd9iEmOr6jUJwAl4aoae-2mhwvZ0_KOnCPCb3cfwaONf1-VyFAHRSwRMb1pD8YULRtwwCOb5Ql68VUeRnvSfBoptPnDDliHu93fh2iyuGU3p2sj4VvTREOtyaHRKnhBtgZTLeUaI6rPkWvvM-mkTHDZmsi5_5vjS-W7U4FNrMK4jnhOJBjQH7pCxQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=937C989A250DDAF48483E5043554222D851637A56AFCEA8A</link>
-    <guid isPermaLink="false">138-6</guid>
-    <pubDate>Tue, 17 Nov 2026 23:33:35 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>据新华社消息，第 29 次中国—东盟领导人会议宣布将 2027 年定为人工智能合作年，以 AI 为桥梁推动数字丝路建设。这是中国在区域层面推动 AI 治理与产业合作的最新动作，覆盖东南亚多国。</description>
-  </item>
-  <item>
-    <title>《数字广东建设「十五五」规划》发布：攻关 AI 芯片、存算一体芯片</title>
-    <link>https://www.mrjjxw.com/articles/2026-11-17/4650409.html</link>
-    <guid isPermaLink="false">138-7</guid>
-    <pubDate>Tue, 17 Nov 2026 22:13:56 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>《数字广东建设「十五五」规划》提出壮大集成电路制造，攻关人工智能芯片、存算一体芯片等硬件，加快部署超高速光传输网络，同时八省市获批工信部 6G 创新部省协同试点。规划将 AI 芯片与存算一体列为重点攻关方向。</description>
-  </item>
-  <item>
-    <title>美国商务部新规将东南亚五国纳入 AI 芯片许可清单</title>
-    <link>https://www.eet-china.com/news/202611171218.html</link>
-    <guid isPermaLink="false">138-8</guid>
-    <pubDate>Tue, 17 Nov 2026 02:51:16 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>美国商务部发布先进 AI 芯片出口管制新规，将东南亚五国纳入许可清单，进一步收紧中国通过海外算力通道获取先进芯片的路径。多家媒体报道，此举被视为对中国海外算力布局的围堵。</description>
-  </item>
-  <item>
-    <title>澳大利亚加入美国主导的《旧金山宣言》AI 供应链安全协议</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxTSeI6shcwqgJe57CzwmWpMW31KZQ9l6VqXa8Fplpd9q2jX-M1dZXdGARKtaJG0zg8byHv1AOyPeMtU7INe3Mkb8R-f6Rtszucy7C-VaJck_Jb4bLVCWkCq7bJ5w3S6LBlUb80O64PldPA_GEu-P_VsXpLHTtZAwJjKNa4I0HxaC9c7gqnUd-CBL2rYEEEnxkUkJhpKaRAbvWTCYq6wVYBQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=937C989A250DDAF48483E5043554222D851637A56AFCEA8A</link>
-    <guid isPermaLink="false">138-9</guid>
-    <pubDate>Tue, 17 Nov 2026 23:21:34 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>澳大利亚与美国、日本、印度、英国等 9 国共同签署《旧金山宣言》，提出加强人工智能发展所需敏感技术、关键基础设施的供应链安全合作。分析认为，美方借盟友机制强化对华科技产业链竞争。</description>
-  </item>
-  <item>
-    <title>阿里云连续六年香港 IaaS 第一，企业客户 AI 渗透率达 95%</title>
-    <link>https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html</link>
-    <guid isPermaLink="false">138-10</guid>
-    <pubDate>Tue, 17 Nov 2026 09:24:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>阿里云在香港峰会上宣布连续六年位居香港 IaaS 市场份额第一，在港企业级客户 AI 服务启用率超过 95%。保诚保险基于阿里云推出「AI 核保师」，准确率超 95%，从概念到上线不到三个月；香港特区政府空间数据共享平台也用千问开发了政务 AI 助手。</description>
-  </item>
-  <item>
-    <title>闲鱼在 COP31 分享 AI 促进闲置流通实践</title>
-    <link>https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html</link>
-    <guid isPermaLink="false">138-11</guid>
-    <pubDate>Tue, 17 Nov 2026 06:40:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>在土耳其安塔利亚举行的第 31 届联合国气候变化大会中国角边会上，闲鱼 ESG 负责人分享了 AI 加速闲置流转的案例：一台上架 923 天的相机经 AI 辅助调整信息和价格后约两小时售出，一台屏幕损坏的播放器经 AI 梳理功能后 65 分钟找到买家。闲鱼基于千问大模型和平台交易数据，已将 AI 融入发布、搜索和交易管理环节。</description>
   </item>
 </channel></rss>
