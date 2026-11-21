@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:02:16.605547",
+ "generated_at": "2026-11-22T07:30:41.621809",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 148,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-22",
+   "created_at": "2026-11-21T23:30:40.595634+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-22/news_daily-073040.html"
+  },
   {
    "id": 147,
    "task": "news_daily_cn",
@@ -1272,6 +1281,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "纳斯达克回吐 2026 年全部涨幅，AI 抛售拖累 Anthropic 上市第二日",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
+   "summary": "Anthropic 上市次日，AI 板块抛售加剧，纳斯达克综合指数抹去 2026 年全部涨幅，标普与道指进入回调区间。市场对 AI 资本开支回报与高估值的担忧集中爆发，多家媒体报道这一轮抛售规模为 2020 年以来科技股最差单周表现。",
+   "why": null,
+   "category": "资本市场",
+   "heat": 5,
+   "published": "2026-11-20T13:29:59+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic IPO 破发加剧华尔街 4 万亿美元 AI 市值蒸发",
+   "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+   "source": "Hacker News",
+   "summary": "《华尔街日报》报道，Anthropic 创纪录 IPO 与科技股自 2020 年以来最差单周行情叠加，AI 板块累计蒸发约 4 万亿美元市值。IPO 定价与首日表现未能稳住市场情绪，反而成为抛售的触发点之一。",
+   "why": null,
+   "category": "资本市场",
+   "heat": 5,
+   "published": "2026-11-20T21:18:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Anthropic 数学家称借助 Claude 解决千禧年大奖难题 Riemann 猜想",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge AI",
+   "summary": "Anthropic 数学家 Levent Alpöge 声称在 Claude 协助下证明了 Riemann 猜想，这是数学界悬而未决逾百年的千禧年大奖难题之一。若获验证，将是 AI 在数学领域又一标志性成果，但证明仍需同行严格审查。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-20T16:34:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "AI 与人类同时宣称解决 167 年历史的 Riemann 猜想",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，AI 驱动的最新数学结果令数学家震惊，但同时出现了一份竞争性的人类证明。AI 与人类几乎同时宣称攻克同一难题，使验证与优先权问题变得复杂。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-20T19:32:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Lean 形式化验证 Riemann 猜想",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+   "source": "Hacker News",
+   "summary": "Lean 证明助手社区发布博客，展示对 Riemann 猜想的 Lean 形式化验证工作，在 Hacker News 获得 745 分、近 600 条评论。形式化验证为 AI 与人类证明之争提供了可机器检验的裁决路径。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-21T14:36:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "OpenAI 推出 ChatGPT Wallet，称可安全地让 AI 代为购物",
+   "url": "https://mashable.com/tech/openai-launches-chatgpt-wallet",
+   "source": "Google News 英文",
+   "summary": "OpenAI 发布 ChatGPT Wallet，定位为让 AI 代理替用户完成购物的安全支付方案。该产品将 AI 代理能力延伸至交易环节，涉及支付授权、风控与责任归属等新问题。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-21T18:33:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "马斯克称 Google Gemini 4 Neon 是「重磅之作」，三破 Zapier 纪录",
+   "url": "https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic",
+   "source": "Google News 英文",
+   "summary": "Google Gemini 4 Neon 第三次刷新 Zapier 相关纪录，马斯克公开称其为「a Banger」（重磅之作）。报道认为这对正处于 IPO 后动荡期的 Anthropic 构成不利时机。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-21T18:59:54+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "Signal 限制移动操作系统上的 AI 代理截取数据",
+   "url": "https://signal.org/blog/protecting-your-privacy",
+   "source": "Hacker News",
+   "summary": "Signal 发布博客，宣布限制移动操作系统平台上 AI 代理对其数据的截取能力，Hacker News 热度达 570 分。此举针对 AI 代理通过系统级权限读取屏幕内容的隐私风险。",
+   "why": null,
+   "category": "隐私与安全",
+   "heat": 4,
+   "published": "2026-11-20T09:42:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Signal 因 AI 监控「生存威胁」限制移动端截图",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，Signal 在 Android 与 iOS 应用中限制用户截图能力，称 AI 监控构成「生存威胁」。这是 Signal 继去年因 Microsoft Recall 限制截图后再度收紧同类功能。",
+   "why": null,
+   "category": "隐私与安全",
+   "heat": 4,
+   "published": "2026-11-21T21:37:10+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "特朗普威胁对在境外建设 AI 数据中心征收「巨额税」",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge AI",
+   "summary": "特朗普表示将对在美国境外建设数据中心的公司征收「巨额税」，并称不会允许美国公司把数据中心建到国外。与此同时，美国多州和城市正在限制新建数据中心申请。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-20T18:50:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "联合国未能就「杀手机器人」监管规则达成一致",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge AI",
+   "summary": "在日内瓦召开的联合国会议上，各国代表未能就自主武器系统规则达成协议，最终仅同意「开始讨论各种选项」。经过一周基本无果的谈判，自主武器国际监管仍停留在程序性阶段。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-21T20:03:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "AI 领域最被误读的图表迎来重大更新",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+   "source": "MIT 科技评论",
+   "summary": "AI 评估非营利组织 METR 更新其广为引用的「时间跨度」图表，显示部分 AI 能力仍沿指数轨迹提升，但模型在需要判断力的任务上明显弱于编程任务。该图表此前被广泛误读为通用能力预测。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-20T18:15:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "推理已占 AI 工作负载三分之二，芯片部署格局生变",
+   "url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+   "source": "Google News 英文",
+   "summary": "SiliconANGLE 报道，推理任务已占 AI 工作负载约三分之二，正在改变芯片部署的位置与形态。工作负载结构从训练转向推理，对内存带宽、能效与边缘部署提出不同要求。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-21T18:28:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "Apple 或在研发可操控 Mac 的自有 AI 代理",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，Apple 似乎正在构建可运行于 Mac 的 AI 代理，与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争。该代理将具备操作系统级操作能力。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-20T00:56:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Anthropic 七位创始人在创纪录 IPO 中套现近 20 亿美元",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，按上调后的每股 83 美元 IPO 价格计算，Anthropic 七位创始人每人套现 2.8 亿美元，公司募资近 1050 亿美元。这是 AI 公司迄今规模最大的创始人套现之一。",
+   "why": null,
+   "category": "资本市场",
+   "heat": 4,
+   "published": "2026-11-20T00:43:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Nvidia 黄仁勋风波持续发酵",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 播客讨论 Nvidia 罢免 CEO 黄仁勋后的余波：公司最新财报增长健康，但宣布停止在中国销售 H200 芯片，并拒绝了部分外部呼声。多家媒体报道此事。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-20T14:55:44+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "研究者向 AI 供应链植入 200 万个「金丝雀」，暴露隐私灾难",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+   "source": "Ars Technica",
+   "summary": "Ars Technica 报道，研究者用带有唯一可追踪秘密的提示词进行测试，证明数据在 AI 供应链中无法保持私密。测试规模达 200 万个「金丝雀」标记，暴露了模型训练与推理链路中的数据泄露路径。",
+   "why": null,
+   "category": "隐私与安全",
+   "heat": 4,
+   "published": "2026-11-20T20:59:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "OpenAI 发布对抗性蒸馏防御方案",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 介绍其分层对抗性蒸馏防御方法，结合模型训练、安全防护、检测与执法手段，防止模型能力被提取。该方案针对的是通过 API 输出蒸馏复制模型能力的攻击。",
+   "why": null,
+   "category": "安全与治理",
+   "heat": 3,
+   "published": "2026-11-20T10:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "OpenAI 发布 MedChemBench，评估 AI 在早期药物发现中的能力",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 推出 MedChemBench 基准，用于评估 AI 模型解读分子结构、基于实验证据推理以及筛选化合物的能力。该基准聚焦早期药物发现环节，填补了化学推理评估的空白。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "Google 员工请愿，要求公司不要惩罚拒绝 AI 的学校",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
+   "source": "Hacker News",
+   "summary": "Mother Jones 报道，Alphabet 工会成员发起请愿，要求 Google 不要惩罚不愿采用 Gemini 的学校，Hacker News 热度 279 分。事件反映 AI 进校园过程中员工与公司在伦理立场上的分歧。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 3,
+   "published": "2026-11-20T16:59:27+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

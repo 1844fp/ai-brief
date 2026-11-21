@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sat, 21 Nov 2026 08:02:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 07:30:41 +0000</lastBuildDate>
+  <item>
+    <title>纳斯达克回吐 2026 年全部涨幅，AI 抛售拖累 Anthropic 上市第二日</title>
+    <link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
+    <guid isPermaLink="false">148-1</guid>
+    <pubDate>Fri, 20 Nov 2026 13:29:59 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Anthropic 上市次日，AI 板块抛售加剧，纳斯达克综合指数抹去 2026 年全部涨幅，标普与道指进入回调区间。市场对 AI 资本开支回报与高估值的担忧集中爆发，多家媒体报道这一轮抛售规模为 2020 年以来科技股最差单周表现。</description>
+  </item>
+  <item>
+    <title>Anthropic IPO 破发加剧华尔街 4 万亿美元 AI 市值蒸发</title>
+    <link>https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90</link>
+    <guid isPermaLink="false">148-2</guid>
+    <pubDate>Fri, 20 Nov 2026 21:18:46 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>《华尔街日报》报道，Anthropic 创纪录 IPO 与科技股自 2020 年以来最差单周行情叠加，AI 板块累计蒸发约 4 万亿美元市值。IPO 定价与首日表现未能稳住市场情绪，反而成为抛售的触发点之一。</description>
+  </item>
+  <item>
+    <title>Anthropic 数学家称借助 Claude 解决千禧年大奖难题 Riemann 猜想</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
+    <guid isPermaLink="false">148-3</guid>
+    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>Anthropic 数学家 Levent Alpöge 声称在 Claude 协助下证明了 Riemann 猜想，这是数学界悬而未决逾百年的千禧年大奖难题之一。若获验证，将是 AI 在数学领域又一标志性成果，但证明仍需同行严格审查。</description>
+  </item>
+  <item>
+    <title>AI 与人类同时宣称解决 167 年历史的 Riemann 猜想</title>
+    <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too</link>
+    <guid isPermaLink="false">148-4</guid>
+    <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，AI 驱动的最新数学结果令数学家震惊，但同时出现了一份竞争性的人类证明。AI 与人类几乎同时宣称攻克同一难题，使验证与优先权问题变得复杂。</description>
+  </item>
+  <item>
+    <title>Lean 形式化验证 Riemann 猜想</title>
+    <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis</link>
+    <guid isPermaLink="false">148-5</guid>
+    <pubDate>Sat, 21 Nov 2026 14:36:45 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Lean 证明助手社区发布博客，展示对 Riemann 猜想的 Lean 形式化验证工作，在 Hacker News 获得 745 分、近 600 条评论。形式化验证为 AI 与人类证明之争提供了可机器检验的裁决路径。</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 ChatGPT Wallet，称可安全地让 AI 代为购物</title>
+    <link>https://mashable.com/tech/openai-launches-chatgpt-wallet</link>
+    <guid isPermaLink="false">148-6</guid>
+    <pubDate>Sat, 21 Nov 2026 18:33:25 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>OpenAI 发布 ChatGPT Wallet，定位为让 AI 代理替用户完成购物的安全支付方案。该产品将 AI 代理能力延伸至交易环节，涉及支付授权、风控与责任归属等新问题。</description>
+  </item>
+  <item>
+    <title>马斯克称 Google Gemini 4 Neon 是「重磅之作」，三破 Zapier 纪录</title>
+    <link>https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic</link>
+    <guid isPermaLink="false">148-7</guid>
+    <pubDate>Sat, 21 Nov 2026 18:59:54 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>Google Gemini 4 Neon 第三次刷新 Zapier 相关纪录，马斯克公开称其为「a Banger」（重磅之作）。报道认为这对正处于 IPO 后动荡期的 Anthropic 构成不利时机。</description>
+  </item>
+  <item>
+    <title>Signal 限制移动操作系统上的 AI 代理截取数据</title>
+    <link>https://signal.org/blog/protecting-your-privacy</link>
+    <guid isPermaLink="false">148-8</guid>
+    <pubDate>Fri, 20 Nov 2026 09:42:16 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Signal 发布博客，宣布限制移动操作系统平台上 AI 代理对其数据的截取能力，Hacker News 热度达 570 分。此举针对 AI 代理通过系统级权限读取屏幕内容的隐私风险。</description>
+  </item>
+  <item>
+    <title>Signal 因 AI 监控「生存威胁」限制移动端截图</title>
+    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance</link>
+    <guid isPermaLink="false">148-9</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，Signal 在 Android 与 iOS 应用中限制用户截图能力，称 AI 监控构成「生存威胁」。这是 Signal 继去年因 Microsoft Recall 限制截图后再度收紧同类功能。</description>
+  </item>
+  <item>
+    <title>特朗普威胁对在境外建设 AI 数据中心征收「巨额税」</title>
+    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
+    <guid isPermaLink="false">148-10</guid>
+    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>特朗普表示将对在美国境外建设数据中心的公司征收「巨额税」，并称不会允许美国公司把数据中心建到国外。与此同时，美国多州和城市正在限制新建数据中心申请。</description>
+  </item>
+  <item>
+    <title>联合国未能就「杀手机器人」监管规则达成一致</title>
+    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
+    <guid isPermaLink="false">148-11</guid>
+    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>在日内瓦召开的联合国会议上，各国代表未能就自主武器系统规则达成协议，最终仅同意「开始讨论各种选项」。经过一周基本无果的谈判，自主武器国际监管仍停留在程序性阶段。</description>
+  </item>
+  <item>
+    <title>AI 领域最被误读的图表迎来重大更新</title>
+    <link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update</link>
+    <guid isPermaLink="false">148-12</guid>
+    <pubDate>Fri, 20 Nov 2026 18:15:15 +0000</pubDate>
+    <source>MIT 科技评论</source>
+    <description>AI 评估非营利组织 METR 更新其广为引用的「时间跨度」图表，显示部分 AI 能力仍沿指数轨迹提升，但模型在需要判断力的任务上明显弱于编程任务。该图表此前被广泛误读为通用能力预测。</description>
+  </item>
+  <item>
+    <title>推理已占 AI 工作负载三分之二，芯片部署格局生变</title>
+    <link>https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/</link>
+    <guid isPermaLink="false">148-13</guid>
+    <pubDate>Sat, 21 Nov 2026 18:28:00 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>SiliconANGLE 报道，推理任务已占 AI 工作负载约三分之二，正在改变芯片部署的位置与形态。工作负载结构从训练转向推理，对内存带宽、能效与边缘部署提出不同要求。</description>
+  </item>
+  <item>
+    <title>Apple 或在研发可操控 Mac 的自有 AI 代理</title>
+    <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac</link>
+    <guid isPermaLink="false">148-14</guid>
+    <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，Apple 似乎正在构建可运行于 Mac 的 AI 代理，与 Meta Muse、Instinct、Claude 和 OpenAI Dots 等产品竞争。该代理将具备操作系统级操作能力。</description>
+  </item>
+  <item>
+    <title>Anthropic 七位创始人在创纪录 IPO 中套现近 20 亿美元</title>
+    <link>https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo</link>
+    <guid isPermaLink="false">148-15</guid>
+    <pubDate>Fri, 20 Nov 2026 00:43:50 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 报道，按上调后的每股 83 美元 IPO 价格计算，Anthropic 七位创始人每人套现 2.8 亿美元，公司募资近 1050 亿美元。这是 AI 公司迄今规模最大的创始人套现之一。</description>
+  </item>
+  <item>
+    <title>Nvidia 黄仁勋风波持续发酵</title>
+    <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues</link>
+    <guid isPermaLink="false">148-16</guid>
+    <pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 播客讨论 Nvidia 罢免 CEO 黄仁勋后的余波：公司最新财报增长健康，但宣布停止在中国销售 H200 芯片，并拒绝了部分外部呼声。多家媒体报道此事。</description>
+  </item>
+  <item>
+    <title>研究者向 AI 供应链植入 200 万个「金丝雀」，暴露隐私灾难</title>
+    <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
+    <guid isPermaLink="false">148-17</guid>
+    <pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
+    <source>Ars Technica</source>
+    <description>Ars Technica 报道，研究者用带有唯一可追踪秘密的提示词进行测试，证明数据在 AI 供应链中无法保持私密。测试规模达 200 万个「金丝雀」标记，暴露了模型训练与推理链路中的数据泄露路径。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布对抗性蒸馏防御方案</title>
+    <link>https://openai.com/index/combatting-adversarial-distillation</link>
+    <guid isPermaLink="false">148-18</guid>
+    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 介绍其分层对抗性蒸馏防御方法，结合模型训练、安全防护、检测与执法手段，防止模型能力被提取。该方案针对的是通过 API 输出蒸馏复制模型能力的攻击。</description>
+  </item>
+  <item>
+    <title>OpenAI 发布 MedChemBench，评估 AI 在早期药物发现中的能力</title>
+    <link>https://openai.com/index/introducing-medchembench</link>
+    <guid isPermaLink="false">148-19</guid>
+    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+    <source>OpenAI 官方博客</source>
+    <description>OpenAI 推出 MedChemBench 基准，用于评估 AI 模型解读分子结构、基于实验证据推理以及筛选化合物的能力。该基准聚焦早期药物发现环节，填补了化学推理评估的空白。</description>
+  </item>
+  <item>
+    <title>Google 员工请愿，要求公司不要惩罚拒绝 AI 的学校</title>
+    <link>https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition</link>
+    <guid isPermaLink="false">148-20</guid>
+    <pubDate>Fri, 20 Nov 2026 16:59:27 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Mother Jones 报道，Alphabet 工会成员发起请愿，要求 Google 不要惩罚不愿采用 Gemini 的学校，Hacker News 热度 279 分。事件反映 AI 进校园过程中员工与公司在伦理立场上的分歧。</description>
+  </item>
   <item>
     <title>紫光股份回应 AI 算力布局：参与多地智算中心建设，落地多个国产万卡集群</title>
     <link>https://stock.stockstar.com/RB2026112100005414.shtml</link>
@@ -323,165 +483,5 @@
     <pubDate>Fri, 20 Nov 2026 13:29:59 +0000</pubDate>
     <source>Hacker News</source>
     <description>Anthropic 的创纪录 IPO 未能提振市场情绪，全球主要股指同步走低，AI 相关股票遭集中抛售。投资者开始重新评估 AI 基础设施投入的回报周期与估值合理性。多家媒体报道称，此轮抛售已从个股蔓延至整个科技板块。</description>
-  </item>
-  <item>
-    <title>Anthropic 数学家称借助 Claude 证明黎曼猜想</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
-    <guid isPermaLink="false">145-3</guid>
-    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Anthropic 数学家 Levent Alpöge 宣称在 Claude 协助下证明了悬置 167 年的黎曼猜想，该问题属千禧年大奖难题之一。若获学界验证，将是 AI 在数学领域最具分量的成果之一。TechCrunch 同时报道，有人类数学家提出了竞争性证明，最终结论仍待同行评议。</description>
-  </item>
-  <item>
-    <title>Nvidia 黄仁勋风波持续发酵，公司停止对华销售 H200 芯片</title>
-    <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues</link>
-    <guid isPermaLink="false">145-4</guid>
-    <pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Nvidia 在 CEO 黄仁勋去职风波中发布最新财报，业绩仍保持健康增长，但公司宣布停止在中国销售 H200 芯片。多家媒体报道，公司同时拒绝了外界提出的多项要求。这一决定叠加出口管制争议，令 Nvidia 的中国业务前景更加不确定。</description>
-  </item>
-  <item>
-    <title>Google 发布 Gemini 4 Neon，支持 100 万 token 上下文窗口</title>
-    <link>https://www.technology.org/2026/11/20/google-gemini-4-neon-1m-token-context-pricing-benchmarks/</link>
-    <guid isPermaLink="false">145-5</guid>
-    <pubDate>Fri, 20 Nov 2026 13:03:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google 推出 Gemini 4 Neon，主打 100 万 token 上下文窗口，面向编程与研究场景。该模型延续了 Gemini 系列在长上下文处理上的路线，直接对标 OpenAI 与 Anthropic 的旗舰产品。长上下文能力正成为企业级 AI 应用竞争的核心指标。</description>
-  </item>
-  <item>
-    <title>Frostbite：AI 自主发现、设计并验证的新型 CPU 架构</title>
-    <link>https://architectlabs.com/blog/frostbite</link>
-    <guid isPermaLink="false">145-6</guid>
-    <pubDate>Fri, 20 Nov 2026 10:01:41 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Architect Labs 披露 Frostbite 项目，称该 CPU 架构由 AI 完成发现、设计与验证全流程。该项目在 Hacker News 获得 604 分、316 条评论，引发对 AI 参与硬件设计可行性的广泛讨论。若方法可复现，芯片设计周期与人力成本有望显著压缩。</description>
-  </item>
-  <item>
-    <title>特朗普威胁对在境外建设 AI 数据中心的企业征收重税</title>
-    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
-    <guid isPermaLink="false">145-7</guid>
-    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>特朗普表示将对在美国境外建设数据中心的企业征收“巨额税”，并称不会允许美国公司把数据中心建到国外。与此同时，美国多州和城市正在限制新建数据中心的申请。该表态将算力基础设施布局进一步政治化。</description>
-  </item>
-  <item>
-    <title>美参议院民主党领袖指责特朗普对华出售 AI 芯片危及国家安全</title>
-    <link>https://www.aa.com.tr/en/americas/top-us-senate-democrat-accuses-trump-of-putting-national-security-at-risk-with-ai-chip-sales-to-china/4132631</link>
-    <guid isPermaLink="false">145-8</guid>
-    <pubDate>Fri, 20 Nov 2026 22:45:12 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美国参议院高层民主党人指责特朗普批准对华 AI 芯片销售，称其将国家安全置于风险之中。此前有报道称美国已批准 87.9 万颗 AI 芯片对华出货。围绕出口管制的国会与白宫博弈正在升级。</description>
-  </item>
-  <item>
-    <title>美国已批准 87.9 万颗 AI 芯片对华出货</title>
-    <link>https://journalrecord.com/2026/11/20/us-approved-879000-ai-chip-shipments-chinese-firms/</link>
-    <guid isPermaLink="false">145-9</guid>
-    <pubDate>Fri, 20 Nov 2026 16:47:43 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>据报道，美国政府已批准向中国公司出货 87.9 万颗 AI 芯片，这一数字引发国会对出口管制执行力的质疑。该数据与 Nvidia 停止对华销售 H200 的决定形成微妙对照。芯片出口许可的规模与透明度正成为政策辩论焦点。</description>
-  </item>
-  <item>
-    <title>Signal 阻止 Gemini 与 Siri 等 AI 代理读取屏幕内容</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
-    <guid isPermaLink="false">145-10</guid>
-    <pubDate>Fri, 20 Nov 2026 12:30:47 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Signal 在 Android 与 iOS 上限制截图功能，以阻止操作系统内置的 AI 代理读取用户消息与屏幕信息。Signal 总裁称，这类代理式 AI 能力正在削弱其独立保障隐私的能力。这是 Signal 继去年针对微软 Recall 后再次采取类似措施。</description>
-  </item>
-  <item>
-    <title>Meta 的 AI 代理 Muse 被曝混淆对话并可能泄露隐私数据</title>
-    <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says</link>
-    <guid isPermaLink="false">145-11</guid>
-    <pubDate>Thu, 19 Nov 2026 17:38:40 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>报道称 Meta 的 AI 代理 Muse 出现对话混淆，员工反映其展示了用户从未提出的育儿请求、未寻求的职业建议以及他人的银行账户余额。该问题涉及代理在会话隔离与数据归属上的缺陷。Meta 尚未就此作出完整回应。</description>
-  </item>
-  <item>
-    <title>研究者在 AI 供应链植入 200 万个“金丝雀”，暴露隐私灾难</title>
-    <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
-    <guid isPermaLink="false">145-12</guid>
-    <pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>Ars Technica 报道，一名研究者向 AI 供应链注入 200 万个带有唯一可追踪标记的提示，结果显示用户数据并未保持私密。该实验证明数据在模型训练与服务链条中会被意外泄露。研究对 AI 数据治理提出了可量化的警示。</description>
-  </item>
-  <item>
-    <title>OpenAI 发布对抗性蒸馏防御方案</title>
-    <link>https://openai.com/index/combatting-adversarial-distillation</link>
-    <guid isPermaLink="false">145-13</guid>
-    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 公布其对抗性蒸馏的分层防御方法，结合模型训练、安全防护、检测与执法手段，防止模型能力被提取。该方案针对的是竞争对手通过蒸馏复制前沿模型能力的灰色地带。模型能力保护正从技术问题演变为商业与法律问题。</description>
-  </item>
-  <item>
-    <title>Hebbia 借助 GPT-6 Astra 提升金融研究效率</title>
-    <link>https://openai.com/business/customer-stories/hebbia</link>
-    <guid isPermaLink="false">145-14</guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 披露客户案例，Hebbia 在预发布阶段测试 GPT-6 Astra 用于金融研究，在来源覆盖、引用相关性与呈现质量上均有提升。该案例显示前沿模型正加速进入专业研究 workflow。金融、法律等高价值知识工作成为模型厂商争夺的企业场景。</description>
-  </item>
-  <item>
-    <title>METR 更新 AI 能力时间跨度图：编程进步快于判断力</title>
-    <link>https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update</link>
-    <guid isPermaLink="false">145-15</guid>
-    <pubDate>Fri, 20 Nov 2026 18:15:15 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>AI 评估非营利机构 METR 更新其广受引用的时间跨度图，发现部分 AI 能力仍沿指数轨迹提升。但报告同时指出，模型在需要判断力的任务上表现不及编程类任务。该图此前被广泛误读，此次更新提供了更细粒度的能力画像。</description>
-  </item>
-  <item>
-    <title>美国众议院成立两党 AI 安全与创新党团</title>
-    <link>https://www.nextgov.com/artificial-intelligence/2026/11/house-members-launch-bipartisan-ai-safety-and-innovation-caucus/417374/</link>
-    <guid isPermaLink="false">145-16</guid>
-    <pubDate>Fri, 20 Nov 2026 17:39:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>美国众议院议员成立跨党派 AI 安全与创新党团，旨在推动有实质意义的 AI 安全立法。该党团试图在安全监管与产业创新之间寻找平衡。在联邦立法长期停滞的背景下，党团机制被视为推动立法的折中路径。</description>
-  </item>
-  <item>
-    <title>Apple 或在开发可操控 Mac 的自有 AI 代理</title>
-    <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac</link>
-    <guid isPermaLink="false">145-17</guid>
-    <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>报道称 Apple 正在构建可运行于 Mac 的 AI 代理，与 Meta Muse、Claude 及 OpenAI Dots 等产品竞争。该代理预计将深度整合操作系统能力。若属实，Apple 将正式加入桌面代理式 AI 的竞争。</description>
-  </item>
-  <item>
-    <title>Meta 新款 Muse Charm 设备或定价 300 美元</title>
-    <link>https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300</link>
-    <guid isPermaLink="false">145-18</guid>
-    <pubDate>Thu, 19 Nov 2026 21:58:06 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>据 The Information 报道，Meta 计划将带屏幕的 Muse Charm 设备定价为 300 美元，用户可通过该设备与 Muse AI 代理对话。扎克伯格此前表示将在 12 月假日季前出货。这是 Meta 将 AI 代理硬件化的重要尝试。</description>
-  </item>
-  <item>
-    <title>Thinking Machines 发布 Inkling 2 Mini</title>
-    <link>https://thinkingmachines.ai/news/inkling-2-mini</link>
-    <guid isPermaLink="false">145-19</guid>
-    <pubDate>Fri, 20 Nov 2026 20:12:19 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Thinking Machines 推出 Inkling 2 Mini 模型，在 Hacker News 获得 515 分、82 条评论，热度居当日前列。该模型定位为轻量级产品，具体参数与基准尚未在摘要中披露。轻量模型赛道竞争持续升温。</description>
-  </item>
-  <item>
-    <title>SpaceX 为 AI 芯片发行 320 亿美元债务，收益率与轨道部署引发担忧</title>
-    <link>https://www.investors.com/news/spacex-sells-32-billion-debt-yield-nvidia-ai-chip-financing-orbital-data-center-concerns/</link>
-    <guid isPermaLink="false">145-20</guid>
-    <pubDate>Fri, 20 Nov 2026 21:25:00 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>SpaceX 发行 320 亿美元债务用于 AI 芯片相关投入，但收益率水平与轨道部署的可行性引发市场疑虑。报道指出，贷款方不愿将抵押物送入太空，太空数据中心的融资模式仍待验证。算力基础设施的融资创新正面临现实约束。</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 后股价大跌，纳斯达克回吐 2026 年全部涨幅</title>
-    <link>https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</link>
-    <guid isPermaLink="false">144-1</guid>
-    <pubDate>Fri, 20 Nov 2026 17:44:01 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 以每股 83 美元完成 IPO，募资超过 800 亿美元，但上市后股价迅速下挫，并拖累纳斯达克指数抹平 2026 年全部涨幅。多家媒体报道，承销银行已平掉用于稳定股价的仓位，进一步削弱了支撑。这一走势令市场对 AI 巨头高估值与上市窗口的可持续性产生明显动摇。</description>
-  </item>
-  <item>
-    <title>Anthropic 创纪录 IPO 未能止住 AI 抛售，全球股市下挫</title>
-    <link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
-    <guid isPermaLink="false">144-2</guid>
-    <pubDate>Fri, 20 Nov 2026 13:29:59 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 的创纪录 IPO 未能扭转市场情绪，全球主要股市随之走低，AI 板块遭遇广泛抛售。投资者开始重新评估 AI 基础设施投入与回报周期之间的错配。这是本轮 AI 行情以来最明显的一次系统性回调。</description>
   </item>
 </channel></rss>
