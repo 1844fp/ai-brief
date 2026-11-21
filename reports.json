@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:30:41.621809",
+ "generated_at": "2026-11-22T07:30:57.472167",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 149,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-22",
+   "created_at": "2026-11-21T23:30:56.495369+00:00",
+   "item_count": 16,
+   "llm_ok": true,
+   "url": "reports/2026-11-22/news_daily-073056.html"
+  },
   {
    "id": 148,
    "task": "news_daily",
@@ -1281,6 +1290,198 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "纳斯达克回吐 2026 年全部涨幅，AI 抛售拖累 Anthropic 上市第二日",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
+   "summary": "Anthropic 创纪录 IPO 后第二个交易日，AI 板块全面抛售导致纳斯达克抹平 2026 年全部涨幅，标普与道指进入回调区间。多家媒体报道，市场对 AI 高估值与盈利兑现节奏的担忧集中释放。这意味着 AI 资产定价正从叙事驱动转向业绩验证，一级市场融资环境可能同步收紧。",
+   "why": null,
+   "category": "资本市场",
+   "heat": 5,
+   "published": "2026-11-20T13:29:59+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic 数学家称借助 Claude 证明黎曼猜想",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge AI",
+   "summary": "Anthropic 数学家 Levent Alpöge 宣称在 Claude 协助下证明了悬置 167 年的黎曼猜想，若获验证将是 AI 在数学领域的标志性突破。TechCrunch 同时报道有数学家提出竞争性人类证明，验证工作仍在进行。此事将加剧关于 AI 是否具备原创数学推理能力的争论。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-20T16:34:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Lean 社区发布黎曼猜想的机器验证工作",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+   "source": "Hacker News",
+   "summary": "Lean 证明助手社区发布关于黎曼猜想的验证进展，HN 热度达 745 分、近 600 条评论。该工作与 Anthropic 数学家借助 Claude 的证明声明形成呼应，凸显形式化验证在 AI 数学成果认定中的关键作用。机器可检验证明正成为 AI 数学突破的可信度基础设施。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 5,
+   "published": "2026-11-21T14:36:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Anthropic 七位创始人 IPO 套现近 20 亿美元",
+   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 以每股 83 美元的上调发行价完成 IPO，七位创始人每人套现 2.8 亿美元，合计近 20 亿美元，公司募资近 1050 亿美元。这是 AI 实验室迄今规模最大的上市交易。创始团队大规模变现与随后股价走弱形成对照，引发对 AI 公司治理与锁定期安排的关注。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 4,
+   "published": "2026-11-20T00:43:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "OpenAI 推出 ChatGPT Wallet，称可安全让 AI 代为购物",
+   "url": "https://mashable.com/tech/openai-launches-chatgpt-wallet",
+   "source": "Google News 英文",
+   "summary": "OpenAI 发布 ChatGPT Wallet，定位为让 AI 代理替用户完成购物的安全支付方案。该产品将支付凭证与代理执行权限隔离，试图解决 AI 代操作中的授权与欺诈风险。这是 AI 代理从信息查询迈向真实交易的关键一步，也将支付巨头与 AI 平台的竞合推向台前。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-21T18:33:25+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "马斯克称 Google Gemini 4 Neon「非常棒」，三破 Zapier 纪录",
+   "url": "https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic",
+   "source": "Google News 英文",
+   "summary": "Google Gemini 4 Neon 第三次刷新 Zapier 平台纪录，马斯克公开称其为「a Banger」。报道认为此时机对正处于 IPO 后股价压力下的 Anthropic 不利。模型能力竞争与资本市场情绪在同一周内形成鲜明反差。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 4,
+   "published": "2026-11-21T18:59:54+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Signal 限制移动操作系统上的 AI 代理截取数据",
+   "url": "https://signal.org/blog/protecting-your-privacy",
+   "source": "Hacker News",
+   "summary": "Signal 发布博客宣布限制 AI 代理在移动平台上截屏抓取数据的能力，HN 热度 570 分。TechCrunch 与 ZDNet 报道称，Signal 在 Android 与 iOS 两端收紧截图权限，理由是 AI 代理构成「生存级威胁」。这是继去年应对 Microsoft Recall 后，Signal 第二次因 AI 截屏风险调整产品策略。",
+   "why": null,
+   "category": "监管与隐私",
+   "heat": 4,
+   "published": "2026-11-20T09:42:16+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "特朗普威胁对在海外建设 AI 数据中心征收「巨额税」",
+   "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+   "source": "The Verge AI",
+   "summary": "特朗普表示将对在美国境外建设数据中心的公司征收「巨额税」，并称不会允许本国企业把数据中心建到国外。与此同时，美国多个州市正在限制新建数据中心申请。该表态将算力基础设施布局进一步政治化，可能影响云厂商的全球选址策略。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-20T18:50:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "推理已占 AI 负载三分之二，芯片部署格局随之改变",
+   "url": "https://siliconangle.com/2026/11/21/inference-two-thirds-ai-workloads-chip-deployment-positron-sc26/",
+   "source": "Google News 英文",
+   "summary": "最新数据显示推理任务已占 AI 工作负载的三分之二，超过训练成为算力消耗主体。这推动芯片部署从集中式超大规模训练集群转向靠近用户的分布式推理节点。对芯片厂商而言，能效比与推理吞吐的重要性正超过峰值训练算力。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-21T18:28:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "联合国未能就「杀手机器人」规则达成一致",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge AI",
+   "summary": "在日内瓦召开的联合国会议上，各国代表就自主武器系统规则谈判一周后仍未达成协议，仅同意「开始讨论各种选项」。NPR 报道称谈判在正式启动前即已受阻。这意味着致命性自主武器的国际约束仍处空白，AI 军事化应用缺乏全球性护栏。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-21T20:03:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "METR 更新「最被误解的 AI 图表」：能力仍指数增长但判断力落后",
+   "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+   "source": "MIT 科技评论",
+   "summary": "AI 评估非营利组织 METR 更新其广受引用的「时间跨度」图表，发现部分 AI 能力仍沿指数轨迹提升。但报告同时指出，模型在需要判断力的任务上明显弱于编码类任务。该更新为「AI 能力是否见顶」的争论提供了新的量化依据。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-20T18:15:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Apple 或在开发可操控 Mac 的自有 AI 代理",
+   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+   "source": "TechCrunch AI",
+   "summary": "报道称 Apple 正在构建可运行于 Mac 的 AI 代理，与 Meta Muse、Instinct、Claude 及 OpenAI Dots 等产品竞争。该代理预计深度集成 macOS 系统权限，实现跨应用任务执行。若属实，Apple 将以系统级入口加入桌面 AI 代理战局。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-20T00:56:01+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "研究者向 AI 供应链植入 200 万个「金丝雀」标记，暴露隐私灾难",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+   "source": "Ars Technica",
+   "summary": "Ars Technica 报道，一名研究者向 AI 供应链注入 200 万个带唯一可追踪标记的提示词，结果显示用户数据在供应链中并未保持私密。实验证明第三方模型与工具链环节存在系统性数据泄露。这为 AI 供应链安全审计提供了可复用的检测方法。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-20T20:59:08+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "OpenAI 发布对抗性蒸馏防御方案",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 介绍其对抗性蒸馏的分层防御方法，结合模型训练、安全护栏、检测与执法手段，防止模型能力被提取。该方案针对的是竞争对手通过 API 输出蒸馏复制模型能力的灰色行为。这标志着头部实验室开始把「能力防盗」作为独立工程问题处理。",
+   "why": null,
+   "category": "安全",
+   "heat": 3,
+   "published": "2026-11-20T10:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "OpenAI 推出 MedChemBench，评估 AI 在早期药物发现中的能力",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 发布 MedChemBench 基准，用于评估模型解读分子结构、基于实验证据推理以及筛选化合物的能力。该基准聚焦早期药物发现环节，填补了化学推理评测的空白。它为 AI 制药模型提供了可比较的能力标尺。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-20T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Nvidia 罢免黄仁勋风波持续，财报显示增长但将停止对华销售 H200",
+   "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 报道，Nvidia 在 CEO 黄仁勋被罢免的余波中发布财报，业绩保持健康增长并承诺好时光延续。公司同时表示将停止在中国销售 H200 芯片，并拒绝了部分外部呼吁。管理层动荡与出口管制叠加，使 Nvidia 面临前所未有的不确定性。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-20T14:55:44+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
