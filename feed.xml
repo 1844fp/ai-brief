@@ -3,7 +3,135 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Sun, 22 Nov 2026 08:02:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 07:58:49 +0000</lastBuildDate>
+  <item>
+    <title>《纽约时报》报道：中国情报机构开展行动获取先进 AI 芯片</title>
+    <link>https://casrai.org/news/china-mss-campaign-acquire-advanced-ai-chips-nyt-2026</link>
+    <guid isPermaLink="false">152-1</guid>
+    <pubDate>Sun, 22 Nov 2026 16:24:14 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>据《纽约时报》报道，中国情报机构主导了一项获取先进 AI 芯片的行动，涉及通过第三方渠道规避美国出口管制。该报道与近期美国国会、情报高层对 Nvidia 芯片流向中国的密集质询相互印证。若属实，意味着现有出口管制在执行层面存在系统性漏洞，美国后续可能进一步收紧对转口贸易的审查。</description>
+  </item>
+  <item>
+    <title>特朗普 AI 芯片管制在亚洲造成连带冲击</title>
+    <link>https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia</link>
+    <guid isPermaLink="false">152-2</guid>
+    <pubDate>Sun, 22 Nov 2026 22:00:13 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>彭博社报道称，美国对华 AI 芯片出口限制正在对亚洲多国产生外溢影响，东南亚云服务商因依赖相关芯片供应链而受到波及。多家媒体报道显示，管制范围已从直接对华出口扩展到第三国转口与云算力服务。这意味着美国芯片政策的成本正由盟友与区域产业链共同承担，可能引发外交层面的摩擦。</description>
+  </item>
+  <item>
+    <title>纽约州总检察长设立专门单元，在 AI 安全法生效前监管 AI 公司</title>
+    <link>https://bushwickdaily.com/news/ag-letitia-james-announces-a-unit-to-police-ai-companies-before-new-yorks-ai-safety-law-kicks-in-january-1/</link>
+    <guid isPermaLink="false">152-3</guid>
+    <pubDate>Sun, 22 Nov 2026 18:33:39 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>纽约州总检察长 Letitia James 宣布成立专门执法单元，在該州 AI 安全法于 1 月 1 日生效前即开始对 AI 公司进行监管。这是美国州层面首次出现针对 AI 企业的常设执法机构。此举意味着 AI 合规从立法阶段进入执法准备阶段，其他州可能跟进效仿。</description>
+  </item>
+  <item>
+    <title>OpenAI 提出以安全里程碑为条件的行业共享 AI 开发上限</title>
+    <link>https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/</link>
+    <guid isPermaLink="false">152-4</guid>
+    <pubDate>Sun, 22 Nov 2026 18:43:02 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>OpenAI 首席科学家提出一套行业共享的 AI 开发限制框架，主张以可量化的模型智能指标作为「限速」依据。其核心难点在于各方需先就如何度量模型能力达成一致。若该方案获得主要实验室认可，可能成为自愿性行业治理的模板，但也面临执行力与公平性的质疑。</description>
+  </item>
+  <item>
+    <title>英国议员主张政府应有权延迟或封禁 AI 模型</title>
+    <link>https://www.bankinfosecurity.com/mps-uk-government-should-be-able-to-delay-or-ban-ai-models-a-33432</link>
+    <guid isPermaLink="false">152-5</guid>
+    <pubDate>Sun, 22 Nov 2026 18:32:29 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>英国议会一份报告主张，政府应被赋予延迟发布甚至封禁 AI 模型的权力，以应对前沿模型带来的安全风险。该建议出现在英国 AI 立法进程的关键节点，反映监管思路从「创新优先」向「安全前置」倾斜。若被采纳，英国将成为少数拥有模型封禁权的国家之一。</description>
+  </item>
+  <item>
+    <title>独家：Anthropic 采用非典型 IPO 流程，引发部分投行不满</title>
+    <link>https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/</link>
+    <guid isPermaLink="false">152-6</guid>
+    <pubDate>Sun, 22 Nov 2026 13:29:02 +0000</pubDate>
+    <source>Google News 英文</source>
+    <description>路透社独家报道称，Anthropic 的 IPO 流程类似 SpaceX，采用非传统承销安排，令部分参与银行感到不满。此前另有报道称其 IPO 承销银行关闭了本用于稳定股价的仓位。这些细节显示，这家以安全为标签的 AI 实验室在资本市场的操作同样不走寻常路，其上市后治理结构值得持续观察。</description>
+  </item>
+  <item>
+    <title>报告：2028 年 Anthropic 87% 电力将来自天然气，11% 来自煤炭</title>
+    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power</link>
+    <guid isPermaLink="false">152-7</guid>
+    <pubDate>Sun, 22 Nov 2026 08:57:34 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>一份数据中心能源分析显示，到 2028 年 Anthropic 的电力结构中 87% 将来自天然气、11% 来自煤炭，可再生能源占比有限。该数据在 Hacker News 引发近 900 条讨论，凸显 AI 算力扩张与气候目标之间的张力。对行业而言，电力来源正成为 AI 公司 ESG 披露与选址决策的关键变量。</description>
+  </item>
+  <item>
+    <title>OpenRouter 披露多家推理服务商发生数据处理事故</title>
+    <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers</link>
+    <guid isPermaLink="false">152-8</guid>
+    <pubDate>Sun, 22 Nov 2026 02:14:14 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>OpenRouter 发布公告，披露其平台上多家推理服务提供商发生数据处理事故，涉及用户请求数据的处理不当。作为聚合多家模型的推理路由平台，此类事故暴露了 AI 服务供应链中数据治理的薄弱环节。对开发者而言，选择推理服务商时的数据合规审查将变得更加必要。</description>
+  </item>
+  <item>
+    <title>美国大型银行封杀第三方 AI 代理登录用户账户</title>
+    <link>https://www.wired.com/story/banks-are-cracking-down-on-ai-agents</link>
+    <guid isPermaLink="false">152-9</guid>
+    <pubDate>Sun, 22 Nov 2026 11:00:00 +0000</pubDate>
+    <source>Wired AI</source>
+    <description>据 Wired 报道，美国多家主要金融机构禁止第三方 AI 机器人登录用户账户，并警告称机器人操作造成的损失由用户自行承担。此举直接冲击以「代用户操作」为卖点的 AI 代理类产品。银行与 AI 代理之间的权限边界问题，正成为 agent 商业化落地的第一道现实障碍。</description>
+  </item>
+  <item>
+    <title>联合国未能就「杀手机器人」监管规则达成一致</title>
+    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
+    <guid isPermaLink="false">152-10</guid>
+    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>在日内瓦举行的联合国谈判中，各国代表未能就自主武器系统（即「杀手机器人」）的监管规则达成协议，最终仅同意「开始讨论各种选项」。为期一周的谈判基本无果，反映大国在自主武器军控上的分歧难以弥合。这意味着在可预见的未来，自主武器的国际约束仍将缺位。</description>
+  </item>
+  <item>
+    <title>Inkling-2-Mini 实现 5.4 GB 内存内运行</title>
+    <link>https://github.com/ShinMegamiBoson/lookatmyquant</link>
+    <guid isPermaLink="false">152-11</guid>
+    <pubDate>Sat, 21 Nov 2026 18:02:19 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>一个开源项目展示了 Inkling-2-Mini 模型在仅 5.4 GB 内存条件下运行的效果，在 Hacker News 获得近 600 分。该成果意味着中等规模模型可在消费级硬件上本地部署，降低了对云端推理的依赖。对隐私敏感场景与边缘设备应用而言，本地化推理的门槛正在快速下降。</description>
+  </item>
+  <item>
+    <title>Signal 限制移动端截图，应对 AI 监控的「生存威胁」</title>
+    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance</link>
+    <guid isPermaLink="false">152-12</guid>
+    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>Signal 在 Android 与 iOS 应用中限制用户截图功能，称 AI 监控能力构成「生存威胁」。这是加密通讯应用首次以产品功能调整直接回应 AI 带来的隐私风险。该举措可能引发关于用户自主权与平台安全责任边界的讨论，也可能被其他隐私类应用效仿。</description>
+  </item>
+  <item>
+    <title>Pandex：通过 MCP 提供欧洲 AI 代理官方法律查询</title>
+    <link>https://www.pandex.io/</link>
+    <guid isPermaLink="false">152-13</guid>
+    <pubDate>Sat, 21 Nov 2026 20:47:41 +0000</pubDate>
+    <source>Hacker News</source>
+    <description>Pandex 推出面向 AI 代理的欧洲法律查询服务，基于 MCP 协议让代理直接检索官方法律条文。该项目在 Hacker News 获得 139 分，反映 AI 代理在合规场景中的工具化需求正在上升。若此类法律服务标准化，代理执行涉及监管领域的任务时将具备可追溯的法律依据。</description>
+  </item>
+  <item>
+    <title>两个 Nvidia：财报与高管喊话呈现截然不同的图景</title>
+    <link>https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias</link>
+    <guid isPermaLink="false">152-14</guid>
+    <pubDate>Sat, 21 Nov 2026 21:07:42 +0000</pubDate>
+    <source>TechCrunch AI</source>
+    <description>TechCrunch 对比了 Nvidia 最新财报与部分科技高管公开呼吁 Jensen Huang 回归的两种叙事，呈现出一家公司在资本市场与行业舆论中的分裂形象。财报数据与行业情绪之间的落差，折射出 AI 芯片需求预期与实际订单之间的微妙关系。对投资者而言，Nvidia 的估值逻辑正面临更多维度的审视。</description>
+  </item>
+  <item>
+    <title>《以撒的结合》开发者从 Repentance Plus 中移除 AI 音乐</title>
+    <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+    <guid isPermaLink="false">152-15</guid>
+    <pubDate>Sun, 22 Nov 2026 17:25:20 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>《以撒的结合：Repentance Plus》因游戏中一段 GTA 主题内容使用了带有 Suno 元数据的 AI 生成音乐，在 Steam 上遭遇差评轰炸，开发者随后移除相关音乐。这是玩家社区对 AI 生成内容强烈反弹的又一案例。对游戏行业而言，AI 素材的使用正从技术问题演变为品牌与社区信任问题。</description>
+  </item>
+  <item>
+    <title>Anthropic 能否负担「安全优先」？</title>
+    <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
+    <guid isPermaLink="false">152-16</guid>
+    <pubDate>Sat, 21 Nov 2026 15:00:00 +0000</pubDate>
+    <source>The Verge AI</source>
+    <description>The Verge 播客讨论 Anthropic 上市后「安全优先」定位的可持续性，指出其上市首周数字巨大但对谈话题而言并非重点。节目聚焦 Claude 背后实验室在公开市场压力下如何平衡安全投入与商业回报。这反映出 AI 安全承诺与上市公司股东预期之间的结构性张力。</description>
+  </item>
   <item>
     <title>林俊旸创办的语用科技估值翻倍至 50 亿美元，吉利等新投资方入局</title>
     <link>http://www.geekpark.net/news/374299</link>
@@ -355,133 +483,5 @@
     <pubDate>Fri, 20 Nov 2026 18:15:15 +0000</pubDate>
     <source>MIT 科技评论</source>
     <description>AI 评估非营利组织 METR 更新其广受引用的「时间跨度」图表，发现部分 AI 能力仍沿指数轨迹提升。但报告同时指出，模型在需要判断力的任务上明显弱于编码类任务。该更新为「AI 能力是否见顶」的争论提供了新的量化依据。</description>
-  </item>
-  <item>
-    <title>Apple 或在开发可操控 Mac 的自有 AI 代理</title>
-    <link>https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac</link>
-    <guid isPermaLink="false">149-12</guid>
-    <pubDate>Fri, 20 Nov 2026 00:56:01 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>报道称 Apple 正在构建可运行于 Mac 的 AI 代理，与 Meta Muse、Instinct、Claude 及 OpenAI Dots 等产品竞争。该代理预计深度集成 macOS 系统权限，实现跨应用任务执行。若属实，Apple 将以系统级入口加入桌面 AI 代理战局。</description>
-  </item>
-  <item>
-    <title>研究者向 AI 供应链植入 200 万个「金丝雀」标记，暴露隐私灾难</title>
-    <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate</link>
-    <guid isPermaLink="false">149-13</guid>
-    <pubDate>Fri, 20 Nov 2026 20:59:08 +0000</pubDate>
-    <source>Ars Technica</source>
-    <description>Ars Technica 报道，一名研究者向 AI 供应链注入 200 万个带唯一可追踪标记的提示词，结果显示用户数据在供应链中并未保持私密。实验证明第三方模型与工具链环节存在系统性数据泄露。这为 AI 供应链安全审计提供了可复用的检测方法。</description>
-  </item>
-  <item>
-    <title>OpenAI 发布对抗性蒸馏防御方案</title>
-    <link>https://openai.com/index/combatting-adversarial-distillation</link>
-    <guid isPermaLink="false">149-14</guid>
-    <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 介绍其对抗性蒸馏的分层防御方法，结合模型训练、安全护栏、检测与执法手段，防止模型能力被提取。该方案针对的是竞争对手通过 API 输出蒸馏复制模型能力的灰色行为。这标志着头部实验室开始把「能力防盗」作为独立工程问题处理。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 MedChemBench，评估 AI 在早期药物发现中的能力</title>
-    <link>https://openai.com/index/introducing-medchembench</link>
-    <guid isPermaLink="false">149-15</guid>
-    <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 发布 MedChemBench 基准，用于评估模型解读分子结构、基于实验证据推理以及筛选化合物的能力。该基准聚焦早期药物发现环节，填补了化学推理评测的空白。它为 AI 制药模型提供了可比较的能力标尺。</description>
-  </item>
-  <item>
-    <title>Nvidia 罢免黄仁勋风波持续，财报显示增长但将停止对华销售 H200</title>
-    <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues</link>
-    <guid isPermaLink="false">149-16</guid>
-    <pubDate>Fri, 20 Nov 2026 14:55:44 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，Nvidia 在 CEO 黄仁勋被罢免的余波中发布财报，业绩保持健康增长并承诺好时光延续。公司同时表示将停止在中国销售 H200 芯片，并拒绝了部分外部呼吁。管理层动荡与出口管制叠加，使 Nvidia 面临前所未有的不确定性。</description>
-  </item>
-  <item>
-    <title>纳斯达克回吐 2026 年全部涨幅，AI 抛售拖累 Anthropic 上市第二日</title>
-    <link>https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off</link>
-    <guid isPermaLink="false">148-1</guid>
-    <pubDate>Fri, 20 Nov 2026 13:29:59 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Anthropic 上市次日，AI 板块抛售加剧，纳斯达克综合指数抹去 2026 年全部涨幅，标普与道指进入回调区间。市场对 AI 资本开支回报与高估值的担忧集中爆发，多家媒体报道这一轮抛售规模为 2020 年以来科技股最差单周表现。</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 破发加剧华尔街 4 万亿美元 AI 市值蒸发</title>
-    <link>https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90</link>
-    <guid isPermaLink="false">148-2</guid>
-    <pubDate>Fri, 20 Nov 2026 21:18:46 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>《华尔街日报》报道，Anthropic 创纪录 IPO 与科技股自 2020 年以来最差单周行情叠加，AI 板块累计蒸发约 4 万亿美元市值。IPO 定价与首日表现未能稳住市场情绪，反而成为抛售的触发点之一。</description>
-  </item>
-  <item>
-    <title>Anthropic 数学家称借助 Claude 解决千禧年大奖难题 Riemann 猜想</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem</link>
-    <guid isPermaLink="false">148-3</guid>
-    <pubDate>Fri, 20 Nov 2026 16:34:13 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Anthropic 数学家 Levent Alpöge 声称在 Claude 协助下证明了 Riemann 猜想，这是数学界悬而未决逾百年的千禧年大奖难题之一。若获验证，将是 AI 在数学领域又一标志性成果，但证明仍需同行严格审查。</description>
-  </item>
-  <item>
-    <title>AI 与人类同时宣称解决 167 年历史的 Riemann 猜想</title>
-    <link>https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too</link>
-    <guid isPermaLink="false">148-4</guid>
-    <pubDate>Fri, 20 Nov 2026 19:32:08 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，AI 驱动的最新数学结果令数学家震惊，但同时出现了一份竞争性的人类证明。AI 与人类几乎同时宣称攻克同一难题，使验证与优先权问题变得复杂。</description>
-  </item>
-  <item>
-    <title>Lean 形式化验证 Riemann 猜想</title>
-    <link>https://leanprover-community.github.io/blog/posts/riemann-hypothesis</link>
-    <guid isPermaLink="false">148-5</guid>
-    <pubDate>Sat, 21 Nov 2026 14:36:45 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Lean 证明助手社区发布博客，展示对 Riemann 猜想的 Lean 形式化验证工作，在 Hacker News 获得 745 分、近 600 条评论。形式化验证为 AI 与人类证明之争提供了可机器检验的裁决路径。</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 ChatGPT Wallet，称可安全地让 AI 代为购物</title>
-    <link>https://mashable.com/tech/openai-launches-chatgpt-wallet</link>
-    <guid isPermaLink="false">148-6</guid>
-    <pubDate>Sat, 21 Nov 2026 18:33:25 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI 发布 ChatGPT Wallet，定位为让 AI 代理替用户完成购物的安全支付方案。该产品将 AI 代理能力延伸至交易环节，涉及支付授权、风控与责任归属等新问题。</description>
-  </item>
-  <item>
-    <title>马斯克称 Google Gemini 4 Neon 是「重磅之作」，三破 Zapier 纪录</title>
-    <link>https://www.tikr.com/blog/musk-calls-googles-gemini-4-neon-a-banger-after-its-third-zapier-record-bad-timing-for-anthropic</link>
-    <guid isPermaLink="false">148-7</guid>
-    <pubDate>Sat, 21 Nov 2026 18:59:54 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Google Gemini 4 Neon 第三次刷新 Zapier 相关纪录，马斯克公开称其为「a Banger」（重磅之作）。报道认为这对正处于 IPO 后动荡期的 Anthropic 构成不利时机。</description>
-  </item>
-  <item>
-    <title>Signal 限制移动操作系统上的 AI 代理截取数据</title>
-    <link>https://signal.org/blog/protecting-your-privacy</link>
-    <guid isPermaLink="false">148-8</guid>
-    <pubDate>Fri, 20 Nov 2026 09:42:16 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>Signal 发布博客，宣布限制移动操作系统平台上 AI 代理对其数据的截取能力，Hacker News 热度达 570 分。此举针对 AI 代理通过系统级权限读取屏幕内容的隐私风险。</description>
-  </item>
-  <item>
-    <title>Signal 因 AI 监控「生存威胁」限制移动端截图</title>
-    <link>https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance</link>
-    <guid isPermaLink="false">148-9</guid>
-    <pubDate>Sat, 21 Nov 2026 21:37:10 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>TechCrunch 报道，Signal 在 Android 与 iOS 应用中限制用户截图能力，称 AI 监控构成「生存威胁」。这是 Signal 继去年因 Microsoft Recall 限制截图后再度收紧同类功能。</description>
-  </item>
-  <item>
-    <title>特朗普威胁对在境外建设 AI 数据中心征收「巨额税」</title>
-    <link>https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax</link>
-    <guid isPermaLink="false">148-10</guid>
-    <pubDate>Fri, 20 Nov 2026 18:50:19 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>特朗普表示将对在美国境外建设数据中心的公司征收「巨额税」，并称不会允许美国公司把数据中心建到国外。与此同时，美国多州和城市正在限制新建数据中心申请。</description>
-  </item>
-  <item>
-    <title>联合国未能就「杀手机器人」监管规则达成一致</title>
-    <link>https://www.theverge.com/tech/1039554/un-regulations-killer-robots</link>
-    <guid isPermaLink="false">148-11</guid>
-    <pubDate>Sat, 21 Nov 2026 20:03:37 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>在日内瓦召开的联合国会议上，各国代表未能就自主武器系统规则达成协议，最终仅同意「开始讨论各种选项」。经过一周基本无果的谈判，自主武器国际监管仍停留在程序性阶段。</description>
   </item>
 </channel></rss>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T08:02:33.575063",
+ "generated_at": "2026-11-23T07:58:49.023286",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 152,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-23",
+   "created_at": "2026-11-22T23:58:47.778248+00:00",
+   "item_count": 16,
+   "llm_ok": true,
+   "url": "reports/2026-11-23/news_daily-075847.html"
+  },
   {
    "id": 151,
    "task": "news_daily_cn",
@@ -1308,6 +1317,198 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "《纽约时报》报道：中国情报机构开展行动获取先进 AI 芯片",
+   "url": "https://casrai.org/news/china-mss-campaign-acquire-advanced-ai-chips-nyt-2026",
+   "source": "Google News 英文",
+   "summary": "据《纽约时报》报道，中国情报机构主导了一项获取先进 AI 芯片的行动，涉及通过第三方渠道规避美国出口管制。该报道与近期美国国会、情报高层对 Nvidia 芯片流向中国的密集质询相互印证。若属实，意味着现有出口管制在执行层面存在系统性漏洞，美国后续可能进一步收紧对转口贸易的审查。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-22T16:24:14+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "特朗普 AI 芯片管制在亚洲造成连带冲击",
+   "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+   "source": "Google News 英文",
+   "summary": "彭博社报道称，美国对华 AI 芯片出口限制正在对亚洲多国产生外溢影响，东南亚云服务商因依赖相关芯片供应链而受到波及。多家媒体报道显示，管制范围已从直接对华出口扩展到第三国转口与云算力服务。这意味着美国芯片政策的成本正由盟友与区域产业链共同承担，可能引发外交层面的摩擦。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 5,
+   "published": "2026-11-22T22:00:13+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "纽约州总检察长设立专门单元，在 AI 安全法生效前监管 AI 公司",
+   "url": "https://bushwickdaily.com/news/ag-letitia-james-announces-a-unit-to-police-ai-companies-before-new-yorks-ai-safety-law-kicks-in-january-1/",
+   "source": "Google News 英文",
+   "summary": "纽约州总检察长 Letitia James 宣布成立专门执法单元，在該州 AI 安全法于 1 月 1 日生效前即开始对 AI 公司进行监管。这是美国州层面首次出现针对 AI 企业的常设执法机构。此举意味着 AI 合规从立法阶段进入执法准备阶段，其他州可能跟进效仿。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-22T18:33:39+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "OpenAI 提出以安全里程碑为条件的行业共享 AI 开发上限",
+   "url": "https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/",
+   "source": "Google News 英文",
+   "summary": "OpenAI 首席科学家提出一套行业共享的 AI 开发限制框架，主张以可量化的模型智能指标作为「限速」依据。其核心难点在于各方需先就如何度量模型能力达成一致。若该方案获得主要实验室认可，可能成为自愿性行业治理的模板，但也面临执行力与公平性的质疑。",
+   "why": null,
+   "category": "前沿研究/治理",
+   "heat": 4,
+   "published": "2026-11-22T18:43:02+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "英国议员主张政府应有权延迟或封禁 AI 模型",
+   "url": "https://www.bankinfosecurity.com/mps-uk-government-should-be-able-to-delay-or-ban-ai-models-a-33432",
+   "source": "Google News 英文",
+   "summary": "英国议会一份报告主张，政府应被赋予延迟发布甚至封禁 AI 模型的权力，以应对前沿模型带来的安全风险。该建议出现在英国 AI 立法进程的关键节点，反映监管思路从「创新优先」向「安全前置」倾斜。若被采纳，英国将成为少数拥有模型封禁权的国家之一。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 4,
+   "published": "2026-11-22T18:32:29+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "独家：Anthropic 采用非典型 IPO 流程，引发部分投行不满",
+   "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/",
+   "source": "Google News 英文",
+   "summary": "路透社独家报道称，Anthropic 的 IPO 流程类似 SpaceX，采用非传统承销安排，令部分参与银行感到不满。此前另有报道称其 IPO 承销银行关闭了本用于稳定股价的仓位。这些细节显示，这家以安全为标签的 AI 实验室在资本市场的操作同样不走寻常路，其上市后治理结构值得持续观察。",
+   "why": null,
+   "category": "融资与并购",
+   "heat": 4,
+   "published": "2026-11-22T13:29:02+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "报告：2028 年 Anthropic 87% 电力将来自天然气，11% 来自煤炭",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power",
+   "source": "Hacker News",
+   "summary": "一份数据中心能源分析显示，到 2028 年 Anthropic 的电力结构中 87% 将来自天然气、11% 来自煤炭，可再生能源占比有限。该数据在 Hacker News 引发近 900 条讨论，凸显 AI 算力扩张与气候目标之间的张力。对行业而言，电力来源正成为 AI 公司 ESG 披露与选址决策的关键变量。",
+   "why": null,
+   "category": "算力与能源",
+   "heat": 5,
+   "published": "2026-11-22T08:57:34+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "OpenRouter 披露多家推理服务商发生数据处理事故",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+   "source": "Hacker News",
+   "summary": "OpenRouter 发布公告，披露其平台上多家推理服务提供商发生数据处理事故，涉及用户请求数据的处理不当。作为聚合多家模型的推理路由平台，此类事故暴露了 AI 服务供应链中数据治理的薄弱环节。对开发者而言，选择推理服务商时的数据合规审查将变得更加必要。",
+   "why": null,
+   "category": "安全与合规",
+   "heat": 4,
+   "published": "2026-11-22T02:14:14+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "美国大型银行封杀第三方 AI 代理登录用户账户",
+   "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents",
+   "source": "Wired AI",
+   "summary": "据 Wired 报道，美国多家主要金融机构禁止第三方 AI 机器人登录用户账户，并警告称机器人操作造成的损失由用户自行承担。此举直接冲击以「代用户操作」为卖点的 AI 代理类产品。银行与 AI 代理之间的权限边界问题，正成为 agent 商业化落地的第一道现实障碍。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 4,
+   "published": "2026-11-22T11:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "联合国未能就「杀手机器人」监管规则达成一致",
+   "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "source": "The Verge AI",
+   "summary": "在日内瓦举行的联合国谈判中，各国代表未能就自主武器系统（即「杀手机器人」）的监管规则达成协议，最终仅同意「开始讨论各种选项」。为期一周的谈判基本无果，反映大国在自主武器军控上的分歧难以弥合。这意味着在可预见的未来，自主武器的国际约束仍将缺位。",
+   "why": null,
+   "category": "监管与政策",
+   "heat": 3,
+   "published": "2026-11-21T20:03:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Inkling-2-Mini 实现 5.4 GB 内存内运行",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "source": "Hacker News",
+   "summary": "一个开源项目展示了 Inkling-2-Mini 模型在仅 5.4 GB 内存条件下运行的效果，在 Hacker News 获得近 600 分。该成果意味着中等规模模型可在消费级硬件上本地部署，降低了对云端推理的依赖。对隐私敏感场景与边缘设备应用而言，本地化推理的门槛正在快速下降。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 4,
+   "published": "2026-11-21T18:02:19+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Signal 限制移动端截图，应对 AI 监控的「生存威胁」",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+   "source": "TechCrunch AI",
+   "summary": "Signal 在 Android 与 iOS 应用中限制用户截图功能，称 AI 监控能力构成「生存威胁」。这是加密通讯应用首次以产品功能调整直接回应 AI 带来的隐私风险。该举措可能引发关于用户自主权与平台安全责任边界的讨论，也可能被其他隐私类应用效仿。",
+   "why": null,
+   "category": "安全与隐私",
+   "heat": 3,
+   "published": "2026-11-21T21:37:10+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "Pandex：通过 MCP 提供欧洲 AI 代理官方法律查询",
+   "url": "https://www.pandex.io/",
+   "source": "Hacker News",
+   "summary": "Pandex 推出面向 AI 代理的欧洲法律查询服务，基于 MCP 协议让代理直接检索官方法律条文。该项目在 Hacker News 获得 139 分，反映 AI 代理在合规场景中的工具化需求正在上升。若此类法律服务标准化，代理执行涉及监管领域的任务时将具备可追溯的法律依据。",
+   "why": null,
+   "category": "模型与产品",
+   "heat": 3,
+   "published": "2026-11-21T20:47:41+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "两个 Nvidia：财报与高管喊话呈现截然不同的图景",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+   "source": "TechCrunch AI",
+   "summary": "TechCrunch 对比了 Nvidia 最新财报与部分科技高管公开呼吁 Jensen Huang 回归的两种叙事，呈现出一家公司在资本市场与行业舆论中的分裂形象。财报数据与行业情绪之间的落差，折射出 AI 芯片需求预期与实际订单之间的微妙关系。对投资者而言，Nvidia 的估值逻辑正面临更多维度的审视。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-21T21:07:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "《以撒的结合》开发者从 Repentance Plus 中移除 AI 音乐",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "source": "The Verge AI",
+   "summary": "《以撒的结合：Repentance Plus》因游戏中一段 GTA 主题内容使用了带有 Suno 元数据的 AI 生成音乐，在 Steam 上遭遇差评轰炸，开发者随后移除相关音乐。这是玩家社区对 AI 生成内容强烈反弹的又一案例。对游戏行业而言，AI 素材的使用正从技术问题演变为品牌与社区信任问题。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-22T17:25:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Anthropic 能否负担「安全优先」？",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge AI",
+   "summary": "The Verge 播客讨论 Anthropic 上市后「安全优先」定位的可持续性，指出其上市首周数字巨大但对谈话题而言并非重点。节目聚焦 Claude 背后实验室在公开市场压力下如何平衡安全投入与商业回报。这反映出 AI 安全承诺与上市公司股东预期之间的结构性张力。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 3,
+   "published": "2026-11-21T15:00:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
