@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T07:30:57.472167",
+ "generated_at": "2026-11-22T08:02:09.885990",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 150,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-22",
+   "created_at": "2026-11-22T00:02:08.967260+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-22/news_daily_cn-080208.html"
+  },
   {
    "id": 149,
    "task": "news_daily",
@@ -1290,6 +1299,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "我国开源大模型全球累计下载量突破100亿次",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0H_wfMi8XJQ06EbeTOT5uYFqXa8Fplpd99o_6UwxOtP6LGvygafO2fFZ5KGtlFN73DD_0Q2mFCK4cdjIjyOFhTF91TPmoyhoqgFOvga3Ixu9uPQmdlRVtN5FsoQNwDjQLShXohDJQe_0VrHgWoAAEyzrApgO8LGIzcip9Wpur5UNc8F_tDMBLRxBb7bsVBvVlXmfmC14O0UDzAjcIGepUqA..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=B14E1DDAF580051E7A7C1BA953982AE37B9A837C6B02308D",
+   "source": "微信公众号",
+   "summary": "据微信公众号报道，我国人工智能开源大模型的全球累计下载量已突破100亿次。这一数字意味着中国开源模型已从本土使用扩展为全球开发者的重要基础，AI竞争规则正从闭源性能比拼转向开源生态与开发者规模的较量。",
+   "why": null,
+   "category": "开源生态",
+   "heat": 5,
+   "published": "2026-11-21T08:58:15+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "中国算力发展十大趋势发布，智能算力规模增长146%",
+   "url": "https://www.itsdw.cn/news/51093.html",
+   "source": "Google News 中文",
+   "summary": "中国算力发展十大趋势报告发布，其中智能算力规模同比增长146%，增速显著。报告梳理了算力基础设施、调度与绿色化等方向，反映出国内AI算力需求持续高速扩张，算力供给结构正在向智能算力倾斜。",
+   "why": null,
+   "category": "算力基建",
+   "heat": 5,
+   "published": "2026-11-21T20:20:24+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "马化腾第四次调整腾讯AI航道",
+   "url": "https://www.tmtpost.com/8213477.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道称，马化腾第四次调整腾讯AI战略方向，强调业务负责人需承担第一责任。此次调整涉及组织与资源分配，显示腾讯在AI竞争压力下持续重构内部协作与决策机制。",
+   "why": null,
+   "category": "大厂战略",
+   "heat": 5,
+   "published": "2026-11-21T07:55:05+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "DeepSeek V1作者创业项目曝光：开源Agent",
+   "url": "https://www.qbitai.com/2026/11/511570.html",
+   "source": "量子位",
+   "summary": "量子位报道，DeepSeek V1作者的新创业项目曝光，方向为开源Agent，专为本地部署设计。该项目延续了作者在高效模型与开放生态上的思路，瞄准企业私有化与端侧智能体场景。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 4,
+   "published": "2026-11-21T06:32:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "姚顺雨与混元团队在Reddit答网友，Hy小模型已进路线图",
+   "url": "https://www.qbitai.com/2026/11/511757.html",
+   "source": "量子位",
+   "summary": "腾讯混元团队与姚顺雨在Reddit与网友交流，透露Hy小模型已列入路线图，并分享了训练背后的技术细节。此举显示混元在开源与社区沟通上更加主动，小模型方向或成为其下一步重点。",
+   "why": null,
+   "category": "大模型",
+   "heat": 4,
+   "published": "2026-11-21T06:30:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "三星2027至2029年大部分存储芯片产能已被锁定，客户要求保障至2031年",
+   "url": "https://www.ithome.com/1/030/475.htm",
+   "source": "IT之家",
+   "summary": "韩媒报道称，三星电子2027年至2029年的大部分存储芯片产能已被合同预订，部分客户希望将供货保障延长至2031年。AI数据中心投资扩大导致HBM、通用DRAM和企业级NAND全面短缺，存储厂商议价能力进一步增强。",
+   "why": null,
+   "category": "芯片供应链",
+   "heat": 4,
+   "published": "2026-11-21T12:47:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "可灵发布Kling Image 4.0：原生8K、单图2000字、统一理解与生成架构",
+   "url": "https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html",
+   "source": "雷锋网",
+   "summary": "可灵推出Kling Image 4.0，原生分辨率提升至8K，单张图片最多支持2000字，一次可生成最多10张连贯图片。新模型采用理解与生成统一的自回归架构，重点解决商业场景中的文字准确性与局部修改一致性难题。",
+   "why": null,
+   "category": "多模态模型",
+   "heat": 4,
+   "published": "2026-11-21T02:59:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "美国AI音乐平台Suno进军视频生成，底层模型来自中国MiniMax",
+   "url": "https://www.qbitai.com/2026/11/511722.html",
+   "source": "量子位",
+   "summary": "美国AI音乐平台Suno宣布推出视觉创作工具Visuals，其底层视频生成模型来自中国MiniMax。这是国产视频模型以技术输出方式进入海外头部AI产品的重要案例，显示中国模型在海外商业化中的渗透。",
+   "why": null,
+   "category": "出海与商业化",
+   "heat": 4,
+   "published": "2026-11-20T12:18:01+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "米哈游发布VLA论文：8B参数模型实现50小时自主运行",
+   "url": "https://www.qbitai.com/2026/11/511740.html",
+   "source": "量子位",
+   "summary": "米哈游发布一篇VLA（视觉-语言-动作）论文，模型参数为8B，可实现50小时自主运行。该工作将游戏与交互场景中的长时任务能力引入具身智能研究，展示了中等规模模型在持续自主执行上的潜力。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-20T16:25:26+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "国内首个合成生物酶设计大模型在天津发布",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GSnRJZ0RtT0h4UmVLR2xMY3FKdTc4c2xsSUwxYl9laWI1RnNJbXRXUDVHeUJwUmJSVW5fS0lKNUFadjFCSUlVZWdaekg3UE91Y25jaWppZTQyVVU0aTVIT09tcw?oc=5",
+   "source": "Google News 中文",
+   "summary": "国内首个面向合成生物酶设计的大模型在天津发布，将AI用于酶序列与功能设计。该模型瞄准生物制造中的关键环节，有望缩短酶工程研发周期，推动AI在合成生物学领域的落地。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-21T10:36:39+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "“天河”大模型V2发布，为国家水网提供智慧大脑",
+   "url": "https://www.stdaily.com/web/gdxw/2026-11/21/content_617063.html",
+   "source": "Google News 中文",
+   "summary": "“天河”大模型V2发布，面向国家水网调度与管理场景升级，被定位为水利领域的“智慧大脑”。该模型将AI能力嵌入水资源调配、防洪调度等业务，是AI在重大基础设施治理中的典型落地。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-21T10:34:10+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "Token走进大众消费：买算力像充话费一样简单",
+   "url": "https://k.sina.com.cn/article_1699432410_654b47da02001y6gm.html?from",
+   "source": "Google News 中文",
+   "summary": "报道指出，Token正从开发者概念走向大众消费，算力购买体验向“充话费”式的小额、即时模式演进。这一趋势意味着推理算力的零售化与普惠化正在加速，算力分销渠道和计费方式将随之变化。",
+   "why": null,
+   "category": "算力消费",
+   "heat": 3,
+   "published": "2026-11-21T23:27:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "东南亚AI中间商之死：算力中间商淘金时代结束",
+   "url": "https://www.tmtpost.com/8213274.html",
+   "source": "钛媒体",
+   "summary": "钛媒体报道，东南亚AI算力中间商的淘金时代正在结束，单纯转售算力的模式难以为继。随着云厂商与模型厂商直接下沉，中间层利润被压缩，倒逼参与者转向增值服务与本地化交付。",
+   "why": null,
+   "category": "出海与商业化",
+   "heat": 3,
+   "published": "2026-11-21T05:05:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "苹果自研AI智能体Gestalt曝光，引国产大模型猜测",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0KtwvQGjfpsw6EbeTOT5uYFqXa8Fplpd9R6nQer3r8aOfVEE6LocweR6o9iJZ6GF4A2R7ur_zRbLoVeBFeZrpukk80avfQltR5_YP6JI33EWGHZG5_pScTHhRIfKEn18CAFZJxgmdqqlh-sQi0Fj6ThavYM4QQadwd28M7kF15lz92uUxLcPC3-nzRYl7szc6tD8903yV26H2CsG6-xMgzQ..&type=2&query=AI %E6%99%BA%E8%83%BD%E4%BD%93&token=B14E0BB9F580051E7A7C1BA953982AE37B9A837C6B02308B",
+   "source": "微信公众号",
+   "summary": "苹果官网招聘信息显示，公司正开发能像人类一样操作Mac的AI智能体Gestalt，最早2027年落地。该智能体引发外界对其底层是否采用国产大模型的猜测，反映端侧智能体竞争升温。",
+   "why": null,
+   "category": "智能体",
+   "heat": 3,
+   "published": "2026-11-21T09:11:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "Signal默认屏蔽截图，防止Siri AI与Gemini等智能体读取用户消息",
+   "url": "https://www.ithome.com/1/030/517.htm",
+   "source": "IT之家",
+   "summary": "加密聊天应用Signal在iOS与Android新版中默认关闭应用内截图，以阻止Siri AI、Gemini等系统级智能体读取私人消息。Signal总裁表示，系统级AI智能体可能在用户不知情下访问对话，对隐私机制构成威胁。",
+   "why": null,
+   "category": "AI安全与隐私",
+   "heat": 3,
+   "published": "2026-11-21T23:28:10+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "SEC对英伟达潜在会计问题展开调查，股价较10月高点近腰斩",
+   "url": "https://www.ithome.com/1/030/514.htm",
+   "source": "IT之家",
+   "summary": "路透社报道，美国证券交易委员会执法部门正在审查英伟达可能存在的会计问题。消息导致英伟达股价单日跌超14%，较10月高点243.4美元跌超48%，接近腰斩。",
+   "why": null,
+   "category": "芯片与监管",
+   "heat": 4,
+   "published": "2026-11-21T23:07:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "阿里AI相关产品收入超179亿元，连续13个季度三位数增长",
+   "url": "https://www.tmtpost.com/8213535.html",
+   "source": "钛媒体",
+   "summary": "阿里巴巴2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长。同期腾讯WorkBuddy近七天年化收入超5亿美元，豆包企业客户ARR突破20亿元，显示国内AI商业化加速。",
+   "why": null,
+   "category": "大厂财报",
+   "heat": 4,
+   "published": "2026-11-21T11:19:38+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "华为昇腾与英伟达AI芯片差距分析：2030年能否真正赶上",
+   "url": "https://www.csdn.net/detail/webblog_83923146/23806",
+   "source": "Google News 中文",
+   "summary": "分析文章讨论华为昇腾与英伟达AI芯片之间的差距，并评估到2030年能否真正赶上。文章从制程、生态与集群规模等维度展开，反映国产AI芯片在替代进程中的现实挑战与时间表预期。",
+   "why": null,
+   "category": "AI芯片",
+   "heat": 3,
+   "published": "2026-11-21T18:11:05+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
