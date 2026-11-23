@@ -3,7 +3,143 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Mon, 23 Nov 2026 08:01:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 08:01:54 +0000</lastBuildDate>
+  <item>
+    <title>腾讯三季度资本开支同比增 527%，AI 新业务拖累经营利润约 152 亿元</title>
+    <link>http://www.geekpark.net/news/374302</link>
+    <guid isPermaLink="false">154-1</guid>
+    <pubDate>Sun, 22 Nov 2026 01:58:48 +0000</pubDate>
+    <source>极客公园</source>
+    <description>腾讯 2026 年第三季度营收 2073.4 亿元、同比增长 8%，但资本开支达 814 亿元、同比增长 527%，单季支出已超 2025 年全年，研发投入 323.6 亿元、同比增长 42%。剔除混元、元宝、CodeBuddy 等新 AI 产品的收入与开支后，Non-IFRS 经营利润为 833 亿元、同比增长 8%，意味着 AI 新业务对经营利润造成约 152 亿元净影响。大规模算力采购预付款使自由现金流为负 691 亿元。</description>
+  </item>
+  <item>
+    <title>阿里吴泳铭：千问已用平头哥国产芯片启动下一代模型训练</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9xaDx3C-0uNS5FhO24JRlLYdVn8XvuEYcyNK5nqLJcNr1Eg1NGnnsSL8y5scdAw06CKnOo75EJPGlA7HzD--RDj6nEzKykUPvGmSwsgSqrdYmnPEBEu6MgcfTvCvnR2eQcNphjIKhDo1ZrhpC3O8iOp2Z01s1P89a73TiQuip9ubf3q8uRDTfkw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
+    <guid isPermaLink="false">154-2</guid>
+    <pubDate>Sun, 22 Nov 2026 09:22:17 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>阿里巴巴 CEO 吴泳铭在业绩电话会上表示，千问已使用今年这一代平头哥国产芯片启动下一代模型训练，并给出了真武系列芯片的推进时间表。这意味着国产 AI 芯片开始承担前沿大模型的实际训练任务，而非仅用于推理。</description>
+  </item>
+  <item>
+    <title>MiniMax 内部模型系统性破解多个密码学前沿方案，刷新国际挑战赛纪录</title>
+    <link>https://www.ithome.com/1/030/711.htm</link>
+    <guid isPermaLink="false">154-3</guid>
+    <pubDate>Sun, 22 Nov 2026 13:23:38 +0000</pubDate>
+    <source>IT之家</source>
+    <description>MiniMax 宣布其最新内部模型对现代密码方案开展系统性自动化密码分析，首次实际攻破多个 NIST 国际密码标准化竞赛中「尚无已知实际攻击」的候选算法，并对多篇顶会顶刊方案实现高效密文伪造或密钥恢复。模型还将多项理论攻击推进到秒级至分钟级可执行，在国际公开挑战赛中首次攻克数十个无公开解的高阶实例，实测加速达数百至数万倍。官方称不影响现行主流密码标准。</description>
+  </item>
+  <item>
+    <title>AI 服务器厂商交付前临时提价，涨幅最高达 45%</title>
+    <link>https://www.ithome.com/1/030/713.htm</link>
+    <guid isPermaLink="false">154-4</guid>
+    <pubDate>Sun, 22 Nov 2026 14:00:48 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据金融时报报道，戴尔、慧与、联想、超微电脑等厂商在合同签署数月后、设备交付前大幅上调搭载英伟达芯片的 AI 服务器价格，涨幅达 25% 至 45%。涨价主因是内存等组件成本飙升向下游转嫁，大型金融与交易公司也不得不接受。</description>
+  </item>
+  <item>
+    <title>腾讯 Hy4 flash 登顶 OpenRouter 用量榜，国产模型占据榜单前列</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9__hd1emfeHcmccWD21Vs0xHbr41QIoi9b71EHAFi0f60YMInF7Graxj01KiDJYoReT2RNJ3WsUoTrvx8US2WdS4J6Idbvdf0Jt3yuDMaGH04arbSILghiOSRe5eg9YM1oyB5IDOFvfQ1mC8LFvGCIDz0TJfzRjH1fF2VVTJtHnGfxjh3za6jWA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
+    <guid isPermaLink="false">154-5</guid>
+    <pubDate>Sun, 22 Nov 2026 12:05:07 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>大模型天梯榜显示，腾讯 Hy4 flash 以 10.30T tokens、29.2% 的份额升至 OpenRouter 用量榜第一，将 DeepSeek V4.1 Flash 压至其后。国产模型在开发者实际调用量上已形成集团优势。</description>
+  </item>
+  <item>
+    <title>前 OpenAI 研究员取证报告称六款中国前沿模型有英伟达 Blackwell 训练痕迹</title>
+    <link>https://www.huxiu.com/article/4907551.html</link>
+    <guid isPermaLink="false">154-6</guid>
+    <pubDate>Sun, 22 Nov 2026 15:46:46 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>前 OpenAI 研究员发布取证报告，称通过技术手段识别出六款中国前沿模型存在英伟达 Blackwell 芯片训练痕迹。该报告涉及出口管制与模型训练算力来源的敏感议题，多家媒体跟进报道。</description>
+  </item>
+  <item>
+    <title>特朗普称英伟达 Blackwell 芯片可对华销售但附条件；DeepSeek 千亿融资落地</title>
+    <link>https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</link>
+    <guid isPermaLink="false">154-7</guid>
+    <pubDate>Sun, 22 Nov 2026 10:15:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>综合多家媒体报道，特朗普表态英伟达 Blackwell 芯片可在附加条件下对华销售，同时 DeepSeek 第二轮千亿级融资落地，31 家出资方入股梁文锋搭建的持股平台。此外供应链消息称 OpenAI 手机项目由富士康旗下富智康获组装订单。</description>
+  </item>
+  <item>
+    <title>郭明錤：谷歌削减 2027 年博通设计 TPU 8i 出货约 100 万颗</title>
+    <link>https://www.ithome.com/1/030/698.htm</link>
+    <guid isPermaLink="false">154-8</guid>
+    <pubDate>Sun, 22 Nov 2026 11:20:07 +0000</pubDate>
+    <source>IT之家</source>
+    <description>天风国际分析师郭明錤称，谷歌将 2027 年由博通设计的 TPU 8i 系列出货量削减约 100 万颗，约占该系列出货的 20%，同时计划增加联发科设计的 TPU 8t 系列出货。调整背景是供应链紧张与数据中心供电受限，谷歌还在将 TPU 设计与 HBM 采购分离以压低成本。</description>
+  </item>
+  <item>
+    <title>国产显卡显存规格升至 48GB，主攻本地大模型推理</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd93xtnJ72CZD94OZdIiTcuV6y0Do39vg-UjaKZfx0YGOa5jHaK50lSV2IjWtyEEc8h9KMgzglDg9tC7B5aVbNIZcuf_hTWSiREbNmimccgYaqdVQ5zX4Hj7JCLLXwv0BkegemkBEO4L2ZjKS1rw_A9AF1rtxo_3UoDSNN84nuYede00NVofL2iDw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
+    <guid isPermaLink="false">154-9</guid>
+    <pubDate>Sun, 22 Nov 2026 21:41:00 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>据微信公众号消息，国产显卡新品将显存容量提升至 48GB 或更高，定位覆盖游戏、本地大模型推理与专业渲染，具体容量尚未正式公布。大显存是本地部署大模型的关键瓶颈，该规格直指消费级与工作站级推理场景。</description>
+  </item>
+  <item>
+    <title>国内首个海洋原生多模态大模型「文鳐」新一代在厦门发布</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9VL3zq2p95nHr59CpHVyo2heMR8seK1KHi06HHvZZSFJllzfcvTwJVexSoPxSrvfGMh_HV44fbk6y6P2y-ANEkZDIvGFsSY2pw71DKQb5CrtY42CupDbDx-hrIs7zUALQ37PARRKbr0VlK2KZcT1Jv6Bad8GGo1qt4McZnUqFBR0NGbbB75bUeA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
+    <guid isPermaLink="false">154-10</guid>
+    <pubDate>Sun, 22 Nov 2026 11:39:02 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>众数文鳐联合哈尔滨工程大学、厦门理工学院在厦门发布新一代「文鳐」大模型，定位为国内首个海洋原生多模态大模型，面向海洋装备自主智能化。多家媒体报道了该发布。</description>
+  </item>
+  <item>
+    <title>B站就「AI 大肥鱼」智能体账号泛滥发布问卷征集治理意见</title>
+    <link>https://www.ithome.com/1/030/702.htm</link>
+    <guid isPermaLink="false">154-11</guid>
+    <pubDate>Sun, 22 Nov 2026 11:44:18 +0000</pubDate>
+    <source>IT之家</source>
+    <description>B站出现大量以「大肥鱼」「小飞鲸」等昵称为名、使用 DeepSeek 鲸鱼娘形象头像的 AI 智能体账号，在评论区广泛互动，部分账号首条视频播放量超 300 万次。B站官方于 11 月 20 日发布治理意见征询，将根据反馈推进后续治理，已有用户开发插件屏蔽相关 AI 评论。</description>
+  </item>
+  <item>
+    <title>腾讯元宝联合 KCL 发布首个基于群聊构建的 Agent 记忆基准</title>
+    <link>https://www.qbitai.com/2026/11/511841.html</link>
+    <guid isPermaLink="false">154-12</guid>
+    <pubDate>Sat, 21 Nov 2026 11:40:11 +0000</pubDate>
+    <source>量子位</source>
+    <description>腾讯元宝与伦敦国王学院（KCL）联合发布首个基于群聊构建的 Agent 记忆基准，数据集由 8 万条群聊消息构成考卷，用于评测智能体在长程、多主体对话中的记忆能力。</description>
+  </item>
+  <item>
+    <title>达瓦科技以「重控制、轻渲染」路线切入 AI 视频工业管线</title>
+    <link>http://www.geekpark.net/news/374303</link>
+    <guid isPermaLink="false">154-13</guid>
+    <pubDate>Sun, 22 Nov 2026 02:03:57 +0000</pubDate>
+    <source>极客公园</source>
+    <description>达瓦科技自研控制层基座模型 Latent Stage，将人物、动作、镜头、灯光、场景的理解与控制独立成层再交由渲染层出画面，产品包括离线生成的 FilmOS 与可在单张消费级显卡实时运行的世界模型 Scenes AI。公司今年完成 Pre-A 与 A 轮融资，累计约 5 亿元，依托片场积累约 180TB 结构化过程数据。</description>
+  </item>
+  <item>
+    <title>拆解大厂财报：算力、模型服务与 AI 工具已形成可辨认收入模式</title>
+    <link>https://www.tmtpost.com/8212870.html</link>
+    <guid isPermaLink="false">154-14</guid>
+    <pubDate>Sun, 22 Nov 2026 11:05:18 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体拆解四家国内大厂财报指出，算力、模型服务与 AI 工具三条业务线已形成可辨认的收入模式，AI 投入与产出开始在同一张报表上对照。</description>
+  </item>
+  <item>
+    <title>国产大模型拿下全球约七成调用量，收入占比仅约三成</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9gr6TSvWwjKzM9vqrjIgFYe434sOUjafHcdfOuAflb6PPSYoVX8SqlYlUTYf_TMH3A0nQUn70EgxyG8TWI0WUFQE53V7EoxzLoLlfhe-t0Nbnd9ZE8EMdHoNA_venNbRmCfXauJ9pmNJqBsDlzCFDjcIvGv9SFeeFalR_2PX4cvrdrgozfSg6bw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
+    <guid isPermaLink="false">154-15</guid>
+    <pubDate>Sun, 22 Nov 2026 03:45:35 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>据微信公众号分析，国产大模型在全球调用量中已占约七成，但对应收入仅约三成，商业化变现明显滞后于使用规模。文章将这一落差归因于定价、企业付费习惯与生态锁定等因素。</description>
+  </item>
+  <item>
+    <title>大模型计费被指存在黑箱，低价中转站暗藏风险</title>
+    <link>https://news.hsw.cn/system/2026/1123/1976357.shtml</link>
+    <guid isPermaLink="false">154-16</guid>
+    <pubDate>Sun, 22 Nov 2026 23:14:22 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>据华商网报道，有用户反映单个问题消耗上百元 Token，大模型计费透明度不足；同时市面上低价 API 中转站存在数据与合规风险。报道提示企业在选型时需关注计费口径与数据流向。</description>
+  </item>
+  <item>
+    <title>华为在 2026 世界计算大会举办智启未来论坛，聚焦算力底座与行业落地</title>
+    <link>https://www.oschina.net/news/503727</link>
+    <guid isPermaLink="false">154-17</guid>
+    <pubDate>Sun, 22 Nov 2026 16:18:42 +0000</pubDate>
+    <source>开源中国</source>
+    <description>2026 世界计算大会期间，华为在长沙主办「数智共昇 鸿湘有为」智启未来主题论坛，围绕计算前沿技术、产业生态演进与 AI 行业落地实践展开研讨，对接湖南省「AI+」发展战略。</description>
+  </item>
   <item>
     <title>腾讯三季度资本开支同比增 527%，AI 新业务单季拖累经营利润约 152 亿元</title>
     <link>http://www.geekpark.net/news/374302</link>
@@ -347,141 +483,5 @@
     <pubDate>Sat, 21 Nov 2026 22:00:00 +0000</pubDate>
     <source>Google News 中文</source>
     <description>据 IDNFinancials 报道，美国国家安全专家呼吁司法部对英伟达 AI 芯片相关事件展开调查。该事件涉及 AI 芯片出口与供应链安全问题，可能影响英伟达对华业务的政策环境。</description>
-  </item>
-  <item>
-    <title>2030 年算力目标冲击 10000EFLOPS，算力概念股受关注</title>
-    <link>https://wap.eastmoney.com/a/202611203936217729.html</link>
-    <guid isPermaLink="false">151-12</guid>
-    <pubDate>Sat, 21 Nov 2026 17:38:23 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>东方财富网梳理算力概念股，提及 2030 年国内算力规模目标冲击 10000EFLOPS。报道将智能算力扩张与相关上市公司业务布局关联，反映资本市场对算力基建的持续关注。</description>
-  </item>
-  <item>
-    <title>美股 AI 板块大幅回调，市场争论泡沫是否破裂</title>
-    <link>https://www.ifanr.com/1690789</link>
-    <guid isPermaLink="false">151-13</guid>
-    <pubDate>Sat, 21 Nov 2026 03:30:42 +0000</pubDate>
-    <source>爱范儿</source>
-    <description>爱范儿报道，美股 AI 相关板块出现一夜大幅下跌，引发市场对 AI 泡沫是否破裂的讨论。报道将回调归因于估值高企与对 AI 资本开支回报周期的担忧。</description>
-  </item>
-  <item>
-    <title>清析智研王欢：大模型学完人类知识后，下一步是进入真实世界创造新知识</title>
-    <link>https://www.tmtpost.com/8213250.html</link>
-    <guid isPermaLink="false">151-14</guid>
-    <pubDate>Sat, 21 Nov 2026 04:44:41 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体刊发清析智研王欢的观点，讨论大模型在掌握既有知识之后，如何进入真实世界并创造新知识。文章提出以真实场景数据与实验闭环驱动模型能力跃迁的思路。</description>
-  </item>
-  <item>
-    <title>Entire Git Forge 发布：面向编码智能体重构 Git 协作方式</title>
-    <link>https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc</link>
-    <guid isPermaLink="false">151-15</guid>
-    <pubDate>Sat, 21 Nov 2026 10:00:00 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 报道，Entire Git Forge 项目提出面向编码智能体的 Git 协作重构方案。该方案针对 AI 智能体频繁提交代码的场景，重新设计分支、评审与合并流程。</description>
-  </item>
-  <item>
-    <title>我国开源大模型全球累计下载量突破100亿次</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0H_wfMi8XJQ06EbeTOT5uYFqXa8Fplpd99o_6UwxOtP6LGvygafO2fFZ5KGtlFN73DD_0Q2mFCK4cdjIjyOFhTF91TPmoyhoqgFOvga3Ixu9uPQmdlRVtN5FsoQNwDjQLShXohDJQe_0VrHgWoAAEyzrApgO8LGIzcip9Wpur5UNc8F_tDMBLRxBb7bsVBvVlXmfmC14O0UDzAjcIGepUqA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B14E1DDAF580051E7A7C1BA953982AE37B9A837C6B02308D</link>
-    <guid isPermaLink="false">150-1</guid>
-    <pubDate>Sat, 21 Nov 2026 08:58:15 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>据微信公众号报道，我国人工智能开源大模型的全球累计下载量已突破100亿次。这一数字意味着中国开源模型已从本土使用扩展为全球开发者的重要基础，AI竞争规则正从闭源性能比拼转向开源生态与开发者规模的较量。</description>
-  </item>
-  <item>
-    <title>中国算力发展十大趋势发布，智能算力规模增长146%</title>
-    <link>https://www.itsdw.cn/news/51093.html</link>
-    <guid isPermaLink="false">150-2</guid>
-    <pubDate>Sat, 21 Nov 2026 20:20:24 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>中国算力发展十大趋势报告发布，其中智能算力规模同比增长146%，增速显著。报告梳理了算力基础设施、调度与绿色化等方向，反映出国内AI算力需求持续高速扩张，算力供给结构正在向智能算力倾斜。</description>
-  </item>
-  <item>
-    <title>马化腾第四次调整腾讯AI航道</title>
-    <link>https://www.tmtpost.com/8213477.html</link>
-    <guid isPermaLink="false">150-3</guid>
-    <pubDate>Sat, 21 Nov 2026 07:55:05 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体报道称，马化腾第四次调整腾讯AI战略方向，强调业务负责人需承担第一责任。此次调整涉及组织与资源分配，显示腾讯在AI竞争压力下持续重构内部协作与决策机制。</description>
-  </item>
-  <item>
-    <title>DeepSeek V1作者创业项目曝光：开源Agent</title>
-    <link>https://www.qbitai.com/2026/11/511570.html</link>
-    <guid isPermaLink="false">150-4</guid>
-    <pubDate>Sat, 21 Nov 2026 06:32:31 +0000</pubDate>
-    <source>量子位</source>
-    <description>量子位报道，DeepSeek V1作者的新创业项目曝光，方向为开源Agent，专为本地部署设计。该项目延续了作者在高效模型与开放生态上的思路，瞄准企业私有化与端侧智能体场景。</description>
-  </item>
-  <item>
-    <title>姚顺雨与混元团队在Reddit答网友，Hy小模型已进路线图</title>
-    <link>https://www.qbitai.com/2026/11/511757.html</link>
-    <guid isPermaLink="false">150-5</guid>
-    <pubDate>Sat, 21 Nov 2026 06:30:55 +0000</pubDate>
-    <source>量子位</source>
-    <description>腾讯混元团队与姚顺雨在Reddit与网友交流，透露Hy小模型已列入路线图，并分享了训练背后的技术细节。此举显示混元在开源与社区沟通上更加主动，小模型方向或成为其下一步重点。</description>
-  </item>
-  <item>
-    <title>三星2027至2029年大部分存储芯片产能已被锁定，客户要求保障至2031年</title>
-    <link>https://www.ithome.com/1/030/475.htm</link>
-    <guid isPermaLink="false">150-6</guid>
-    <pubDate>Sat, 21 Nov 2026 12:47:11 +0000</pubDate>
-    <source>IT之家</source>
-    <description>韩媒报道称，三星电子2027年至2029年的大部分存储芯片产能已被合同预订，部分客户希望将供货保障延长至2031年。AI数据中心投资扩大导致HBM、通用DRAM和企业级NAND全面短缺，存储厂商议价能力进一步增强。</description>
-  </item>
-  <item>
-    <title>可灵发布Kling Image 4.0：原生8K、单图2000字、统一理解与生成架构</title>
-    <link>https://www.leiphone.com/category/yanxishe/zjw3hyGGqzhBaPj7.html</link>
-    <guid isPermaLink="false">150-7</guid>
-    <pubDate>Sat, 21 Nov 2026 02:59:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>可灵推出Kling Image 4.0，原生分辨率提升至8K，单张图片最多支持2000字，一次可生成最多10张连贯图片。新模型采用理解与生成统一的自回归架构，重点解决商业场景中的文字准确性与局部修改一致性难题。</description>
-  </item>
-  <item>
-    <title>美国AI音乐平台Suno进军视频生成，底层模型来自中国MiniMax</title>
-    <link>https://www.qbitai.com/2026/11/511722.html</link>
-    <guid isPermaLink="false">150-8</guid>
-    <pubDate>Fri, 20 Nov 2026 12:18:01 +0000</pubDate>
-    <source>量子位</source>
-    <description>美国AI音乐平台Suno宣布推出视觉创作工具Visuals，其底层视频生成模型来自中国MiniMax。这是国产视频模型以技术输出方式进入海外头部AI产品的重要案例，显示中国模型在海外商业化中的渗透。</description>
-  </item>
-  <item>
-    <title>米哈游发布VLA论文：8B参数模型实现50小时自主运行</title>
-    <link>https://www.qbitai.com/2026/11/511740.html</link>
-    <guid isPermaLink="false">150-9</guid>
-    <pubDate>Fri, 20 Nov 2026 16:25:26 +0000</pubDate>
-    <source>量子位</source>
-    <description>米哈游发布一篇VLA（视觉-语言-动作）论文，模型参数为8B，可实现50小时自主运行。该工作将游戏与交互场景中的长时任务能力引入具身智能研究，展示了中等规模模型在持续自主执行上的潜力。</description>
-  </item>
-  <item>
-    <title>国内首个合成生物酶设计大模型在天津发布</title>
-    <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GSnRJZ0RtT0h4UmVLR2xMY3FKdTc4c2xsSUwxYl9laWI1RnNJbXRXUDVHeUJwUmJSVW5fS0lKNUFadjFCSUlVZWdaekg3UE91Y25jaWppZTQyVVU0aTVIT09tcw?oc=5</link>
-    <guid isPermaLink="false">150-10</guid>
-    <pubDate>Sat, 21 Nov 2026 10:36:39 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>国内首个面向合成生物酶设计的大模型在天津发布，将AI用于酶序列与功能设计。该模型瞄准生物制造中的关键环节，有望缩短酶工程研发周期，推动AI在合成生物学领域的落地。</description>
-  </item>
-  <item>
-    <title>“天河”大模型V2发布，为国家水网提供智慧大脑</title>
-    <link>https://www.stdaily.com/web/gdxw/2026-11/21/content_617063.html</link>
-    <guid isPermaLink="false">150-11</guid>
-    <pubDate>Sat, 21 Nov 2026 10:34:10 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>“天河”大模型V2发布，面向国家水网调度与管理场景升级，被定位为水利领域的“智慧大脑”。该模型将AI能力嵌入水资源调配、防洪调度等业务，是AI在重大基础设施治理中的典型落地。</description>
-  </item>
-  <item>
-    <title>Token走进大众消费：买算力像充话费一样简单</title>
-    <link>https://k.sina.com.cn/article_1699432410_654b47da02001y6gm.html?from</link>
-    <guid isPermaLink="false">150-12</guid>
-    <pubDate>Sat, 21 Nov 2026 23:27:13 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>报道指出，Token正从开发者概念走向大众消费，算力购买体验向“充话费”式的小额、即时模式演进。这一趋势意味着推理算力的零售化与普惠化正在加速，算力分销渠道和计费方式将随之变化。</description>
-  </item>
-  <item>
-    <title>东南亚AI中间商之死：算力中间商淘金时代结束</title>
-    <link>https://www.tmtpost.com/8213274.html</link>
-    <guid isPermaLink="false">150-13</guid>
-    <pubDate>Sat, 21 Nov 2026 05:05:28 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体报道，东南亚AI算力中间商的淘金时代正在结束，单纯转售算力的模式难以为继。随着云厂商与模型厂商直接下沉，中间层利润被压缩，倒逼参与者转向增值服务与本地化交付。</description>
   </item>
 </channel></rss>
