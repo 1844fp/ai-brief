@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:58:49.023286",
+ "generated_at": "2026-11-23T08:01:38.255109",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 153,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-23",
+   "created_at": "2026-11-23T00:01:37.227752+00:00",
+   "item_count": 16,
+   "llm_ok": true,
+   "url": "reports/2026-11-23/news_daily_cn-080137.html"
+  },
   {
    "id": 152,
    "task": "news_daily",
@@ -1317,6 +1326,198 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "腾讯三季度资本开支同比增 527%，AI 新业务单季拖累经营利润约 152 亿元",
+   "url": "http://www.geekpark.net/news/374302",
+   "source": "极客公园",
+   "summary": "腾讯 2026 年第三季度资本开支达 814 亿元，同比增长 527%，单季支出已超 2025 年全年；研发投入 323.6 亿元，同比增长 42%。剔除混元、元宝、CodeBuddy 等新 AI 产品的收入与开支后，老业务经营利润率仍持平于 40%，但新 AI 业务对 Non-IFRS 经营利润造成约 152 亿元净影响。这标志着腾讯 AI 投入进入重资产阶段，短期利润承压换取算力与模型能力。",
+   "why": null,
+   "category": "大厂 AI 战略",
+   "heat": 5,
+   "published": "2026-11-22T01:58:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "特朗普称英伟达 Blackwell 芯片可对华销售但附条件；DeepSeek 千亿融资落地，31 家出资方入股",
+   "url": "https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html",
+   "source": "雷锋网",
+   "summary": "多家媒体报道，特朗普表态英伟达 Blackwell 芯片可对华销售但设有条件，具体条件尚未披露；同期 DeepSeek 第二轮千亿级融资落地，31 家出资方入股梁文锋搭建的持股平台。两件事叠加，意味着国产模型公司在算力受限预期下加速锁定资本，为下一阶段训练储备弹药。",
+   "why": null,
+   "category": "政策与算力",
+   "heat": 5,
+   "published": "2026-11-22T10:15:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "MiniMax 内部模型系统性破解多个密码学前沿方案，刷新国际挑战赛纪录",
+   "url": "https://www.ithome.com/1/030/711.htm",
+   "source": "IT之家",
+   "summary": "MiniMax 宣布其最新内部模型对现代密码方案开展自动化密码分析，首次实际攻破多个 NIST 竞赛中「尚无已知实际攻击」的候选算法，并将多项理论攻击推进到秒级至分钟级可执行。模型还在国际公开挑战赛中首次攻克数十个无公开解的高阶实例，相比最优算法实现数百至数万倍加速。官方强调不影响现行主流密码标准，但 AI 用于密码分析的能力边界已被明显推高。",
+   "why": null,
+   "category": "AI4S",
+   "heat": 5,
+   "published": "2026-11-22T13:23:38+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "AI 服务器交付前涨价最高达 45%，戴尔、联想、超微等要求高于签约价",
+   "url": "https://www.ithome.com/1/030/713.htm",
+   "source": "IT之家",
+   "summary": "据金融时报报道，戴尔、慧与、联想、超微等服务器厂商在合同签署数月后、设备交付前大幅提价，涨幅达 25% 至 45%，主要因内存等组件成本飙升向下游转嫁。大型金融与交易公司作为仅次于云厂商的采购大户也不得不接受。这反映 AI 算力设备供不应求已从芯片端蔓延至整机交付环节。",
+   "why": null,
+   "category": "算力供应链",
+   "heat": 4,
+   "published": "2026-11-22T14:00:48+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "腾讯 Hy4 flash 以 29.2% 份额登顶 OpenRouter 用量榜，国产模型霸榜",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0WWeFzXpxm4f7BgYaLXuT3lqXa8Fplpd9__hd1emfeHcmccWD21Vs0xHbr41QIoi9b71EHAFi0f60YMInF7Graxj01KiDJYoReT2RNJ3WsUoTrvx8US2WdXFBQCLjODrpsc3xcyxWAhKlhKSP1QXo4k63lFDQy0_44Y1uwM8flZE309czGTxrHh3hBCJxogDM06gPcTLq8hFQ_LeJW-Rhtg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=B86DC81502C1041F7B7D1B9C3DBC9C127BAF7EFC6B03820E",
+   "source": "微信公众号",
+   "summary": "大模型天梯榜刷新，腾讯 Hy4 flash 以 10.30T tokens、29.2% 的份额冲上 OpenRouter 用量榜第一，将 DeepSeek V4.1 Flash 压至其后。国产模型在第三方聚合平台的调用份额持续领先，说明其在性价比与可用性上已形成实际吸引力，但收入转化仍是短板。",
+   "why": null,
+   "category": "模型动态",
+   "heat": 4,
+   "published": "2026-11-22T12:05:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "国产大模型拿下全球七成调用量，收入却只有三成",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0WWeFzXpxm4f7BgYaLXuT3lqXa8Fplpd9gr6TSvWwjKzM9vqrjIgFYe434sOUjafHcdfOuAflb6PPSYoVX8SqlYlUTYf_TMH3A0nQUn70EgxyG8TWI0WUFcSd6vJHJrONcpZ4YfnepHDoAUGa7cTG0gsC8CrVHiY8-LQG6CnMU9RQndBpupjGVvEx0VEyTtl1b3jh7caL4qUHpHkoPMgL3A..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=B86DC81502C1041F7B7D1B9C3DBC9C127BAF7EFC6B03820E",
+   "source": "微信公众号",
+   "summary": "多篇分析指出，国产大模型在全球 API 调用量中占比约七成，但对应收入仅约三成，商业化变现明显滞后于使用规模。低价策略与开源生态带来流量，却未同步转化为利润，如何从「叫好」走向「叫座」成为国产模型下一阶段的核心考题。",
+   "why": null,
+   "category": "行业分析",
+   "heat": 4,
+   "published": "2026-11-22T03:45:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "前 OpenAI 研究员取证报告：六款中国前沿模型被识别出英伟达 Blackwell 训练痕迹",
+   "url": "https://www.huxiu.com/article/4907551.html",
+   "source": "Google News 中文",
+   "summary": "前 OpenAI 研究员发布取证报告，称通过技术手段识别出六款中国前沿模型存在英伟达 Blackwell 芯片训练痕迹。该报告若被广泛采信，将为美国出口管制执行提供新的技术取证路径，也可能加剧对国产模型算力来源的审查压力。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-11-22T15:46:46+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "郭明錤：谷歌削减 2027 年博通设计 TPU 8i 出货约 100 万颗，转向联发科 8t",
+   "url": "https://www.ithome.com/1/030/698.htm",
+   "source": "IT之家",
+   "summary": "天风国际分析师郭明錤称，谷歌削减 2027 年由博通设计的 TPU 8i 系列出货约 100 万颗，约占该系列 20%，同时计划增加联发科设计的 TPU 8t 出货。谷歌还将 TPU 设计与 HBM 采购分离以压降成本。这一调整反映在供电与供应链紧张下，云厂商自研芯片策略正从单一供应商走向多源分工。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 4,
+   "published": "2026-11-22T11:20:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "国产显卡显存规格升至 48GB，专攻本地大模型推理",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0WWeFzXpxm4f7BgYaLXuT3lqXa8Fplpd93xtnJ72CZD94OZdIiTcuV6y0Do39vg-UjaKZfx0YGOa5jHaK50lSV2IjWtyEEc8h9KMgzglDg9tC7B5aVbNIZS15zzdEwklVSzvwbtc7jXCVEcoG-IPfikVJMrF3JDn020a8G43BNxL25iP6bT17x5khvlUCCmq1ALYhaAAoP2e00NVofL2iDw..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=B86DC81502C1041F7B7D1B9C3DBC9C127BAF7EFC6B03820E",
+   "source": "微信公众号",
+   "summary": "据微信公众号消息，国产显卡将显存容量提升至 48GB 或更高，定位覆盖游戏、本地大模型推理与专业渲染，具体容量尚未官宣。大显存是本地跑通中大规模模型推理的关键门槛，国产显卡若能在该规格上量产，将补上消费级与工作站级本地推理的短板。",
+   "why": null,
+   "category": "AI 芯片",
+   "heat": 3,
+   "published": "2026-11-22T21:41:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "国内首个海洋原生多模态大模型新一代「文鳐」在厦门发布",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE0WWeFzXpxm4f7BgYaLXuT3lqXa8Fplpd9VL3zq2p95nHr59CpHVyo2heMR8seK1KHi06HHvZZSFJllzfcvTwJVexSoPxSrvfGMh_HV44fbk6y6P2y-ANEkS8KCiAkUSHubHDGSk82b2WXAqHcA4Yw87Eu069DSjFKCQe3KA89_L3yDib4SoY0rI2z_r7mN00JKMDcdNkqKsvYl_Q5RRZQjg..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=B86DC81502C1041F7B7D1B9C3DBC9C127BAF7EFC6B03820E",
+   "source": "微信公众号",
+   "summary": "众数文鳐联合哈尔滨工程大学、厦门理工学院在厦门发布新一代「文鳐」大模型，定位国内首个海洋原生多模态大模型，面向海洋装备自主智能化。该模型瞄准海洋监测、装备运维等垂直场景，是行业大模型向海洋工程等重资产领域渗透的案例。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-22T11:39:02+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "腾讯元宝联合 KCL 发布首个基于群聊构建的 Agent 记忆基准",
+   "url": "https://www.qbitai.com/2026/11/511841.html",
+   "source": "量子位",
+   "summary": "腾讯元宝与 KCL 基于 8 万条群聊消息构建考卷，发布首个以群聊为数据源的 Agent 记忆基准，用于评测智能体在长对话与多用户场景下的记忆能力。群聊场景信息碎片化、多主体交织，比单轮问答更贴近真实 Agent 应用，该基准填补了记忆评测在中文社交场景的空白。",
+   "why": null,
+   "category": "开源与评测",
+   "heat": 3,
+   "published": "2026-11-21T11:40:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "B站就「AI 大肥鱼」智能体账号泛滥发布调查问卷，征集治理意见",
+   "url": "https://www.ithome.com/1/030/702.htm",
+   "source": "IT之家",
+   "summary": "B站出现大量以「大肥鱼」「小飞鲸」等昵称、使用 DeepSeek 鲸鱼娘形象头像的 AI 智能体账号，在评论区广泛互动，部分用户不堪其扰并开发屏蔽插件。B站官方于 11 月 20 日发布治理意见征询，将根据反馈推进后续治理。这是国内内容平台首次针对 AI 智能体账号规模化现象公开征集治理方案。",
+   "why": null,
+   "category": "平台治理",
+   "heat": 3,
+   "published": "2026-11-22T11:44:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "华为在 2026 世界计算大会举办智启未来论坛，聚焦算力底座与行业落地",
+   "url": "https://www.oschina.net/news/503727",
+   "source": "开源中国",
+   "summary": "2026 世界计算大会期间，华为在长沙主办「数智共昇 鸿湘有为」智启未来主题论坛，对接湖南省「AI+」发展战略，围绕计算前沿技术、产业生态演进与行业落地实践展开研讨。论坛侧重算力生态伙伴协同与一线场景经验，是华为推动昇腾算力生态区域化落地的动作之一。",
+   "why": null,
+   "category": "算力生态",
+   "heat": 3,
+   "published": "2026-11-22T16:18:42+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "达瓦科技以「重控制、轻渲染」路线切入 AI 视频工业管线，累计融资约 5 亿元",
+   "url": "http://www.geekpark.net/news/374303",
+   "source": "极客公园",
+   "summary": "重庆达瓦科技自研控制层基座模型 Latent Stage，将人物、动作、镜头、灯光、场景的理解与控制独立成层，再交由渲染层出画面，形成 FilmOS 与可在单张消费级显卡实时运行的世界模型 Scenes AI。公司今年完成 Pre-A 与 A 轮融资，累计约 5 亿元，底气来自片场积累的约 180TB 结构化过程数据。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-22T02:03:57+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "AI 提出给电池加维生素 C，助我国科学家取得突破",
+   "url": "https://www.shobserver.cn/news/detail?id",
+   "source": "Google News 中文",
+   "summary": "据上观新闻报道，AI 在电池材料研究中提出添加维生素 C 的方案，打破人类思维定式，帮助我国科学家取得实验突破。该案例体现 AI 在科研假设生成环节的价值——不是替代实验，而是提供人类研究者不易想到的候选方向。",
+   "why": null,
+   "category": "AI4S",
+   "heat": 3,
+   "published": "2026-11-22T22:01:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "大模型计费被指存在黑箱，低价中转站风险受关注",
+   "url": "https://news.hsw.cn/system/2026/1123/1976357.shtml",
+   "source": "Google News 中文",
+   "summary": "据华商网报道，有用户反映单个问题消耗百元 Token，大模型 API 计费透明度不足；低价中转站因价格优势吸引用户，但存在数据与合规风险。随着模型调用量激增，计费规则与第三方中转服务的规范性正成为开发者关注的实际问题。",
+   "why": null,
+   "category": "行业规范",
+   "heat": 2,
+   "published": "2026-11-22T23:14:22+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
