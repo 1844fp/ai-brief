@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:07:55.436807",
+ "generated_at": "2026-11-24T07:30:55.115281",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 156,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-24",
+   "created_at": "2026-11-23T23:30:54.200146+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-24/news_daily-073054.html"
+  },
   {
    "id": 155,
    "task": "github_weekly",
@@ -1344,6 +1353,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "智谱发布 GLM-5.4：首个循环 Transformer 推动通用编码能力",
+   "url": "https://z.ai/blog/glm-5.4",
+   "source": "Hacker News",
+   "summary": "智谱发布 GLM-5.4，称这是其首个采用循环 Transformer 架构的模型，目标是提升通用编码能力。该消息在 Hacker News 获得逾千分和 300 多条评论，是当日讨论度最高的技术发布。循环结构若能在推理阶段复用计算，可能为编码智能体带来新的扩展路径。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-23T10:06:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic 推出 Claude Ship，让 AI 智能体审阅、修复并批准代码变更",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 发布 Claude Ship，使 Claude 能够审阅、修复并批准 pull request，把代码审查与合并环节交给智能体处理。多家媒体报道称，该产品瞄准 AI 生成代码激增后的审批瓶颈。这意味着编码智能体正从辅助编写走向接管交付流程中的关键节点。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 5,
+   "published": "2026-11-23T22:05:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Amazon 以 75 亿美元收购 Decart 的 AI 优化技术与研究团队",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+   "source": "TechCrunch AI",
+   "summary": "Amazon 宣布收购 Decart 的 AI 优化技术及相关研究团队，交易规模据报道达 75 亿美元，时点正值其准备对外销售 Trainium 芯片。此举显示 Amazon 正同时补强推理优化软件栈与自研算力生态。对芯片市场而言，这意味着 AWS 在降低单位推理成本上寻求差异化。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-23T17:14:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Nvidia 董事会恢复黄仁勋 CEO 职务，芯片安全争议未平",
+   "url": "https://thenationaldesk.com/news/americas-news-now/whats-next-for-nvidia-as-board-reinstates-jensen-huang-amid-ai-chip-security-debate-chinese-spy-chips-trump-administration",
+   "source": "Google News 英文",
+   "summary": "Nvidia 董事会一致投票决定恢复黄仁勋的 CEO 职务，称对其坦诚与领导能力感到满意。多家媒体报道，此事发生在 AI 芯片安全与出口管制争议升温之际，白宫方面也公开表示特朗普深度参与了这一决定。管理层动荡的平息并未消除围绕该公司治理与合规的疑问。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-11-23T22:34:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Sierra 完成 17.5 亿美元 F 轮融资，估值半年翻倍至 300 亿美元",
+   "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+   "source": "TechCrunch AI",
+   "summary": "由前 Salesforce 联席 CEO Bret Taylor 联合创办的客户体验公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值在六个月内翻倍至 300 亿美元。公司称需求来自企业将 AI 智能体用于客户服务场景的快速增长。这一估值使 Sierra 成为企业级 AI 应用层最贵的公司之一。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 4,
+   "published": "2026-11-23T14:43:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "Google 搜索 AI Mode 接入 Drive 与 Wallet，提供个性化回答",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+   "source": "TechCrunch AI",
+   "summary": "Google 将 Personal Intelligence 引入搜索 AI Mode，使其可调用 Drive、Wallet 及 Gemini 应用中的数据，从而给出更个性化的回答。官方博客同步说明了该功能的产品形态。这是 Google 把既有用户数据优势转化为 AI 搜索差异化的关键一步。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-23T19:14:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "黄仁勋下周将赴参议院作证，涉及其复职与中国间谍疑云",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+   "source": "TechCrunch AI",
+   "summary": "在恢复 Nvidia CEO 职务后，黄仁勋被安排于下周出席参议院公开听证会，回应两党对其与中国疑似间谍人员关系的质询。多家媒体报道称，听证会将聚焦出口管制与公司治理。这一安排意味着围绕 Nvidia 的政治压力并未随董事会决定而结束。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-23T18:12:22+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "NariQ 发布 Qwen3.8-27B 的 3 比特量化版本，10GB 文件接近 BF16 表现",
+   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+   "source": "Hacker News",
+   "summary": "NariQ 发布 Qwen3.8-27B 的 3 比特及更低比特量化版本，10GB 文件即可运行，并称在长程智能体任务上首次达到接近 BF16 的水平。基准显示 3 比特版本在 DeepSWE 上为 41.0、Terminal-Bench 2.1 为 63.8，均与 BF16 相当，而 2 比特版本明显下降。这为本地部署高性能智能体模型提供了更现实的显存门槛。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-23T13:42:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "纽约州总检察长设立 AI 安全部门，执行 RAISE Act",
+   "url": "https://www.jdsupra.com/legalnews/new-york-attorney-general-launches-ai-4956747/",
+   "source": "Google News 英文",
+   "summary": "纽约州总检察长宣布成立专门的 AI 安全部门，负责执行该州 RAISE Act 的相关条款。此举使州级执法机构成为 AI 合规的实际执行者。在联邦立法进展缓慢的背景下，州层面正在形成更具操作性的监管抓手。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-23T20:48:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "俄勒冈与弗吉尼亚两州就 Grok 色情深度伪造起诉 SpaceX",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "source": "The Verge AI",
+   "summary": "俄勒冈州总检察长 Dan Rayfield 与弗吉尼亚州总检察长 Jay Jones 分别提起诉讼，指控 SpaceX 违反州消费者保护法，未对 Grok 的色情深度伪造内容采取行业标准防护，并虚假宣传平台安全性。弗吉尼亚的诉状还指控马斯克存在故意行为。这是州级监管对生成式 AI 内容危害的又一次直接执法。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-23T18:26:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "Google DeepMind 用智能体与形式化验证寻找更快的量子算法",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 发布研究，利用智能体团队结合形式化验证，改进用于核聚变与化学计算的量子算法。该方法把 AI 搜索与数学证明结合，以提升算法发现的可靠性。这显示智能体在科学研究自动化中的角色正从辅助走向验证闭环。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-23T16:59:40+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "Walmart 上线 Agent Gateway，允许 Meta Muse 代用户完成黑五购物",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "source": "The Verge AI",
+   "summary": "Walmart 推出 Agent Gateway 的正式实现，允许 Meta 的 Muse 智能体通过其 Sparky 助手查找并购买黑五商品，且无需向智能体共享用户支付信息。这是零售巨头首次大规模开放智能体代购通道。它标志着电商平台开始为第三方 AI 智能体建立受控接入层。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-23T11:00:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "OpenAI 与 Cisco 推出开源 Linux 运行时 Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 与 Cisco 联合发布开源 Linux 运行时 Shirudo，帮助团队在系统运行状态下打补丁并保护运行中的系统。该工具面向企业安全运维场景。这是 OpenAI 少见的与网络设备厂商合作的基础设施开源项目。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 3,
+   "published": "2026-11-23T21:20:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "美国政府测试 ChatGPT、Claude、Gemini 与 Grok 能否策划恐怖袭击",
+   "url": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test",
+   "source": "ZDNet AI",
+   "summary": "调查人员尝试绕过 ChatGPT、Claude、Gemini 和 Grok 的安全防护，测试其能否生成恐怖袭击计划。结果暴露出不同模型在安全护栏上的差距，并引发如何防止滥用的讨论。这类红队测试正成为评估前沿模型风险的标准动作。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-11-23T13:29:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "联合国秘书长呼吁就全球 AI 安全框架展开谈判",
+   "url": "https://news.un.org/en/story/2026/11/1168861",
+   "source": "Google News 英文",
+   "summary": "联合国秘书长呼吁各方就全球 AI 安全框架启动谈判，并警告 AI 正在带来历史性的权力转移。这一表态出现在 COP31 气候大会混乱收尾、AI 数据中心用电问题被推上台面之际。全球治理层面的协调压力正在上升。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-23T17:36:51+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "黄仁勋丑闻中心公司 Megaspeed 或将被列入美国黑名单",
+   "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+   "source": "TechCrunch AI",
+   "summary": "处于黄仁勋丑闻中心的 Megaspeed 公司据报将进入美国实体黑名单，除非获得联邦特别许可，否则将被禁止与美国公司交易。该公司此前由 Alice Huang 领导。这一动向显示出口管制执法正与人事风波交织。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-23T21:25:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "AI 数据中心用电激增，给联合国气候谈判再添变数",
+   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "source": "The Verge AI",
+   "summary": "在土耳其安塔利亚闭幕的 COP31 气候大会上，AI 数据中心快速增长的电力需求成为代表们必须应对的新难题。清洁能源转型与高耗能算力扩张之间的矛盾被进一步放大。这使 AI 基础设施的能源成本与碳排放成为政策焦点。",
+   "why": null,
+   "category": "算力能源",
+   "heat": 3,
+   "published": "2026-11-23T21:09:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "Nvidia 算力进入脑机接口领域，Paradromics 采用其软硬件处理脑数据",
+   "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now",
+   "source": "Wired AI",
+   "summary": "脑机接口公司 Paradromics 正在使用 Nvidia 的计算硬件与软件处理大脑数据。这是 Nvidia 算力从数据中心向医疗与神经科学场景延伸的案例。它显示 AI 芯片厂商正在寻找训练之外的新增长场景。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 2,
+   "published": "2026-11-23T13:11:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "Supertake 融资 2000 万美元，让 AI 智能体把市场预测转为股票组合",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+   "source": "TechCrunch AI",
+   "summary": "初创公司 Supertake 完成 2000 万美元融资，用户可提交对市场的判断，由 AI 智能体将其转化为具体股票组合，无需自行选股。该模式把智能体应用于个人投资组合构建。监管如何界定这类代客决策仍是待解问题。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 2,
+   "published": "2026-11-23T22:02:05+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "OpenAI 提出以困惑度评分设定 AI 安全上限",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/",
+   "source": "Google News 英文",
+   "summary": "OpenAI 提出用困惑度（perplexity）评分来衡量模型能力进展，并据此设定 AI 安全限制。公司同期发布博客解释困惑度如何反映模型能力，以及为何可作为开发者共享的评估方法。这为「给 AI 发展设限」提供了可量化的讨论基础。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 2,
+   "published": "2026-11-23T21:56:15+00:00"
+  },
   {
    "task": "github_weekly",
    "rank": 1,
