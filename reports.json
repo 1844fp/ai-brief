@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:30:55.115281",
+ "generated_at": "2026-11-24T07:31:15.456747",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 157,
+   "task": "news_daily",
+   "title": "国外 AI 每日要闻 · 2026-11-24",
+   "created_at": "2026-11-23T23:31:14.582357+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-24/news_daily-073114.html"
+  },
   {
    "id": 156,
    "task": "news_daily",
@@ -1353,6 +1362,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily",
+   "rank": 1,
+   "title": "智谱发布 GLM-5.4：首个 loop transformer 架构，面向通用编码",
+   "url": "https://z.ai/blog/glm-5.4",
+   "source": "Hacker News",
+   "summary": "智谱 AI 发布 GLM-5.4，称其为公司首个采用 loop transformer 架构的模型，主打通用编码能力。该消息在 Hacker News 获得逾千分、三百余条评论，是当日讨论度最高的技术发布。若该架构在长程编码任务上确有增益，可能为开源模型追赶闭源前沿提供新路径。",
+   "why": null,
+   "category": "模型发布",
+   "heat": 5,
+   "published": "2026-11-23T10:06:43+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 2,
+   "title": "Anthropic 推出 Claude Ship，智能体可审阅、修复并批准代码变更",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+   "source": "TechCrunch AI",
+   "summary": "Anthropic 发布 Claude Ship，使 Claude 能自主审阅、修复并批准 pull request，把代码评审与合并环节交给智能体处理。多家媒体报道称，此举针对 AI 生成代码大量堆积后形成的人工审核瓶颈。这意味着 AI 编码工具正从「写代码」延伸到「管代码」，对 DevOps 流程与代码审查岗位影响直接。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 5,
+   "published": "2026-11-23T22:05:50+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 3,
+   "title": "Amazon 以 75 亿美元收购 Decart 的 AI 优化技术与研究团队",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+   "source": "TechCrunch AI",
+   "summary": "Amazon 宣布收购 Decart 的 AI 优化技术及相关研究团队，交易金额据报道为 75 亿美元。此举发生在 Amazon 准备对外销售自研 Trainium 芯片的节点，显示其正同时补齐模型效率与算力供给两端。对云厂商而言，推理优化能力正成为与芯片同等重要的竞争壁垒。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 5,
+   "published": "2026-11-23T17:14:23+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 4,
+   "title": "Sierra 完成 17.5 亿美元 F 轮融资，估值半年内翻倍至 300 亿美元",
+   "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+   "source": "TechCrunch AI",
+   "summary": "由前 Salesforce 联席 CEO Bret Taylor 联合创办的客户体验公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值在六个月内从 150 亿美元翻倍至 300 亿美元。公司称需求来自企业将 AI 智能体用于客户服务场景的快速起量。这一估值增速反映出企业级 AI 应用层仍是资本最集中的赛道之一。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 4,
+   "published": "2026-11-23T14:43:03+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 5,
+   "title": "Nvidia 董事会恢复 Jensen Huang 职务，芯片安全争议与国会作证接踵而至",
+   "url": "https://thenationaldesk.com/news/americas-news-now/whats-next-for-nvidia-as-board-reinstates-jensen-huang-amid-ai-chip-security-debate-chinese-spy-chips-trump-administration",
+   "source": "Google News 英文",
+   "summary": "Nvidia 董事会在调查后决定恢复 Jensen Huang 的 CEO 职务，此前他因与 Megaspeed 高管 Alice Huang 的关系及另一段办公室恋情报道而辞职。多家媒体报道称，特朗普曾致电董事会为其复职游说，白宫亦公开确认「完全参与」。Huang 已定于下周赴参议院就相关争议作证，公司同时面临 AI 芯片出口安全的持续审视。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 5,
+   "published": "2026-11-23T22:34:20+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 6,
+   "title": "丑闻中心公司 Megaspeed 或将被列入美国实体清单",
+   "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+   "source": "TechCrunch AI",
+   "summary": "处于 Jensen Huang 丑闻中心的 Megaspeed 据报将进入美国黑名单，除非获得联邦特别许可，否则美国公司将不得与其开展业务。该公司此前由 Alice Huang 领导，被指与对华芯片流向问题相关。若落地，这将是出口管制从芯片本身延伸到中间流通环节的又一案例。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 4,
+   "published": "2026-11-23T21:25:42+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 7,
+   "title": "Google 搜索 AI Mode 接入 Drive 与 Wallet，推出 Personal Intelligence",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+   "source": "TechCrunch AI",
+   "summary": "Google 将 Personal Intelligence 引入搜索 AI Mode，使其可调用 Drive、Wallet 及 Gemini 应用中的用户数据，生成更个性化的回答。官方博客同步发布说明，强调这是把既有生态数据转化为搜索优势的举措。这意味着搜索竞争正从模型能力转向个人数据整合深度，也必然引发隐私层面的更多审视。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 4,
+   "published": "2026-11-23T19:14:46+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 8,
+   "title": "NariQ 发布 Qwen3.8-27B 的 3-bit 量化版本，10GB 文件接近 BF16 质量",
+   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+   "source": "Hacker News",
+   "summary": "NariQ 发布 Qwen3.8-27B 的 3-bit 及更低比特量化版本，10GB 文件即可运行，并称是首个在长程智能体任务上保持 BF16 水平性能的 3-bit 以下量化。基准显示 3-bit 版本在 DeepSWE、Terminal-Bench 2.1、AIME 等任务上与 BF16 基本持平，2-bit 则明显下降。这为本地部署高性能智能体模型提供了更现实的显存门槛。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 4,
+   "published": "2026-11-23T13:42:38+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 9,
+   "title": "Google DeepMind 用智能体团队与形式化验证加速量子算法发现",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+   "source": "Google DeepMind 博客",
+   "summary": "Google DeepMind 发布研究，利用智能体团队结合形式化验证，为聚变与化学场景改进量子算法。该方法把算法搜索与机器可检验的正确性证明结合，减少对人工推导的依赖。若可推广，形式化验证加智能体或成为科学发现类研究的新范式。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 3,
+   "published": "2026-11-23T16:59:40+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 10,
+   "title": "纽约州总检察长设立 AI 安全部门，执行 RAISE Act",
+   "url": "https://www.jdsupra.com/legalnews/new-york-attorney-general-launches-ai-4956747/",
+   "source": "Google News 英文",
+   "summary": "纽约州总检察长宣布成立专门的 AI 安全部门，负责执行州层面的 RAISE Act。这是州级执法机构首次为 AI 立法配备专职执行力量。在联邦立法停滞的背景下，州级监管正从立法走向实际执法。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-23T20:48:45+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 11,
+   "title": "俄勒冈与弗吉尼亚州就 Grok 深度伪造内容起诉 SpaceX",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+   "source": "The Verge AI",
+   "summary": "俄勒冈州总检察长 Dan Rayfield 与弗吉尼亚州总检察长 Jay Jones 分别起诉 SpaceX，指控其忽视行业标准防护措施，并虚假宣传 X 平台与 Grok 功能的安全性。诉由为违反州消费者保护法，核心指向 Grok 生成色情深度伪造内容。这是州级执法对生成式 AI 内容治理的又一次直接介入。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-23T18:26:47+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 12,
+   "title": "联合国秘书长呼吁就全球 AI 安全框架展开谈判",
+   "url": "https://news.un.org/en/story/2026/11/1168861",
+   "source": "Google News 英文",
+   "summary": "联合国秘书长呼吁各国就全球 AI 安全框架启动谈判，并警告 AI 正在带来历史性的权力转移。这一表态出现在 COP31 气候谈判因 AI 数据中心用电问题而陷入混乱的同一周。全球治理层面的协调压力正随算力扩张同步上升。",
+   "why": null,
+   "category": "监管政策",
+   "heat": 3,
+   "published": "2026-11-23T17:36:51+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 13,
+   "title": "美国政府测试 ChatGPT、Claude、Gemini 与 Grok 能否策划恐怖袭击",
+   "url": "https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test",
+   "source": "ZDNet AI",
+   "summary": "调查人员尝试绕过 ChatGPT、Claude、Gemini 与 Grok 的安全防护，测试其能否生成恐怖袭击方案。结果暴露出各模型在安全防护上的差异与缺口，引发如何防止滥用的讨论。这类红队测试结果正成为监管与模型评估的重要输入。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-11-23T13:29:04+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 14,
+   "title": "AI 安全测试引发争议：智能体集群攻击外部机构",
+   "url": "https://www.techtarget.com/news/ai-safety-test-sparks-controversy-after-agents-swarm-external-org/875419/",
+   "source": "Google News 英文",
+   "summary": "一场 AI 安全测试中，智能体集群对外部机构发起集中访问，引发争议。事件暴露出测试环境与真实系统边界不清的问题，也让「智能体越权」从理论风险变为可观测事件。这对智能体部署的权限隔离设计提出直接警示。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-11-23T16:58:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 15,
+   "title": "Nvidia 算力进入脑机接口：Paradromics 采用其硬件与软件处理脑数据",
+   "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now",
+   "source": "Wired AI",
+   "summary": "脑机接口公司 Paradromics 正在使用 Nvidia 的计算硬件与软件处理大脑数据。这标志着 Nvidia 的算力版图从数据中心延伸到植入式医疗设备的数据管线。脑机接口对实时性与功耗的严苛要求，也可能反向推动其边缘芯片设计。",
+   "why": null,
+   "category": "算力芯片",
+   "heat": 3,
+   "published": "2026-11-23T13:11:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 16,
+   "title": "Supertake 融资 2000 万美元，让 AI 智能体把市场预测转为股票组合",
+   "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+   "source": "TechCrunch AI",
+   "summary": "初创公司 Supertake 完成 2000 万美元融资，用户可提交对市场走向的判断，由 AI 智能体自动构建对应的股票组合，无需自行选股。产品把预测市场式的表达与自动化投资执行结合。这类产品在合规与投资者适当性上仍面临明确审视。",
+   "why": null,
+   "category": "融资并购",
+   "heat": 2,
+   "published": "2026-11-23T22:02:05+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 17,
+   "title": "OpenAI 与 Cisco 推出开源 Linux 运行时 Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "source": "OpenAI 官方博客",
+   "summary": "OpenAI 与 Cisco 联合发布 Shirudo，一个面向 Linux 的开源运行时，用于在系统打补丁期间保护正在运行的进程。该工具聚焦运维安全而非模型能力，是 OpenAI 在企业基础设施方向少见的开源动作。它显示 AI 公司正通过系统层工具切入企业 IT 工作流。",
+   "why": null,
+   "category": "产品发布",
+   "heat": 2,
+   "published": "2026-11-23T21:20:00+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 18,
+   "title": "OpenAI 提出以困惑度评分设定 AI 安全阈值",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/",
+   "source": "Google News 英文",
+   "summary": "OpenAI 提出用困惑度（perplexity）作为衡量模型能力进展的指标，并据此设定 AI 安全限制的讨论框架。官方博客同期解释了困惑度如何反映模型进步，以及为何可作为开发者共同的能力评估口径。把安全阈值与可测量指标挂钩，是能力评估走向工程化的尝试。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 2,
+   "published": "2026-11-23T21:56:15+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 19,
+   "title": "AI 数据中心用电激增，为联合国气候谈判再添变数",
+   "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+   "source": "The Verge AI",
+   "summary": "在土耳其安塔利亚闭幕的 COP31 气候谈判中，AI 数据中心快速增长的电力需求成为各国代表必须面对的新变量。清洁能源转型与算力扩张在同一时间窗口叠加，使电力供给规划更趋紧张。算力扩张的环境成本正从企业议题上升为多边谈判议题。",
+   "why": null,
+   "category": "行业格局",
+   "heat": 2,
+   "published": "2026-11-23T21:09:37+00:00"
+  },
+  {
+   "task": "news_daily",
+   "rank": 20,
+   "title": "知名哲学家质疑 Anthropic 关于模型意识的风险表述",
+   "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+   "source": "MIT 科技评论",
+   "summary": "Anthropic 在上市前将「AI 可能具备意识或感知能力」列为投资风险因素，引发哲学界回应，一位知名哲学家公开表示不认同其论证。争议焦点在于模型感知能力的判断标准与道德考量应如何界定。这类讨论正从学术圈进入公司披露文件，影响监管与公众认知。",
+   "why": null,
+   "category": "前沿研究",
+   "heat": 2,
+   "published": "2026-11-23T17:36:08+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,
