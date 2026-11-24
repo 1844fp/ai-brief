@@ -3,7 +3,167 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 24 Nov 2026 08:01:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 08:01:46 +0000</lastBuildDate>
+  <item>
+    <title>GLM-5.4 上线 Coding Plan，百灵医疗大模型开源，ZHU·GE 地球系统平台发布</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MEa--JnwS1zlFpVq6Ggp2zVqXa8Fplpd9Gj8aVGeC-_nxJov5ykTcFT2fdqdzkw4RRqEkC3bFQ_7NQR9dv01e5186KJhEjA0cO1to5uoua8FkN14Fzb3gdL61TOHN5D00jP6dCaGMXyadIwDpd5s0hUBvLucNwAo_nBbAFORqKnosrwiLwA_NNViXH0qV-G4BMGPHmBQeuddQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=BF9FE40296BE7B61040265FE619215DD059892AD6B04D385</link>
+    <guid isPermaLink="false">159-1</guid>
+    <pubDate>Mon, 23 Nov 2026 23:31:12 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>智谱新一代大模型 GLM-5.4 上线 Coding Plan，面向代码生成场景提供专项能力；同日百灵医疗大模型宣布全面开源，ZHU·GE 地球系统平台发布。多条国产模型与平台消息集中释放，显示国产大模型在代码、医疗、地球科学等垂直领域加速迭代。</description>
+  </item>
+  <item>
+    <title>蚂蚁阿福同款大模型宣布开源，全球医生一台电脑即可解锁专业医疗 AI 能力</title>
+    <link>https://www.qbitai.com/2026/11/511998.html</link>
+    <guid isPermaLink="false">159-2</guid>
+    <pubDate>Mon, 23 Nov 2026 03:56:34 +0000</pubDate>
+    <source>量子位</source>
+    <description>蚂蚁阿福宣布开源其医疗健康大模型，全球医生通过一台电脑即可本地部署使用专业医疗 AI 能力。该模型基于蚂蚁百灵医疗健康系列 LingSante，涵盖语言模型、健康预测与医疗安全防护模块，降低医疗 AI 的使用门槛。</description>
+  </item>
+  <item>
+    <title>蚂蚁阿福 App 新版发布：实时视频“望闻问切”上线，小毛小病在家搞定</title>
+    <link>https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html</link>
+    <guid isPermaLink="false">159-3</guid>
+    <pubDate>Mon, 23 Nov 2026 03:47:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蚂蚁阿福发布新版 App，基于百灵医疗健康系列模型新增实时视频“看健康”功能，用户可通过视频电话让 AI 分析症状、药品与报告，并联动真人医生在线把关。同时升级 AI 健康管家，发布 AI 健康手环与戒指，扩展健康硬件品类。</description>
+  </item>
+  <item>
+    <title>蚂蚁 CEO 韩歆毅：AI 拓宽人类健康自塑边界，1.5 亿人已用阿福管健康</title>
+    <link>https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html</link>
+    <guid isPermaLink="false">159-4</guid>
+    <pubDate>Mon, 23 Nov 2026 04:10:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蚂蚁集团 CEO 韩歆毅在蚂蚁阿福医疗健康生态大会上表示，AI 正推动健康管理从“千人一方”走向“一人一方”，目前已有 1.5 亿人使用阿福管理健康。他强调 AI 促进健康的价值不亚于 AI 制药，健康领域应用潜力巨大。</description>
+  </item>
+  <item>
+    <title>国内首个：蚂蚁阿福医生版上线循证金标准 UpToDate，打造全场景医生 AI 工作台</title>
+    <link>https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html</link>
+    <guid isPermaLink="false">159-5</guid>
+    <pubDate>Mon, 23 Nov 2026 03:38:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蚂蚁阿福医生版发布 PC 工作台，并接入威科集团循证医学临床决策支持方案 UpToDate，成为国内首个接入该功能的 AI 平台。全国医生、护士及药师可限时免费试用，双端打通覆盖诊前、诊中、诊后全场景。</description>
+  </item>
+  <item>
+    <title>关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切</title>
+    <link>http://www.geekpark.net/news/374301</link>
+    <guid isPermaLink="false">159-6</guid>
+    <pubDate>Sun, 22 Nov 2026 01:56:28 +0000</pubDate>
+    <source>极客公园</source>
+    <description>腾讯首席 AI 科学家姚顺雨率混元团队在 Reddit 举行首次全球公开 AMA，两小时内回答 300 余条开发者提问，覆盖架构取舍、量化落地与开源生态。混元 Hy4 此前已跻身全球最强开源模型之列，Hy4 flash 单任务成本仅为 Hy4 的二十分之一，上线首日 Token 调用量突破 50 万亿。</description>
+  </item>
+  <item>
+    <title>GLM-5.4 来了：国产大模型还能追上吗？</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MrFbsBncf05FFpVq6Ggp2zVqXa8Fplpd9_x2RXE3z7yHTvVY_p4iDhZrgGBhtrT-zGtjNCDiLg4LVL1nKN2RyEDFkKQxoSOZ4dqWNdml6sXQPy5PuWi80c2QXpp5sYDODczYpAtrkEzH0G1AzURA1uH4-yYpTz2W2ygUSXtR3ccsbWBBIfamoKx7XaACqTzTb2dd-u-xTLcxQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=BFA016A796BE7B61040265FE619215DD059892AD6B04D38E</link>
+    <guid isPermaLink="false">159-7</guid>
+    <pubDate>Mon, 23 Nov 2026 13:20:25 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>智谱 GLM-5.4 发布后引发讨论，有观点认为国产大模型与国外顶级闭源模型之间已出现至少两代的代际差距。文章指出这一说法虽非严格技术指标，但反映了业界对国产模型追赶节奏的担忧。</description>
+  </item>
+  <item>
+    <title>智谱发布新一代大模型</title>
+    <link>https://wap.eastmoney.com/a/202611243937791512.html</link>
+    <guid isPermaLink="false">159-8</guid>
+    <pubDate>Mon, 23 Nov 2026 23:26:10 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>智谱发布新一代大模型，多家媒体报道。结合同日 GLM-5.4 上线 Coding Plan 的消息，智谱正以代码场景为切入点推进新模型落地。</description>
+  </item>
+  <item>
+    <title>字节，该造手机了</title>
+    <link>http://www.geekpark.net/news/374374</link>
+    <guid isPermaLink="false">159-9</guid>
+    <pubDate>Mon, 23 Nov 2026 15:47:18 +0000</pubDate>
+    <source>极客公园</source>
+    <description>报道称豆包手机已迭代至第二代，可通过侧边 AI 键调用豆包完成打车等操作，但微信、淘宝、美团等 150 余款应用拒绝豆包代替用户操作。与此同时，OpenAI 手机供应链消息不断，富智康据称已拿到组装订单。</description>
+  </item>
+  <item>
+    <title>中通快递与阿里云伶鹊达成深度合作，智慧 AI 打造客服新体验</title>
+    <link>https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html</link>
+    <guid isPermaLink="false">159-10</guid>
+    <pubDate>Mon, 23 Nov 2026 02:26:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>阿里云伶鹊与中通快递合作打造企业级 AI 客服，落地智能语音热线与智能语音外呼，日均服务量达数十万通，AI 呼入热线带来的下单转化率提升近 20%。语音交互延迟控制在 1.5 秒以内，并针对快递场景优化垂直大模型。</description>
+  </item>
+  <item>
+    <title>华为星芒刘赫确认 OSTA 品牌将推全场景产品，小平板已安排</title>
+    <link>https://www.ithome.com/1/031/228.htm</link>
+    <guid isPermaLink="false">159-11</guid>
+    <pubDate>Mon, 23 Nov 2026 15:15:25 +0000</pubDate>
+    <source>IT之家</source>
+    <description>华为星芒品牌总经理刘赫表示品牌将覆盖全场景，手机只是开始，确认小平板已安排，后续还有笔记本、穿戴产品等。星芒 OSTA O1 Pro 为首款为 AI 而生的鸿蒙手机，叠加国补后 4999 元起。</description>
+  </item>
+  <item>
+    <title>华为星芒 OSTA O1 Pro 确认支持 eSIM：最多四号，可同时启用双卡</title>
+    <link>https://www.ithome.com/1/031/219.htm</link>
+    <guid isPermaLink="false">159-12</guid>
+    <pubDate>Mon, 23 Nov 2026 14:58:55 +0000</pubDate>
+    <source>IT之家</source>
+    <description>华为官网显示星芒 OSTA O1 Pro 支持 eSIM，同一手机最多存储 2 个 eSIM 号码，结合实体卡最多支持四个号码，可同时使用两个号码。该功能需运营商开通相关业务，目前仅部分运营商提供。</description>
+  </item>
+  <item>
+    <title>鸿富诚回应算力散热：募投项目新增石墨烯导热垫片等产能，面向高功率芯片数据中心</title>
+    <link>https://stock.stockstar.com/RB2026112400006137.shtml</link>
+    <guid isPermaLink="false">159-13</guid>
+    <pubDate>Mon, 23 Nov 2026 23:07:11 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>鸿富诚回应算力散热话题，称募投项目将新增石墨烯导热垫片等产能，面向高功率芯片与数据中心散热需求。随着 AI 算力芯片功耗持续上升，散热材料成为产业链关键环节。</description>
+  </item>
+  <item>
+    <title>苏试试验回应国产算力芯片话题：提供芯片研发全流程验证分析服务</title>
+    <link>https://stock.stockstar.com/RB2026112400006128.shtml</link>
+    <guid isPermaLink="false">159-14</guid>
+    <pubDate>Mon, 23 Nov 2026 23:06:07 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>苏试试验表示公司提供芯片研发全流程验证分析服务，回应国产算力芯片话题。随着国产 AI 芯片研发加速，验证与测试需求同步增长。</description>
+  </item>
+  <item>
+    <title>海目星回应 AI 算力芯片话题：激光解键合设备切入算力芯片头部客户</title>
+    <link>http://stock.stockstar.com/RB2026112400006114.shtml</link>
+    <guid isPermaLink="false">159-15</guid>
+    <pubDate>Mon, 23 Nov 2026 23:04:31 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>海目星表示公司提供激光解键合设备，已切入算力芯片头部客户。激光解键合是先进封装环节的关键工艺，与 AI 算力芯片封装需求密切相关。</description>
+  </item>
+  <item>
+    <title>四部门鼓励发展养老场景 AI 智能体与服务机器人；蚂蚁阿福新版发布</title>
+    <link>https://www.tmtpost.com/8215026.html</link>
+    <guid isPermaLink="false">159-16</guid>
+    <pubDate>Mon, 23 Nov 2026 23:20:00 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>四部门发文鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品。同日蚂蚁阿福 App 新版发布，上线循证金标准 UpToDate 医生版。政策与产品同步推进，养老 AI 场景受到关注。</description>
+  </item>
+  <item>
+    <title>Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码</title>
+    <link>https://www.ithome.com/1/031/257.htm</link>
+    <guid isPermaLink="false">159-17</guid>
+    <pubDate>Mon, 23 Nov 2026 23:49:00 +0000</pubDate>
+    <source>IT之家</source>
+    <description>Anthropic 推出 Claude Ship Beta，包含 Code Review、PR Steward 和 Claude Approvals 三项功能，可自动完成代码审查、修复与审批。审批政策以文件形式保存在代码仓库中，支持自然语言编写。</description>
+  </item>
+  <item>
+    <title>OpenAI 联合思科发布开源项目 Shirudo，实现不停机的 AI 智能体系统防护</title>
+    <link>https://wap.cj.sina.cn/7x24/5233646</link>
+    <guid isPermaLink="false">159-18</guid>
+    <pubDate>Mon, 23 Nov 2026 21:39:57 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>OpenAI 与思科联合发布开源安全项目 Shirudo，旨在为 AI 智能体系统提供不停机防护。多家媒体报道该合作，反映智能体安全正成为行业共同议题。</description>
+  </item>
+  <item>
+    <title>OpenAI 首席科学家提议为 AI 开发设置“行业上限”</title>
+    <link>https://www.oschina.net/news/503737/openai-perplexity-and-intelligence</link>
+    <guid isPermaLink="false">159-19</guid>
+    <pubDate>Mon, 23 Nov 2026 03:18:00 +0000</pubDate>
+    <source>开源中国</source>
+    <description>OpenAI 首席科学家 Jakub Pachocki 撰文主张将困惑度（perplexity）确立为跨公司比较模型的行业指标，并以此为基础建立共享安全标准，为前沿模型开发设置可外部核验的限速线。</description>
+  </item>
+  <item>
+    <title>PHAIN 数据手套登上央视新闻，展示具身智能数据采集自研实力</title>
+    <link>https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html</link>
+    <guid isPermaLink="false">159-20</guid>
+    <pubDate>Mon, 23 Nov 2026 02:27:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>APEC 期间，PHAIN 梵因动力自研 G03 Pro T 数据手套亮相央视新闻，首席科学家现场演示机器人遥操作，介绍利用手套采集操作数据支持灵巧手训练。该手套结合毫米级手部位姿采集与 3D 触觉感知。</description>
+  </item>
   <item>
     <title>智谱发布 GLM-5.4：采用 Loop Transformer 架构，开启“泛 Coding”能力</title>
     <link>https://www.oschina.net/news/503756</link>
@@ -323,165 +483,5 @@
     <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Anthropic 发布 Claude Ship，使 Claude 能够审阅、修复并批准 pull request，把代码审查与合并环节交给智能体处理。多家媒体报道称，该产品瞄准 AI 生成代码激增后的审批瓶颈。这意味着编码智能体正从辅助编写走向接管交付流程中的关键节点。</description>
-  </item>
-  <item>
-    <title>Amazon 以 75 亿美元收购 Decart 的 AI 优化技术与研究团队</title>
-    <link>https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips</link>
-    <guid isPermaLink="false">156-3</guid>
-    <pubDate>Mon, 23 Nov 2026 17:14:23 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Amazon 宣布收购 Decart 的 AI 优化技术及相关研究团队，交易规模据报道达 75 亿美元，时点正值其准备对外销售 Trainium 芯片。此举显示 Amazon 正同时补强推理优化软件栈与自研算力生态。对芯片市场而言，这意味着 AWS 在降低单位推理成本上寻求差异化。</description>
-  </item>
-  <item>
-    <title>Nvidia 董事会恢复黄仁勋 CEO 职务，芯片安全争议未平</title>
-    <link>https://thenationaldesk.com/news/americas-news-now/whats-next-for-nvidia-as-board-reinstates-jensen-huang-amid-ai-chip-security-debate-chinese-spy-chips-trump-administration</link>
-    <guid isPermaLink="false">156-4</guid>
-    <pubDate>Mon, 23 Nov 2026 22:34:20 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>Nvidia 董事会一致投票决定恢复黄仁勋的 CEO 职务，称对其坦诚与领导能力感到满意。多家媒体报道，此事发生在 AI 芯片安全与出口管制争议升温之际，白宫方面也公开表示特朗普深度参与了这一决定。管理层动荡的平息并未消除围绕该公司治理与合规的疑问。</description>
-  </item>
-  <item>
-    <title>Sierra 完成 17.5 亿美元 F 轮融资，估值半年翻倍至 300 亿美元</title>
-    <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off</link>
-    <guid isPermaLink="false">156-5</guid>
-    <pubDate>Mon, 23 Nov 2026 14:43:03 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>由前 Salesforce 联席 CEO Bret Taylor 联合创办的客户体验公司 Sierra 宣布完成 17.5 亿美元 F 轮融资，估值在六个月内翻倍至 300 亿美元。公司称需求来自企业将 AI 智能体用于客户服务场景的快速增长。这一估值使 Sierra 成为企业级 AI 应用层最贵的公司之一。</description>
-  </item>
-  <item>
-    <title>Google 搜索 AI Mode 接入 Drive 与 Wallet，提供个性化回答</title>
-    <link>https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses</link>
-    <guid isPermaLink="false">156-6</guid>
-    <pubDate>Mon, 23 Nov 2026 19:14:46 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Google 将 Personal Intelligence 引入搜索 AI Mode，使其可调用 Drive、Wallet 及 Gemini 应用中的数据，从而给出更个性化的回答。官方博客同步说明了该功能的产品形态。这是 Google 把既有用户数据优势转化为 AI 搜索差异化的关键一步。</description>
-  </item>
-  <item>
-    <title>黄仁勋下周将赴参议院作证，涉及其复职与中国间谍疑云</title>
-    <link>https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo</link>
-    <guid isPermaLink="false">156-7</guid>
-    <pubDate>Mon, 23 Nov 2026 18:12:22 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>在恢复 Nvidia CEO 职务后，黄仁勋被安排于下周出席参议院公开听证会，回应两党对其与中国疑似间谍人员关系的质询。多家媒体报道称，听证会将聚焦出口管制与公司治理。这一安排意味着围绕 Nvidia 的政治压力并未随董事会决定而结束。</description>
-  </item>
-  <item>
-    <title>NariQ 发布 Qwen3.8-27B 的 3 比特量化版本，10GB 文件接近 BF16 表现</title>
-    <link>https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF</link>
-    <guid isPermaLink="false">156-8</guid>
-    <pubDate>Mon, 23 Nov 2026 13:42:38 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>NariQ 发布 Qwen3.8-27B 的 3 比特及更低比特量化版本，10GB 文件即可运行，并称在长程智能体任务上首次达到接近 BF16 的水平。基准显示 3 比特版本在 DeepSWE 上为 41.0、Terminal-Bench 2.1 为 63.8，均与 BF16 相当，而 2 比特版本明显下降。这为本地部署高性能智能体模型提供了更现实的显存门槛。</description>
-  </item>
-  <item>
-    <title>纽约州总检察长设立 AI 安全部门，执行 RAISE Act</title>
-    <link>https://www.jdsupra.com/legalnews/new-york-attorney-general-launches-ai-4956747/</link>
-    <guid isPermaLink="false">156-9</guid>
-    <pubDate>Mon, 23 Nov 2026 20:48:45 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>纽约州总检察长宣布成立专门的 AI 安全部门，负责执行该州 RAISE Act 的相关条款。此举使州级执法机构成为 AI 合规的实际执行者。在联邦立法进展缓慢的背景下，州层面正在形成更具操作性的监管抓手。</description>
-  </item>
-  <item>
-    <title>俄勒冈与弗吉尼亚两州就 Grok 色情深度伪造起诉 SpaceX</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit</link>
-    <guid isPermaLink="false">156-10</guid>
-    <pubDate>Mon, 23 Nov 2026 18:26:47 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>俄勒冈州总检察长 Dan Rayfield 与弗吉尼亚州总检察长 Jay Jones 分别提起诉讼，指控 SpaceX 违反州消费者保护法，未对 Grok 的色情深度伪造内容采取行业标准防护，并虚假宣传平台安全性。弗吉尼亚的诉状还指控马斯克存在故意行为。这是州级监管对生成式 AI 内容危害的又一次直接执法。</description>
-  </item>
-  <item>
-    <title>Google DeepMind 用智能体与形式化验证寻找更快的量子算法</title>
-    <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
-    <guid isPermaLink="false">156-11</guid>
-    <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
-    <source>Google DeepMind 博客</source>
-    <description>Google DeepMind 发布研究，利用智能体团队结合形式化验证，改进用于核聚变与化学计算的量子算法。该方法把 AI 搜索与数学证明结合，以提升算法发现的可靠性。这显示智能体在科学研究自动化中的角色正从辅助走向验证闭环。</description>
-  </item>
-  <item>
-    <title>Walmart 上线 Agent Gateway，允许 Meta Muse 代用户完成黑五购物</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
-    <guid isPermaLink="false">156-12</guid>
-    <pubDate>Mon, 23 Nov 2026 11:00:00 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>Walmart 推出 Agent Gateway 的正式实现，允许 Meta 的 Muse 智能体通过其 Sparky 助手查找并购买黑五商品，且无需向智能体共享用户支付信息。这是零售巨头首次大规模开放智能体代购通道。它标志着电商平台开始为第三方 AI 智能体建立受控接入层。</description>
-  </item>
-  <item>
-    <title>OpenAI 与 Cisco 推出开源 Linux 运行时 Shirudo</title>
-    <link>https://openai.com/index/introducing-shirudo</link>
-    <guid isPermaLink="false">156-13</guid>
-    <pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 与 Cisco 联合发布开源 Linux 运行时 Shirudo，帮助团队在系统运行状态下打补丁并保护运行中的系统。该工具面向企业安全运维场景。这是 OpenAI 少见的与网络设备厂商合作的基础设施开源项目。</description>
-  </item>
-  <item>
-    <title>美国政府测试 ChatGPT、Claude、Gemini 与 Grok 能否策划恐怖袭击</title>
-    <link>https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test</link>
-    <guid isPermaLink="false">156-14</guid>
-    <pubDate>Mon, 23 Nov 2026 13:29:04 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>调查人员尝试绕过 ChatGPT、Claude、Gemini 和 Grok 的安全防护，测试其能否生成恐怖袭击计划。结果暴露出不同模型在安全护栏上的差距，并引发如何防止滥用的讨论。这类红队测试正成为评估前沿模型风险的标准动作。</description>
-  </item>
-  <item>
-    <title>联合国秘书长呼吁就全球 AI 安全框架展开谈判</title>
-    <link>https://news.un.org/en/story/2026/11/1168861</link>
-    <guid isPermaLink="false">156-15</guid>
-    <pubDate>Mon, 23 Nov 2026 17:36:51 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>联合国秘书长呼吁各方就全球 AI 安全框架启动谈判，并警告 AI 正在带来历史性的权力转移。这一表态出现在 COP31 气候大会混乱收尾、AI 数据中心用电问题被推上台面之际。全球治理层面的协调压力正在上升。</description>
-  </item>
-  <item>
-    <title>黄仁勋丑闻中心公司 Megaspeed 或将被列入美国黑名单</title>
-    <link>https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist</link>
-    <guid isPermaLink="false">156-16</guid>
-    <pubDate>Mon, 23 Nov 2026 21:25:42 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>处于黄仁勋丑闻中心的 Megaspeed 公司据报将进入美国实体黑名单，除非获得联邦特别许可，否则将被禁止与美国公司交易。该公司此前由 Alice Huang 领导。这一动向显示出口管制执法正与人事风波交织。</description>
-  </item>
-  <item>
-    <title>AI 数据中心用电激增，给联合国气候谈判再添变数</title>
-    <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
-    <guid isPermaLink="false">156-17</guid>
-    <pubDate>Mon, 23 Nov 2026 21:09:37 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>在土耳其安塔利亚闭幕的 COP31 气候大会上，AI 数据中心快速增长的电力需求成为代表们必须应对的新难题。清洁能源转型与高耗能算力扩张之间的矛盾被进一步放大。这使 AI 基础设施的能源成本与碳排放成为政策焦点。</description>
-  </item>
-  <item>
-    <title>Nvidia 算力进入脑机接口领域，Paradromics 采用其软硬件处理脑数据</title>
-    <link>https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now</link>
-    <guid isPermaLink="false">156-18</guid>
-    <pubDate>Mon, 23 Nov 2026 13:11:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>脑机接口公司 Paradromics 正在使用 Nvidia 的计算硬件与软件处理大脑数据。这是 Nvidia 算力从数据中心向医疗与神经科学场景延伸的案例。它显示 AI 芯片厂商正在寻找训练之外的新增长场景。</description>
-  </item>
-  <item>
-    <title>Supertake 融资 2000 万美元，让 AI 智能体把市场预测转为股票组合</title>
-    <link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios</link>
-    <guid isPermaLink="false">156-19</guid>
-    <pubDate>Mon, 23 Nov 2026 22:02:05 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>初创公司 Supertake 完成 2000 万美元融资，用户可提交对市场的判断，由 AI 智能体将其转化为具体股票组合，无需自行选股。该模式把智能体应用于个人投资组合构建。监管如何界定这类代客决策仍是待解问题。</description>
-  </item>
-  <item>
-    <title>OpenAI 提出以困惑度评分设定 AI 安全上限</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/</link>
-    <guid isPermaLink="false">156-20</guid>
-    <pubDate>Mon, 23 Nov 2026 21:56:15 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI 提出用困惑度（perplexity）评分来衡量模型能力进展，并据此设定 AI 安全限制。公司同期发布博客解释困惑度如何反映模型能力，以及为何可作为开发者共享的评估方法。这为「给 AI 发展设限」提供了可量化的讨论基础。</description>
-  </item>
-  <item>
-    <title>Blender AI MCP 插件：让大模型直接检查与搭建 3D 场景</title>
-    <link>https://github.com/bookwjitchieni1986/blender-ai-mcp-addon</link>
-    <guid isPermaLink="false">155-1</guid>
-    <pubDate>Tue, 24 Nov 2026 08:01:07 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目为 Blender 4.2+ 提供内置 MCP 服务器与可视化聊天工作区，AI 可检查场景、创建物体、编辑材质、查找资产并执行多步工作流，兼容 ChatGPT、Claude、Gemini、Ollama 等模型。它把 3D 创作中的 bpy 脚本编写与场景操作交给智能体，降低非程序员的建模门槛。项目以 MIT 协议发布并提供 Windows 安装包，适合 3D 艺术家与工具链开发者试用。</description>
-  </item>
-  <item>
-    <title>NeonClipping：本地运行的竖屏切片与字幕引擎</title>
-    <link>https://github.com/iamajmeena/neonclipping</link>
-    <guid isPermaLink="false">155-2</guid>
-    <pubDate>Tue, 24 Nov 2026 08:01:07 +0000</pubDate>
-    <source>GitHub</source>
-    <description>粘贴 YouTube、Twitch、Kick 链接或本地 MP4，约两分钟即可生成带标题与钩子的 9:16 竖屏字幕切片，全流程在本机完成，无需账号或上传。技术栈组合 faster-whisper、ffmpeg 与本地 LLM，主打音频优先与平台字幕复用。适合短视频创作者与需要批量二创的运营团队，开源且可自由商用。</description>
   </item>
 </channel></rss>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:01:07.827681",
+ "generated_at": "2026-11-24T08:01:46.723115",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 159,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-24",
+   "created_at": "2026-11-24T00:01:45.888140+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-24/news_daily_cn-080145.html"
+  },
   {
    "id": 158,
    "task": "news_daily_cn",
@@ -1371,6 +1380,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "GLM-5.4 上线 Coding Plan，百灵医疗大模型开源，ZHU·GE 地球系统平台发布",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MEa--JnwS1zlFpVq6Ggp2zVqXa8Fplpd9Gj8aVGeC-_nxJov5ykTcFT2fdqdzkw4RRqEkC3bFQ_7NQR9dv01e5186KJhEjA0cO1to5uoua8FkN14Fzb3gdL61TOHN5D00jP6dCaGMXyadIwDpd5s0hUBvLucNwAo_nBbAFORqKnosrwiLwA_NNViXH0qV-G4BMGPHmBQeuddQL0Hr9Gyd3Q..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=BF9FE40296BE7B61040265FE619215DD059892AD6B04D385",
+   "source": "微信公众号",
+   "summary": "智谱新一代大模型 GLM-5.4 上线 Coding Plan，面向代码生成场景提供专项能力；同日百灵医疗大模型宣布全面开源，ZHU·GE 地球系统平台发布。多条国产模型与平台消息集中释放，显示国产大模型在代码、医疗、地球科学等垂直领域加速迭代。",
+   "why": null,
+   "category": "大模型",
+   "heat": 5,
+   "published": "2026-11-23T23:31:12+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑即可解锁专业医疗 AI 能力",
+   "url": "https://www.qbitai.com/2026/11/511998.html",
+   "source": "量子位",
+   "summary": "蚂蚁阿福宣布开源其医疗健康大模型，全球医生通过一台电脑即可本地部署使用专业医疗 AI 能力。该模型基于蚂蚁百灵医疗健康系列 LingSante，涵盖语言模型、健康预测与医疗安全防护模块，降低医疗 AI 的使用门槛。",
+   "why": null,
+   "category": "医疗 AI",
+   "heat": 5,
+   "published": "2026-11-23T03:56:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "蚂蚁阿福 App 新版发布：实时视频“望闻问切”上线，小毛小病在家搞定",
+   "url": "https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁阿福发布新版 App，基于百灵医疗健康系列模型新增实时视频“看健康”功能，用户可通过视频电话让 AI 分析症状、药品与报告，并联动真人医生在线把关。同时升级 AI 健康管家，发布 AI 健康手环与戒指，扩展健康硬件品类。",
+   "why": null,
+   "category": "医疗 AI",
+   "heat": 5,
+   "published": "2026-11-23T03:47:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "蚂蚁 CEO 韩歆毅：AI 拓宽人类健康自塑边界，1.5 亿人已用阿福管健康",
+   "url": "https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁集团 CEO 韩歆毅在蚂蚁阿福医疗健康生态大会上表示，AI 正推动健康管理从“千人一方”走向“一人一方”，目前已有 1.5 亿人使用阿福管理健康。他强调 AI 促进健康的价值不亚于 AI 制药，健康领域应用潜力巨大。",
+   "why": null,
+   "category": "医疗 AI",
+   "heat": 4,
+   "published": "2026-11-23T04:10:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "国内首个：蚂蚁阿福医生版上线循证金标准 UpToDate，打造全场景医生 AI 工作台",
+   "url": "https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁阿福医生版发布 PC 工作台，并接入威科集团循证医学临床决策支持方案 UpToDate，成为国内首个接入该功能的 AI 平台。全国医生、护士及药师可限时免费试用，双端打通覆盖诊前、诊中、诊后全场景。",
+   "why": null,
+   "category": "医疗 AI",
+   "heat": 4,
+   "published": "2026-11-23T03:38:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+   "url": "http://www.geekpark.net/news/374301",
+   "source": "极客公园",
+   "summary": "腾讯首席 AI 科学家姚顺雨率混元团队在 Reddit 举行首次全球公开 AMA，两小时内回答 300 余条开发者提问，覆盖架构取舍、量化落地与开源生态。混元 Hy4 此前已跻身全球最强开源模型之列，Hy4 flash 单任务成本仅为 Hy4 的二十分之一，上线首日 Token 调用量突破 50 万亿。",
+   "why": null,
+   "category": "大模型",
+   "heat": 4,
+   "published": "2026-11-22T01:56:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "GLM-5.4 来了：国产大模型还能追上吗？",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MrFbsBncf05FFpVq6Ggp2zVqXa8Fplpd9_x2RXE3z7yHTvVY_p4iDhZrgGBhtrT-zGtjNCDiLg4LVL1nKN2RyEDFkKQxoSOZ4dqWNdml6sXQPy5PuWi80c2QXpp5sYDODczYpAtrkEzH0G1AzURA1uH4-yYpTz2W2ygUSXtR3ccsbWBBIfamoKx7XaACqTzTb2dd-u-xTLcxQL0Hr9Gyd3Q..&type=2&query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&token=BFA016A796BE7B61040265FE619215DD059892AD6B04D38E",
+   "source": "微信公众号",
+   "summary": "智谱 GLM-5.4 发布后引发讨论，有观点认为国产大模型与国外顶级闭源模型之间已出现至少两代的代际差距。文章指出这一说法虽非严格技术指标，但反映了业界对国产模型追赶节奏的担忧。",
+   "why": null,
+   "category": "大模型",
+   "heat": 4,
+   "published": "2026-11-23T13:20:25+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "智谱发布新一代大模型",
+   "url": "https://wap.eastmoney.com/a/202611243937791512.html",
+   "source": "Google News 中文",
+   "summary": "智谱发布新一代大模型，多家媒体报道。结合同日 GLM-5.4 上线 Coding Plan 的消息，智谱正以代码场景为切入点推进新模型落地。",
+   "why": null,
+   "category": "大模型",
+   "heat": 4,
+   "published": "2026-11-23T23:26:10+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "字节，该造手机了",
+   "url": "http://www.geekpark.net/news/374374",
+   "source": "极客公园",
+   "summary": "报道称豆包手机已迭代至第二代，可通过侧边 AI 键调用豆包完成打车等操作，但微信、淘宝、美团等 150 余款应用拒绝豆包代替用户操作。与此同时，OpenAI 手机供应链消息不断，富智康据称已拿到组装订单。",
+   "why": null,
+   "category": "AI 终端",
+   "heat": 4,
+   "published": "2026-11-23T15:47:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "中通快递与阿里云伶鹊达成深度合作，智慧 AI 打造客服新体验",
+   "url": "https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html",
+   "source": "雷锋网",
+   "summary": "阿里云伶鹊与中通快递合作打造企业级 AI 客服，落地智能语音热线与智能语音外呼，日均服务量达数十万通，AI 呼入热线带来的下单转化率提升近 20%。语音交互延迟控制在 1.5 秒以内，并针对快递场景优化垂直大模型。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-23T02:26:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "华为星芒刘赫确认 OSTA 品牌将推全场景产品，小平板已安排",
+   "url": "https://www.ithome.com/1/031/228.htm",
+   "source": "IT之家",
+   "summary": "华为星芒品牌总经理刘赫表示品牌将覆盖全场景，手机只是开始，确认小平板已安排，后续还有笔记本、穿戴产品等。星芒 OSTA O1 Pro 为首款为 AI 而生的鸿蒙手机，叠加国补后 4999 元起。",
+   "why": null,
+   "category": "AI 终端",
+   "heat": 3,
+   "published": "2026-11-23T15:15:25+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "华为星芒 OSTA O1 Pro 确认支持 eSIM：最多四号，可同时启用双卡",
+   "url": "https://www.ithome.com/1/031/219.htm",
+   "source": "IT之家",
+   "summary": "华为官网显示星芒 OSTA O1 Pro 支持 eSIM，同一手机最多存储 2 个 eSIM 号码，结合实体卡最多支持四个号码，可同时使用两个号码。该功能需运营商开通相关业务，目前仅部分运营商提供。",
+   "why": null,
+   "category": "AI 终端",
+   "heat": 3,
+   "published": "2026-11-23T14:58:55+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "鸿富诚回应算力散热：募投项目新增石墨烯导热垫片等产能，面向高功率芯片数据中心",
+   "url": "https://stock.stockstar.com/RB2026112400006137.shtml",
+   "source": "Google News 中文",
+   "summary": "鸿富诚回应算力散热话题，称募投项目将新增石墨烯导热垫片等产能，面向高功率芯片与数据中心散热需求。随着 AI 算力芯片功耗持续上升，散热材料成为产业链关键环节。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-23T23:07:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "苏试试验回应国产算力芯片话题：提供芯片研发全流程验证分析服务",
+   "url": "https://stock.stockstar.com/RB2026112400006128.shtml",
+   "source": "Google News 中文",
+   "summary": "苏试试验表示公司提供芯片研发全流程验证分析服务，回应国产算力芯片话题。随着国产 AI 芯片研发加速，验证与测试需求同步增长。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-23T23:06:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "海目星回应 AI 算力芯片话题：激光解键合设备切入算力芯片头部客户",
+   "url": "http://stock.stockstar.com/RB2026112400006114.shtml",
+   "source": "Google News 中文",
+   "summary": "海目星表示公司提供激光解键合设备，已切入算力芯片头部客户。激光解键合是先进封装环节的关键工艺，与 AI 算力芯片封装需求密切相关。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-23T23:04:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "四部门鼓励发展养老场景 AI 智能体与服务机器人；蚂蚁阿福新版发布",
+   "url": "https://www.tmtpost.com/8215026.html",
+   "source": "钛媒体",
+   "summary": "四部门发文鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品。同日蚂蚁阿福 App 新版发布，上线循证金标准 UpToDate 医生版。政策与产品同步推进，养老 AI 场景受到关注。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-11-23T23:20:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码",
+   "url": "https://www.ithome.com/1/031/257.htm",
+   "source": "IT之家",
+   "summary": "Anthropic 推出 Claude Ship Beta，包含 Code Review、PR Steward 和 Claude Approvals 三项功能，可自动完成代码审查、修复与审批。审批政策以文件形式保存在代码仓库中，支持自然语言编写。",
+   "why": null,
+   "category": "AI 编程",
+   "heat": 3,
+   "published": "2026-11-23T23:49:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "OpenAI 联合思科发布开源项目 Shirudo，实现不停机的 AI 智能体系统防护",
+   "url": "https://wap.cj.sina.cn/7x24/5233646",
+   "source": "Google News 中文",
+   "summary": "OpenAI 与思科联合发布开源安全项目 Shirudo，旨在为 AI 智能体系统提供不停机防护。多家媒体报道该合作，反映智能体安全正成为行业共同议题。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-11-23T21:39:57+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "OpenAI 首席科学家提议为 AI 开发设置“行业上限”",
+   "url": "https://www.oschina.net/news/503737/openai-perplexity-and-intelligence",
+   "source": "开源中国",
+   "summary": "OpenAI 首席科学家 Jakub Pachocki 撰文主张将困惑度（perplexity）确立为跨公司比较模型的行业指标，并以此为基础建立共享安全标准，为前沿模型开发设置可外部核验的限速线。",
+   "why": null,
+   "category": "AI 治理",
+   "heat": 3,
+   "published": "2026-11-23T03:18:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "PHAIN 数据手套登上央视新闻，展示具身智能数据采集自研实力",
+   "url": "https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html",
+   "source": "雷锋网",
+   "summary": "APEC 期间，PHAIN 梵因动力自研 G03 Pro T 数据手套亮相央视新闻，首席科学家现场演示机器人遥操作，介绍利用手套采集操作数据支持灵巧手训练。该手套结合毫米级手部位姿采集与 3D 触觉感知。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 2,
+   "published": "2026-11-23T02:27:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
