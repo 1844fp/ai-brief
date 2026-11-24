@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:31:15.456747",
+ "generated_at": "2026-11-24T08:01:07.827681",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 158,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-24",
+   "created_at": "2026-11-24T00:01:06.839485+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-24/news_daily_cn-080106.html"
+  },
   {
    "id": 157,
    "task": "news_daily",
@@ -1362,6 +1371,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "智谱发布 GLM-5.4：采用 Loop Transformer 架构，开启“泛 Coding”能力",
+   "url": "https://www.oschina.net/news/503756",
+   "source": "开源中国",
+   "summary": "智谱正式发布 GLM-5.4 技术公告，在 750B 参数基座上对其中 28 层做两轮循环，官方称智能水平达到 2-3T 级模型。新架构以权重共享提升参数效率，并重点强化“泛 Coding”能力，同步上线 Coding Plan。这是国产大模型在架构创新上的一次明确表态，也回应了外界对国产模型与海外顶级闭源模型差距的讨论。",
+   "why": null,
+   "category": "国产大模型",
+   "heat": 5,
+   "published": "2026-11-23T10:30:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "蚂蚁医疗健康 AI 五连发：开源医疗大模型并支持本地部署",
+   "url": "https://www.qbitai.com/2026/11/512017.html",
+   "source": "量子位",
+   "summary": "蚂蚁阿福宣布健康服务升级，一次性发布五项医疗 AI 能力，包括开源医疗大模型、支持本地部署，以及覆盖“望闻问切”的诊疗能力。多家媒体报道称，该模型面向全球医生开放，一台电脑即可解锁专业医疗 AI 能力。医疗大模型开源并支持本地化，有望降低基层医疗机构使用专业 AI 的门槛。",
+   "why": null,
+   "category": "医疗 AI",
+   "heat": 5,
+   "published": "2026-11-23T07:42:01+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "安谋科技发布“星辰 100e”AIoT 原型平台，AI 推理性能最高提升 340 倍",
+   "url": "https://www.infoq.cn/article/pdjVKiH3ONYjePlUDufv",
+   "source": "InfoQ 中文",
+   "summary": "安谋科技推出面向 AIoT 场景的“星辰 100e”原型平台，官方称 AI 推理性能最高可提升 340 倍。该平台面向端侧与边缘侧 AI 推理需求，试图在低功耗条件下承载更大模型。在算力受限的 IoT 场景中，这类平台是国产芯片 IP 厂商争夺端侧 AI 入口的关键产品。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-23T14:22:11+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "国产端侧大模型实测：1450 亿参数塞进笔记本，每秒输出 80+ Token",
+   "url": "https://www.qbitai.com/2026/11/512195.html",
+   "source": "量子位",
+   "summary": "有实测显示，国产端侧大模型可在笔记本上运行 1450 亿参数规模，推理速度达到每秒 80 个 Token 以上，且零 Token 成本、断网可用。该方案主打本地 Vibe Coding 等开发场景，把原本依赖云端的大模型能力下沉到个人设备。若性能与稳定性经得起验证，将显著改变开发者对云端推理的依赖结构。",
+   "why": null,
+   "category": "端侧 AI",
+   "heat": 4,
+   "published": "2026-11-23T11:01:15+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra",
+   "url": "https://www.ifanr.com/1691043",
+   "source": "爱范儿",
+   "summary": "具身智能公司自变量发布 WALL-API-1.0，在主流榜单上超越 Astra，主打具身智能“预训练”能力。该模型试图为机器人提供可复用的通用预训练底座，减少每个任务单独采集数据的成本。具身智能长期受困于数据稀缺，预训练路线的进展直接决定行业规模化节奏。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 4,
+   "published": "2026-11-23T08:55:14+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "RoboChallenge Zero 首期评测发布：大模型接入真实机器人的基准",
+   "url": "https://www.qbitai.com/2026/11/511978.html",
+   "source": "量子位",
+   "summary": "RoboChallenge 正式发布全新评测基准 RoboChallenge Zero，首期评测聚焦大模型与真实机器人结合后的表现。该基准试图填补“模型能力”与“真实物理执行”之间的评测空白，为具身智能提供可比较的量化标准。评测体系的建立通常先于行业洗牌，对判断各家机器人模型真实水平有参考价值。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-23T03:13:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "AI 办公进入财报检验期：腾讯 WorkBuddy 披露商业化进展，字节豆包工作 DAU 破 800 万",
+   "url": "https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html",
+   "source": "雷锋网",
+   "summary": "AI 办公赛道进入财报检验期，腾讯在 Q3 财报及电话会中披露 WorkBuddy 的 Token 消耗、企业客户采用与收入增长数据；字节披露豆包工作上线上三个月 DAU 突破 800 万、企业客户 ARR 突破 20 亿元。阿里最新财报则未单独披露千问办公收入。大厂 AI 办公从投入期转向收入验证，市场开始追问这门生意的真实利润空间。",
+   "why": null,
+   "category": "AI 应用与商业化",
+   "heat": 4,
+   "published": "2026-11-23T09:54:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "自然资源部、国家发改委印发“人工智能+自然资源”实施意见",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MGFzw7boXMjtFpVq6Ggp2zVqXa8Fplpd9eWSWozZztxQTfBRh71wgx8FPU83lkcmmVfaZE_QX2Oy283w2Pc_6bV6WEUo1WpvAl21vssIrXwMMSjAgmqKqhwvoSJk1qFKSG6nIJJfpTNH6wu00AYxATU0d1WsGke_yennRURDJYrz7NL3RaRqHLajjP1J7jr8KpdEGxtx-sWtr1dbZWbKUeQ..&type=2&query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&token=BF9FEAAE3221EBF09492F369F032F9CC94FABCAB6B04D386",
+   "source": "微信公众号",
+   "summary": "自然资源部与国家发展改革委联合印发《关于“人工智能+自然资源”的实施意见》，落实“人工智能+”行动部署，推动 AI 在自然资源调查、监测与管理等场景落地。这是“人工智能+”行动在具体行业主管部门层面的又一份落地文件。行业级实施意见的密集出台，意味着 AI 落地正从政策倡导转向部门考核。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-11-23T21:18:09+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "杉数完成数亿元 D 轮融资：从数学优化算法走到 AI 原生求解器",
+   "url": "https://www.tmtpost.com/8214351.html",
+   "source": "钛媒体",
+   "summary": "杉数科技宣布完成数亿元 D 轮融资，公司十年聚焦数学优化算法，并已延伸至 GPU 加速与 AI 原生求解器。求解器是运筹优化与工业决策软件的核心组件，长期由海外厂商主导。本轮融资反映出资本对国产基础工业软件与 AI 结合方向的持续押注。",
+   "why": null,
+   "category": "融资与投资",
+   "heat": 3,
+   "published": "2026-11-23T09:26:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "马斯克承认 AI 研发落后对手：出租算力比自研 Grok 更赚钱",
+   "url": "https://www.ithome.com/1/031/246.htm",
+   "source": "IT之家",
+   "summary": "据《纽约时报》报道，马斯克向员工表示公司在 AI 研发上落后于 Anthropic、OpenAI 等对手，与其把数据中心算力全部用于自研 AI，不如出租给竞争对手获取更高回报。SpaceX 自 5 月以来向 Anthropic、谷歌等出租算力，每月可带来数十亿美元收入。马斯克曾将内部群聊改名为“因为无法竞争，所以卖算力”，折射出算力租赁与模型自研之间的现实取舍。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 4,
+   "published": "2026-11-23T23:00:34+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "OpenAI 携手思科开源 Shirudo：为 Linux 系统提供免重启漏洞防护",
+   "url": "https://www.ithome.com/1/031/245.htm",
+   "source": "IT之家",
+   "summary": "OpenAI 与思科联合推出开源安全运行时 Shirudo，基于 eBPF 技术为运行中的系统提供无需重启的临时漏洞防护，已通过 Java4Shell 攻击拦截测试。传统漏洞修复往往需要数天到数周，Shirudo 允许安全团队先部署可验证的临时防护，再从容完成正式修复。该项目对 AI 智能体系统的运行时安全同样具有直接价值。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-11-23T23:00:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "谷歌世界模型 Genie 4 更新：支持在生成世界中途用文字实时改写",
+   "url": "https://www.oschina.net/news/503750/google-deepmind-genie-4",
+   "source": "开源中国",
+   "summary": "谷歌 DeepMind 更新世界模型 Genie 4，核心升级是用户可在生成世界的运行过程中用文字实时改写场景，例如改变天气或添加角色。相比此前“先生成世界再进入浏览”的模式，新版本显著提升了对世界内事件的交互控制。世界模型的实时可控性，是通向可交互仿真与具身训练环境的关键一步。",
+   "why": null,
+   "category": "世界模型",
+   "heat": 3,
+   "published": "2026-11-23T08:59:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "特斯拉新版 FSD 炫酷画面由车机上的 1B 扩散模型实时生成",
+   "url": "https://www.oschina.net/news/503757",
+   "source": "开源中国",
+   "summary": "马斯克在 X 上解释，特斯拉新版 FSD 的显示效果并非 3D 渲染，而是由车机上的 10 亿参数扩散模型实时生成视频。他表示特斯拉去年就拥有近乎像素级的世界模型，这对合成数据生成至关重要。把生成模型部署到车端实时运行，展示了端侧推理在自动驾驶可视化与人机交互中的新用法。",
+   "why": null,
+   "category": "自动驾驶",
+   "heat": 3,
+   "published": "2026-11-23T10:56:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "英伟达恢复黄仁勋 CEO 职务，国内媒体密集报道",
+   "url": "https://www.ithome.com/1/031/252.htm",
+   "source": "IT之家",
+   "summary": "英伟达董事会一致投票决定恢复黄仁勋总裁、首席执行官及董事职务，距其离任仅约十天，马斯克称“错误已更正”，特朗普也公开表示祝贺。黄仁勋重返总部时表示“感谢大家给我第二次机会”。多家国内科技媒体报道了这一人事变动，事件也牵动市场对英伟达对华芯片政策的关注。",
+   "why": null,
+   "category": "行业动态",
+   "heat": 4,
+   "published": "2026-11-23T23:22:14+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "英伟达 H200 对华出口政策现内部矛盾，美财长称无需进一步限制",
+   "url": "https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html",
+   "source": "雷锋网",
+   "summary": "据雷锋网早报，英伟达宣布停止向中国出货 H200 三天后，美国财政部长贝森特公开表态称无需进一步限制旧款英伟达芯片对华销售，现行管制已经足够。这一表态与英伟达的实际出货动作形成公开矛盾。H200 这类“旧款但非最先进”芯片的管制边界，仍是国内算力采购的最大不确定性来源。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-23T10:40:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "厦门理工学院联合多家单位发布新一代“文鳐”海洋原生多模态大模型",
+   "url": "http://www.jyb.cn/rmtxwwyyq/jyxx1306/202611/t20261123_2111545605.html",
+   "source": "Google News 中文",
+   "summary": "厦门理工学院联合多家单位发布新一代“文鳐”海洋原生多模态大模型，面向海洋领域的多模态数据理解与专业应用。该模型属于垂直领域原生多模态路线，而非通用模型微调。海洋监测、航运与海洋科研等场景的专业模型，是行业大模型向细分学科下沉的典型案例。",
+   "why": null,
+   "category": "行业大模型",
+   "heat": 2,
+   "published": "2026-11-23T12:26:19+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "存储经济性为何对中国规模化 AI 至关重要",
+   "url": "https://www.qbitai.com/2026/11/511989.html",
+   "source": "量子位",
+   "summary": "有分析指出，随着算力周期更迭与数据复合增长，AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。文章认为，对中国规模化 AI 而言，存储成本而非单纯算力，正在成为制约训练与推理经济性的关键变量。在高端芯片受限的背景下，存储与数据通路的优化具有替代性价值。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 2,
+   "published": "2026-11-23T03:47:46+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "首届 AI 音乐视觉黑客松举办：剪映 Hub 让 AI 视觉进入音乐现场",
+   "url": "https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html",
+   "source": "雷锋网",
+   "summary": "首届 AI 音乐视觉黑客松在北京国家会议中心举办，由剪映、WaytoAGI 与 ACE-CON 联合发起，五十组 AIGC 创作者在现场使用剪映 Hub，历时 4 小时为多支乐队完成演出视觉与 MV 制作。活动把真实乐队演出需求搬进现场，检验 AI 视觉工具在实时舞台场景下的可用性。这是 AI 创作工具从个人工作流向专业演出场景延伸的一次落地测试。",
+   "why": null,
+   "category": "AI 应用与商业化",
+   "heat": 2,
+   "published": "2026-11-23T06:39:00+00:00"
+  },
   {
    "task": "news_daily",
    "rank": 1,

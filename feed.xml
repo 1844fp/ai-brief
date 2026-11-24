@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 24 Nov 2026 07:31:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 08:01:07 +0000</lastBuildDate>
+  <item>
+    <title>智谱发布 GLM-5.4：采用 Loop Transformer 架构，开启“泛 Coding”能力</title>
+    <link>https://www.oschina.net/news/503756</link>
+    <guid isPermaLink="false">158-1</guid>
+    <pubDate>Mon, 23 Nov 2026 10:30:11 +0000</pubDate>
+    <source>开源中国</source>
+    <description>智谱正式发布 GLM-5.4 技术公告，在 750B 参数基座上对其中 28 层做两轮循环，官方称智能水平达到 2-3T 级模型。新架构以权重共享提升参数效率，并重点强化“泛 Coding”能力，同步上线 Coding Plan。这是国产大模型在架构创新上的一次明确表态，也回应了外界对国产模型与海外顶级闭源模型差距的讨论。</description>
+  </item>
+  <item>
+    <title>蚂蚁医疗健康 AI 五连发：开源医疗大模型并支持本地部署</title>
+    <link>https://www.qbitai.com/2026/11/512017.html</link>
+    <guid isPermaLink="false">158-2</guid>
+    <pubDate>Mon, 23 Nov 2026 07:42:01 +0000</pubDate>
+    <source>量子位</source>
+    <description>蚂蚁阿福宣布健康服务升级，一次性发布五项医疗 AI 能力，包括开源医疗大模型、支持本地部署，以及覆盖“望闻问切”的诊疗能力。多家媒体报道称，该模型面向全球医生开放，一台电脑即可解锁专业医疗 AI 能力。医疗大模型开源并支持本地化，有望降低基层医疗机构使用专业 AI 的门槛。</description>
+  </item>
+  <item>
+    <title>安谋科技发布“星辰 100e”AIoT 原型平台，AI 推理性能最高提升 340 倍</title>
+    <link>https://www.infoq.cn/article/pdjVKiH3ONYjePlUDufv</link>
+    <guid isPermaLink="false">158-3</guid>
+    <pubDate>Mon, 23 Nov 2026 14:22:11 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>安谋科技推出面向 AIoT 场景的“星辰 100e”原型平台，官方称 AI 推理性能最高可提升 340 倍。该平台面向端侧与边缘侧 AI 推理需求，试图在低功耗条件下承载更大模型。在算力受限的 IoT 场景中，这类平台是国产芯片 IP 厂商争夺端侧 AI 入口的关键产品。</description>
+  </item>
+  <item>
+    <title>国产端侧大模型实测：1450 亿参数塞进笔记本，每秒输出 80+ Token</title>
+    <link>https://www.qbitai.com/2026/11/512195.html</link>
+    <guid isPermaLink="false">158-4</guid>
+    <pubDate>Mon, 23 Nov 2026 11:01:15 +0000</pubDate>
+    <source>量子位</source>
+    <description>有实测显示，国产端侧大模型可在笔记本上运行 1450 亿参数规模，推理速度达到每秒 80 个 Token 以上，且零 Token 成本、断网可用。该方案主打本地 Vibe Coding 等开发场景，把原本依赖云端的大模型能力下沉到个人设备。若性能与稳定性经得起验证，将显著改变开发者对云端推理的依赖结构。</description>
+  </item>
+  <item>
+    <title>自变量发布 WALL-API-1.0，主流榜单超越 Astra</title>
+    <link>https://www.ifanr.com/1691043</link>
+    <guid isPermaLink="false">158-5</guid>
+    <pubDate>Mon, 23 Nov 2026 08:55:14 +0000</pubDate>
+    <source>爱范儿</source>
+    <description>具身智能公司自变量发布 WALL-API-1.0，在主流榜单上超越 Astra，主打具身智能“预训练”能力。该模型试图为机器人提供可复用的通用预训练底座，减少每个任务单独采集数据的成本。具身智能长期受困于数据稀缺，预训练路线的进展直接决定行业规模化节奏。</description>
+  </item>
+  <item>
+    <title>RoboChallenge Zero 首期评测发布：大模型接入真实机器人的基准</title>
+    <link>https://www.qbitai.com/2026/11/511978.html</link>
+    <guid isPermaLink="false">158-6</guid>
+    <pubDate>Mon, 23 Nov 2026 03:13:06 +0000</pubDate>
+    <source>量子位</source>
+    <description>RoboChallenge 正式发布全新评测基准 RoboChallenge Zero，首期评测聚焦大模型与真实机器人结合后的表现。该基准试图填补“模型能力”与“真实物理执行”之间的评测空白，为具身智能提供可比较的量化标准。评测体系的建立通常先于行业洗牌，对判断各家机器人模型真实水平有参考价值。</description>
+  </item>
+  <item>
+    <title>AI 办公进入财报检验期：腾讯 WorkBuddy 披露商业化进展，字节豆包工作 DAU 破 800 万</title>
+    <link>https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html</link>
+    <guid isPermaLink="false">158-7</guid>
+    <pubDate>Mon, 23 Nov 2026 09:54:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>AI 办公赛道进入财报检验期，腾讯在 Q3 财报及电话会中披露 WorkBuddy 的 Token 消耗、企业客户采用与收入增长数据；字节披露豆包工作上线上三个月 DAU 突破 800 万、企业客户 ARR 突破 20 亿元。阿里最新财报则未单独披露千问办公收入。大厂 AI 办公从投入期转向收入验证，市场开始追问这门生意的真实利润空间。</description>
+  </item>
+  <item>
+    <title>自然资源部、国家发改委印发“人工智能+自然资源”实施意见</title>
+    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MGFzw7boXMjtFpVq6Ggp2zVqXa8Fplpd9eWSWozZztxQTfBRh71wgx8FPU83lkcmmVfaZE_QX2Oy283w2Pc_6bV6WEUo1WpvAl21vssIrXwMMSjAgmqKqhwvoSJk1qFKSG6nIJJfpTNH6wu00AYxATU0d1WsGke_yennRURDJYrz7NL3RaRqHLajjP1J7jr8KpdEGxtx-sWtr1dbZWbKUeQ..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=BF9FEAAE3221EBF09492F369F032F9CC94FABCAB6B04D386</link>
+    <guid isPermaLink="false">158-8</guid>
+    <pubDate>Mon, 23 Nov 2026 21:18:09 +0000</pubDate>
+    <source>微信公众号</source>
+    <description>自然资源部与国家发展改革委联合印发《关于“人工智能+自然资源”的实施意见》，落实“人工智能+”行动部署，推动 AI 在自然资源调查、监测与管理等场景落地。这是“人工智能+”行动在具体行业主管部门层面的又一份落地文件。行业级实施意见的密集出台，意味着 AI 落地正从政策倡导转向部门考核。</description>
+  </item>
+  <item>
+    <title>杉数完成数亿元 D 轮融资：从数学优化算法走到 AI 原生求解器</title>
+    <link>https://www.tmtpost.com/8214351.html</link>
+    <guid isPermaLink="false">158-9</guid>
+    <pubDate>Mon, 23 Nov 2026 09:26:18 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>杉数科技宣布完成数亿元 D 轮融资，公司十年聚焦数学优化算法，并已延伸至 GPU 加速与 AI 原生求解器。求解器是运筹优化与工业决策软件的核心组件，长期由海外厂商主导。本轮融资反映出资本对国产基础工业软件与 AI 结合方向的持续押注。</description>
+  </item>
+  <item>
+    <title>马斯克承认 AI 研发落后对手：出租算力比自研 Grok 更赚钱</title>
+    <link>https://www.ithome.com/1/031/246.htm</link>
+    <guid isPermaLink="false">158-10</guid>
+    <pubDate>Mon, 23 Nov 2026 23:00:34 +0000</pubDate>
+    <source>IT之家</source>
+    <description>据《纽约时报》报道，马斯克向员工表示公司在 AI 研发上落后于 Anthropic、OpenAI 等对手，与其把数据中心算力全部用于自研 AI，不如出租给竞争对手获取更高回报。SpaceX 自 5 月以来向 Anthropic、谷歌等出租算力，每月可带来数十亿美元收入。马斯克曾将内部群聊改名为“因为无法竞争，所以卖算力”，折射出算力租赁与模型自研之间的现实取舍。</description>
+  </item>
+  <item>
+    <title>OpenAI 携手思科开源 Shirudo：为 Linux 系统提供免重启漏洞防护</title>
+    <link>https://www.ithome.com/1/031/245.htm</link>
+    <guid isPermaLink="false">158-11</guid>
+    <pubDate>Mon, 23 Nov 2026 23:00:23 +0000</pubDate>
+    <source>IT之家</source>
+    <description>OpenAI 与思科联合推出开源安全运行时 Shirudo，基于 eBPF 技术为运行中的系统提供无需重启的临时漏洞防护，已通过 Java4Shell 攻击拦截测试。传统漏洞修复往往需要数天到数周，Shirudo 允许安全团队先部署可验证的临时防护，再从容完成正式修复。该项目对 AI 智能体系统的运行时安全同样具有直接价值。</description>
+  </item>
+  <item>
+    <title>谷歌世界模型 Genie 4 更新：支持在生成世界中途用文字实时改写</title>
+    <link>https://www.oschina.net/news/503750/google-deepmind-genie-4</link>
+    <guid isPermaLink="false">158-12</guid>
+    <pubDate>Mon, 23 Nov 2026 08:59:18 +0000</pubDate>
+    <source>开源中国</source>
+    <description>谷歌 DeepMind 更新世界模型 Genie 4，核心升级是用户可在生成世界的运行过程中用文字实时改写场景，例如改变天气或添加角色。相比此前“先生成世界再进入浏览”的模式，新版本显著提升了对世界内事件的交互控制。世界模型的实时可控性，是通向可交互仿真与具身训练环境的关键一步。</description>
+  </item>
+  <item>
+    <title>特斯拉新版 FSD 炫酷画面由车机上的 1B 扩散模型实时生成</title>
+    <link>https://www.oschina.net/news/503757</link>
+    <guid isPermaLink="false">158-13</guid>
+    <pubDate>Mon, 23 Nov 2026 10:56:06 +0000</pubDate>
+    <source>开源中国</source>
+    <description>马斯克在 X 上解释，特斯拉新版 FSD 的显示效果并非 3D 渲染，而是由车机上的 10 亿参数扩散模型实时生成视频。他表示特斯拉去年就拥有近乎像素级的世界模型，这对合成数据生成至关重要。把生成模型部署到车端实时运行，展示了端侧推理在自动驾驶可视化与人机交互中的新用法。</description>
+  </item>
+  <item>
+    <title>英伟达恢复黄仁勋 CEO 职务，国内媒体密集报道</title>
+    <link>https://www.ithome.com/1/031/252.htm</link>
+    <guid isPermaLink="false">158-14</guid>
+    <pubDate>Mon, 23 Nov 2026 23:22:14 +0000</pubDate>
+    <source>IT之家</source>
+    <description>英伟达董事会一致投票决定恢复黄仁勋总裁、首席执行官及董事职务，距其离任仅约十天，马斯克称“错误已更正”，特朗普也公开表示祝贺。黄仁勋重返总部时表示“感谢大家给我第二次机会”。多家国内科技媒体报道了这一人事变动，事件也牵动市场对英伟达对华芯片政策的关注。</description>
+  </item>
+  <item>
+    <title>英伟达 H200 对华出口政策现内部矛盾，美财长称无需进一步限制</title>
+    <link>https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html</link>
+    <guid isPermaLink="false">158-15</guid>
+    <pubDate>Mon, 23 Nov 2026 10:40:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>据雷锋网早报，英伟达宣布停止向中国出货 H200 三天后，美国财政部长贝森特公开表态称无需进一步限制旧款英伟达芯片对华销售，现行管制已经足够。这一表态与英伟达的实际出货动作形成公开矛盾。H200 这类“旧款但非最先进”芯片的管制边界，仍是国内算力采购的最大不确定性来源。</description>
+  </item>
+  <item>
+    <title>厦门理工学院联合多家单位发布新一代“文鳐”海洋原生多模态大模型</title>
+    <link>http://www.jyb.cn/rmtxwwyyq/jyxx1306/202611/t20261123_2111545605.html</link>
+    <guid isPermaLink="false">158-16</guid>
+    <pubDate>Mon, 23 Nov 2026 12:26:19 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>厦门理工学院联合多家单位发布新一代“文鳐”海洋原生多模态大模型，面向海洋领域的多模态数据理解与专业应用。该模型属于垂直领域原生多模态路线，而非通用模型微调。海洋监测、航运与海洋科研等场景的专业模型，是行业大模型向细分学科下沉的典型案例。</description>
+  </item>
+  <item>
+    <title>存储经济性为何对中国规模化 AI 至关重要</title>
+    <link>https://www.qbitai.com/2026/11/511989.html</link>
+    <guid isPermaLink="false">158-17</guid>
+    <pubDate>Mon, 23 Nov 2026 03:47:46 +0000</pubDate>
+    <source>量子位</source>
+    <description>有分析指出，随着算力周期更迭与数据复合增长，AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。文章认为，对中国规模化 AI 而言，存储成本而非单纯算力，正在成为制约训练与推理经济性的关键变量。在高端芯片受限的背景下，存储与数据通路的优化具有替代性价值。</description>
+  </item>
+  <item>
+    <title>首届 AI 音乐视觉黑客松举办：剪映 Hub 让 AI 视觉进入音乐现场</title>
+    <link>https://www.leiphone.com/category/industrynews/tf4yrVFgiVRXvipk.html</link>
+    <guid isPermaLink="false">158-18</guid>
+    <pubDate>Mon, 23 Nov 2026 06:39:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>首届 AI 音乐视觉黑客松在北京国家会议中心举办，由剪映、WaytoAGI 与 ACE-CON 联合发起，五十组 AIGC 创作者在现场使用剪映 Hub，历时 4 小时为多支乐队完成演出视觉与 MV 制作。活动把真实乐队演出需求搬进现场，检验 AI 视觉工具在实时舞台场景下的可用性。这是 AI 创作工具从个人工作流向专业演出场景延伸的一次落地测试。</description>
+  </item>
   <item>
     <title>智谱发布 GLM-5.4：首个 loop transformer 架构，面向通用编码</title>
     <link>https://z.ai/blog/glm-5.4</link>
@@ -328,7 +472,7 @@
     <title>Blender AI MCP 插件：让大模型直接检查与搭建 3D 场景</title>
     <link>https://github.com/bookwjitchieni1986/blender-ai-mcp-addon</link>
     <guid isPermaLink="false">155-1</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 08:01:07 +0000</pubDate>
     <source>GitHub</source>
     <description>该项目为 Blender 4.2+ 提供内置 MCP 服务器与可视化聊天工作区，AI 可检查场景、创建物体、编辑材质、查找资产并执行多步工作流，兼容 ChatGPT、Claude、Gemini、Ollama 等模型。它把 3D 创作中的 bpy 脚本编写与场景操作交给智能体，降低非程序员的建模门槛。项目以 MIT 协议发布并提供 Windows 安装包，适合 3D 艺术家与工具链开发者试用。</description>
   </item>
@@ -336,152 +480,8 @@
     <title>NeonClipping：本地运行的竖屏切片与字幕引擎</title>
     <link>https://github.com/iamajmeena/neonclipping</link>
     <guid isPermaLink="false">155-2</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
+    <pubDate>Tue, 24 Nov 2026 08:01:07 +0000</pubDate>
     <source>GitHub</source>
     <description>粘贴 YouTube、Twitch、Kick 链接或本地 MP4，约两分钟即可生成带标题与钩子的 9:16 竖屏字幕切片，全流程在本机完成，无需账号或上传。技术栈组合 faster-whisper、ffmpeg 与本地 LLM，主打音频优先与平台字幕复用。适合短视频创作者与需要批量二创的运营团队，开源且可自由商用。</description>
-  </item>
-  <item>
-    <title>fast-anything：只把最慢的 5% 函数移植到 Rust</title>
-    <link>https://github.com/EL4CTEO/fast-anything</link>
-    <guid isPermaLink="false">155-3</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>针对「用 Rust 重写整个应用」的高成本，该工具先对 Python、Node、Ruby 应用做性能剖析，定位热点函数，再让编码智能体仅将这些函数移植为 Rust，并用真实录制的调用记录验证行为一致后热替换。一条命令完成、完全可回滚，已作为 Claude Code、Codex 等智能体的技能插件分发。适合被性能瓶颈困扰但不愿承担全量重写风险的后端团队。</description>
-  </item>
-  <item>
-    <title>PiBot：本地优先的桌面多智能体团队</title>
-    <link>https://github.com/w01fb0ss/PiBot</link>
-    <guid isPermaLink="false">155-4</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>PiBot 在 macOS、Windows、Linux 与 Android 上运行一组具名 AI Bot，支持单聊与群聊，可执行命令、编辑文件、浏览网页并操作电脑，每个高风险步骤都需用户批准。项目基于 pi 智能体内核，用 TypeScript 编写，强调本地优先与审批机制。适合希望把多智能体协作落到个人桌面、又不想放弃控制权的进阶用户。</description>
-  </item>
-  <item>
-    <title>agy-fast：为 Google Antigravity 削减三成 token 与轮次</title>
-    <link>https://github.com/INK-Q/agy-fast</link>
-    <guid isPermaLink="false">155-5</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>这是一款非侵入式 MCP 加速插件，面向 Google Antigravity 的 CLI、桌面与 IDE，在不改变原生界面与 diff 的前提下，将 LLM 轮次减少 34%、token 配额消耗降低 31%、上传流量减少 40%。插件零运行时依赖，要求 Node.js 20 以上。适合重度使用 Antigravity 进行 AI 编码、对配额与延迟敏感的开发者。</description>
-  </item>
-  <item>
-    <title>agentic-attack-detections：面向 AI 智能体攻击框架的检测规则集</title>
-    <link>https://github.com/ThreatDefence/agentic-attack-detections</link>
-    <guid isPermaLink="false">155-6</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>该项目为安全团队提供覆盖 ARTEX、Cairn、PentAGI、HexStrike、Strix、Agent Zero 等十余个智能体攻击框架的检测规则与 IOC，包含 Microsoft Sentinel 与 Defender XDR 的 KQL 查询，以及 Sigma、Suricata、Zeek、YARA、Splunk、Elastic 与 STIX 2.1 格式。仓库带 CI 校验与版本发布，定位蓝队检测工程。适合 SOC 分析师与红蓝对抗团队直接落地。</description>
-  </item>
-  <item>
-    <title>songe：用闲置算力训练本地模型的训练引擎</title>
-    <link>https://github.com/sous-labs/songe</link>
-    <guid isPermaLink="false">155-7</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>songe 面向本地模型微调，利用机器空闲算力执行 LoRA 与蒸馏训练，主题覆盖编码智能体与本地 LLM 场景。它试图解决「本地模型无法随使用持续变强」的问题，把训练从数据中心搬到个人设备。适合拥有闲置 GPU、希望用自有数据定制小模型的开发者，项目尚处早期，文档与商用条款需自行确认。</description>
-  </item>
-  <item>
-    <title>sprite-stacking：把四视图像素画变成可旋转的伪 3D 精灵</title>
-    <link>https://github.com/danielwh2/sprite-stacking</link>
-    <guid isPermaLink="false">155-8</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>这是一个智能体技能，输入四个方向的像素画视图，输出可旋转的伪 3D 精灵，基于 Python 3、Pillow 与 NumPy 实现。可通过 npx skills add 安装，兼容 Claude Code、Codex、Cursor、OpenCode、Gemini CLI 与 Pi。适合独立游戏开发者快速补齐角色多角度素材，MIT 协议可商用。</description>
-  </item>
-  <item>
-    <title>TraxAgent：用对话查询 AI 预算花在了哪里</title>
-    <link>https://github.com/ccarter01011/traxagent-claude-plugin</link>
-    <guid isPermaLink="false">155-9</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>TraxAgent 提供只读 MCP 服务器与 Claude Code 插件，让用户直接向 Claude、ChatGPT、Cursor 或 VS Code 询问跨多个 AI 与团队的花费情况并给出优化建议。项目已登记到 MCP Registry 与 mcpservers.org，采用 MIT 协议。适合开始为 AI 工具付费、需要做成本归因与治理的团队。</description>
-  </item>
-  <item>
-    <title>Frostwind：为像素游戏世界构建「自然推导层」</title>
-    <link>https://github.com/trinity-works/frostwind</link>
-    <guid isPermaLink="false">155-10</guid>
-    <pubDate>Tue, 24 Nov 2026 07:31:15 +0000</pubDate>
-    <source>GitHub</source>
-    <description>Frostwind 是一个像素艺术世界编译器，在创作意图与像素之间加入推导层，用显式的自然、生命、文化、工艺与美术方向模型生成确定性、可检查的场景，解决 LLM 写 2D 世界时比例、透视与色彩各自合理却互不一致的问题。项目基于 JavaScript 与 Three.js，面向游戏开发与程序化生成方向。适合技术美术与独立工作室探索 AI 辅助关卡设计。</description>
-  </item>
-  <item>
-    <title>腾讯三季度资本开支同比增 527%，AI 新业务拖累经营利润约 152 亿元</title>
-    <link>http://www.geekpark.net/news/374302</link>
-    <guid isPermaLink="false">154-1</guid>
-    <pubDate>Sun, 22 Nov 2026 01:58:48 +0000</pubDate>
-    <source>极客公园</source>
-    <description>腾讯 2026 年第三季度营收 2073.4 亿元、同比增长 8%，但资本开支达 814 亿元、同比增长 527%，单季支出已超 2025 年全年，研发投入 323.6 亿元、同比增长 42%。剔除混元、元宝、CodeBuddy 等新 AI 产品的收入与开支后，Non-IFRS 经营利润为 833 亿元、同比增长 8%，意味着 AI 新业务对经营利润造成约 152 亿元净影响。大规模算力采购预付款使自由现金流为负 691 亿元。</description>
-  </item>
-  <item>
-    <title>阿里吴泳铭：千问已用平头哥国产芯片启动下一代模型训练</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9xaDx3C-0uNS5FhO24JRlLYdVn8XvuEYcyNK5nqLJcNr1Eg1NGnnsSL8y5scdAw06CKnOo75EJPGlA7HzD--RDj6nEzKykUPvGmSwsgSqrdYmnPEBEu6MgcfTvCvnR2eQcNphjIKhDo1ZrhpC3O8iOp2Z01s1P89a73TiQuip9ubf3q8uRDTfkw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
-    <guid isPermaLink="false">154-2</guid>
-    <pubDate>Sun, 22 Nov 2026 09:22:17 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>阿里巴巴 CEO 吴泳铭在业绩电话会上表示，千问已使用今年这一代平头哥国产芯片启动下一代模型训练，并给出了真武系列芯片的推进时间表。这意味着国产 AI 芯片开始承担前沿大模型的实际训练任务，而非仅用于推理。</description>
-  </item>
-  <item>
-    <title>MiniMax 内部模型系统性破解多个密码学前沿方案，刷新国际挑战赛纪录</title>
-    <link>https://www.ithome.com/1/030/711.htm</link>
-    <guid isPermaLink="false">154-3</guid>
-    <pubDate>Sun, 22 Nov 2026 13:23:38 +0000</pubDate>
-    <source>IT之家</source>
-    <description>MiniMax 宣布其最新内部模型对现代密码方案开展系统性自动化密码分析，首次实际攻破多个 NIST 国际密码标准化竞赛中「尚无已知实际攻击」的候选算法，并对多篇顶会顶刊方案实现高效密文伪造或密钥恢复。模型还将多项理论攻击推进到秒级至分钟级可执行，在国际公开挑战赛中首次攻克数十个无公开解的高阶实例，实测加速达数百至数万倍。官方称不影响现行主流密码标准。</description>
-  </item>
-  <item>
-    <title>AI 服务器厂商交付前临时提价，涨幅最高达 45%</title>
-    <link>https://www.ithome.com/1/030/713.htm</link>
-    <guid isPermaLink="false">154-4</guid>
-    <pubDate>Sun, 22 Nov 2026 14:00:48 +0000</pubDate>
-    <source>IT之家</source>
-    <description>据金融时报报道，戴尔、慧与、联想、超微电脑等厂商在合同签署数月后、设备交付前大幅上调搭载英伟达芯片的 AI 服务器价格，涨幅达 25% 至 45%。涨价主因是内存等组件成本飙升向下游转嫁，大型金融与交易公司也不得不接受。</description>
-  </item>
-  <item>
-    <title>腾讯 Hy4 flash 登顶 OpenRouter 用量榜，国产模型占据榜单前列</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9__hd1emfeHcmccWD21Vs0xHbr41QIoi9b71EHAFi0f60YMInF7Graxj01KiDJYoReT2RNJ3WsUoTrvx8US2WdS4J6Idbvdf0Jt3yuDMaGH04arbSILghiOSRe5eg9YM1oyB5IDOFvfQ1mC8LFvGCIDz0TJfzRjH1fF2VVTJtHnGfxjh3za6jWA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
-    <guid isPermaLink="false">154-5</guid>
-    <pubDate>Sun, 22 Nov 2026 12:05:07 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>大模型天梯榜显示，腾讯 Hy4 flash 以 10.30T tokens、29.2% 的份额升至 OpenRouter 用量榜第一，将 DeepSeek V4.1 Flash 压至其后。国产模型在开发者实际调用量上已形成集团优势。</description>
-  </item>
-  <item>
-    <title>前 OpenAI 研究员取证报告称六款中国前沿模型有英伟达 Blackwell 训练痕迹</title>
-    <link>https://www.huxiu.com/article/4907551.html</link>
-    <guid isPermaLink="false">154-6</guid>
-    <pubDate>Sun, 22 Nov 2026 15:46:46 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>前 OpenAI 研究员发布取证报告，称通过技术手段识别出六款中国前沿模型存在英伟达 Blackwell 芯片训练痕迹。该报告涉及出口管制与模型训练算力来源的敏感议题，多家媒体跟进报道。</description>
-  </item>
-  <item>
-    <title>特朗普称英伟达 Blackwell 芯片可对华销售但附条件；DeepSeek 千亿融资落地</title>
-    <link>https://www.leiphone.com/category/zaobao/qb1uol6hKvK6pRgF.html</link>
-    <guid isPermaLink="false">154-7</guid>
-    <pubDate>Sun, 22 Nov 2026 10:15:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>综合多家媒体报道，特朗普表态英伟达 Blackwell 芯片可在附加条件下对华销售，同时 DeepSeek 第二轮千亿级融资落地，31 家出资方入股梁文锋搭建的持股平台。此外供应链消息称 OpenAI 手机项目由富士康旗下富智康获组装订单。</description>
-  </item>
-  <item>
-    <title>郭明錤：谷歌削减 2027 年博通设计 TPU 8i 出货约 100 万颗</title>
-    <link>https://www.ithome.com/1/030/698.htm</link>
-    <guid isPermaLink="false">154-8</guid>
-    <pubDate>Sun, 22 Nov 2026 11:20:07 +0000</pubDate>
-    <source>IT之家</source>
-    <description>天风国际分析师郭明錤称，谷歌将 2027 年由博通设计的 TPU 8i 系列出货量削减约 100 万颗，约占该系列出货的 20%，同时计划增加联发科设计的 TPU 8t 系列出货。调整背景是供应链紧张与数据中心供电受限，谷歌还在将 TPU 设计与 HBM 采购分离以压低成本。</description>
-  </item>
-  <item>
-    <title>国产显卡显存规格升至 48GB，主攻本地大模型推理</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd93xtnJ72CZD94OZdIiTcuV6y0Do39vg-UjaKZfx0YGOa5jHaK50lSV2IjWtyEEc8h9KMgzglDg9tC7B5aVbNIZcuf_hTWSiREbNmimccgYaqdVQ5zX4Hj7JCLLXwv0BkegemkBEO4L2ZjKS1rw_A9AF1rtxo_3UoDSNN84nuYede00NVofL2iDw..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
-    <guid isPermaLink="false">154-9</guid>
-    <pubDate>Sun, 22 Nov 2026 21:41:00 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>据微信公众号消息，国产显卡新品将显存容量提升至 48GB 或更高，定位覆盖游戏、本地大模型推理与专业渲染，具体容量尚未正式公布。大显存是本地部署大模型的关键瓶颈，该规格直指消费级与工作站级推理场景。</description>
-  </item>
-  <item>
-    <title>国内首个海洋原生多模态大模型「文鳐」新一代在厦门发布</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4f5ih_n9gE076ap20sIxOT7BgYaLXuT3lqXa8Fplpd9VL3zq2p95nHr59CpHVyo2heMR8seK1KHi06HHvZZSFJllzfcvTwJVexSoPxSrvfGMh_HV44fbk6y6P2y-ANEkZDIvGFsSY2pw71DKQb5CrtY42CupDbDx-hrIs7zUALQ37PARRKbr0VlK2KZcT1Jv6Bad8GGo1qt4McZnUqFBR0NGbbB75bUeA..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=B86E2BB15EEF3E25414722FF4ABB9F3A421E42C36B038221</link>
-    <guid isPermaLink="false">154-10</guid>
-    <pubDate>Sun, 22 Nov 2026 11:39:02 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>众数文鳐联合哈尔滨工程大学、厦门理工学院在厦门发布新一代「文鳐」大模型，定位为国内首个海洋原生多模态大模型，面向海洋装备自主智能化。多家媒体报道了该发布。</description>
   </item>
 </channel></rss>
