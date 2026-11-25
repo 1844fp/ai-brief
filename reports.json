@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T08:01:46.723115",
+ "generated_at": "2026-11-25T08:20:34.524019",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 160,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-25",
+   "created_at": "2026-11-25T00:20:33.589562+00:00",
+   "item_count": 15,
+   "llm_ok": true,
+   "url": "reports/2026-11-25/news_daily_cn-082033.html"
+  },
   {
    "id": 159,
    "task": "news_daily_cn",
@@ -1380,6 +1389,186 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "智谱 GLM-5.4 上线，3 万亿参数 GLM-5.5 预计 12 月发布",
+   "url": "https://finance.eastmoney.com/a/202611233937248148.html",
+   "source": "Google News 中文",
+   "summary": "智谱新一代大模型 GLM-5.4 正式上线，官方称中国大模型周调用量已连续 30 周位居第一。更大规模的 GLM-5.5 参数达 3 万亿，预计 12 月发布。这显示国产大模型在参数规模与调用活跃度上持续攀升，开源与闭源双线竞争加剧。",
+   "why": null,
+   "category": "大模型",
+   "heat": 5,
+   "published": "2026-11-24T18:10:04+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎全球开源",
+   "url": "https://www.qbitai.com/2026/11/512330.html",
+   "source": "量子位",
+   "summary": "OceanBase 发布湖库一体 AI 数据平台 OceanLake，并宣布开源核心引擎 AI 数据库 OceanSeek。CTO 杨传辉透露，面向 Agent 调用的 MCP 访问量半年增长约 13.36 倍，传统在线与离线分离架构难以支撑。此举意在为 Agent 时代提供统一数据底座，降低企业 AI 应用门槛。",
+   "why": null,
+   "category": "数据基础设施",
+   "heat": 5,
+   "published": "2026-11-24T03:30:46+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "摩尔线程发布新版夸娥 AI 训练套件，国产算力支撑万卡万亿大模型训练",
+   "url": "https://finance.eastmoney.com/a/202611243938306420.html",
+   "source": "Google News 中文",
+   "summary": "摩尔线程推出新版本夸娥 AI 训练套件，宣称可支撑万卡规模、万亿参数大模型的工业化训练。这标志着国产 GPU 在训练软件栈与集群能力上进一步补强，试图缓解高端算力受限对国内大模型研发的制约。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 5,
+   "published": "2026-11-24T08:31:29+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议",
+   "url": "https://www.qbitai.com/2026/11/512354.html",
+   "source": "量子位",
+   "summary": "百度文心 5.5 Flash Preview 以 Apache 2.0 协议开源，允许商用与修改。这是百度在大模型开源路线上的重要一步，此前其主力模型多以闭源 API 形式提供。开源有望吸引更多开发者基于文心生态构建应用。",
+   "why": null,
+   "category": "大模型",
+   "heat": 4,
+   "published": "2026-11-24T06:22:28+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "蚂蚁开源医疗健康预测模型 LingSante Pulse，可预测未来六年 150 种疾病风险",
+   "url": "https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁百灵开源医疗健康预测模型 LingSante Pulse，能统一处理脑电、心电、脉搏波、肌电等多种生理信号，基于超 15 万小时数据预训练。评测中可预测未来六年内 150 种疾病表型，高可靠性病种数量比此前最优模型增加约 42%。",
+   "why": null,
+   "category": "AI 医疗",
+   "heat": 4,
+   "published": "2026-11-24T03:13:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "鸿蒙终端设备数破亿，注册开发者超 1200 万、可获取应用服务超 46 万",
+   "url": "https://www.ithome.com/1/031/891.htm",
+   "source": "IT之家",
+   "summary": "华为宣布鸿蒙 HarmonyOS 终端设备数突破 1 亿，注册开发者超 1200 万，可获取应用和服务超 46 万。开源鸿蒙已有 1.4 万余名贡献者、120 余个行业发行版。鸿蒙生态跨越规模临界点，成为中国自主操作系统规模化应用的重要进展。",
+   "why": null,
+   "category": "操作系统与生态",
+   "heat": 4,
+   "published": "2026-11-24T15:00:13+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "豆包工作下调多款模型消耗倍率，超八成日常任务可免费完成",
+   "url": "https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html",
+   "source": "雷锋网",
+   "summary": "豆包工作接入 DeepSeek V4.1 Flash、豆包 2.1 Lite 等多款第三方模型，将高频模型额度消耗倍率下调至 0.01。实测显示超八成日常办公任务可免费完成，使用 DeepSeek V4.1 Flash 执行 50 项办公任务平均花费仅 0.065 元，约为同类 Agent 产品的 10%。",
+   "why": null,
+   "category": "AI 应用",
+   "heat": 4,
+   "published": "2026-11-24T01:47:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "蚂蚁阿福发布新版 App，开源医疗健康模型家族 LingSante",
+   "url": "https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html",
+   "source": "雷锋网",
+   "summary": "蚂蚁阿福在医疗健康生态大会上发布新版 App，上线实时视频“看健康”功能，推出 AI 健康手环和戒指，并首次集中展示医疗健康模型家族 LingSante，两款核心模型同步开源。此举意在从 C 端入口延伸至院外健康管理，连接医生、医院、硬件与保险。",
+   "why": null,
+   "category": "AI 医疗",
+   "heat": 4,
+   "published": "2026-11-24T07:13:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "自变量发布具身基础模型 WALL-OSS-1.0，零样本成功率 55.1%",
+   "url": "https://www.tmtpost.com/8216666.html",
+   "source": "钛媒体",
+   "summary": "自变量机器人发布具身基础模型 WALL-OSS-1.0，将“理解世界”与“执行动作”统一在同一模型中，自测零样本任务成功率达 55.1%。该模型面向通用机器人操作，强调跨场景泛化能力。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-24T13:09:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "华为星芒 OSTA O1 Pro 亮相，以 AI Launcher 推进手机 AI",
+   "url": "http://www.geekpark.net/news/374417",
+   "source": "极客公园",
+   "summary": "华为新品牌星芒首款产品 OSTA O1 Pro 曝光，采用阔直板形态，以 AI Launcher 为核心重构手机交互。极客公园试用认为，这是大厂在手机 AI 光谱上向 AI 手机迈进的一小步，区别于字节、阶跃等挑战者的助手路线。",
+   "why": null,
+   "category": "终端 AI",
+   "heat": 3,
+   "published": "2026-11-24T07:47:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业出海",
+   "url": "https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html",
+   "source": "雷锋网",
+   "summary": "百度智能云联合香港特区政府商务及经济发展局、创新科技署及智平方、零次方、众擎等企业发起香港前沿科技产业发展联盟，聚焦人工智能、智能装备、数字经济，搭建技术、场景、资本与国际资源对接平台。百度智能云将建设具身智能 AI 基础设施，支持模型训练、仿真与推理部署。",
+   "why": null,
+   "category": "产业生态",
+   "heat": 3,
+   "published": "2026-11-24T08:33:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "阶跃星辰布局终端生态，从模型到芯片握紧关键环节",
+   "url": "https://www.tmtpost.com/8215895.html",
+   "source": "钛媒体",
+   "summary": "阶跃星辰正从模型向终端生态延伸，试图将芯片等关键环节握在手中。钛媒体分析认为，其终端生态目前仍带有较强的“熟人局”色彩，能否形成开放生态尚待观察。",
+   "why": null,
+   "category": "产业生态",
+   "heat": 3,
+   "published": "2026-11-24T09:15:51+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "支付宝参与共建公积金智能化应用，政务 AI 助手月活超 1500 万",
+   "url": "https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html",
+   "source": "雷锋网",
+   "summary": "《住房公积金智能化应用创新案例集》发布，17 个地方案例中 10 个采用支付宝民生办事 AI 全场景解决方案。支付宝“晓政”已合作上线超 120 个官方智能体，接入 1000 余项 MCP 服务，月活跃用户超 1500 万。",
+   "why": null,
+   "category": "AI 政务",
+   "heat": 3,
+   "published": "2026-11-24T01:44:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "辛米尔首提“端侧超节点”，端侧 AI 组队计算效率提升 270%",
+   "url": "https://www.qbitai.com/2026/11/512362.html",
+   "source": "量子位",
+   "summary": "辛米尔提出“端侧超节点”概念，让多台端侧设备组队协同计算，宣称 AI 效率提升 270%，且无需更换芯片或模型。该方案试图打通物理 AI 规模化落地的算力瓶颈。",
+   "why": null,
+   "category": "端侧 AI",
+   "heat": 3,
+   "published": "2026-11-24T06:35:06+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "开源 AI 助手 MateClaw 3.1.0 发布，完善技能经验与长任务可靠性",
+   "url": "https://www.oschina.net/news/503782",
+   "source": "开源中国",
+   "summary": "开源 AI 助手项目 MateClaw 发布 3.1.0 版本，将对话、记忆、知识库、技能和自动化整合在同一工作台，支持员工与团队协作及多渠道接入。此次更新聚焦执行架构升级、技能经验沉淀与长任务可靠性完善。",
+   "why": null,
+   "category": "开源项目",
+   "heat": 2,
+   "published": "2026-11-24T09:36:52+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

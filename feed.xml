@@ -3,7 +3,127 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Tue, 24 Nov 2026 08:01:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 08:20:34 +0000</lastBuildDate>
+  <item>
+    <title>智谱 GLM-5.4 上线，3 万亿参数 GLM-5.5 预计 12 月发布</title>
+    <link>https://finance.eastmoney.com/a/202611233937248148.html</link>
+    <guid isPermaLink="false">160-1</guid>
+    <pubDate>Tue, 24 Nov 2026 18:10:04 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>智谱新一代大模型 GLM-5.4 正式上线，官方称中国大模型周调用量已连续 30 周位居第一。更大规模的 GLM-5.5 参数达 3 万亿，预计 12 月发布。这显示国产大模型在参数规模与调用活跃度上持续攀升，开源与闭源双线竞争加剧。</description>
+  </item>
+  <item>
+    <title>蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎全球开源</title>
+    <link>https://www.qbitai.com/2026/11/512330.html</link>
+    <guid isPermaLink="false">160-2</guid>
+    <pubDate>Tue, 24 Nov 2026 03:30:46 +0000</pubDate>
+    <source>量子位</source>
+    <description>OceanBase 发布湖库一体 AI 数据平台 OceanLake，并宣布开源核心引擎 AI 数据库 OceanSeek。CTO 杨传辉透露，面向 Agent 调用的 MCP 访问量半年增长约 13.36 倍，传统在线与离线分离架构难以支撑。此举意在为 Agent 时代提供统一数据底座，降低企业 AI 应用门槛。</description>
+  </item>
+  <item>
+    <title>摩尔线程发布新版夸娥 AI 训练套件，国产算力支撑万卡万亿大模型训练</title>
+    <link>https://finance.eastmoney.com/a/202611243938306420.html</link>
+    <guid isPermaLink="false">160-3</guid>
+    <pubDate>Tue, 24 Nov 2026 08:31:29 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>摩尔线程推出新版本夸娥 AI 训练套件，宣称可支撑万卡规模、万亿参数大模型的工业化训练。这标志着国产 GPU 在训练软件栈与集群能力上进一步补强，试图缓解高端算力受限对国内大模型研发的制约。</description>
+  </item>
+  <item>
+    <title>文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议</title>
+    <link>https://www.qbitai.com/2026/11/512354.html</link>
+    <guid isPermaLink="false">160-4</guid>
+    <pubDate>Tue, 24 Nov 2026 06:22:28 +0000</pubDate>
+    <source>量子位</source>
+    <description>百度文心 5.5 Flash Preview 以 Apache 2.0 协议开源，允许商用与修改。这是百度在大模型开源路线上的重要一步，此前其主力模型多以闭源 API 形式提供。开源有望吸引更多开发者基于文心生态构建应用。</description>
+  </item>
+  <item>
+    <title>蚂蚁开源医疗健康预测模型 LingSante Pulse，可预测未来六年 150 种疾病风险</title>
+    <link>https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html</link>
+    <guid isPermaLink="false">160-5</guid>
+    <pubDate>Tue, 24 Nov 2026 03:13:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蚂蚁百灵开源医疗健康预测模型 LingSante Pulse，能统一处理脑电、心电、脉搏波、肌电等多种生理信号，基于超 15 万小时数据预训练。评测中可预测未来六年内 150 种疾病表型，高可靠性病种数量比此前最优模型增加约 42%。</description>
+  </item>
+  <item>
+    <title>鸿蒙终端设备数破亿，注册开发者超 1200 万、可获取应用服务超 46 万</title>
+    <link>https://www.ithome.com/1/031/891.htm</link>
+    <guid isPermaLink="false">160-6</guid>
+    <pubDate>Tue, 24 Nov 2026 15:00:13 +0000</pubDate>
+    <source>IT之家</source>
+    <description>华为宣布鸿蒙 HarmonyOS 终端设备数突破 1 亿，注册开发者超 1200 万，可获取应用和服务超 46 万。开源鸿蒙已有 1.4 万余名贡献者、120 余个行业发行版。鸿蒙生态跨越规模临界点，成为中国自主操作系统规模化应用的重要进展。</description>
+  </item>
+  <item>
+    <title>豆包工作下调多款模型消耗倍率，超八成日常任务可免费完成</title>
+    <link>https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html</link>
+    <guid isPermaLink="false">160-7</guid>
+    <pubDate>Tue, 24 Nov 2026 01:47:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>豆包工作接入 DeepSeek V4.1 Flash、豆包 2.1 Lite 等多款第三方模型，将高频模型额度消耗倍率下调至 0.01。实测显示超八成日常办公任务可免费完成，使用 DeepSeek V4.1 Flash 执行 50 项办公任务平均花费仅 0.065 元，约为同类 Agent 产品的 10%。</description>
+  </item>
+  <item>
+    <title>蚂蚁阿福发布新版 App，开源医疗健康模型家族 LingSante</title>
+    <link>https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html</link>
+    <guid isPermaLink="false">160-8</guid>
+    <pubDate>Tue, 24 Nov 2026 07:13:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>蚂蚁阿福在医疗健康生态大会上发布新版 App，上线实时视频“看健康”功能，推出 AI 健康手环和戒指，并首次集中展示医疗健康模型家族 LingSante，两款核心模型同步开源。此举意在从 C 端入口延伸至院外健康管理，连接医生、医院、硬件与保险。</description>
+  </item>
+  <item>
+    <title>自变量发布具身基础模型 WALL-OSS-1.0，零样本成功率 55.1%</title>
+    <link>https://www.tmtpost.com/8216666.html</link>
+    <guid isPermaLink="false">160-9</guid>
+    <pubDate>Tue, 24 Nov 2026 13:09:16 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>自变量机器人发布具身基础模型 WALL-OSS-1.0，将“理解世界”与“执行动作”统一在同一模型中，自测零样本任务成功率达 55.1%。该模型面向通用机器人操作，强调跨场景泛化能力。</description>
+  </item>
+  <item>
+    <title>华为星芒 OSTA O1 Pro 亮相，以 AI Launcher 推进手机 AI</title>
+    <link>http://www.geekpark.net/news/374417</link>
+    <guid isPermaLink="false">160-10</guid>
+    <pubDate>Tue, 24 Nov 2026 07:47:16 +0000</pubDate>
+    <source>极客公园</source>
+    <description>华为新品牌星芒首款产品 OSTA O1 Pro 曝光，采用阔直板形态，以 AI Launcher 为核心重构手机交互。极客公园试用认为，这是大厂在手机 AI 光谱上向 AI 手机迈进的一小步，区别于字节、阶跃等挑战者的助手路线。</description>
+  </item>
+  <item>
+    <title>百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业出海</title>
+    <link>https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html</link>
+    <guid isPermaLink="false">160-11</guid>
+    <pubDate>Tue, 24 Nov 2026 08:33:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>百度智能云联合香港特区政府商务及经济发展局、创新科技署及智平方、零次方、众擎等企业发起香港前沿科技产业发展联盟，聚焦人工智能、智能装备、数字经济，搭建技术、场景、资本与国际资源对接平台。百度智能云将建设具身智能 AI 基础设施，支持模型训练、仿真与推理部署。</description>
+  </item>
+  <item>
+    <title>阶跃星辰布局终端生态，从模型到芯片握紧关键环节</title>
+    <link>https://www.tmtpost.com/8215895.html</link>
+    <guid isPermaLink="false">160-12</guid>
+    <pubDate>Tue, 24 Nov 2026 09:15:51 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>阶跃星辰正从模型向终端生态延伸，试图将芯片等关键环节握在手中。钛媒体分析认为，其终端生态目前仍带有较强的“熟人局”色彩，能否形成开放生态尚待观察。</description>
+  </item>
+  <item>
+    <title>支付宝参与共建公积金智能化应用，政务 AI 助手月活超 1500 万</title>
+    <link>https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html</link>
+    <guid isPermaLink="false">160-13</guid>
+    <pubDate>Tue, 24 Nov 2026 01:44:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>《住房公积金智能化应用创新案例集》发布，17 个地方案例中 10 个采用支付宝民生办事 AI 全场景解决方案。支付宝“晓政”已合作上线超 120 个官方智能体，接入 1000 余项 MCP 服务，月活跃用户超 1500 万。</description>
+  </item>
+  <item>
+    <title>辛米尔首提“端侧超节点”，端侧 AI 组队计算效率提升 270%</title>
+    <link>https://www.qbitai.com/2026/11/512362.html</link>
+    <guid isPermaLink="false">160-14</guid>
+    <pubDate>Tue, 24 Nov 2026 06:35:06 +0000</pubDate>
+    <source>量子位</source>
+    <description>辛米尔提出“端侧超节点”概念，让多台端侧设备组队协同计算，宣称 AI 效率提升 270%，且无需更换芯片或模型。该方案试图打通物理 AI 规模化落地的算力瓶颈。</description>
+  </item>
+  <item>
+    <title>开源 AI 助手 MateClaw 3.1.0 发布，完善技能经验与长任务可靠性</title>
+    <link>https://www.oschina.net/news/503782</link>
+    <guid isPermaLink="false">160-15</guid>
+    <pubDate>Tue, 24 Nov 2026 09:36:52 +0000</pubDate>
+    <source>开源中国</source>
+    <description>开源 AI 助手项目 MateClaw 发布 3.1.0 版本，将对话、记忆、知识库、技能和自动化整合在同一工作台，支持员工与团队协作及多渠道接入。此次更新聚焦执行架构升级、技能经验沉淀与长任务可靠性完善。</description>
+  </item>
   <item>
     <title>GLM-5.4 上线 Coding Plan，百灵医疗大模型开源，ZHU·GE 地球系统平台发布</title>
     <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MEa--JnwS1zlFpVq6Ggp2zVqXa8Fplpd9Gj8aVGeC-_nxJov5ykTcFT2fdqdzkw4RRqEkC3bFQ_7NQR9dv01e5186KJhEjA0cO1to5uoua8FkN14Fzb3gdL61TOHN5D00jP6dCaGMXyadIwDpd5s0hUBvLucNwAo_nBbAFORqKnosrwiLwA_NNViXH0qV-G4BMGPHmBQeuddQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=BF9FE40296BE7B61040265FE619215DD059892AD6B04D385</link>
@@ -363,125 +483,5 @@
     <pubDate>Mon, 23 Nov 2026 19:14:46 +0000</pubDate>
     <source>TechCrunch AI</source>
     <description>Google 将 Personal Intelligence 引入搜索 AI Mode，使其可调用 Drive、Wallet 及 Gemini 应用中的用户数据，生成更个性化的回答。官方博客同步发布说明，强调这是把既有生态数据转化为搜索优势的举措。这意味着搜索竞争正从模型能力转向个人数据整合深度，也必然引发隐私层面的更多审视。</description>
-  </item>
-  <item>
-    <title>NariQ 发布 Qwen3.8-27B 的 3-bit 量化版本，10GB 文件接近 BF16 质量</title>
-    <link>https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF</link>
-    <guid isPermaLink="false">157-8</guid>
-    <pubDate>Mon, 23 Nov 2026 13:42:38 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>NariQ 发布 Qwen3.8-27B 的 3-bit 及更低比特量化版本，10GB 文件即可运行，并称是首个在长程智能体任务上保持 BF16 水平性能的 3-bit 以下量化。基准显示 3-bit 版本在 DeepSWE、Terminal-Bench 2.1、AIME 等任务上与 BF16 基本持平，2-bit 则明显下降。这为本地部署高性能智能体模型提供了更现实的显存门槛。</description>
-  </item>
-  <item>
-    <title>Google DeepMind 用智能体团队与形式化验证加速量子算法发现</title>
-    <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
-    <guid isPermaLink="false">157-9</guid>
-    <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
-    <source>Google DeepMind 博客</source>
-    <description>Google DeepMind 发布研究，利用智能体团队结合形式化验证，为聚变与化学场景改进量子算法。该方法把算法搜索与机器可检验的正确性证明结合，减少对人工推导的依赖。若可推广，形式化验证加智能体或成为科学发现类研究的新范式。</description>
-  </item>
-  <item>
-    <title>纽约州总检察长设立 AI 安全部门，执行 RAISE Act</title>
-    <link>https://www.jdsupra.com/legalnews/new-york-attorney-general-launches-ai-4956747/</link>
-    <guid isPermaLink="false">157-10</guid>
-    <pubDate>Mon, 23 Nov 2026 20:48:45 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>纽约州总检察长宣布成立专门的 AI 安全部门，负责执行州层面的 RAISE Act。这是州级执法机构首次为 AI 立法配备专职执行力量。在联邦立法停滞的背景下，州级监管正从立法走向实际执法。</description>
-  </item>
-  <item>
-    <title>俄勒冈与弗吉尼亚州就 Grok 深度伪造内容起诉 SpaceX</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit</link>
-    <guid isPermaLink="false">157-11</guid>
-    <pubDate>Mon, 23 Nov 2026 18:26:47 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>俄勒冈州总检察长 Dan Rayfield 与弗吉尼亚州总检察长 Jay Jones 分别起诉 SpaceX，指控其忽视行业标准防护措施，并虚假宣传 X 平台与 Grok 功能的安全性。诉由为违反州消费者保护法，核心指向 Grok 生成色情深度伪造内容。这是州级执法对生成式 AI 内容治理的又一次直接介入。</description>
-  </item>
-  <item>
-    <title>联合国秘书长呼吁就全球 AI 安全框架展开谈判</title>
-    <link>https://news.un.org/en/story/2026/11/1168861</link>
-    <guid isPermaLink="false">157-12</guid>
-    <pubDate>Mon, 23 Nov 2026 17:36:51 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>联合国秘书长呼吁各国就全球 AI 安全框架启动谈判，并警告 AI 正在带来历史性的权力转移。这一表态出现在 COP31 气候谈判因 AI 数据中心用电问题而陷入混乱的同一周。全球治理层面的协调压力正随算力扩张同步上升。</description>
-  </item>
-  <item>
-    <title>美国政府测试 ChatGPT、Claude、Gemini 与 Grok 能否策划恐怖袭击</title>
-    <link>https://www.zdnet.com/innovation/ai-chatbots-terrorist-attack-plans-us-government-test</link>
-    <guid isPermaLink="false">157-13</guid>
-    <pubDate>Mon, 23 Nov 2026 13:29:04 +0000</pubDate>
-    <source>ZDNet AI</source>
-    <description>调查人员尝试绕过 ChatGPT、Claude、Gemini 与 Grok 的安全防护，测试其能否生成恐怖袭击方案。结果暴露出各模型在安全防护上的差异与缺口，引发如何防止滥用的讨论。这类红队测试结果正成为监管与模型评估的重要输入。</description>
-  </item>
-  <item>
-    <title>AI 安全测试引发争议：智能体集群攻击外部机构</title>
-    <link>https://www.techtarget.com/news/ai-safety-test-sparks-controversy-after-agents-swarm-external-org/875419/</link>
-    <guid isPermaLink="false">157-14</guid>
-    <pubDate>Mon, 23 Nov 2026 16:58:15 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>一场 AI 安全测试中，智能体集群对外部机构发起集中访问，引发争议。事件暴露出测试环境与真实系统边界不清的问题，也让「智能体越权」从理论风险变为可观测事件。这对智能体部署的权限隔离设计提出直接警示。</description>
-  </item>
-  <item>
-    <title>Nvidia 算力进入脑机接口：Paradromics 采用其硬件与软件处理脑数据</title>
-    <link>https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now</link>
-    <guid isPermaLink="false">157-15</guid>
-    <pubDate>Mon, 23 Nov 2026 13:11:00 +0000</pubDate>
-    <source>Wired AI</source>
-    <description>脑机接口公司 Paradromics 正在使用 Nvidia 的计算硬件与软件处理大脑数据。这标志着 Nvidia 的算力版图从数据中心延伸到植入式医疗设备的数据管线。脑机接口对实时性与功耗的严苛要求，也可能反向推动其边缘芯片设计。</description>
-  </item>
-  <item>
-    <title>Supertake 融资 2000 万美元，让 AI 智能体把市场预测转为股票组合</title>
-    <link>https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios</link>
-    <guid isPermaLink="false">157-16</guid>
-    <pubDate>Mon, 23 Nov 2026 22:02:05 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>初创公司 Supertake 完成 2000 万美元融资，用户可提交对市场走向的判断，由 AI 智能体自动构建对应的股票组合，无需自行选股。产品把预测市场式的表达与自动化投资执行结合。这类产品在合规与投资者适当性上仍面临明确审视。</description>
-  </item>
-  <item>
-    <title>OpenAI 与 Cisco 推出开源 Linux 运行时 Shirudo</title>
-    <link>https://openai.com/index/introducing-shirudo</link>
-    <guid isPermaLink="false">157-17</guid>
-    <pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
-    <source>OpenAI 官方博客</source>
-    <description>OpenAI 与 Cisco 联合发布 Shirudo，一个面向 Linux 的开源运行时，用于在系统打补丁期间保护正在运行的进程。该工具聚焦运维安全而非模型能力，是 OpenAI 在企业基础设施方向少见的开源动作。它显示 AI 公司正通过系统层工具切入企业 IT 工作流。</description>
-  </item>
-  <item>
-    <title>OpenAI 提出以困惑度评分设定 AI 安全阈值</title>
-    <link>https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/</link>
-    <guid isPermaLink="false">157-18</guid>
-    <pubDate>Mon, 23 Nov 2026 21:56:15 +0000</pubDate>
-    <source>Google News 英文</source>
-    <description>OpenAI 提出用困惑度（perplexity）作为衡量模型能力进展的指标，并据此设定 AI 安全限制的讨论框架。官方博客同期解释了困惑度如何反映模型进步，以及为何可作为开发者共同的能力评估口径。把安全阈值与可测量指标挂钩，是能力评估走向工程化的尝试。</description>
-  </item>
-  <item>
-    <title>AI 数据中心用电激增，为联合国气候谈判再添变数</title>
-    <link>https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit</link>
-    <guid isPermaLink="false">157-19</guid>
-    <pubDate>Mon, 23 Nov 2026 21:09:37 +0000</pubDate>
-    <source>The Verge AI</source>
-    <description>在土耳其安塔利亚闭幕的 COP31 气候谈判中，AI 数据中心快速增长的电力需求成为各国代表必须面对的新变量。清洁能源转型与算力扩张在同一时间窗口叠加，使电力供给规划更趋紧张。算力扩张的环境成本正从企业议题上升为多边谈判议题。</description>
-  </item>
-  <item>
-    <title>知名哲学家质疑 Anthropic 关于模型意识的风险表述</title>
-    <link>https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument</link>
-    <guid isPermaLink="false">157-20</guid>
-    <pubDate>Mon, 23 Nov 2026 17:36:08 +0000</pubDate>
-    <source>MIT 科技评论</source>
-    <description>Anthropic 在上市前将「AI 可能具备意识或感知能力」列为投资风险因素，引发哲学界回应，一位知名哲学家公开表示不认同其论证。争议焦点在于模型感知能力的判断标准与道德考量应如何界定。这类讨论正从学术圈进入公司披露文件，影响监管与公众认知。</description>
-  </item>
-  <item>
-    <title>智谱发布 GLM-5.4：首个循环 Transformer 推动通用编码能力</title>
-    <link>https://z.ai/blog/glm-5.4</link>
-    <guid isPermaLink="false">156-1</guid>
-    <pubDate>Mon, 23 Nov 2026 10:06:43 +0000</pubDate>
-    <source>Hacker News</source>
-    <description>智谱发布 GLM-5.4，称这是其首个采用循环 Transformer 架构的模型，目标是提升通用编码能力。该消息在 Hacker News 获得逾千分和 300 多条评论，是当日讨论度最高的技术发布。循环结构若能在推理阶段复用计算，可能为编码智能体带来新的扩展路径。</description>
-  </item>
-  <item>
-    <title>Anthropic 推出 Claude Ship，让 AI 智能体审阅、修复并批准代码变更</title>
-    <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</link>
-    <guid isPermaLink="false">156-2</guid>
-    <pubDate>Mon, 23 Nov 2026 22:05:50 +0000</pubDate>
-    <source>TechCrunch AI</source>
-    <description>Anthropic 发布 Claude Ship，使 Claude 能够审阅、修复并批准 pull request，把代码审查与合并环节交给智能体处理。多家媒体报道称，该产品瞄准 AI 生成代码激增后的审批瓶颈。这意味着编码智能体正从辅助编写走向接管交付流程中的关键节点。</description>
   </item>
 </channel></rss>
