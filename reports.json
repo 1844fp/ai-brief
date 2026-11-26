@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T08:20:34.524019",
+ "generated_at": "2026-11-26T09:32:25.828460",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 161,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-26",
+   "created_at": "2026-11-26T01:32:24.851048+00:00",
+   "item_count": 20,
+   "llm_ok": true,
+   "url": "reports/2026-11-26/news_daily_cn-093224.html"
+  },
   {
    "id": 160,
    "task": "news_daily_cn",
@@ -1389,6 +1398,246 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "百度开源文心 5.5 Flash Preview，支持 vLLM、SGLang 部署",
+   "url": "https://www.oschina.net/news/503792",
+   "source": "开源中国",
+   "summary": "百度于 11 月 24 日面向全球开源社区开放文心 5.5 Flash Preview 的模型权重与配套资源，开发者可在 Hugging Face、ModelScope 获取并进行本地部署与二次开发。该模型支持 vLLM、SGLang 等主流推理框架，是国产大模型在开源策略上的又一实质性动作。此举有助于扩大文心系列在开发者生态中的采用率，也加剧了国内开源大模型之间的竞争。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 5,
+   "published": "2026-11-25T02:58:52+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "腾讯混元开源 Hy4 flash 量化权重，2240 亿参数模型可跑在 64GB Mac mini 上",
+   "url": "https://www.oschina.net/news/503813",
+   "source": "开源中国",
+   "summary": "腾讯混元于 11 月 25 日开源 Hy4 flash 的 GGUF 量化权重及配套推理代码，借助自研压缩加速工具箱 AngelSlim，最小版本权重约为原始的三成。官方实测在 48GB 显存设备上生成速度最高达每秒 89 个 token，使 2240 亿参数级模型得以在消费级硬件上运行。这大幅降低了大参数模型的本地部署门槛，对端侧与私有化场景意义明显。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 5,
+   "published": "2026-11-25T09:03:51+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "九章云极发布物理 AI 工厂与生态开放计划",
+   "url": "https://www.qbitai.com/2026/11/512582.html",
+   "source": "量子位",
+   "summary": "11 月 25 日，九章云极在深圳举行 2026 物理 AI 行业峰会暨智算生态大会，发布物理 AI 工厂并公布生态开放计划，同期与龙华区工信局、清程智汇、怡亚通等签署战略合作。物理 AI 工厂定位为连接场景、研究与算力底座的载体，试图解决机器人、世界模型与仿真技术从实验室走向产线时的工程化验证难题。多家媒体报道了该系列签约与生态联盟的成立。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 4,
+   "published": "2026-11-25T14:21:20+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "九章云极开放 Physical AI Infra 与 Dev 两大 API，联合二十余家伙伴成立产业联盟",
+   "url": "https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html",
+   "source": "雷锋网",
+   "summary": "九章云极宣布面向物理 AI 开放 Physical AI Infra API 和 Physical AI Dev API，分别提供异构算力标准化接入调度与仿真、数据生成、模型训练验证等工具连接能力。同步成立的极光物理 AI 产业生态联盟由北京大学软件工程国家工程研究中心担任学术指导，首批成员覆盖机器人本体、世界模型、仿真平台与智算云服务。接口开放与联盟机制并行，意在降低物理 AI 研发环节的适配成本。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 4,
+   "published": "2026-11-25T13:56:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "中国算力采购信心指数启动，九章云极参与核心共建",
+   "url": "https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html",
+   "source": "雷锋网",
+   "summary": "中国经济信息社新华指数研究院在 2026 物理 AI 行业峰会上宣布启动中国算力采购信心指数，九章云极作为核心共建单位参与体系搭建。该指数借鉴 PMI 编制逻辑，采用景气扩散方法采集新增订单、价格变化与消耗增量等数据，与记录真实成交价的全球算力价格指数形成互补。当前算力产业存在训练与推理、东西部布局、层级供需三重错配，市场缺少可回答下季度需求扩张或收缩的先行指标。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 3,
+   "published": "2026-11-25T14:01:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "高端 PCB 排产至 2028 年，AI 服务器用板层数升至 40-60 层以上",
+   "url": "https://www.ithome.com/1/032/545.htm",
+   "source": "IT之家",
+   "summary": "全球电子协会发布供应链警报后，中国证券报采访显示部分 PCB 头部厂商高端产品已排产至 2028 年，原材料虽未断供但在供应速度与效率上出现压力。AI 服务器用板正从普通 PCB 的约 12 层转向 40-60 层以上，每增一层都消耗更多玻纤布、树脂、铜箔与覆铜板。截至今年 9 月，PCB 订单量同比增长 56.1%，出货量仅增长 13.3%，高多层板交期已达 16-20 周甚至更长。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-25T23:54:16+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "数千枚英伟达 B300 涌入海外转售市场，高端 GPU 急寻买家",
+   "url": "https://www.ithome.com/1/032/547.htm",
+   "source": "IT之家",
+   "summary": "据 CNBC 报道，美国收紧相关规定后，英伟达 GPU 销售商正急于为高端芯片寻找新买家，市场已出现涉及数千枚 B300 芯片的交易意向。B300 是 Blackwell 系列中的高阶 AI 芯片，知情人士称自 11 月 16 日新规公布后待售 GPU 数量异常增长，但交易仍处洽谈阶段，价格与卖家名单未披露。英伟达仍强调整体需求大于供给，短期转售供给增加未必逆转长期紧缺格局。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 4,
+   "published": "2026-11-25T23:57:38+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "分析称 AI 算力管制正从芯片出境走向访问权管控",
+   "url": "https://m.sohu.com/a/1106444279_128075?scm",
+   "source": "Google News 中文",
+   "summary": "针对数千颗 B300 转售现象，有分析指出美国算力管制思路正从限制芯片物理出境，转向对算力访问权的管控。这一变化意味着监管对象可能从硬件流向扩展到云端算力调用与远程访问等形态。对国内算力采购与云服务合规策略而言，这一趋势值得持续跟踪。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-11-25T19:31:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "海光信息回应 DCU 算力芯片：供应链稳定，新一代产品研发稳步推进",
+   "url": "https://stock.stockstar.com/RB2026112600007346.shtml",
+   "source": "Google News 中文",
+   "summary": "海光信息于 11 月 25 日就 DCU 算力芯片相关话题作出回应，称供应链保持稳定，新一代产品研发正稳步推进。作为国产算力芯片的代表厂商之一，其表态回应了市场对供应链与产品迭代节奏的关切。在高端 GPU 供应不确定性上升的背景下，国产 DCU 的进展受到更多关注。",
+   "why": null,
+   "category": "AI 芯片与算力",
+   "heat": 3,
+   "published": "2026-11-25T23:06:31+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "蚂蚁百灵医疗健康模型集体开源，切入临床深水区",
+   "url": "https://www.vbdata.cn/1519106506",
+   "source": "Google News 中文",
+   "summary": "蚂蚁集团百灵医疗健康模型系列集中亮相并宣布开源，覆盖多个医疗健康任务方向，标志其向临床场景深入推进。医疗大模型的落地难点在于临床验证与数据合规，开源策略有助于吸引医疗机构与研究团队参与共建。多家媒体报道了这一进展。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 4,
+   "published": "2026-11-26T00:00:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "真实医疗需求正在重塑百灵大模型，阿福学会望闻问切",
+   "url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa",
+   "source": "InfoQ 中文",
+   "summary": "报道指出，蚂蚁百灵大模型在医疗场景中的迭代正由真实问诊需求驱动，旗下健康助手阿福逐步具备更贴近临床流程的问询能力。与单纯堆叠医学知识不同，这一路径强调从实际医疗交互中获取反馈并反哺模型。这与百灵医疗模型的开源动作形成呼应。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-25T18:22:30+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "荣耀 700 系列搭载豆包助手，AI 入口之争浮出水面",
+   "url": "http://www.geekpark.net/news/374462",
+   "source": "极客公园",
+   "summary": "荣耀在武汉发布 700 系列三款机型，补贴后 2899 元起，AI 助手正式更名为 AI 手机助手 YOYO 豆包，成为第二款搭载豆包的手机产品。荣耀将 AI 能力围绕背屏与助手展开，同时强调前沿模型可以接入但手机入口不能旁落。这折射出终端厂商与大模型厂商在 AI 手机入口上的博弈。",
+   "why": null,
+   "category": "AI 终端",
+   "heat": 4,
+   "published": "2026-11-25T05:02:43+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "豆包个人 AI 助理小豆开启公测，采用邀请制",
+   "url": "http://www.geekpark.net/news/374438",
+   "source": "极客公园",
+   "summary": "豆包官方宣布 AI 个人助理产品小豆正式开启公测，采用邀请制开放，用户凭邀请码体验并可获赠免费额度。小豆以对话式交互在用户明确指令与授权范围内协助处理日常事务，官方称其为能主动办事的豆包。未来相关能力与体验将逐步在豆包 App 上线。",
+   "why": null,
+   "category": "AI 产品",
+   "heat": 4,
+   "published": "2026-11-25T00:44:18+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "逐际动力与商汤大装置合作，以算力支撑机器人仿真训练与测试",
+   "url": "https://www.qbitai.com/2026/11/512683.html",
+   "source": "量子位",
+   "summary": "逐际动力与商汤大装置达成合作，围绕机器人仿真训练与测试引入高质量算力支持，目标是贯通具身智能的研发流程。机器人训练对大规模并行仿真与数据生成依赖度高，算力供给直接影响迭代速度。这一合作是具身智能公司与算力平台绑定的又一案例。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-25T14:20:24+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "北京亦庄发布未来机域具身智能国际开源社区建设计划",
+   "url": "https://finance.sina.cn/2026-11-25/detail-inizykpx1711771.d.html?vt",
+   "source": "Google News 中文",
+   "summary": "北京亦庄发布未来机域具身智能国际开源社区建设计划，拟以开源社区方式汇聚具身智能相关技术与项目资源。该计划延续了亦庄在机器人与智能装备产业上的集聚策略，试图通过开源协作降低具身智能研发的重复投入。具体建设方案与参与主体有待进一步披露。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 3,
+   "published": "2026-11-26T00:12:59+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "沐曦科学计算全量上云火山引擎，测试效率提升 40%",
+   "url": "https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html",
+   "source": "雷锋网",
+   "summary": "沐曦股份与火山引擎合作，将科学计算从 IDC 托管逐步迁移至云上并完成全量上云，同配置最新机型测试效率提升 40%。针对 EDA 任务对高主频、大内存与高 I/O 的需求，火山引擎提供高主频云服务器、弹性裸金属及本地 SSD，使流片前可提前锁定资源、低峰期释放非核心资源。双方还在探索 GPU 算力加智能体平台的行业方案。",
+   "why": null,
+   "category": "算力与基础设施",
+   "heat": 3,
+   "published": "2026-11-25T10:20:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "元材新界发布 FrontierMat 材料基准，330 道真实研发难题难住 GPT-6 Astra",
+   "url": "https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html",
+   "source": "雷锋网",
+   "summary": "元材新界联合清华、北大、中科大、上海交大等高校团队及多家产业公司发布 FrontierMat，这是一套来自真实研发一线、以跨尺度推理为核心的材料基准，包含 330 道真实研发难题。测试显示 GPT-6 Astra 在该基准上表现受挫，而团队自研的跨尺度材料大模型登顶。材料研发的构效关系横跨近十个数量级，现有基准多停留在教科书题目层面。",
+   "why": null,
+   "category": "AI for Science",
+   "heat": 3,
+   "published": "2026-11-25T11:04:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "天津大学发布天华开物酶设计大模型",
+   "url": "https://news.tju.edu.cn/info/1005/622509.htm",
+   "source": "Google News 中文",
+   "summary": "天津大学发布名为天华开物的酶设计大模型，被定位为生物制造领域突破长期技术封锁、锻造新核心竞争力的成果。该模型面向酶设计这一生物制造关键环节，试图以 AI 缩短传统实验筛选周期。相关报道由天津教育报头版刊发。",
+   "why": null,
+   "category": "AI for Science",
+   "heat": 3,
+   "published": "2026-11-25T05:31:07+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 19,
+   "title": "小鹏探索物理 AI 产业化新路径，从技术突破走向规模应用",
+   "url": "http://jjckb.xinhuanet.com/20261126/c807f760e28a4fd09f47af779b01e312/c.html",
+   "source": "Google News 中文",
+   "summary": "报道称小鹏正从技术突破转向规模应用，探索物理 AI 的产业化路径，覆盖其智能驾驶与机器人相关布局。物理 AI 强调模型与真实物理世界交互，量产场景中的数据闭环是其核心资产。车企在这一方向上的投入正在从研发验证走向规模化落地。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-26T00:50:53+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 20,
+   "title": "中国饭店协会联合千问办公发布酒旅行业 AI 经营白皮书",
+   "url": "https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html",
+   "source": "雷锋网",
+   "summary": "中国饭店协会与千问办公在 2026 中国饭店业高质量大会上发布酒旅行业白皮书，指出行业增长重心正从标准化转向个性化，AI 渗入筹建、巡检、经营诊断与宾客服务全链条，推动千店千策。截至 2025 年末全国酒店业设施约 37.5 万家，客房连锁化率 41.8%，规模庞大而结构分散。以东呈集团为例，加盟酒店超过 3500 家，前期开发环节已引入 AI 辅助。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-25T09:32:00+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,
