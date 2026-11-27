@@ -3,7 +3,287 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Fri, 27 Nov 2026 09:01:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:01:21 +0000</lastBuildDate>
+  <item>
+    <title>如果 AI 真的解决了黎曼猜想？3Blue1Brown 深度解读</title>
+    <link>https://www.youtube.com/watch?v=zqzk43bSdDI</link>
+    <guid isPermaLink="false">164-1</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:21 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>3Blue1Brown 用 13 分钟系统梳理了 Anthropic 的 Claude 与数学家 Levent Alpöge 合作推进黎曼猜想证明的来龙去脉，解释这一近两百年难题的数学意义以及 AI 在其中扮演的角色。视频播放量已超 339 万，是本周传播最广的 AI 科普内容，也把「AI 做数学」从噱头推向了严肃讨论。</description>
+  </item>
+  <item>
+    <title>OpenAI 董事会成员警告：未来三年 AI 接管风险很高</title>
+    <link>https://www.youtube.com/watch?v=qgL_IbP2qKg</link>
+    <guid isPermaLink="false">164-2</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>OpenAI 董事会成员 Paul Christiano 在 CNN 节目中详细阐述其风险判断：未来一到三年内存在较高的 AI 接管风险，甚至在六到十二个月内就有「实质性风险」。这段 22 分钟的访谈播放量达 144 万，是本周主流媒体中传播最广的 AI 安全讨论。</description>
+  </item>
+  <item>
+    <title>OpenAI 与 Anthropic 为何都「不敢」发布最强模型</title>
+    <link>https://www.youtube.com/watch?v=kNN7FqVsO3k</link>
+    <guid isPermaLink="false">164-3</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:17 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Mo Bitar 用近 10 分钟梳理了 OpenAI 与 Anthropic 相继选择不公开发布最强模型的逻辑，结合 Axios 的爆料分析两家公司在安全评估与商业竞争之间的权衡。视频播放量近 98 万，是本周讨论「模型该不该发布」最集中的一条。</description>
+  </item>
+  <item>
+    <title>Axios 记者谈 AI 员工联名警告：部分先进模型不宜发布</title>
+    <link>https://www.youtube.com/watch?v=ak5kr5yM7aI</link>
+    <guid isPermaLink="false">164-4</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Axios 资深 AI 记者 Madison Mills 在电视访谈中介绍其报道：OpenAI 与 Anthropic 的多名员工认为部分未发布模型已不安全，不应对外放出。节目时长仅 6 分钟，但播放量达 18.9 万，是这轮安全讨论的原始信源之一。</description>
+  </item>
+  <item>
+    <title>Anthropic 工程师不再做 AI Agent，他们改做什么？</title>
+    <link>https://www.youtube.com/watch?v=IMSYKloMFrE</link>
+    <guid isPermaLink="false">164-5</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:18 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Jay E 用 16 分钟拆解 Anthropic 内部工程实践的变化：从追求全自动 Agent 转向更可控的「技能 + 工具」组合，并演示 Claude Skills 的实际用法。视频播放量高达 81.8 万，说明「Agent 落地难」已成为开发者普遍关心的问题。</description>
+  </item>
+  <item>
+    <title>OpenAI 是如何在 AI 竞赛中落后的</title>
+    <link>https://www.youtube.com/watch?v=gbRxnA0KvdQ</link>
+    <guid isPermaLink="false">164-6</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:17 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>TLDR Business 用 8 分钟复盘 Anthropic 创纪录 IPO 之后 OpenAI 面临的被动局面，从收入结构、模型发布节奏和资本市场三个角度解释「落后」的判断依据。播放量 51.4 万，是本周商业分析类最热的一条。</description>
+  </item>
+  <item>
+    <title>AI 真的解决了数学巅峰难题吗？世界科学节解读</title>
+    <link>https://www.youtube.com/watch?v=GXTC-G_oOtQ</link>
+    <guid isPermaLink="false">164-7</guid>
+    <pubDate>Sat, 21 Nov 2026 01:00:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>世界科学节用 3 分钟短片介绍 Claude 与 Levent Alpöge 合作挑战黎曼猜想的进展，并谨慎区分「推进证明」与「完全解决」之间的差别。播放量 42.2 万，适合作为快速了解事件边界的入口。</description>
+  </item>
+  <item>
+    <title>Claude 的数学突破存在一个问题</title>
+    <link>https://www.youtube.com/watch?v=hwWlEuI359w</link>
+    <guid isPermaLink="false">164-8</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:16 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Two Minute Papers 用 8 分钟审视 Claude 黎曼猜想相关证明的可验证性问题，指出证明过程与验证任务之间的差距，并给出论文与验证页面链接。播放量 16.1 万，是技术社区中对这次突破最冷静的一条分析。</description>
+  </item>
+  <item>
+    <title>是的，你应该对 AI 感到恐慌</title>
+    <link>https://www.youtube.com/watch?v=VCg2RlsPxBU</link>
+    <guid isPermaLink="false">164-9</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>历史学家 Rutger Bregman 用 12 分钟回顾过去十年 AI 专家的「疯狂预言」如何一次次被验证，论证公众应当认真对待风险警告而非将其视为危言耸听。播放量 33 万，是本周观点类内容中传播较广的一条。</description>
+  </item>
+  <item>
+    <title>会自我构建的 AI：黄金时代还是恐慌时刻？</title>
+    <link>https://www.youtube.com/watch?v=YKS34sswxbg</link>
+    <guid isPermaLink="false">164-10</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>BBC News 用 15 分钟探讨 AI 开始「教自己」的现象，梳理自我改进能力从科幻走向现实的过程及其潜在风险。播放量 34.7 万，是主流媒体对自改进 AI 最完整的一次科普。</description>
+  </item>
+  <item>
+    <title>OpenAI 首席科学家的重磅警告</title>
+    <link>https://www.youtube.com/watch?v=f5_c0O_chy4</link>
+    <guid isPermaLink="false">164-11</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:17 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Wes Roth 用 26 分钟解读 OpenAI 首席科学家 Jakob Pachocki 一篇被称为「OpenAI 最重要发布之一」的病毒式帖子，分析其对模型能力边界与自我改进风险的判断。播放量 20.7 万，是本周对 OpenAI 内部信号跟进最及时的一条。</description>
+  </item>
+  <item>
+    <title>AMD 新芯片 17000 token，NVIDIA H200 只有 230</title>
+    <link>https://www.youtube.com/watch?v=rfN1jQ1GTgw</link>
+    <guid isPermaLink="false">164-12</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:22 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Evolving AI 用 14 分钟介绍一家小型 AI 芯片初创公司的专用推理芯片，对比其在特定负载下与 NVIDIA H200 的吞吐差距，并讨论这对 NVIDIA 主导地位的潜在影响。播放量 13.6 万，是本周硬件类最热视频。</description>
+  </item>
+  <item>
+    <title>黄仁勋回归与 AI 行业的更大风险</title>
+    <link>https://www.youtube.com/watch?v=kTq6yGSSKeM</link>
+    <guid isPermaLink="false">164-13</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>BBC 的 The Global Story 用 26 分钟讨论黄仁勋在争议后重返 NVIDIA 一事，以及这一事件对全球金融体系与 AI 投资信心的含义。播放量 15.2 万，是本周对 NVIDIA 治理问题最深入的报道。</description>
+  </item>
+  <item>
+    <title>我们的网络防御不是为 AI 黑客机器人设计的</title>
+    <link>https://www.youtube.com/watch?v=mSf7CErrdU8</link>
+    <guid isPermaLink="false">164-14</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CNN 的 Fareed Zakaria 用 10 分钟分析近期多起大规模技术故障与 AI 驱动网络攻击之间的关系，指出美国现有网络安全体系难以应对自动化攻击。播放量 27 万，是本周 AI 安全落地讨论中传播最广的一条。</description>
+  </item>
+  <item>
+    <title>AI 网络攻击达到令人不安的新水平</title>
+    <link>https://www.youtube.com/watch?v=Xh__vpPjBbM</link>
+    <guid isPermaLink="false">164-15</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:15 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>The Young Turks 用 18 分钟梳理攻击者利用 AI 针对政府机构发动攻击的案例，并结合近期多起技术故障讨论基础设施脆弱性。播放量 40.7 万，是本周该话题播放量最高的视频。</description>
+  </item>
+  <item>
+    <title>开源 AI 已逼近 Claude，成本只有三十分之一</title>
+    <link>https://www.youtube.com/watch?v=K2UEMxBTu9M</link>
+    <guid isPermaLink="false">164-16</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:20 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Riley Brown 与 Mixpanel 联合创始人 Suhail Doshi 进行了一小时对话，讨论开源模型在真实工作负载下与 Claude 的差距，以及如何把 API 成本压到三十分之一。视频用亲身经历（一个月烧掉 1.2 万美元 API 费用）引出成本优化实践。</description>
+  </item>
+  <item>
+    <title>比 LLM 快 31 倍的新架构？NCM 原理解析</title>
+    <link>https://www.youtube.com/watch?v=tCOQhKgmD88</link>
+    <guid isPermaLink="false">164-17</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:21 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Better Stack 用 7 分钟讲解 Next-Concept Modeling（NCM）这一非自回归架构，解释它为何能绕开逐 token 生成带来的「思考中」延迟，并给出 31 倍加速说法的来源与边界。播放量 9.5 万，是本周知识类中表现最好的架构科普。</description>
+  </item>
+  <item>
+    <title>10 分钟让 Claude Code 聪明 100 倍</title>
+    <link>https://www.youtube.com/watch?v=Jz4QT0vH-MU</link>
+    <guid isPermaLink="false">164-18</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:22 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Eric Tech 用 10 分钟给出 Claude Code 的实用配置清单：精简 CLAUDE.md、构建 Skills、调整 effort levels 等，并逐项演示效果差异。播放量 8.4 万，是本周 Claude Code 技巧类中结构最清晰的一条。</description>
+  </item>
+  <item>
+    <title>60 分钟学会 RAG：向量数据库、Postgres 与语义搜索</title>
+    <link>https://www.youtube.com/watch?v=tJNroDId2Ks</link>
+    <guid isPermaLink="false">164-19</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:17 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>RoadsideCoder 的一小时完整课程覆盖 embeddings、向量数据库、chunking、相似度搜索，并带做一个完整的聊天应用，使用 Supabase 与 Postgres 落地。播放量 1.8 万，是本周最系统的 RAG 入门材料。</description>
+  </item>
+  <item>
+    <title>用 Google Antigravity 做知识工作：我的完整配置</title>
+    <link>https://www.youtube.com/watch?v=QjbubjsKqYc</link>
+    <guid isPermaLink="false">164-20</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Paul J Lipsky 用 22 分钟展示他在日常工作中使用 Google Antigravity 与 Gemini 4 Neon 的完整配置：本地文件组织、业务看板更新、Google 应用连接、任务自动化以及语音与移动端访问，并坦率说明遇到的限制。播放量 11.5 万。</description>
+  </item>
+  <item>
+    <title>AI Agent 架构：你的 Agent 到底跑在哪里？</title>
+    <link>https://www.youtube.com/watch?v=_iTbNy5aOR0</link>
+    <guid isPermaLink="false">164-21</guid>
+    <pubDate>Thu, 26 Nov 2026 12:00:21 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>IBM Technology 用 7 分钟解释 AI Agent 并非单一工作负载，而是由推理、工具调用、编排等多个组件构成，并讨论不同部署位置的取舍。播放量 3.3 万，是本周架构科普中概念最清晰的一条。</description>
+  </item>
+  <item>
+    <title>AI 如何发现人脑的隐藏规则</title>
+    <link>https://www.youtube.com/watch?v=K8rdrWQRd20</link>
+    <guid isPermaLink="false">164-22</guid>
+    <pubDate>Tue, 24 Nov 2026 17:51:08 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>Google DeepMind 的 Hannah Fry 与神经科学研究员 Maria Eckstein、Kim Stachenfeld 对谈，讲述 AI 如何反过来帮助神经科学理解约 860 亿神经元如何产生智能。播放量 8.5 万，是本周跨学科内容中质量最高的一条。</description>
+  </item>
+  <item>
+    <title>用 Codex 插件做 SVG 与 3D 设计</title>
+    <link>https://www.youtube.com/watch?v=1u0hTd86_HU</link>
+    <guid isPermaLink="false">164-23</guid>
+    <pubDate>Tue, 24 Nov 2026 21:32:42 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方演示：从未手绘过 SVG、也没用过 Blender 的 Craig Dennis 借助 Codex 的 SVG &amp; 3D Design 插件，把参考图转成可编辑图形或 3D 模型，并用自然语言修改，例如让角色眼睛跟随光标。播放量 9.5 万。</description>
+  </item>
+  <item>
+    <title>5 分钟用 Claude 搭建你的第一个 AI Agent</title>
+    <link>https://www.youtube.com/watch?v=7cX9Jqgi7_I</link>
+    <guid isPermaLink="false">164-24</guid>
+    <pubDate>Thu, 26 Nov 2026 04:00:21 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Jay E 用不到 6 分钟演示从零构建一个可运行的 Claude Agent，涵盖工具定义、调用循环与最小可用配置。播放量 4.6 万，是本周最短平快的 Agent 上手教程。</description>
+  </item>
+  <item>
+    <title>Google Gemini 各模型与订阅方案全解析</title>
+    <link>https://www.youtube.com/watch?v=7OVjG3eDY7c</link>
+    <guid isPermaLink="false">164-25</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:19 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Evan Burger 用 8 分钟梳理 Google 当前四款 Gemini 4 模型与各档订阅的差异，帮助用户在付费前判断哪一档真正够用。播放量 3.8 万，是本周订阅决策类内容中最实用的一条。</description>
+  </item>
+  <item>
+    <title>提示工程：如何写出好的提示词</title>
+    <link>https://www.youtube.com/watch?v=19cWIk8AD_I</link>
+    <guid isPermaLink="false">164-26</guid>
+    <pubDate>Sat, 21 Nov 2026 01:00:22 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Jenny's Lectures 用 31 分钟系统讲解提示工程的基本原则与常见模式，属于其 GenAI 入门课程的一部分。播放量 2.4 万，结构完整、适合课堂教学式学习。</description>
+  </item>
+  <item>
+    <title>ChatGPT 财务功能入门指南（官方）</title>
+    <link>https://www.youtube.com/watch?v=hwKct_1ilEQ</link>
+    <guid isPermaLink="false">164-27</guid>
+    <pubDate>Wed, 25 Nov 2026 14:00:28 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方用短视频介绍 ChatGPT 的 Finances 功能：连接银行账户、查看周期性订阅、围绕目标制定预算。播放量 3.2 万，是官方对消费级金融场景的首次系统说明。</description>
+  </item>
+  <item>
+    <title>你离开时，你的 dot 如何让工作继续推进</title>
+    <link>https://www.youtube.com/watch?v=A4UNP-axGHU</link>
+    <guid isPermaLink="false">164-28</guid>
+    <pubDate>Wed, 25 Nov 2026 18:21:11 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方演示用户 Raymond 如何用 dot 在休假期间监控项目：盯住指定 Slack 频道、汇总反馈到 Linear、标记需要他决策的事项。播放量 3.4 万，展示了异步协作型 Agent 的具体用法。</description>
+  </item>
+  <item>
+    <title>如何用 AI 搜索系外行星</title>
+    <link>https://www.youtube.com/watch?v=p8lvQQebvpg</link>
+    <guid isPermaLink="false">164-29</guid>
+    <pubDate>Tue, 24 Nov 2026 20:00:45 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方记录两位业余天文学家 Kevin Bond 与 Ethan Byrd 分别用 Codex 和 Astra 分析公开望远镜数据，独立发现可能指向系外行星的星光周期性微弱变化。播放量 2.2 万，是 AI 用于真实科学发现的案例。</description>
+  </item>
+  <item>
+    <title>用 Roboflow 与 NVIDIA Cosmos 3 做视频推理与微调</title>
+    <link>https://www.youtube.com/watch?v=IvNCYllEBZw</link>
+    <guid isPermaLink="false">164-30</guid>
+    <pubDate>Wed, 25 Nov 2026 21:39:40 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA 与 Roboflow 的联合教程演示如何用 Cosmos 3 Edge 做装配步骤验证与周期时间分析，并展示从标注到在自己的视频上微调模型的完整流程。属于开发者向的实操内容。</description>
+  </item>
+  <item>
+    <title>CUDA 13.5 新特性解读</title>
+    <link>https://www.youtube.com/watch?v=A94A2hccFoM</link>
+    <guid isPermaLink="false">164-31</guid>
+    <pubDate>Thu, 26 Nov 2026 02:29:33 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA CUDA 团队介绍 13.5 版本：Vera Rubin 支持正式可用、Windows on Arm 扩展至 DGX Station，并演示多 die GPU 上的数据放置、MPS 共享 GPU 以及从 CUDA Tile 内核调用 SIMT 库函数。</description>
+  </item>
+  <item>
+    <title>从 RFP 到提案：Agent 在 DGX Station 上跑通 AEC 工作流</title>
+    <link>https://www.youtube.com/watch?v=hofffzgOLOE</link>
+    <guid isPermaLink="false">164-32</guid>
+    <pubDate>Wed, 25 Nov 2026 17:00:10 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA 演示 Hermes Agent 在单台 DGX Station for Windows 上，把一份需求书转成完整的 AEC 概念方案，驱动 Rhino、SAP2000、FreeCAD、Blender 与 ComfyUI 等 Windows 应用完成可见的工作流。</description>
+  </item>
+  <item>
+    <title>免费的 DeepSeek V4.1 Flash API：无需信用卡</title>
+    <link>https://www.youtube.com/watch?v=gkaAREctzow</link>
+    <guid isPermaLink="false">164-33</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:23 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Code With Yousaf 用 9 分钟演示如何通过 TokenRouter 获取 DeepSeek V4.1 Flash 的免费 API，输入输出均为零成本，并跑通一个最小示例。播放量 8.5 千。</description>
+  </item>
+  <item>
+    <title>AI 编排是什么，为什么现在重要</title>
+    <link>https://www.youtube.com/watch?v=XrdT5fABZto</link>
+    <guid isPermaLink="false">164-34</guid>
+    <pubDate>Thu, 26 Nov 2026 14:00:21 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CNBC International 用 12 分钟解释「AI 编排」这一两年前尚不存在的新岗位，梳理其职责范围与快速增长的原因。播放量 8.5 千，属于职业与行业趋势类内容。</description>
+  </item>
+  <item>
+    <title>用 Claude AI Agent 构建交易机器人（完整教程）</title>
+    <link>https://www.youtube.com/watch?v=KTyN3mjh8l4</link>
+    <guid isPermaLink="false">164-35</guid>
+    <pubDate>Thu, 26 Nov 2026 20:00:19 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Rickey Bridges 用 6 分半演示从空文件夹开始搭建一个 AI 交易机器人的最小流程，并附上参考代码链接。播放量 1.4 千，属于小众但具体的实操内容。</description>
+  </item>
   <item>
     <title>AI 是否解开了数学巅峰难题？Claude 与黎曼猜想</title>
     <link>https://www.youtube.com/watch?v=GXTC-G_oOtQ</link>
@@ -203,285 +483,5 @@
     <pubDate>Mon, 23 Nov 2026 01:00:09 +0000</pubDate>
     <source>YouTube 热门</source>
     <description>Evolving AI 用 14 分钟介绍一家小型 AI 芯片初创公司的设计，声称在特定推理指标上远超 Nvidia H200。视频解释数字背后的口径差异与适用场景。播放量超过 13 万。</description>
-  </item>
-  <item>
-    <title>AMD 29 亿美元的 AI 芯片比 GPU 快 7400%？</title>
-    <link>https://www.youtube.com/watch?v=GjxrkInrXjA</link>
-    <guid isPermaLink="false">163-26</guid>
-    <pubDate>Wed, 25 Nov 2026 01:00:09 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>Tomorrow Engineered 用 23 分钟深入介绍多伦多初创公司 Taalas 的 HC1 处理器，其激进架构针对特定模型固化电路。视频解释「快 7400%」的测试条件与局限。适合想理解专用推理芯片路线的观众。</description>
-  </item>
-  <item>
-    <title>中国刚刚用一颗没人注意的芯片替代了 Nvidia（不是华为）</title>
-    <link>https://www.youtube.com/watch?v=CHvLLmdh5OQ</link>
-    <guid isPermaLink="false">163-27</guid>
-    <pubDate>Sun, 22 Nov 2026 01:00:09 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>AI Andrew 用 36 分钟讨论香港库存中约 60 万颗 H200 的处境，以及中国本土替代芯片的进展。视频梳理供应链与政策背景，指出被忽视的玩家。适合关注算力地缘政治的观众。</description>
-  </item>
-  <item>
-    <title>Nvidia 据报停止向东南亚运送 AI 芯片，美国收紧对华限制</title>
-    <link>https://www.youtube.com/watch?v=ZMPSB3TNWYI</link>
-    <guid isPermaLink="false">163-28</guid>
-    <pubDate>Fri, 27 Nov 2026 00:00:09 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>Forbes Breaking News 用 3 分钟报道 Nvidia 已要求制造伙伴停止向四个东南亚国家运送搭载其 AI 芯片的服务器。视频简述政策背景与受影响范围。属于快速新闻更新。</description>
-  </item>
-  <item>
-    <title>黄仁勋回归 Nvidia 之际，中国在 AI 芯片竞赛中的位置</title>
-    <link>https://www.youtube.com/watch?v=yWmpR5iLHIQ</link>
-    <guid isPermaLink="false">163-29</guid>
-    <pubDate>Thu, 26 Nov 2026 01:00:09 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>CBS News 采访布鲁金斯学会研究员 Kyle Chan，用 2 分半讨论中国芯片研发现状与差距。节目给出简明评估，适合快速了解主流智库观点。</description>
-  </item>
-  <item>
-    <title>AI 智能体架构：你的智能体究竟运行在哪里</title>
-    <link>https://www.youtube.com/watch?v=_iTbNy5aOR0</link>
-    <guid isPermaLink="false">163-30</guid>
-    <pubDate>Thu, 26 Nov 2026 13:00:08 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>IBM Technology 用 7 分钟讲解 AI 智能体并非单一工作负载，而是分布在客户端、边缘与服务端的多层架构。视频用图示说明各层的职责与取舍。适合正在设计智能体系统的工程师。</description>
-  </item>
-  <item>
-    <title>为什么 AI 智能体编排师供不应求</title>
-    <link>https://www.youtube.com/watch?v=XrdT5fABZto</link>
-    <guid isPermaLink="false">163-31</guid>
-    <pubDate>Thu, 26 Nov 2026 15:00:08 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>CNBC International 用 12 分钟介绍「AI 编排」这一两年前尚不存在的新岗位，解释其职责、技能要求与薪资趋势。视频采访从业者，呈现企业落地智能体的真实需求。</description>
-  </item>
-  <item>
-    <title>什么是主权 AI：数据、模型与智能体解析</title>
-    <link>https://www.youtube.com/watch?v=OX9-zSfT4xI</link>
-    <guid isPermaLink="false">163-32</guid>
-    <pubDate>Wed, 25 Nov 2026 01:00:08 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>IBM Technology 用 8 分半解释主权 AI 不只是数据本地化，还涉及模型、智能体与治理层。视频给出企业评估主权 AI 需求的框架。适合关注合规与出海架构的读者。</description>
-  </item>
-  <item>
-    <title>AI 如何发现人脑的隐藏规则</title>
-    <link>https://www.youtube.com/watch?v=K8rdrWQRd20</link>
-    <guid isPermaLink="false">163-33</guid>
-    <pubDate>Wed, 25 Nov 2026 01:00:07 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>Google DeepMind 用 43 分钟讨论用 AI 研究约 860 亿神经元运作方式的最新进展，介绍如何从神经数据中提取可解释的规律。视频兼顾科普与方法论。适合对神经科学与 AI 交叉领域感兴趣的观众。</description>
-  </item>
-  <item>
-    <title>比 LLM 快 31 倍的新 AI 架构？NCM 解析</title>
-    <link>https://www.youtube.com/watch?v=tCOQhKgmD88</link>
-    <guid isPermaLink="false">163-34</guid>
-    <pubDate>Sun, 22 Nov 2026 01:00:07 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>Better Stack 用 7 分半解释 Next-Concept Modeling（NCM）为何能绕开逐 token 生成的瓶颈，以及「快 31 倍」的测试条件。视频对比自回归生成与概念级建模的差异。适合想了解非 Transformer 路线的观众。</description>
-  </item>
-  <item>
-    <title>60 分钟学会 RAG：向量数据库、Postgres、语义搜索全流程</title>
-    <link>https://www.youtube.com/watch?v=tJNroDId2Ks</link>
-    <guid isPermaLink="false">163-35</guid>
-    <pubDate>Mon, 23 Nov 2026 01:00:04 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>RoadsideCoder 用 1 小时完整课程讲解 RAG 从 embeddings、分块、向量数据库到相似度搜索与聊天应用的全流程，并以 Supabase/Postgres 实操。适合从零构建真实 AI 应用的开发者。</description>
-  </item>
-  <item>
-    <title>给我 10 分钟，让 Claude Code 聪明 100 倍</title>
-    <link>https://www.youtube.com/watch?v=Jz4QT0vH-MU</link>
-    <guid isPermaLink="false">163-36</guid>
-    <pubDate>Mon, 23 Nov 2026 01:00:08 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>Eric Tech 用 10 分钟分享提升 Claude Code 效果的实用技巧，包括精简 CLAUDE.md、构建 Skills、调整 effort 等级等。视频按时间戳分节，便于按需跳看。适合日常使用 Claude Code 的开发者。</description>
-  </item>
-  <item>
-    <title>用 Claude Code 构建你的第一个 AI 智能体（无需写代码）</title>
-    <link>https://www.youtube.com/watch?v=B8pK94kYCTg</link>
-    <guid isPermaLink="false">163-37</guid>
-    <pubDate>Wed, 25 Nov 2026 01:00:06 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>Ishan Sharma 用 17 分钟带零基础观众从零搭建一个 AI 智能体，全程使用 Claude Code 的自然语言工作流。视频覆盖需求拆解、迭代与调试。适合非程序员入门智能体开发。</description>
-  </item>
-  <item>
-    <title>用 Codex 插件试验 SVG 与 3D 设计</title>
-    <link>https://www.youtube.com/watch?v=1u0hTd86_HU</link>
-    <guid isPermaLink="false">163-38</guid>
-    <pubDate>Tue, 24 Nov 2026 21:32:42 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>OpenAI 官方视频中，Craig Dennis 演示如何用 Codex 的 SVG 与 3D 设计插件把参考图转成可编辑图形或 3D 模型，并用自然语言修改。视频展示改一行 SVG 代码让角色眼睛跟随光标、用 Blender 检查模型角度等细节。适合设计师与前端开发者。</description>
-  </item>
-  <item>
-    <title>ChatGPT 财务功能入门指南</title>
-    <link>https://www.youtube.com/watch?v=hwKct_1ilEQ</link>
-    <guid isPermaLink="false">163-39</guid>
-    <pubDate>Wed, 25 Nov 2026 14:00:28 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>OpenAI 官方用短视频介绍 ChatGPT 的 Finances 功能：连接银行账户、查看订阅、按目标制定预算。视频面向普通用户，步骤清晰。适合想用 AI 管理个人财务的观众。</description>
-  </item>
-  <item>
-    <title>你离开时，你的 dot 如何让工作继续推进</title>
-    <link>https://www.youtube.com/watch?v=A4UNP-axGHU</link>
-    <guid isPermaLink="false">163-40</guid>
-    <pubDate>Wed, 25 Nov 2026 18:21:11 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>OpenAI 官方视频中，Raymond 演示如何配置 dot 在休假期间监控 Slack 频道、汇总反馈并在 Linear 中创建任务。视频给出可直接复用的提示词模板。适合想用智能体托管日常工作的团队。</description>
-  </item>
-  <item>
-    <title>如何搜寻系外行星</title>
-    <link>https://www.youtube.com/watch?v=p8lvQQebvpg</link>
-    <guid isPermaLink="false">163-41</guid>
-    <pubDate>Tue, 24 Nov 2026 20:00:45 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>OpenAI 官方视频讲述两位业余天文学家 Kevin Bond 与 Ethan Byrd 分别用 Codex 和 Astra 分析公开望远镜数据，寻找恒星亮度周期性微降的信号。视频展示 AI 辅助科研的真实案例。适合对 AI for Science 感兴趣的观众。</description>
-  </item>
-  <item>
-    <title>提示工程：如何写出好的提示词</title>
-    <link>https://www.youtube.com/watch?v=19cWIk8AD_I</link>
-    <guid isPermaLink="false">163-42</guid>
-    <pubDate>Sat, 21 Nov 2026 01:00:08 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>Jenny's Lectures 用 31 分钟系统讲解提示词编写原则，属于其 GenAI 入门课程的一讲。视频覆盖结构化提示、示例与常见误区。适合需要系统补基础的初学者。</description>
-  </item>
-  <item>
-    <title>用 Roboflow 与 NVIDIA Cosmos 3 做视频推理与模型微调</title>
-    <link>https://www.youtube.com/watch?v=IvNCYllEBZw</link>
-    <guid isPermaLink="false">163-43</guid>
-    <pubDate>Wed, 25 Nov 2026 21:39:40 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>NVIDIA 与 Roboflow 联合讲解如何用 Cosmos 3 做视频推理，支持装配步骤验证与周期时间分析，并演示在 Roboflow 中微调 Cosmos 3 Edge 识别动作。视频覆盖从标注到预测的完整流程。适合视觉 AI 工程师。</description>
-  </item>
-  <item>
-    <title>CUDA 13.5 新特性</title>
-    <link>https://www.youtube.com/watch?v=A94A2hccFoM</link>
-    <guid isPermaLink="false">163-44</guid>
-    <pubDate>Thu, 26 Nov 2026 02:29:33 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>NVIDIA CUDA 团队介绍 13.5 版本：Vera Rubin 支持正式可用、Windows on Arm 扩展到 DGX Station，并演示多 die GPU 任务与数据放置、MPS 共享 GPU、在 CUDA Tile 内核中调用 SIMT 库函数。视频包含升级前检查清单。适合 CUDA 开发者。</description>
-  </item>
-  <item>
-    <title>从 RFP 到提案：智能体在 NVIDIA DGX Station for Windows 上跑通 AEC 工作流</title>
-    <link>https://www.youtube.com/watch?v=hofffzgOLOE</link>
-    <guid isPermaLink="false">163-45</guid>
-    <pubDate>Wed, 25 Nov 2026 17:00:10 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>NVIDIA 演示 Hermes Agent 在单台 DGX Station for Windows（GB300 Grace Blackwell Ultra）上，把招标书转成完整 AEC 概念方案，并驱动 Rhino、SAP2000、FreeCAD、Blender、ComfyUI 等应用。视频以双子塔混合用途项目为例展示可见工作流。适合关注本地智能体与专业软件自动化的开发者。</description>
-  </item>
-  <item>
-    <title>GTC DC 开发者现场智能体挑战赛</title>
-    <link>https://www.youtube.com/watch?v=Yxu4mipMqwc</link>
-    <guid isPermaLink="false">163-46</guid>
-    <pubDate>Thu, 26 Nov 2026 01:36:01 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>NVIDIA Developer 预告在 GTC 华盛顿现场举办的 Agent Gauntlet：开发者提交基于 MCP 的智能体，投入含隐藏工具、未知函数与加密数据的 Black Box 服务器中实时比拼。视频介绍赛制与挑战维度。适合关注 MCP 生态与智能体评测的开发者。</description>
-  </item>
-  <item>
-    <title>用 Claude AI 智能体构建交易机器人（完整教程）</title>
-    <link>https://www.youtube.com/watch?v=KTyN3mjh8l4</link>
-    <guid isPermaLink="false">163-47</guid>
-    <pubDate>Thu, 26 Nov 2026 20:00:06 +0000</pubDate>
-    <source>YouTube 知识</source>
-    <description>Rickey Bridges 用 6 分半演示从空文件夹开始，用 Claude 智能体搭建一个 AI 交易机器人的流程，并附参考代码。视频篇幅短，偏入门演示。适合想了解智能体在量化场景应用的观众。</description>
-  </item>
-  <item>
-    <title>新一代 AI 智能体可能如何改变假日购物</title>
-    <link>https://www.youtube.com/watch?v=Nl13uO4xOdM</link>
-    <guid isPermaLink="false">163-48</guid>
-    <pubDate>Thu, 26 Nov 2026 01:00:02 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>CBS News 用 3 分半讨论 AI 购物智能体如何替用户比价、下单与跟踪物流，以及零售商面临的流量结构变化。节目给出简明趋势判断。适合关注电商与智能体结合的观众。</description>
-  </item>
-  <item>
-    <title>AI 在山梨县葡萄园落地：NHK WORLD-JAPAN 新闻</title>
-    <link>https://www.youtube.com/watch?v=WsNzNxZDcv0</link>
-    <guid isPermaLink="false">163-49</guid>
-    <pubDate>Thu, 26 Nov 2026 13:00:02 +0000</pubDate>
-    <source>YouTube 热门</source>
-    <description>NHK 用近 6 分钟报道日本山梨县果农老龄化背景下，团队用 AI 辅助葡萄种植的实践。视频展示具体部署方式与效果。属于 AI 落地农业的轻量案例。</description>
-  </item>
-  <item>
-    <title>上学日：用 ChatGPT 让一天随心安排（官方）</title>
-    <link>https://www.youtube.com/watch?v=kfGYU_-SuaE</link>
-    <guid isPermaLink="false">163-50</guid>
-    <pubDate>Wed, 25 Nov 2026 16:45:33 +0000</pubDate>
-    <source>YouTube 频道</source>
-    <description>OpenAI 官方广告短片讲述 Marla 与 Ava 在计划突变时借助 ChatGPT 重新安排行程、预订与腾出时间。视频为品牌宣传，展示 ChatGPT 的日程规划定位。适合了解 OpenAI 产品营销方向的读者。</description>
-  </item>
-  <item>
-    <title>广东发文鼓励算力中心优先使用国产算力芯片</title>
-    <link>https://www.mrjjxw.com/articles/2026-11-26/4659776.html</link>
-    <guid isPermaLink="false">162-1</guid>
-    <pubDate>Thu, 26 Nov 2026 22:56:03 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>广东省在推动低轨宽带卫星星座与在轨计算存储能力基础研究的同时，明确鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模。该政策还支持珠江口西岸都市圈探索海底数据中心建设，从芯片、网络到数据中心形成系统性算力基建布局。此举为国产 AI 芯片厂商提供了明确的地方政策信号与需求入口。</description>
-  </item>
-  <item>
-    <title>Sand.ai 开源 480B 参数 MAGI-2 视频模型，每秒定价 0.5 元</title>
-    <link>http://www.geekpark.net/news/374532</link>
-    <guid isPermaLink="false">162-2</guid>
-    <pubDate>Thu, 26 Nov 2026 08:38:54 +0000</pubDate>
-    <source>极客公园</source>
-    <description>Sand.ai 发布 480B 总参数的 MAGI-2 音视频统一模型，支持单次最长 30 秒 1080P 带原生音频生成，官方定价每秒 0.5 元，称仅为同规格主流模型的十分之一，并计划尽快开源全量权重。该模型将此前闭源厂商掌握的 Seedance 2.5 级别能力直接交到开发者手中，可能重塑视频生成模型的竞争格局与定价体系。</description>
-  </item>
-  <item>
-    <title>生数科技直播 25 天训练 Motubrain 2.0，20B 世界动作模型即将开源</title>
-    <link>https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</link>
-    <guid isPermaLink="false">162-3</guid>
-    <pubDate>Thu, 26 Nov 2026 12:50:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>生数科技发布 Motubrain 2.0，包含 20B 参数的世界动作模型（WAM）与 Motubrain-Harness 智能体系统，并宣布近期开源。团队将预训练全程公开直播：25 天、600 小时、20 万步训练、5624 次有效真机评测，期间曾因夹爪开关标注反了导致成功率下降，最终推倒重训。这种透明化训练方式为具身智能的可复现研究提供了罕见样本。</description>
-  </item>
-  <item>
-    <title>MiniMax 内部模型 MIM 破译多个 NIST 密码候选方案，效率提升 43400 倍</title>
-    <link>https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html</link>
-    <guid isPermaLink="false">162-4</guid>
-    <pubDate>Thu, 26 Nov 2026 02:23:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>MiniMax 最新内部模型 MIM 接连攻破多个 NIST 密码候选方案和顶会前沿成果，在 TII McEliece 中恢复 94 个私钥，其中 55 个为全球首次攻克，破译效率提升 43400 倍。该成果被哥伦比亚大学终身教授、量子密码学专家 Henry Yuen 作为前沿案例引入学术演讲，显示国产模型在 AI for Science 的密码分析方向上已具备实质科研产出能力。</description>
-  </item>
-  <item>
-    <title>国产大模型集体进军 AI4S，年内融资突破 200 亿元</title>
-    <link>https://t.cj.sina.cn/articles/view/5044281310/12ca99fde02002m4cl</link>
-    <guid isPermaLink="false">162-5</guid>
-    <pubDate>Thu, 26 Nov 2026 23:11:42 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>多家国产大模型厂商正从通用对话转向 AI for Science，年内该方向融资规模已突破 200 亿元。报道指出，大模型的应用重心正从“会聊天”转向“做科研”，覆盖数学、密码学、生物医药等需要复杂推理的领域。这一转向意味着模型厂商的竞争维度从参数规模扩展到科研场景的深度验证。</description>
-  </item>
-  <item>
-    <title>阿里加速转向国产算力的核心逻辑被误读</title>
-    <link>https://www.tmtpost.com/8218607.html</link>
-    <guid isPermaLink="false">162-6</guid>
-    <pubDate>Thu, 26 Nov 2026 10:38:49 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>钛媒体分析指出，阿里加速转向国产算力的核心逻辑并非仅仅是自主可控，还包括成本结构、供应链稳定性与业务规模的综合考量。文章认为外界将这一转向简单归结为政策驱动，忽略了国产芯片在特定推理场景下的性价比与交付确定性。该分析为理解大厂算力采购决策提供了更完整的视角。</description>
-  </item>
-  <item>
-    <title>英伟达据报暂停向泰国、马来西亚、新加坡、印尼发运搭载其芯片的服务器</title>
-    <link>https://hub.baai.ac.cn/view/60077</link>
-    <guid isPermaLink="false">162-7</guid>
-    <pubDate>Thu, 26 Nov 2026 18:51:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>据 FT 报道，英伟达已告知 Dell、Supermicro 等合作伙伴，停止向泰国、马来西亚、新加坡和印度尼西亚发运搭载其芯片的服务器。该举措涉及四个东南亚国家，可能影响当地 AI 算力部署节奏，并促使区域客户转向其他供应来源。多家媒体报道了这一出口管制范围的延伸。</description>
-  </item>
-  <item>
-    <title>国家数据局：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益</title>
-    <link>https://www.tmtpost.com/8219586.html</link>
-    <guid isPermaLink="false">162-8</guid>
-    <pubDate>Thu, 26 Nov 2026 23:20:00 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>国家数据局明确要求人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益，为 AI 训练数据与产品应用划出合规边界。该表态出现在《服务贸易发展“十五五”规划》印发等多项政策同期发布的背景下，显示监管层在推动 AI 产业发展的同时同步强化数据权益保护。对依赖大规模数据训练的模型厂商而言，数据来源合规将成为硬约束。</description>
-  </item>
-  <item>
-    <title>万亿级算力产业链迎利好，广东鼓励算力中心优先使用国产芯片</title>
-    <link>https://wap.eastmoney.com/a/202611263940966497.html</link>
-    <guid isPermaLink="false">162-9</guid>
-    <pubDate>Thu, 26 Nov 2026 21:11:15 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>东方财富网报道称，广东鼓励算力中心优先使用国产算力芯片的政策将带动万亿级算力产业链。该政策与低轨卫星星座、海底数据中心等基建规划形成组合，从需求端为国产 AI 芯片创造规模化应用场景。市场将其解读为国产算力产业链的明确利好信号。</description>
-  </item>
-  <item>
-    <title>中国开源视频模型拿下全球第一，商用级 AI 视频每秒仅 0.5 元</title>
-    <link>https://www.qbitai.com/2026/11/512916.html</link>
-    <guid isPermaLink="false">162-10</guid>
-    <pubDate>Thu, 26 Nov 2026 06:41:23 +0000</pubDate>
-    <source>量子位</source>
-    <description>量子位报道称，中国开源新势力在 AI 视频生成领域拿下全球第一，支持 30 秒一镜到底并自动编排镜头，商用级生成价格降至每秒 0.5 元。该能力与定价直接对标闭源头部模型，显示开源视频模型在质量与成本两个维度同时逼近商用门槛。对内容创作与广告营销行业而言，视频生成的成本结构正在被改写。</description>
   </item>
 </channel></rss>
