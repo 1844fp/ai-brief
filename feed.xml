@@ -3,7 +3,407 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Fri, 27 Nov 2026 08:14:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 09:01:02 +0000</lastBuildDate>
+  <item>
+    <title>AI 是否解开了数学巅峰难题？Claude 与黎曼猜想</title>
+    <link>https://www.youtube.com/watch?v=GXTC-G_oOtQ</link>
+    <guid isPermaLink="false">163-1</guid>
+    <pubDate>Sat, 21 Nov 2026 01:00:03 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>World Science Festival 用 3 分钟梳理 Anthropic 的 Claude 与数学家 Levent Alpöge 合作、疑似推进近两百年历史的黎曼猜想的进展。视频点明「AI 辅助证明」与「AI 独立证明」的区别，以及验证环节仍是关键。若成立，这将是 AI 在纯数学领域最具标志性的成果之一。</description>
+  </item>
+  <item>
+    <title>Claude 最大数学突破存在一个问题</title>
+    <link>https://www.youtube.com/watch?v=hwWlEuI359w</link>
+    <guid isPermaLink="false">163-2</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:03 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Two Minute Papers 用 8 分钟解读 Claude 相关数学证明论文，指出该成果在形式化验证与可复现性上仍有争议点。视频给出论文与验证任务链接，帮助观众区分「宣称突破」与「已被验证的突破」。对关注 AI for Math 的读者，这是一份必要的冷静补充。</description>
+  </item>
+  <item>
+    <title>OpenAI 内部人士：AI 事故是最可能的人类死因</title>
+    <link>https://www.youtube.com/watch?v=qgL_IbP2qKg</link>
+    <guid isPermaLink="false">163-3</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CNN 采访 OpenAI 董事会成员 Paul Christiano，他警告未来一到三年内存在较高的人工智能事故风险，并解释为何「意外失控」比刻意作恶更值得防范。视频以 21 分钟展开风险路径与治理讨论。这是本周播放量最高的安全类访谈之一。</description>
+  </item>
+  <item>
+    <title>OpenAI 与 Anthropic 已经「不玩了」</title>
+    <link>https://www.youtube.com/watch?v=kNN7FqVsO3k</link>
+    <guid isPermaLink="false">163-4</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:04 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Mo Bitar 以近百万播放的短视频讨论 OpenAI 与 Anthropic 在模型发布策略上的转向：能力越强越不敢公开，竞争从「发布最强模型」变成「控制最强模型」。视频用通俗叙事解释这一转变对开发者与用户的影响。适合作为本周安全叙事的入门科普。</description>
+  </item>
+  <item>
+    <title>「一幅可怕的图景」：AI 员工警告部分先进模型不宜发布</title>
+    <link>https://www.youtube.com/watch?v=ak5kr5yM7aI</link>
+    <guid isPermaLink="false">163-5</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>MS NOW 引用 Axios 资深 AI 记者 Madison Mills 的报道，称多家实验室内部员工对未发布模型的安全性表达担忧。6 分钟节目梳理了员工匿名发声的背景与监管缺位。多家媒体本周跟进同一话题。</description>
+  </item>
+  <item>
+    <title>OpenAI 的下一代模型正在吓到自己的员工</title>
+    <link>https://www.youtube.com/watch?v=-xjNO0GoNbY</link>
+    <guid isPermaLink="false">163-6</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>TheAIGRID 用 30 分钟详细拆解 Axios 基于二十余个信源的报道：OpenAI 与 Anthropic 的内部模型能力强到部分员工认为不应公开。视频整理了各方表态、时间线与可能的产品影响。适合想系统了解事件全貌的观众。</description>
+  </item>
+  <item>
+    <title>OpenAI 令人震惊的新警告</title>
+    <link>https://www.youtube.com/watch?v=f5_c0O_chy4</link>
+    <guid isPermaLink="false">163-7</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:04 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Wes Roth 解读 OpenAI 首席科学家 Jakob Pachocki 的病毒式长文，称其为「OpenAI 发表过的最重要内容之一」。视频逐段分析其中关于自我改进 AI 与能力阈值的警告。20 分钟覆盖了原文要点与社区反应。</description>
+  </item>
+  <item>
+    <title>OpenAI 是如何输掉 AI 竞赛的</title>
+    <link>https://www.youtube.com/watch?v=gbRxnA0KvdQ</link>
+    <guid isPermaLink="false">163-8</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:04 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>TLDR Business 以 8 分钟复盘 Anthropic 创纪录 IPO 后 OpenAI 的处境：单季亏损、模型口碑波动、投资者信心受挫。视频用商业视角对比两家公司的路线差异。播放量超过 50 万，是本周商业分析类最热视频。</description>
+  </item>
+  <item>
+    <title>Nvidia 离不开黄仁勋：AI 泡沫破裂是否比想象更近</title>
+    <link>https://www.youtube.com/watch?v=kTq6yGSSKeM</link>
+    <guid isPermaLink="false">163-9</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>BBC《The Global Story》用 26 分钟讨论黄仁勋去职与回归风波，以及这一事件对全球金融体系与 AI 投资周期的暗示。节目采访多方，审视 Nvidia 与 AI 泡沫叙事的关联。适合关注宏观与算力经济的观众。</description>
+  </item>
+  <item>
+    <title>黄仁勋「第二幕」对 AI 意味着什么</title>
+    <link>https://www.youtube.com/watch?v=pbjYOmyLprw</link>
+    <guid isPermaLink="false">163-10</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Bloomberg Television 用 5 分半梳理黄仁勋在特朗普与董事会推动下回归 CEO 的经过，并分析其对 Nvidia 战略与 AI 供应链的影响。短小精悍，适合快速补课。</description>
+  </item>
+  <item>
+    <title>会自我构建的 AI：黄金时代还是该恐慌</title>
+    <link>https://www.youtube.com/watch?v=YKS34sswxbg</link>
+    <guid isPermaLink="false">163-11</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>BBC News 用 15 分钟讨论 AI 开始「教自己」的现象，梳理自我改进系统的能力边界与风险争论。视频采访研究者，区分「自动调参」与真正意义上的递归自我改进。播放量超过 34 万。</description>
+  </item>
+  <item>
+    <title>是的，你应该为 AI 感到恐慌</title>
+    <link>https://www.youtube.com/watch?v=VCg2RlsPxBU</link>
+    <guid isPermaLink="false">163-12</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Rutger Bregman 用 12 分钟回顾十年来一小群专家对 AI 的「疯狂」预言如何一次次被验证，论证当下担忧的合理性。视频以历史对照方式呈现风险论据。播放量超过 33 万，讨论度很高。</description>
+  </item>
+  <item>
+    <title>AI 网络攻击达到可怕的新水平</title>
+    <link>https://www.youtube.com/watch?v=Xh__vpPjBbM</link>
+    <guid isPermaLink="false">163-13</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>The Young Turks 用 18 分钟报道攻击者利用 AI 针对政府机构、并伴随多起技术故障的事件。视频讨论现有防御体系为何难以应对自动化攻击。播放量超过 40 万。</description>
+  </item>
+  <item>
+    <title>我们的网络防御不是为 AI 攻击机器人设计的，现在怎么办</title>
+    <link>https://www.youtube.com/watch?v=mSf7CErrdU8</link>
+    <guid isPermaLink="false">163-14</guid>
+    <pubDate>Tue, 24 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CNN 的 Fareed Zakaria 用 10 分钟分析美国网络安全体系在 AI 自动化攻击面前的脆弱性，结合近期大规模技术故障展开。节目提出防御侧需要结构性升级。播放量接近 27 万。</description>
+  </item>
+  <item>
+    <title>Anthropic 发布 Claude 应用：重大更新</title>
+    <link>https://www.youtube.com/watch?v=jjGMGqf63ww</link>
+    <guid isPermaLink="false">163-15</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:05 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Brock Mesarich 演示 Claude 现在可以把为你构建的东西直接安装为 Mac 或 Windows 上的真实应用。12 分钟视频展示从对话到本地应用的完整流程。这标志着 Claude 从聊天工具向应用平台延伸。</description>
+  </item>
+  <item>
+    <title>Claude 杀死了 1000 家创业公司：你需要知道的一切</title>
+    <link>https://www.youtube.com/watch?v=0A3OMo4radM</link>
+    <guid isPermaLink="false">163-16</guid>
+    <pubDate>Thu, 26 Nov 2026 04:00:05 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Christian Peverelli 用 6 分钟讨论 Claude 等模型能力提升对初创公司生态的冲击，列举被替代的产品类别与创业者的应对方式。视频节奏快、观点鲜明。播放量超过 32 万。</description>
+  </item>
+  <item>
+    <title>17 分钟学会 Google Antigravity 的 95%（配合 Gemini 4 Neon）</title>
+    <link>https://www.youtube.com/watch?v=7I8B7CQky0Y</link>
+    <guid isPermaLink="false">163-17</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:06 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Peter Yang 用 17 分钟系统讲解 Google Antigravity 的核心功能与工作流，并演示与 Gemini 4 Neon 的配合。视频由 Google 赞助，但内容以实操为主。适合想快速上手这一新开发环境的工程师。</description>
+  </item>
+  <item>
+    <title>Google AI 现在值得付费吗</title>
+    <link>https://www.youtube.com/watch?v=YU7mLyjdegM</link>
+    <guid isPermaLink="false">163-18</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:06 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>lustoykov 用 19 分钟拆解 Google AI Pro 与 Ultra 两档订阅的实际内容，包括 Gemini 4 Neon、Antigravity、GPU 额度等。视频按使用场景给出性价比判断。适合在订阅前做决策参考。</description>
+  </item>
+  <item>
+    <title>Gemini 全部模型与套餐解析：黑五新优惠</title>
+    <link>https://www.youtube.com/watch?v=7OVjG3eDY7c</link>
+    <guid isPermaLink="false">163-19</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:06 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Evan Burger 用 8 分半梳理 Google 现有四款 Gemini 4 模型与各档套餐的差异，并提示黑五期间的优惠变化。视频以对比表形式呈现，便于快速选择。</description>
+  </item>
+  <item>
+    <title>Google Gemini 免费个人智能体：如何设置</title>
+    <link>https://www.youtube.com/watch?v=YktjG7JMYI8</link>
+    <guid isPermaLink="false">163-20</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:06 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>The Tech Girl 用 9 分半演示如何配置 Gemini 的免费个人智能体，覆盖权限、触发条件与常见用例。视频面向非技术用户，步骤清晰。适合想低成本体验智能体的观众。</description>
+  </item>
+  <item>
+    <title>忘掉 Grok Bot：这个新 AI 智能体把你变成一人公司</title>
+    <link>https://www.youtube.com/watch?v=mPZS1cn--bs</link>
+    <guid isPermaLink="false">163-21</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:08 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Vaibhav Sisinty 用 17 分钟介绍 n8n 新推出的开源 AI 智能体 Nod，它自带计算机与浏览器，可执行类似 OpenAI Dots、Meta Muse 的工作。视频演示三类任务与 24/7 部署方案。适合想自建智能体的开发者。</description>
+  </item>
+  <item>
+    <title>开源 AI 已逼近 Claude，且便宜 30 倍</title>
+    <link>https://www.youtube.com/watch?v=K2UEMxBTu9M</link>
+    <guid isPermaLink="false">163-22</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:07 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Riley Brown 与 Mixpanel 联合创始人、现做开源模型的 Suhail Doshi 进行 1 小时对话，讨论开源模型与 Claude 的能力差距及成本结构。嘉宾以自己一个月烧掉 1.2 万美元 API 费用的经历切入。适合关注模型经济学的听众。</description>
+  </item>
+  <item>
+    <title>DeepSeek 刚刚击溃了 AI 竞争</title>
+    <link>https://www.youtube.com/watch?v=l2Hz_G-QKOY</link>
+    <guid isPermaLink="false">163-23</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:10 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Tech Meets East 用 28 分钟分析 DeepSeek 新价格表对硅谷成本叙事的冲击，梳理其定价策略与模型能力。视频以凌晨发布的价目表为切入点，讨论对开发者选择的影响。</description>
+  </item>
+  <item>
+    <title>终于有了免费的 DeepSeek V4.1 Flash API（无需信用卡）</title>
+    <link>https://www.youtube.com/watch?v=gkaAREctzow</link>
+    <guid isPermaLink="false">163-24</guid>
+    <pubDate>Thu, 26 Nov 2026 06:00:10 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Code With Yousaf 用 9 分钟演示如何通过 TokenRouter 获取 DeepSeek V4.1 Flash 的免费 API，输入输出均为零成本。视频覆盖注册、调用与注意事项。适合想低成本试验的开发者。</description>
+  </item>
+  <item>
+    <title>AMD 新芯片 17000 tokens，Nvidia H200 只有 230</title>
+    <link>https://www.youtube.com/watch?v=rfN1jQ1GTgw</link>
+    <guid isPermaLink="false">163-25</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:09 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Evolving AI 用 14 分钟介绍一家小型 AI 芯片初创公司的设计，声称在特定推理指标上远超 Nvidia H200。视频解释数字背后的口径差异与适用场景。播放量超过 13 万。</description>
+  </item>
+  <item>
+    <title>AMD 29 亿美元的 AI 芯片比 GPU 快 7400%？</title>
+    <link>https://www.youtube.com/watch?v=GjxrkInrXjA</link>
+    <guid isPermaLink="false">163-26</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:09 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Tomorrow Engineered 用 23 分钟深入介绍多伦多初创公司 Taalas 的 HC1 处理器，其激进架构针对特定模型固化电路。视频解释「快 7400%」的测试条件与局限。适合想理解专用推理芯片路线的观众。</description>
+  </item>
+  <item>
+    <title>中国刚刚用一颗没人注意的芯片替代了 Nvidia（不是华为）</title>
+    <link>https://www.youtube.com/watch?v=CHvLLmdh5OQ</link>
+    <guid isPermaLink="false">163-27</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:09 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>AI Andrew 用 36 分钟讨论香港库存中约 60 万颗 H200 的处境，以及中国本土替代芯片的进展。视频梳理供应链与政策背景，指出被忽视的玩家。适合关注算力地缘政治的观众。</description>
+  </item>
+  <item>
+    <title>Nvidia 据报停止向东南亚运送 AI 芯片，美国收紧对华限制</title>
+    <link>https://www.youtube.com/watch?v=ZMPSB3TNWYI</link>
+    <guid isPermaLink="false">163-28</guid>
+    <pubDate>Fri, 27 Nov 2026 00:00:09 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>Forbes Breaking News 用 3 分钟报道 Nvidia 已要求制造伙伴停止向四个东南亚国家运送搭载其 AI 芯片的服务器。视频简述政策背景与受影响范围。属于快速新闻更新。</description>
+  </item>
+  <item>
+    <title>黄仁勋回归 Nvidia 之际，中国在 AI 芯片竞赛中的位置</title>
+    <link>https://www.youtube.com/watch?v=yWmpR5iLHIQ</link>
+    <guid isPermaLink="false">163-29</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:09 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CBS News 采访布鲁金斯学会研究员 Kyle Chan，用 2 分半讨论中国芯片研发现状与差距。节目给出简明评估，适合快速了解主流智库观点。</description>
+  </item>
+  <item>
+    <title>AI 智能体架构：你的智能体究竟运行在哪里</title>
+    <link>https://www.youtube.com/watch?v=_iTbNy5aOR0</link>
+    <guid isPermaLink="false">163-30</guid>
+    <pubDate>Thu, 26 Nov 2026 13:00:08 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>IBM Technology 用 7 分钟讲解 AI 智能体并非单一工作负载，而是分布在客户端、边缘与服务端的多层架构。视频用图示说明各层的职责与取舍。适合正在设计智能体系统的工程师。</description>
+  </item>
+  <item>
+    <title>为什么 AI 智能体编排师供不应求</title>
+    <link>https://www.youtube.com/watch?v=XrdT5fABZto</link>
+    <guid isPermaLink="false">163-31</guid>
+    <pubDate>Thu, 26 Nov 2026 15:00:08 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CNBC International 用 12 分钟介绍「AI 编排」这一两年前尚不存在的新岗位，解释其职责、技能要求与薪资趋势。视频采访从业者，呈现企业落地智能体的真实需求。</description>
+  </item>
+  <item>
+    <title>什么是主权 AI：数据、模型与智能体解析</title>
+    <link>https://www.youtube.com/watch?v=OX9-zSfT4xI</link>
+    <guid isPermaLink="false">163-32</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:08 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>IBM Technology 用 8 分半解释主权 AI 不只是数据本地化，还涉及模型、智能体与治理层。视频给出企业评估主权 AI 需求的框架。适合关注合规与出海架构的读者。</description>
+  </item>
+  <item>
+    <title>AI 如何发现人脑的隐藏规则</title>
+    <link>https://www.youtube.com/watch?v=K8rdrWQRd20</link>
+    <guid isPermaLink="false">163-33</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:07 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Google DeepMind 用 43 分钟讨论用 AI 研究约 860 亿神经元运作方式的最新进展，介绍如何从神经数据中提取可解释的规律。视频兼顾科普与方法论。适合对神经科学与 AI 交叉领域感兴趣的观众。</description>
+  </item>
+  <item>
+    <title>比 LLM 快 31 倍的新 AI 架构？NCM 解析</title>
+    <link>https://www.youtube.com/watch?v=tCOQhKgmD88</link>
+    <guid isPermaLink="false">163-34</guid>
+    <pubDate>Sun, 22 Nov 2026 01:00:07 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Better Stack 用 7 分半解释 Next-Concept Modeling（NCM）为何能绕开逐 token 生成的瓶颈，以及「快 31 倍」的测试条件。视频对比自回归生成与概念级建模的差异。适合想了解非 Transformer 路线的观众。</description>
+  </item>
+  <item>
+    <title>60 分钟学会 RAG：向量数据库、Postgres、语义搜索全流程</title>
+    <link>https://www.youtube.com/watch?v=tJNroDId2Ks</link>
+    <guid isPermaLink="false">163-35</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:04 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>RoadsideCoder 用 1 小时完整课程讲解 RAG 从 embeddings、分块、向量数据库到相似度搜索与聊天应用的全流程，并以 Supabase/Postgres 实操。适合从零构建真实 AI 应用的开发者。</description>
+  </item>
+  <item>
+    <title>给我 10 分钟，让 Claude Code 聪明 100 倍</title>
+    <link>https://www.youtube.com/watch?v=Jz4QT0vH-MU</link>
+    <guid isPermaLink="false">163-36</guid>
+    <pubDate>Mon, 23 Nov 2026 01:00:08 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Eric Tech 用 10 分钟分享提升 Claude Code 效果的实用技巧，包括精简 CLAUDE.md、构建 Skills、调整 effort 等级等。视频按时间戳分节，便于按需跳看。适合日常使用 Claude Code 的开发者。</description>
+  </item>
+  <item>
+    <title>用 Claude Code 构建你的第一个 AI 智能体（无需写代码）</title>
+    <link>https://www.youtube.com/watch?v=B8pK94kYCTg</link>
+    <guid isPermaLink="false">163-37</guid>
+    <pubDate>Wed, 25 Nov 2026 01:00:06 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Ishan Sharma 用 17 分钟带零基础观众从零搭建一个 AI 智能体，全程使用 Claude Code 的自然语言工作流。视频覆盖需求拆解、迭代与调试。适合非程序员入门智能体开发。</description>
+  </item>
+  <item>
+    <title>用 Codex 插件试验 SVG 与 3D 设计</title>
+    <link>https://www.youtube.com/watch?v=1u0hTd86_HU</link>
+    <guid isPermaLink="false">163-38</guid>
+    <pubDate>Tue, 24 Nov 2026 21:32:42 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方视频中，Craig Dennis 演示如何用 Codex 的 SVG 与 3D 设计插件把参考图转成可编辑图形或 3D 模型，并用自然语言修改。视频展示改一行 SVG 代码让角色眼睛跟随光标、用 Blender 检查模型角度等细节。适合设计师与前端开发者。</description>
+  </item>
+  <item>
+    <title>ChatGPT 财务功能入门指南</title>
+    <link>https://www.youtube.com/watch?v=hwKct_1ilEQ</link>
+    <guid isPermaLink="false">163-39</guid>
+    <pubDate>Wed, 25 Nov 2026 14:00:28 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方用短视频介绍 ChatGPT 的 Finances 功能：连接银行账户、查看订阅、按目标制定预算。视频面向普通用户，步骤清晰。适合想用 AI 管理个人财务的观众。</description>
+  </item>
+  <item>
+    <title>你离开时，你的 dot 如何让工作继续推进</title>
+    <link>https://www.youtube.com/watch?v=A4UNP-axGHU</link>
+    <guid isPermaLink="false">163-40</guid>
+    <pubDate>Wed, 25 Nov 2026 18:21:11 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方视频中，Raymond 演示如何配置 dot 在休假期间监控 Slack 频道、汇总反馈并在 Linear 中创建任务。视频给出可直接复用的提示词模板。适合想用智能体托管日常工作的团队。</description>
+  </item>
+  <item>
+    <title>如何搜寻系外行星</title>
+    <link>https://www.youtube.com/watch?v=p8lvQQebvpg</link>
+    <guid isPermaLink="false">163-41</guid>
+    <pubDate>Tue, 24 Nov 2026 20:00:45 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方视频讲述两位业余天文学家 Kevin Bond 与 Ethan Byrd 分别用 Codex 和 Astra 分析公开望远镜数据，寻找恒星亮度周期性微降的信号。视频展示 AI 辅助科研的真实案例。适合对 AI for Science 感兴趣的观众。</description>
+  </item>
+  <item>
+    <title>提示工程：如何写出好的提示词</title>
+    <link>https://www.youtube.com/watch?v=19cWIk8AD_I</link>
+    <guid isPermaLink="false">163-42</guid>
+    <pubDate>Sat, 21 Nov 2026 01:00:08 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Jenny's Lectures 用 31 分钟系统讲解提示词编写原则，属于其 GenAI 入门课程的一讲。视频覆盖结构化提示、示例与常见误区。适合需要系统补基础的初学者。</description>
+  </item>
+  <item>
+    <title>用 Roboflow 与 NVIDIA Cosmos 3 做视频推理与模型微调</title>
+    <link>https://www.youtube.com/watch?v=IvNCYllEBZw</link>
+    <guid isPermaLink="false">163-43</guid>
+    <pubDate>Wed, 25 Nov 2026 21:39:40 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA 与 Roboflow 联合讲解如何用 Cosmos 3 做视频推理，支持装配步骤验证与周期时间分析，并演示在 Roboflow 中微调 Cosmos 3 Edge 识别动作。视频覆盖从标注到预测的完整流程。适合视觉 AI 工程师。</description>
+  </item>
+  <item>
+    <title>CUDA 13.5 新特性</title>
+    <link>https://www.youtube.com/watch?v=A94A2hccFoM</link>
+    <guid isPermaLink="false">163-44</guid>
+    <pubDate>Thu, 26 Nov 2026 02:29:33 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA CUDA 团队介绍 13.5 版本：Vera Rubin 支持正式可用、Windows on Arm 扩展到 DGX Station，并演示多 die GPU 任务与数据放置、MPS 共享 GPU、在 CUDA Tile 内核中调用 SIMT 库函数。视频包含升级前检查清单。适合 CUDA 开发者。</description>
+  </item>
+  <item>
+    <title>从 RFP 到提案：智能体在 NVIDIA DGX Station for Windows 上跑通 AEC 工作流</title>
+    <link>https://www.youtube.com/watch?v=hofffzgOLOE</link>
+    <guid isPermaLink="false">163-45</guid>
+    <pubDate>Wed, 25 Nov 2026 17:00:10 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA 演示 Hermes Agent 在单台 DGX Station for Windows（GB300 Grace Blackwell Ultra）上，把招标书转成完整 AEC 概念方案，并驱动 Rhino、SAP2000、FreeCAD、Blender、ComfyUI 等应用。视频以双子塔混合用途项目为例展示可见工作流。适合关注本地智能体与专业软件自动化的开发者。</description>
+  </item>
+  <item>
+    <title>GTC DC 开发者现场智能体挑战赛</title>
+    <link>https://www.youtube.com/watch?v=Yxu4mipMqwc</link>
+    <guid isPermaLink="false">163-46</guid>
+    <pubDate>Thu, 26 Nov 2026 01:36:01 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>NVIDIA Developer 预告在 GTC 华盛顿现场举办的 Agent Gauntlet：开发者提交基于 MCP 的智能体，投入含隐藏工具、未知函数与加密数据的 Black Box 服务器中实时比拼。视频介绍赛制与挑战维度。适合关注 MCP 生态与智能体评测的开发者。</description>
+  </item>
+  <item>
+    <title>用 Claude AI 智能体构建交易机器人（完整教程）</title>
+    <link>https://www.youtube.com/watch?v=KTyN3mjh8l4</link>
+    <guid isPermaLink="false">163-47</guid>
+    <pubDate>Thu, 26 Nov 2026 20:00:06 +0000</pubDate>
+    <source>YouTube 知识</source>
+    <description>Rickey Bridges 用 6 分半演示从空文件夹开始，用 Claude 智能体搭建一个 AI 交易机器人的流程，并附参考代码。视频篇幅短，偏入门演示。适合想了解智能体在量化场景应用的观众。</description>
+  </item>
+  <item>
+    <title>新一代 AI 智能体可能如何改变假日购物</title>
+    <link>https://www.youtube.com/watch?v=Nl13uO4xOdM</link>
+    <guid isPermaLink="false">163-48</guid>
+    <pubDate>Thu, 26 Nov 2026 01:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>CBS News 用 3 分半讨论 AI 购物智能体如何替用户比价、下单与跟踪物流，以及零售商面临的流量结构变化。节目给出简明趋势判断。适合关注电商与智能体结合的观众。</description>
+  </item>
+  <item>
+    <title>AI 在山梨县葡萄园落地：NHK WORLD-JAPAN 新闻</title>
+    <link>https://www.youtube.com/watch?v=WsNzNxZDcv0</link>
+    <guid isPermaLink="false">163-49</guid>
+    <pubDate>Thu, 26 Nov 2026 13:00:02 +0000</pubDate>
+    <source>YouTube 热门</source>
+    <description>NHK 用近 6 分钟报道日本山梨县果农老龄化背景下，团队用 AI 辅助葡萄种植的实践。视频展示具体部署方式与效果。属于 AI 落地农业的轻量案例。</description>
+  </item>
+  <item>
+    <title>上学日：用 ChatGPT 让一天随心安排（官方）</title>
+    <link>https://www.youtube.com/watch?v=kfGYU_-SuaE</link>
+    <guid isPermaLink="false">163-50</guid>
+    <pubDate>Wed, 25 Nov 2026 16:45:33 +0000</pubDate>
+    <source>YouTube 频道</source>
+    <description>OpenAI 官方广告短片讲述 Marla 与 Ava 在计划突变时借助 ChatGPT 重新安排行程、预订与腾出时间。视频为品牌宣传，展示 ChatGPT 的日程规划定位。适合了解 OpenAI 产品营销方向的读者。</description>
+  </item>
   <item>
     <title>广东发文鼓励算力中心优先使用国产算力芯片</title>
     <link>https://www.mrjjxw.com/articles/2026-11-26/4659776.html</link>
@@ -83,405 +483,5 @@
     <pubDate>Thu, 26 Nov 2026 06:41:23 +0000</pubDate>
     <source>量子位</source>
     <description>量子位报道称，中国开源新势力在 AI 视频生成领域拿下全球第一，支持 30 秒一镜到底并自动编排镜头，商用级生成价格降至每秒 0.5 元。该能力与定价直接对标闭源头部模型，显示开源视频模型在质量与成本两个维度同时逼近商用门槛。对内容创作与广告营销行业而言，视频生成的成本结构正在被改写。</description>
-  </item>
-  <item>
-    <title>蔚来发布世界模型 3.0，智驾训练提效 5 倍并用于座舱强化学习</title>
-    <link>https://www.qbitai.com/2026/11/512897.html</link>
-    <guid isPermaLink="false">162-11</guid>
-    <pubDate>Thu, 26 Nov 2026 03:23:35 +0000</pubDate>
-    <source>量子位</source>
-    <description>蔚来发布世界模型 3.0，称智驾训练效率提升 5 倍，并将强化学习引入座舱系统。李斌在发布会上坦言，不做 AI 变革可能活不下去，显示蔚来将 AI 能力视为生存级战略。该进展意味着车企的竞争焦点正从硬件配置转向世界模型与训练效率。</description>
-  </item>
-  <item>
-    <title>前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型</title>
-    <link>https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html</link>
-    <guid isPermaLink="false">162-12</guid>
-    <pubDate>Thu, 26 Nov 2026 02:09:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>香港科技大学教授、前苹果空间智能首席科学家权龙二次创业，成立 Envision AI（格秩科技），目标是打造通用的空间物理原生基础模型，将文本、图像、空间与物理信息统一进同一体系。权龙是三维视觉六点算法的提出者，曾担任 ICCV 2011 与 CVPR 2022 两届大会主席。该创业方向瞄准物理 AI 的“ChatGPT 时刻”。</description>
-  </item>
-  <item>
-    <title>美团酒店 AI 工具“既白”预计年底覆盖近 40 万商家</title>
-    <link>https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</link>
-    <guid isPermaLink="false">162-13</guid>
-    <pubDate>Thu, 26 Nov 2026 11:20:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>美团披露酒店 AI 经营工具“妙手酒店版·既白”的最新进展，预计到 2026 年底覆盖近 40 万家酒店商家。数据显示，11 月以来既白活跃商家的线上交易额较未使用商家高 7%，深度使用商家的订单量同比增长 22%。商家使用场景正从数据查询延伸至价格建议与经营诊断，AI 工具开始进入酒店经营决策环节。</description>
-  </item>
-  <item>
-    <title>景嘉微边端侧 AI SoC 芯片 CH37 系列小批量交付</title>
-    <link>http://laoyaoba.com/n/1147567</link>
-    <guid isPermaLink="false">162-14</guid>
-    <pubDate>Thu, 26 Nov 2026 23:02:09 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>景嘉微宣布其边端侧 AI SoC 芯片 CH37 系列已进入小批量交付阶段。该系列面向边缘与终端侧 AI 推理场景，标志着国产 GPU 厂商从图形显控向边端 AI 计算芯片延伸。小批量交付意味着产品进入客户验证与早期放量阶段。</description>
-  </item>
-  <item>
-    <title>格灵深瞳联合发布端侧多模态大模型，边缘计算盒子已完成适配</title>
-    <link>https://stock.stockstar.com/RB2026112700006061.shtml</link>
-    <guid isPermaLink="false">162-15</guid>
-    <pubDate>Thu, 26 Nov 2026 23:05:58 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>格灵深瞳回应端侧 AI 话题，宣布联合发布端侧多模态大模型，并已完成边缘计算盒子的适配。该进展将多模态大模型能力下沉到边缘设备，减少对云端推理的依赖。对安防、工业检测等对时延与数据本地化敏感的场景具有直接价值。</description>
-  </item>
-  <item>
-    <title>首个农耕文明领域大模型“天稷”发布</title>
-    <link>https://news.youth.cn/gn/202611/t20261127_16986394.htm</link>
-    <guid isPermaLink="false">162-16</guid>
-    <pubDate>Thu, 26 Nov 2026 22:48:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>首个面向农耕文明领域的大模型“天稷”正式发布。该模型将大模型能力垂直应用于农业知识与农耕文化场景，属于行业大模型在细分领域的延伸。其实际效果与数据基础尚待进一步披露。</description>
-  </item>
-  <item>
-    <title>研究显示污染 0.1% 预训练数据即可给 AI 智能体植入难以清除的后门</title>
-    <link>https://www.oschina.net/news/503823</link>
-    <guid isPermaLink="false">162-17</guid>
-    <pubDate>Thu, 26 Nov 2026 11:58:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>一篇题为《Agentic Backdoors via Pretraining Poisoning》的论文指出，仅污染 0.1% 的预训练数据就能给 AI 智能体埋下后门，且用完全干净的数据做微调和强化学习也无法清除。作者来自加州大学伯克利分校、伊利诺伊大学厄巴纳-香槟分校和 Anthropic。该结论对开源模型与第三方数据供应链的安全审查提出更高要求。</description>
-  </item>
-  <item>
-    <title>讯飞语音大模型能力全解：从语音基座到语音应用</title>
-    <link>https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe</link>
-    <guid isPermaLink="false">162-18</guid>
-    <pubDate>Thu, 26 Nov 2026 10:29:57 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>InfoQ 发布讯飞语音大模型能力解读，梳理其从语音基座模型到上层语音应用的完整技术栈。内容覆盖语音识别、合成与交互等能力如何通过大模型统一，并落到具体应用场景。该梳理为理解国产语音大模型的工程化路径提供了参考。</description>
-  </item>
-  <item>
-    <title>百度开源文心 5.5 Flash Preview，支持 vLLM、SGLang 部署</title>
-    <link>https://www.oschina.net/news/503792</link>
-    <guid isPermaLink="false">161-1</guid>
-    <pubDate>Wed, 25 Nov 2026 02:58:52 +0000</pubDate>
-    <source>开源中国</source>
-    <description>百度于 11 月 24 日面向全球开源社区开放文心 5.5 Flash Preview 的模型权重与配套资源，开发者可在 Hugging Face、ModelScope 获取并进行本地部署与二次开发。该模型支持 vLLM、SGLang 等主流推理框架，是国产大模型在开源策略上的又一实质性动作。此举有助于扩大文心系列在开发者生态中的采用率，也加剧了国内开源大模型之间的竞争。</description>
-  </item>
-  <item>
-    <title>腾讯混元开源 Hy4 flash 量化权重，2240 亿参数模型可跑在 64GB Mac mini 上</title>
-    <link>https://www.oschina.net/news/503813</link>
-    <guid isPermaLink="false">161-2</guid>
-    <pubDate>Wed, 25 Nov 2026 09:03:51 +0000</pubDate>
-    <source>开源中国</source>
-    <description>腾讯混元于 11 月 25 日开源 Hy4 flash 的 GGUF 量化权重及配套推理代码，借助自研压缩加速工具箱 AngelSlim，最小版本权重约为原始的三成。官方实测在 48GB 显存设备上生成速度最高达每秒 89 个 token，使 2240 亿参数级模型得以在消费级硬件上运行。这大幅降低了大参数模型的本地部署门槛，对端侧与私有化场景意义明显。</description>
-  </item>
-  <item>
-    <title>九章云极发布物理 AI 工厂与生态开放计划</title>
-    <link>https://www.qbitai.com/2026/11/512582.html</link>
-    <guid isPermaLink="false">161-3</guid>
-    <pubDate>Wed, 25 Nov 2026 14:21:20 +0000</pubDate>
-    <source>量子位</source>
-    <description>11 月 25 日，九章云极在深圳举行 2026 物理 AI 行业峰会暨智算生态大会，发布物理 AI 工厂并公布生态开放计划，同期与龙华区工信局、清程智汇、怡亚通等签署战略合作。物理 AI 工厂定位为连接场景、研究与算力底座的载体，试图解决机器人、世界模型与仿真技术从实验室走向产线时的工程化验证难题。多家媒体报道了该系列签约与生态联盟的成立。</description>
-  </item>
-  <item>
-    <title>九章云极开放 Physical AI Infra 与 Dev 两大 API，联合二十余家伙伴成立产业联盟</title>
-    <link>https://www.leiphone.com/category/chips/omZ0PFr6zVtmUnap.html</link>
-    <guid isPermaLink="false">161-4</guid>
-    <pubDate>Wed, 25 Nov 2026 13:56:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>九章云极宣布面向物理 AI 开放 Physical AI Infra API 和 Physical AI Dev API，分别提供异构算力标准化接入调度与仿真、数据生成、模型训练验证等工具连接能力。同步成立的极光物理 AI 产业生态联盟由北京大学软件工程国家工程研究中心担任学术指导，首批成员覆盖机器人本体、世界模型、仿真平台与智算云服务。接口开放与联盟机制并行，意在降低物理 AI 研发环节的适配成本。</description>
-  </item>
-  <item>
-    <title>中国算力采购信心指数启动，九章云极参与核心共建</title>
-    <link>https://www.leiphone.com/category/chips/G3lWNUyVJphxOTU2.html</link>
-    <guid isPermaLink="false">161-5</guid>
-    <pubDate>Wed, 25 Nov 2026 14:01:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>中国经济信息社新华指数研究院在 2026 物理 AI 行业峰会上宣布启动中国算力采购信心指数，九章云极作为核心共建单位参与体系搭建。该指数借鉴 PMI 编制逻辑，采用景气扩散方法采集新增订单、价格变化与消耗增量等数据，与记录真实成交价的全球算力价格指数形成互补。当前算力产业存在训练与推理、东西部布局、层级供需三重错配，市场缺少可回答下季度需求扩张或收缩的先行指标。</description>
-  </item>
-  <item>
-    <title>高端 PCB 排产至 2028 年，AI 服务器用板层数升至 40-60 层以上</title>
-    <link>https://www.ithome.com/1/032/545.htm</link>
-    <guid isPermaLink="false">161-6</guid>
-    <pubDate>Wed, 25 Nov 2026 23:54:16 +0000</pubDate>
-    <source>IT之家</source>
-    <description>全球电子协会发布供应链警报后，中国证券报采访显示部分 PCB 头部厂商高端产品已排产至 2028 年，原材料虽未断供但在供应速度与效率上出现压力。AI 服务器用板正从普通 PCB 的约 12 层转向 40-60 层以上，每增一层都消耗更多玻纤布、树脂、铜箔与覆铜板。截至今年 9 月，PCB 订单量同比增长 56.1%，出货量仅增长 13.3%，高多层板交期已达 16-20 周甚至更长。</description>
-  </item>
-  <item>
-    <title>数千枚英伟达 B300 涌入海外转售市场，高端 GPU 急寻买家</title>
-    <link>https://www.ithome.com/1/032/547.htm</link>
-    <guid isPermaLink="false">161-7</guid>
-    <pubDate>Wed, 25 Nov 2026 23:57:38 +0000</pubDate>
-    <source>IT之家</source>
-    <description>据 CNBC 报道，美国收紧相关规定后，英伟达 GPU 销售商正急于为高端芯片寻找新买家，市场已出现涉及数千枚 B300 芯片的交易意向。B300 是 Blackwell 系列中的高阶 AI 芯片，知情人士称自 11 月 16 日新规公布后待售 GPU 数量异常增长，但交易仍处洽谈阶段，价格与卖家名单未披露。英伟达仍强调整体需求大于供给，短期转售供给增加未必逆转长期紧缺格局。</description>
-  </item>
-  <item>
-    <title>分析称 AI 算力管制正从芯片出境走向访问权管控</title>
-    <link>https://m.sohu.com/a/1106444279_128075?scm</link>
-    <guid isPermaLink="false">161-8</guid>
-    <pubDate>Wed, 25 Nov 2026 19:31:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>针对数千颗 B300 转售现象，有分析指出美国算力管制思路正从限制芯片物理出境，转向对算力访问权的管控。这一变化意味着监管对象可能从硬件流向扩展到云端算力调用与远程访问等形态。对国内算力采购与云服务合规策略而言，这一趋势值得持续跟踪。</description>
-  </item>
-  <item>
-    <title>海光信息回应 DCU 算力芯片：供应链稳定，新一代产品研发稳步推进</title>
-    <link>https://stock.stockstar.com/RB2026112600007346.shtml</link>
-    <guid isPermaLink="false">161-9</guid>
-    <pubDate>Wed, 25 Nov 2026 23:06:31 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>海光信息于 11 月 25 日就 DCU 算力芯片相关话题作出回应，称供应链保持稳定，新一代产品研发正稳步推进。作为国产算力芯片的代表厂商之一，其表态回应了市场对供应链与产品迭代节奏的关切。在高端 GPU 供应不确定性上升的背景下，国产 DCU 的进展受到更多关注。</description>
-  </item>
-  <item>
-    <title>蚂蚁百灵医疗健康模型集体开源，切入临床深水区</title>
-    <link>https://www.vbdata.cn/1519106506</link>
-    <guid isPermaLink="false">161-10</guid>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>蚂蚁集团百灵医疗健康模型系列集中亮相并宣布开源，覆盖多个医疗健康任务方向，标志其向临床场景深入推进。医疗大模型的落地难点在于临床验证与数据合规，开源策略有助于吸引医疗机构与研究团队参与共建。多家媒体报道了这一进展。</description>
-  </item>
-  <item>
-    <title>真实医疗需求正在重塑百灵大模型，阿福学会望闻问切</title>
-    <link>https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa</link>
-    <guid isPermaLink="false">161-11</guid>
-    <pubDate>Wed, 25 Nov 2026 18:22:30 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>报道指出，蚂蚁百灵大模型在医疗场景中的迭代正由真实问诊需求驱动，旗下健康助手阿福逐步具备更贴近临床流程的问询能力。与单纯堆叠医学知识不同，这一路径强调从实际医疗交互中获取反馈并反哺模型。这与百灵医疗模型的开源动作形成呼应。</description>
-  </item>
-  <item>
-    <title>荣耀 700 系列搭载豆包助手，AI 入口之争浮出水面</title>
-    <link>http://www.geekpark.net/news/374462</link>
-    <guid isPermaLink="false">161-12</guid>
-    <pubDate>Wed, 25 Nov 2026 05:02:43 +0000</pubDate>
-    <source>极客公园</source>
-    <description>荣耀在武汉发布 700 系列三款机型，补贴后 2899 元起，AI 助手正式更名为 AI 手机助手 YOYO 豆包，成为第二款搭载豆包的手机产品。荣耀将 AI 能力围绕背屏与助手展开，同时强调前沿模型可以接入但手机入口不能旁落。这折射出终端厂商与大模型厂商在 AI 手机入口上的博弈。</description>
-  </item>
-  <item>
-    <title>豆包个人 AI 助理小豆开启公测，采用邀请制</title>
-    <link>http://www.geekpark.net/news/374438</link>
-    <guid isPermaLink="false">161-13</guid>
-    <pubDate>Wed, 25 Nov 2026 00:44:18 +0000</pubDate>
-    <source>极客公园</source>
-    <description>豆包官方宣布 AI 个人助理产品小豆正式开启公测，采用邀请制开放，用户凭邀请码体验并可获赠免费额度。小豆以对话式交互在用户明确指令与授权范围内协助处理日常事务，官方称其为能主动办事的豆包。未来相关能力与体验将逐步在豆包 App 上线。</description>
-  </item>
-  <item>
-    <title>逐际动力与商汤大装置合作，以算力支撑机器人仿真训练与测试</title>
-    <link>https://www.qbitai.com/2026/11/512683.html</link>
-    <guid isPermaLink="false">161-14</guid>
-    <pubDate>Wed, 25 Nov 2026 14:20:24 +0000</pubDate>
-    <source>量子位</source>
-    <description>逐际动力与商汤大装置达成合作，围绕机器人仿真训练与测试引入高质量算力支持，目标是贯通具身智能的研发流程。机器人训练对大规模并行仿真与数据生成依赖度高，算力供给直接影响迭代速度。这一合作是具身智能公司与算力平台绑定的又一案例。</description>
-  </item>
-  <item>
-    <title>北京亦庄发布未来机域具身智能国际开源社区建设计划</title>
-    <link>https://finance.sina.cn/2026-11-25/detail-inizykpx1711771.d.html?vt</link>
-    <guid isPermaLink="false">161-15</guid>
-    <pubDate>Thu, 26 Nov 2026 00:12:59 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>北京亦庄发布未来机域具身智能国际开源社区建设计划，拟以开源社区方式汇聚具身智能相关技术与项目资源。该计划延续了亦庄在机器人与智能装备产业上的集聚策略，试图通过开源协作降低具身智能研发的重复投入。具体建设方案与参与主体有待进一步披露。</description>
-  </item>
-  <item>
-    <title>沐曦科学计算全量上云火山引擎，测试效率提升 40%</title>
-    <link>https://www.leiphone.com/category/industrynews/qpNTm1Kc6QN6mVY3.html</link>
-    <guid isPermaLink="false">161-16</guid>
-    <pubDate>Wed, 25 Nov 2026 10:20:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>沐曦股份与火山引擎合作，将科学计算从 IDC 托管逐步迁移至云上并完成全量上云，同配置最新机型测试效率提升 40%。针对 EDA 任务对高主频、大内存与高 I/O 的需求，火山引擎提供高主频云服务器、弹性裸金属及本地 SSD，使流片前可提前锁定资源、低峰期释放非核心资源。双方还在探索 GPU 算力加智能体平台的行业方案。</description>
-  </item>
-  <item>
-    <title>元材新界发布 FrontierMat 材料基准，330 道真实研发难题难住 GPT-6 Astra</title>
-    <link>https://www.leiphone.com/category/industrynews/GMIW0ZLuJPyQHSR4.html</link>
-    <guid isPermaLink="false">161-17</guid>
-    <pubDate>Wed, 25 Nov 2026 11:04:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>元材新界联合清华、北大、中科大、上海交大等高校团队及多家产业公司发布 FrontierMat，这是一套来自真实研发一线、以跨尺度推理为核心的材料基准，包含 330 道真实研发难题。测试显示 GPT-6 Astra 在该基准上表现受挫，而团队自研的跨尺度材料大模型登顶。材料研发的构效关系横跨近十个数量级，现有基准多停留在教科书题目层面。</description>
-  </item>
-  <item>
-    <title>天津大学发布天华开物酶设计大模型</title>
-    <link>https://news.tju.edu.cn/info/1005/622509.htm</link>
-    <guid isPermaLink="false">161-18</guid>
-    <pubDate>Wed, 25 Nov 2026 05:31:07 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>天津大学发布名为天华开物的酶设计大模型，被定位为生物制造领域突破长期技术封锁、锻造新核心竞争力的成果。该模型面向酶设计这一生物制造关键环节，试图以 AI 缩短传统实验筛选周期。相关报道由天津教育报头版刊发。</description>
-  </item>
-  <item>
-    <title>小鹏探索物理 AI 产业化新路径，从技术突破走向规模应用</title>
-    <link>http://jjckb.xinhuanet.com/20261126/c807f760e28a4fd09f47af779b01e312/c.html</link>
-    <guid isPermaLink="false">161-19</guid>
-    <pubDate>Thu, 26 Nov 2026 00:50:53 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>报道称小鹏正从技术突破转向规模应用，探索物理 AI 的产业化路径，覆盖其智能驾驶与机器人相关布局。物理 AI 强调模型与真实物理世界交互，量产场景中的数据闭环是其核心资产。车企在这一方向上的投入正在从研发验证走向规模化落地。</description>
-  </item>
-  <item>
-    <title>中国饭店协会联合千问办公发布酒旅行业 AI 经营白皮书</title>
-    <link>https://www.leiphone.com/category/industrynews/PiVtVm8Sy8CGtTb1.html</link>
-    <guid isPermaLink="false">161-20</guid>
-    <pubDate>Wed, 25 Nov 2026 09:32:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>中国饭店协会与千问办公在 2026 中国饭店业高质量大会上发布酒旅行业白皮书，指出行业增长重心正从标准化转向个性化，AI 渗入筹建、巡检、经营诊断与宾客服务全链条，推动千店千策。截至 2025 年末全国酒店业设施约 37.5 万家，客房连锁化率 41.8%，规模庞大而结构分散。以东呈集团为例，加盟酒店超过 3500 家，前期开发环节已引入 AI 辅助。</description>
-  </item>
-  <item>
-    <title>智谱 GLM-5.4 上线，3 万亿参数 GLM-5.5 预计 12 月发布</title>
-    <link>https://finance.eastmoney.com/a/202611233937248148.html</link>
-    <guid isPermaLink="false">160-1</guid>
-    <pubDate>Tue, 24 Nov 2026 18:10:04 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>智谱新一代大模型 GLM-5.4 正式上线，官方称中国大模型周调用量已连续 30 周位居第一。更大规模的 GLM-5.5 参数达 3 万亿，预计 12 月发布。这显示国产大模型在参数规模与调用活跃度上持续攀升，开源与闭源双线竞争加剧。</description>
-  </item>
-  <item>
-    <title>蚂蚁 OceanBase 发布湖库一体 AI 数据平台 OceanLake，核心引擎全球开源</title>
-    <link>https://www.qbitai.com/2026/11/512330.html</link>
-    <guid isPermaLink="false">160-2</guid>
-    <pubDate>Tue, 24 Nov 2026 03:30:46 +0000</pubDate>
-    <source>量子位</source>
-    <description>OceanBase 发布湖库一体 AI 数据平台 OceanLake，并宣布开源核心引擎 AI 数据库 OceanSeek。CTO 杨传辉透露，面向 Agent 调用的 MCP 访问量半年增长约 13.36 倍，传统在线与离线分离架构难以支撑。此举意在为 Agent 时代提供统一数据底座，降低企业 AI 应用门槛。</description>
-  </item>
-  <item>
-    <title>摩尔线程发布新版夸娥 AI 训练套件，国产算力支撑万卡万亿大模型训练</title>
-    <link>https://finance.eastmoney.com/a/202611243938306420.html</link>
-    <guid isPermaLink="false">160-3</guid>
-    <pubDate>Tue, 24 Nov 2026 08:31:29 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>摩尔线程推出新版本夸娥 AI 训练套件，宣称可支撑万卡规模、万亿参数大模型的工业化训练。这标志着国产 GPU 在训练软件栈与集群能力上进一步补强，试图缓解高端算力受限对国内大模型研发的制约。</description>
-  </item>
-  <item>
-    <title>文心 5.5 Flash Preview 正式开源，采用 Apache 2.0 协议</title>
-    <link>https://www.qbitai.com/2026/11/512354.html</link>
-    <guid isPermaLink="false">160-4</guid>
-    <pubDate>Tue, 24 Nov 2026 06:22:28 +0000</pubDate>
-    <source>量子位</source>
-    <description>百度文心 5.5 Flash Preview 以 Apache 2.0 协议开源，允许商用与修改。这是百度在大模型开源路线上的重要一步，此前其主力模型多以闭源 API 形式提供。开源有望吸引更多开发者基于文心生态构建应用。</description>
-  </item>
-  <item>
-    <title>蚂蚁开源医疗健康预测模型 LingSante Pulse，可预测未来六年 150 种疾病风险</title>
-    <link>https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html</link>
-    <guid isPermaLink="false">160-5</guid>
-    <pubDate>Tue, 24 Nov 2026 03:13:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>蚂蚁百灵开源医疗健康预测模型 LingSante Pulse，能统一处理脑电、心电、脉搏波、肌电等多种生理信号，基于超 15 万小时数据预训练。评测中可预测未来六年内 150 种疾病表型，高可靠性病种数量比此前最优模型增加约 42%。</description>
-  </item>
-  <item>
-    <title>鸿蒙终端设备数破亿，注册开发者超 1200 万、可获取应用服务超 46 万</title>
-    <link>https://www.ithome.com/1/031/891.htm</link>
-    <guid isPermaLink="false">160-6</guid>
-    <pubDate>Tue, 24 Nov 2026 15:00:13 +0000</pubDate>
-    <source>IT之家</source>
-    <description>华为宣布鸿蒙 HarmonyOS 终端设备数突破 1 亿，注册开发者超 1200 万，可获取应用和服务超 46 万。开源鸿蒙已有 1.4 万余名贡献者、120 余个行业发行版。鸿蒙生态跨越规模临界点，成为中国自主操作系统规模化应用的重要进展。</description>
-  </item>
-  <item>
-    <title>豆包工作下调多款模型消耗倍率，超八成日常任务可免费完成</title>
-    <link>https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html</link>
-    <guid isPermaLink="false">160-7</guid>
-    <pubDate>Tue, 24 Nov 2026 01:47:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>豆包工作接入 DeepSeek V4.1 Flash、豆包 2.1 Lite 等多款第三方模型，将高频模型额度消耗倍率下调至 0.01。实测显示超八成日常办公任务可免费完成，使用 DeepSeek V4.1 Flash 执行 50 项办公任务平均花费仅 0.065 元，约为同类 Agent 产品的 10%。</description>
-  </item>
-  <item>
-    <title>蚂蚁阿福发布新版 App，开源医疗健康模型家族 LingSante</title>
-    <link>https://www.leiphone.com/category/medigital/P6Ota0mqLwk8wsN2.html</link>
-    <guid isPermaLink="false">160-8</guid>
-    <pubDate>Tue, 24 Nov 2026 07:13:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>蚂蚁阿福在医疗健康生态大会上发布新版 App，上线实时视频“看健康”功能，推出 AI 健康手环和戒指，并首次集中展示医疗健康模型家族 LingSante，两款核心模型同步开源。此举意在从 C 端入口延伸至院外健康管理，连接医生、医院、硬件与保险。</description>
-  </item>
-  <item>
-    <title>自变量发布具身基础模型 WALL-OSS-1.0，零样本成功率 55.1%</title>
-    <link>https://www.tmtpost.com/8216666.html</link>
-    <guid isPermaLink="false">160-9</guid>
-    <pubDate>Tue, 24 Nov 2026 13:09:16 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>自变量机器人发布具身基础模型 WALL-OSS-1.0，将“理解世界”与“执行动作”统一在同一模型中，自测零样本任务成功率达 55.1%。该模型面向通用机器人操作，强调跨场景泛化能力。</description>
-  </item>
-  <item>
-    <title>华为星芒 OSTA O1 Pro 亮相，以 AI Launcher 推进手机 AI</title>
-    <link>http://www.geekpark.net/news/374417</link>
-    <guid isPermaLink="false">160-10</guid>
-    <pubDate>Tue, 24 Nov 2026 07:47:16 +0000</pubDate>
-    <source>极客公园</source>
-    <description>华为新品牌星芒首款产品 OSTA O1 Pro 曝光，采用阔直板形态，以 AI Launcher 为核心重构手机交互。极客公园试用认为，这是大厂在手机 AI 光谱上向 AI 手机迈进的一小步，区别于字节、阶跃等挑战者的助手路线。</description>
-  </item>
-  <item>
-    <title>百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业出海</title>
-    <link>https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html</link>
-    <guid isPermaLink="false">160-11</guid>
-    <pubDate>Tue, 24 Nov 2026 08:33:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>百度智能云联合香港特区政府商务及经济发展局、创新科技署及智平方、零次方、众擎等企业发起香港前沿科技产业发展联盟，聚焦人工智能、智能装备、数字经济，搭建技术、场景、资本与国际资源对接平台。百度智能云将建设具身智能 AI 基础设施，支持模型训练、仿真与推理部署。</description>
-  </item>
-  <item>
-    <title>阶跃星辰布局终端生态，从模型到芯片握紧关键环节</title>
-    <link>https://www.tmtpost.com/8215895.html</link>
-    <guid isPermaLink="false">160-12</guid>
-    <pubDate>Tue, 24 Nov 2026 09:15:51 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>阶跃星辰正从模型向终端生态延伸，试图将芯片等关键环节握在手中。钛媒体分析认为，其终端生态目前仍带有较强的“熟人局”色彩，能否形成开放生态尚待观察。</description>
-  </item>
-  <item>
-    <title>支付宝参与共建公积金智能化应用，政务 AI 助手月活超 1500 万</title>
-    <link>https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html</link>
-    <guid isPermaLink="false">160-13</guid>
-    <pubDate>Tue, 24 Nov 2026 01:44:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>《住房公积金智能化应用创新案例集》发布，17 个地方案例中 10 个采用支付宝民生办事 AI 全场景解决方案。支付宝“晓政”已合作上线超 120 个官方智能体，接入 1000 余项 MCP 服务，月活跃用户超 1500 万。</description>
-  </item>
-  <item>
-    <title>辛米尔首提“端侧超节点”，端侧 AI 组队计算效率提升 270%</title>
-    <link>https://www.qbitai.com/2026/11/512362.html</link>
-    <guid isPermaLink="false">160-14</guid>
-    <pubDate>Tue, 24 Nov 2026 06:35:06 +0000</pubDate>
-    <source>量子位</source>
-    <description>辛米尔提出“端侧超节点”概念，让多台端侧设备组队协同计算，宣称 AI 效率提升 270%，且无需更换芯片或模型。该方案试图打通物理 AI 规模化落地的算力瓶颈。</description>
-  </item>
-  <item>
-    <title>开源 AI 助手 MateClaw 3.1.0 发布，完善技能经验与长任务可靠性</title>
-    <link>https://www.oschina.net/news/503782</link>
-    <guid isPermaLink="false">160-15</guid>
-    <pubDate>Tue, 24 Nov 2026 09:36:52 +0000</pubDate>
-    <source>开源中国</source>
-    <description>开源 AI 助手项目 MateClaw 发布 3.1.0 版本，将对话、记忆、知识库、技能和自动化整合在同一工作台，支持员工与团队协作及多渠道接入。此次更新聚焦执行架构升级、技能经验沉淀与长任务可靠性完善。</description>
-  </item>
-  <item>
-    <title>GLM-5.4 上线 Coding Plan，百灵医疗大模型开源，ZHU·GE 地球系统平台发布</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MEa--JnwS1zlFpVq6Ggp2zVqXa8Fplpd9Gj8aVGeC-_nxJov5ykTcFT2fdqdzkw4RRqEkC3bFQ_7NQR9dv01e5186KJhEjA0cO1to5uoua8FkN14Fzb3gdL61TOHN5D00jP6dCaGMXyadIwDpd5s0hUBvLucNwAo_nBbAFORqKnosrwiLwA_NNViXH0qV-G4BMGPHmBQeuddQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&amp;token=BF9FE40296BE7B61040265FE619215DD059892AD6B04D385</link>
-    <guid isPermaLink="false">159-1</guid>
-    <pubDate>Mon, 23 Nov 2026 23:31:12 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>智谱新一代大模型 GLM-5.4 上线 Coding Plan，面向代码生成场景提供专项能力；同日百灵医疗大模型宣布全面开源，ZHU·GE 地球系统平台发布。多条国产模型与平台消息集中释放，显示国产大模型在代码、医疗、地球科学等垂直领域加速迭代。</description>
-  </item>
-  <item>
-    <title>蚂蚁阿福同款大模型宣布开源，全球医生一台电脑即可解锁专业医疗 AI 能力</title>
-    <link>https://www.qbitai.com/2026/11/511998.html</link>
-    <guid isPermaLink="false">159-2</guid>
-    <pubDate>Mon, 23 Nov 2026 03:56:34 +0000</pubDate>
-    <source>量子位</source>
-    <description>蚂蚁阿福宣布开源其医疗健康大模型，全球医生通过一台电脑即可本地部署使用专业医疗 AI 能力。该模型基于蚂蚁百灵医疗健康系列 LingSante，涵盖语言模型、健康预测与医疗安全防护模块，降低医疗 AI 的使用门槛。</description>
-  </item>
-  <item>
-    <title>蚂蚁阿福 App 新版发布：实时视频“望闻问切”上线，小毛小病在家搞定</title>
-    <link>https://www.leiphone.com/category/industrynews/YXUz5sDMtx6SzE3P.html</link>
-    <guid isPermaLink="false">159-3</guid>
-    <pubDate>Mon, 23 Nov 2026 03:47:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>蚂蚁阿福发布新版 App，基于百灵医疗健康系列模型新增实时视频“看健康”功能，用户可通过视频电话让 AI 分析症状、药品与报告，并联动真人医生在线把关。同时升级 AI 健康管家，发布 AI 健康手环与戒指，扩展健康硬件品类。</description>
-  </item>
-  <item>
-    <title>蚂蚁 CEO 韩歆毅：AI 拓宽人类健康自塑边界，1.5 亿人已用阿福管健康</title>
-    <link>https://www.leiphone.com/category/industrynews/VK4viDe2WQp64rON.html</link>
-    <guid isPermaLink="false">159-4</guid>
-    <pubDate>Mon, 23 Nov 2026 04:10:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>蚂蚁集团 CEO 韩歆毅在蚂蚁阿福医疗健康生态大会上表示，AI 正推动健康管理从“千人一方”走向“一人一方”，目前已有 1.5 亿人使用阿福管理健康。他强调 AI 促进健康的价值不亚于 AI 制药，健康领域应用潜力巨大。</description>
-  </item>
-  <item>
-    <title>国内首个：蚂蚁阿福医生版上线循证金标准 UpToDate，打造全场景医生 AI 工作台</title>
-    <link>https://www.leiphone.com/category/industrynews/Ljtu9TVFrPPeiBsX.html</link>
-    <guid isPermaLink="false">159-5</guid>
-    <pubDate>Mon, 23 Nov 2026 03:38:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>蚂蚁阿福医生版发布 PC 工作台，并接入威科集团循证医学临床决策支持方案 UpToDate，成为国内首个接入该功能的 AI 平台。全国医生、护士及药师可限时免费试用，双端打通覆盖诊前、诊中、诊后全场景。</description>
-  </item>
-  <item>
-    <title>关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切</title>
-    <link>http://www.geekpark.net/news/374301</link>
-    <guid isPermaLink="false">159-6</guid>
-    <pubDate>Sun, 22 Nov 2026 01:56:28 +0000</pubDate>
-    <source>极客公园</source>
-    <description>腾讯首席 AI 科学家姚顺雨率混元团队在 Reddit 举行首次全球公开 AMA，两小时内回答 300 余条开发者提问，覆盖架构取舍、量化落地与开源生态。混元 Hy4 此前已跻身全球最强开源模型之列，Hy4 flash 单任务成本仅为 Hy4 的二十分之一，上线首日 Token 调用量突破 50 万亿。</description>
-  </item>
-  <item>
-    <title>GLM-5.4 来了：国产大模型还能追上吗？</title>
-    <link>https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS4wOagRgUm_MrFbsBncf05FFpVq6Ggp2zVqXa8Fplpd9_x2RXE3z7yHTvVY_p4iDhZrgGBhtrT-zGtjNCDiLg4LVL1nKN2RyEDFkKQxoSOZ4dqWNdml6sXQPy5PuWi80c2QXpp5sYDODczYpAtrkEzH0G1AzURA1uH4-yYpTz2W2ygUSXtR3ccsbWBBIfamoKx7XaACqTzTb2dd-u-xTLcxQL0Hr9Gyd3Q..&amp;type=2&amp;query=%E5%9B%BD%E4%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B&amp;token=BFA016A796BE7B61040265FE619215DD059892AD6B04D38E</link>
-    <guid isPermaLink="false">159-7</guid>
-    <pubDate>Mon, 23 Nov 2026 13:20:25 +0000</pubDate>
-    <source>微信公众号</source>
-    <description>智谱 GLM-5.4 发布后引发讨论，有观点认为国产大模型与国外顶级闭源模型之间已出现至少两代的代际差距。文章指出这一说法虽非严格技术指标，但反映了业界对国产模型追赶节奏的担忧。</description>
   </item>
 </channel></rss>
