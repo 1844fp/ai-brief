@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:32:25.828460",
+ "generated_at": "2026-11-27T08:14:26.947861",
  "base_url": "https://1844fp.github.io/ai-brief/",
  "tasks": {
   "github_weekly": {
@@ -19,6 +19,15 @@
   }
  },
  "reports": [
+  {
+   "id": 162,
+   "task": "news_daily_cn",
+   "title": "国内 AI 每日要闻 · 2026-11-27",
+   "created_at": "2026-11-27T00:14:25.979872+00:00",
+   "item_count": 18,
+   "llm_ok": true,
+   "url": "reports/2026-11-27/news_daily_cn-081425.html"
+  },
   {
    "id": 161,
    "task": "news_daily_cn",
@@ -1398,6 +1407,222 @@
   }
  ],
  "items": [
+  {
+   "task": "news_daily_cn",
+   "rank": 1,
+   "title": "广东发文鼓励算力中心优先使用国产算力芯片",
+   "url": "https://www.mrjjxw.com/articles/2026-11-26/4659776.html",
+   "source": "Google News 中文",
+   "summary": "广东省在推动低轨宽带卫星星座与在轨计算存储能力基础研究的同时，明确鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模。该政策还支持珠江口西岸都市圈探索海底数据中心建设，从芯片、网络到数据中心形成系统性算力基建布局。此举为国产 AI 芯片厂商提供了明确的地方政策信号与需求入口。",
+   "why": null,
+   "category": "政策与算力",
+   "heat": 5,
+   "published": "2026-11-26T22:56:03+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 2,
+   "title": "Sand.ai 开源 480B 参数 MAGI-2 视频模型，每秒定价 0.5 元",
+   "url": "http://www.geekpark.net/news/374532",
+   "source": "极客公园",
+   "summary": "Sand.ai 发布 480B 总参数的 MAGI-2 音视频统一模型，支持单次最长 30 秒 1080P 带原生音频生成，官方定价每秒 0.5 元，称仅为同规格主流模型的十分之一，并计划尽快开源全量权重。该模型将此前闭源厂商掌握的 Seedance 2.5 级别能力直接交到开发者手中，可能重塑视频生成模型的竞争格局与定价体系。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 5,
+   "published": "2026-11-26T08:38:54+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 3,
+   "title": "生数科技直播 25 天训练 Motubrain 2.0，20B 世界动作模型即将开源",
+   "url": "https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html",
+   "source": "雷锋网",
+   "summary": "生数科技发布 Motubrain 2.0，包含 20B 参数的世界动作模型（WAM）与 Motubrain-Harness 智能体系统，并宣布近期开源。团队将预训练全程公开直播：25 天、600 小时、20 万步训练、5624 次有效真机评测，期间曾因夹爪开关标注反了导致成功率下降，最终推倒重训。这种透明化训练方式为具身智能的可复现研究提供了罕见样本。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 5,
+   "published": "2026-11-26T12:50:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 4,
+   "title": "MiniMax 内部模型 MIM 破译多个 NIST 密码候选方案，效率提升 43400 倍",
+   "url": "https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html",
+   "source": "雷锋网",
+   "summary": "MiniMax 最新内部模型 MIM 接连攻破多个 NIST 密码候选方案和顶会前沿成果，在 TII McEliece 中恢复 94 个私钥，其中 55 个为全球首次攻克，破译效率提升 43400 倍。该成果被哥伦比亚大学终身教授、量子密码学专家 Henry Yuen 作为前沿案例引入学术演讲，显示国产模型在 AI for Science 的密码分析方向上已具备实质科研产出能力。",
+   "why": null,
+   "category": "AI for Science",
+   "heat": 4,
+   "published": "2026-11-26T02:23:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 5,
+   "title": "国产大模型集体进军 AI4S，年内融资突破 200 亿元",
+   "url": "https://t.cj.sina.cn/articles/view/5044281310/12ca99fde02002m4cl",
+   "source": "Google News 中文",
+   "summary": "多家国产大模型厂商正从通用对话转向 AI for Science，年内该方向融资规模已突破 200 亿元。报道指出，大模型的应用重心正从“会聊天”转向“做科研”，覆盖数学、密码学、生物医药等需要复杂推理的领域。这一转向意味着模型厂商的竞争维度从参数规模扩展到科研场景的深度验证。",
+   "why": null,
+   "category": "行业趋势",
+   "heat": 4,
+   "published": "2026-11-26T23:11:42+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 6,
+   "title": "阿里加速转向国产算力的核心逻辑被误读",
+   "url": "https://www.tmtpost.com/8218607.html",
+   "source": "钛媒体",
+   "summary": "钛媒体分析指出，阿里加速转向国产算力的核心逻辑并非仅仅是自主可控，还包括成本结构、供应链稳定性与业务规模的综合考量。文章认为外界将这一转向简单归结为政策驱动，忽略了国产芯片在特定推理场景下的性价比与交付确定性。该分析为理解大厂算力采购决策提供了更完整的视角。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-26T10:38:49+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 7,
+   "title": "英伟达据报暂停向泰国、马来西亚、新加坡、印尼发运搭载其芯片的服务器",
+   "url": "https://hub.baai.ac.cn/view/60077",
+   "source": "Google News 中文",
+   "summary": "据 FT 报道，英伟达已告知 Dell、Supermicro 等合作伙伴，停止向泰国、马来西亚、新加坡和印度尼西亚发运搭载其芯片的服务器。该举措涉及四个东南亚国家，可能影响当地 AI 算力部署节奏，并促使区域客户转向其他供应来源。多家媒体报道了这一出口管制范围的延伸。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 4,
+   "published": "2026-11-26T18:51:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 8,
+   "title": "国家数据局：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益",
+   "url": "https://www.tmtpost.com/8219586.html",
+   "source": "钛媒体",
+   "summary": "国家数据局明确要求人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益，为 AI 训练数据与产品应用划出合规边界。该表态出现在《服务贸易发展“十五五”规划》印发等多项政策同期发布的背景下，显示监管层在推动 AI 产业发展的同时同步强化数据权益保护。对依赖大规模数据训练的模型厂商而言，数据来源合规将成为硬约束。",
+   "why": null,
+   "category": "政策与监管",
+   "heat": 4,
+   "published": "2026-11-26T23:20:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 9,
+   "title": "万亿级算力产业链迎利好，广东鼓励算力中心优先使用国产芯片",
+   "url": "https://wap.eastmoney.com/a/202611263940966497.html",
+   "source": "Google News 中文",
+   "summary": "东方财富网报道称，广东鼓励算力中心优先使用国产算力芯片的政策将带动万亿级算力产业链。该政策与低轨卫星星座、海底数据中心等基建规划形成组合，从需求端为国产 AI 芯片创造规模化应用场景。市场将其解读为国产算力产业链的明确利好信号。",
+   "why": null,
+   "category": "政策与算力",
+   "heat": 4,
+   "published": "2026-11-26T21:11:15+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 10,
+   "title": "中国开源视频模型拿下全球第一，商用级 AI 视频每秒仅 0.5 元",
+   "url": "https://www.qbitai.com/2026/11/512916.html",
+   "source": "量子位",
+   "summary": "量子位报道称，中国开源新势力在 AI 视频生成领域拿下全球第一，支持 30 秒一镜到底并自动编排镜头，商用级生成价格降至每秒 0.5 元。该能力与定价直接对标闭源头部模型，显示开源视频模型在质量与成本两个维度同时逼近商用门槛。对内容创作与广告营销行业而言，视频生成的成本结构正在被改写。",
+   "why": null,
+   "category": "开源模型",
+   "heat": 4,
+   "published": "2026-11-26T06:41:23+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 11,
+   "title": "蔚来发布世界模型 3.0，智驾训练提效 5 倍并用于座舱强化学习",
+   "url": "https://www.qbitai.com/2026/11/512897.html",
+   "source": "量子位",
+   "summary": "蔚来发布世界模型 3.0，称智驾训练效率提升 5 倍，并将强化学习引入座舱系统。李斌在发布会上坦言，不做 AI 变革可能活不下去，显示蔚来将 AI 能力视为生存级战略。该进展意味着车企的竞争焦点正从硬件配置转向世界模型与训练效率。",
+   "why": null,
+   "category": "智能驾驶",
+   "heat": 4,
+   "published": "2026-11-26T03:23:35+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 12,
+   "title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
+   "url": "https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html",
+   "source": "雷锋网",
+   "summary": "香港科技大学教授、前苹果空间智能首席科学家权龙二次创业，成立 Envision AI（格秩科技），目标是打造通用的空间物理原生基础模型，将文本、图像、空间与物理信息统一进同一体系。权龙是三维视觉六点算法的提出者，曾担任 ICCV 2011 与 CVPR 2022 两届大会主席。该创业方向瞄准物理 AI 的“ChatGPT 时刻”。",
+   "why": null,
+   "category": "具身智能",
+   "heat": 3,
+   "published": "2026-11-26T02:09:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 13,
+   "title": "美团酒店 AI 工具“既白”预计年底覆盖近 40 万商家",
+   "url": "https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html",
+   "source": "雷锋网",
+   "summary": "美团披露酒店 AI 经营工具“妙手酒店版·既白”的最新进展，预计到 2026 年底覆盖近 40 万家酒店商家。数据显示，11 月以来既白活跃商家的线上交易额较未使用商家高 7%，深度使用商家的订单量同比增长 22%。商家使用场景正从数据查询延伸至价格建议与经营诊断，AI 工具开始进入酒店经营决策环节。",
+   "why": null,
+   "category": "行业落地",
+   "heat": 3,
+   "published": "2026-11-26T11:20:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 14,
+   "title": "景嘉微边端侧 AI SoC 芯片 CH37 系列小批量交付",
+   "url": "http://laoyaoba.com/n/1147567",
+   "source": "Google News 中文",
+   "summary": "景嘉微宣布其边端侧 AI SoC 芯片 CH37 系列已进入小批量交付阶段。该系列面向边缘与终端侧 AI 推理场景，标志着国产 GPU 厂商从图形显控向边端 AI 计算芯片延伸。小批量交付意味着产品进入客户验证与早期放量阶段。",
+   "why": null,
+   "category": "算力与芯片",
+   "heat": 3,
+   "published": "2026-11-26T23:02:09+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 15,
+   "title": "格灵深瞳联合发布端侧多模态大模型，边缘计算盒子已完成适配",
+   "url": "https://stock.stockstar.com/RB2026112700006061.shtml",
+   "source": "Google News 中文",
+   "summary": "格灵深瞳回应端侧 AI 话题，宣布联合发布端侧多模态大模型，并已完成边缘计算盒子的适配。该进展将多模态大模型能力下沉到边缘设备，减少对云端推理的依赖。对安防、工业检测等对时延与数据本地化敏感的场景具有直接价值。",
+   "why": null,
+   "category": "端侧 AI",
+   "heat": 3,
+   "published": "2026-11-26T23:05:58+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 16,
+   "title": "首个农耕文明领域大模型“天稷”发布",
+   "url": "https://news.youth.cn/gn/202611/t20261127_16986394.htm",
+   "source": "Google News 中文",
+   "summary": "首个面向农耕文明领域的大模型“天稷”正式发布。该模型将大模型能力垂直应用于农业知识与农耕文化场景，属于行业大模型在细分领域的延伸。其实际效果与数据基础尚待进一步披露。",
+   "why": null,
+   "category": "行业模型",
+   "heat": 2,
+   "published": "2026-11-26T22:48:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 17,
+   "title": "研究显示污染 0.1% 预训练数据即可给 AI 智能体植入难以清除的后门",
+   "url": "https://www.oschina.net/news/503823",
+   "source": "Google News 中文",
+   "summary": "一篇题为《Agentic Backdoors via Pretraining Poisoning》的论文指出，仅污染 0.1% 的预训练数据就能给 AI 智能体埋下后门，且用完全干净的数据做微调和强化学习也无法清除。作者来自加州大学伯克利分校、伊利诺伊大学厄巴纳-香槟分校和 Anthropic。该结论对开源模型与第三方数据供应链的安全审查提出更高要求。",
+   "why": null,
+   "category": "AI 安全",
+   "heat": 3,
+   "published": "2026-11-26T11:58:00+00:00"
+  },
+  {
+   "task": "news_daily_cn",
+   "rank": 18,
+   "title": "讯飞语音大模型能力全解：从语音基座到语音应用",
+   "url": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe",
+   "source": "InfoQ 中文",
+   "summary": "InfoQ 发布讯飞语音大模型能力解读，梳理其从语音基座模型到上层语音应用的完整技术栈。内容覆盖语音识别、合成与交互等能力如何通过大模型统一，并落到具体应用场景。该梳理为理解国产语音大模型的工程化路径提供了参考。",
+   "why": null,
+   "category": "语音大模型",
+   "heat": 2,
+   "published": "2026-11-26T10:29:57+00:00"
+  },
   {
    "task": "news_daily_cn",
    "rank": 1,

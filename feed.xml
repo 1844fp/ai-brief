@@ -3,7 +3,151 @@
   <title>AI 情报助手 · 简报订阅</title>
   <link>https://1844fp.github.io/ai-brief/</link>
   <description>每周 GitHub AI 高星项目 / 每日国内外 AI 要闻 / 每周数据资产周报</description>
-  <lastBuildDate>Thu, 26 Nov 2026 09:32:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 08:14:26 +0000</lastBuildDate>
+  <item>
+    <title>广东发文鼓励算力中心优先使用国产算力芯片</title>
+    <link>https://www.mrjjxw.com/articles/2026-11-26/4659776.html</link>
+    <guid isPermaLink="false">162-1</guid>
+    <pubDate>Thu, 26 Nov 2026 22:56:03 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>广东省在推动低轨宽带卫星星座与在轨计算存储能力基础研究的同时，明确鼓励算力中心优先使用国产算力芯片，提升国产化替代水平和应用规模。该政策还支持珠江口西岸都市圈探索海底数据中心建设，从芯片、网络到数据中心形成系统性算力基建布局。此举为国产 AI 芯片厂商提供了明确的地方政策信号与需求入口。</description>
+  </item>
+  <item>
+    <title>Sand.ai 开源 480B 参数 MAGI-2 视频模型，每秒定价 0.5 元</title>
+    <link>http://www.geekpark.net/news/374532</link>
+    <guid isPermaLink="false">162-2</guid>
+    <pubDate>Thu, 26 Nov 2026 08:38:54 +0000</pubDate>
+    <source>极客公园</source>
+    <description>Sand.ai 发布 480B 总参数的 MAGI-2 音视频统一模型，支持单次最长 30 秒 1080P 带原生音频生成，官方定价每秒 0.5 元，称仅为同规格主流模型的十分之一，并计划尽快开源全量权重。该模型将此前闭源厂商掌握的 Seedance 2.5 级别能力直接交到开发者手中，可能重塑视频生成模型的竞争格局与定价体系。</description>
+  </item>
+  <item>
+    <title>生数科技直播 25 天训练 Motubrain 2.0，20B 世界动作模型即将开源</title>
+    <link>https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html</link>
+    <guid isPermaLink="false">162-3</guid>
+    <pubDate>Thu, 26 Nov 2026 12:50:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>生数科技发布 Motubrain 2.0，包含 20B 参数的世界动作模型（WAM）与 Motubrain-Harness 智能体系统，并宣布近期开源。团队将预训练全程公开直播：25 天、600 小时、20 万步训练、5624 次有效真机评测，期间曾因夹爪开关标注反了导致成功率下降，最终推倒重训。这种透明化训练方式为具身智能的可复现研究提供了罕见样本。</description>
+  </item>
+  <item>
+    <title>MiniMax 内部模型 MIM 破译多个 NIST 密码候选方案，效率提升 43400 倍</title>
+    <link>https://www.leiphone.com/category/yanxishe/T2xmmiMAC6WbuuCM.html</link>
+    <guid isPermaLink="false">162-4</guid>
+    <pubDate>Thu, 26 Nov 2026 02:23:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>MiniMax 最新内部模型 MIM 接连攻破多个 NIST 密码候选方案和顶会前沿成果，在 TII McEliece 中恢复 94 个私钥，其中 55 个为全球首次攻克，破译效率提升 43400 倍。该成果被哥伦比亚大学终身教授、量子密码学专家 Henry Yuen 作为前沿案例引入学术演讲，显示国产模型在 AI for Science 的密码分析方向上已具备实质科研产出能力。</description>
+  </item>
+  <item>
+    <title>国产大模型集体进军 AI4S，年内融资突破 200 亿元</title>
+    <link>https://t.cj.sina.cn/articles/view/5044281310/12ca99fde02002m4cl</link>
+    <guid isPermaLink="false">162-5</guid>
+    <pubDate>Thu, 26 Nov 2026 23:11:42 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>多家国产大模型厂商正从通用对话转向 AI for Science，年内该方向融资规模已突破 200 亿元。报道指出，大模型的应用重心正从“会聊天”转向“做科研”，覆盖数学、密码学、生物医药等需要复杂推理的领域。这一转向意味着模型厂商的竞争维度从参数规模扩展到科研场景的深度验证。</description>
+  </item>
+  <item>
+    <title>阿里加速转向国产算力的核心逻辑被误读</title>
+    <link>https://www.tmtpost.com/8218607.html</link>
+    <guid isPermaLink="false">162-6</guid>
+    <pubDate>Thu, 26 Nov 2026 10:38:49 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>钛媒体分析指出，阿里加速转向国产算力的核心逻辑并非仅仅是自主可控，还包括成本结构、供应链稳定性与业务规模的综合考量。文章认为外界将这一转向简单归结为政策驱动，忽略了国产芯片在特定推理场景下的性价比与交付确定性。该分析为理解大厂算力采购决策提供了更完整的视角。</description>
+  </item>
+  <item>
+    <title>英伟达据报暂停向泰国、马来西亚、新加坡、印尼发运搭载其芯片的服务器</title>
+    <link>https://hub.baai.ac.cn/view/60077</link>
+    <guid isPermaLink="false">162-7</guid>
+    <pubDate>Thu, 26 Nov 2026 18:51:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>据 FT 报道，英伟达已告知 Dell、Supermicro 等合作伙伴，停止向泰国、马来西亚、新加坡和印度尼西亚发运搭载其芯片的服务器。该举措涉及四个东南亚国家，可能影响当地 AI 算力部署节奏，并促使区域客户转向其他供应来源。多家媒体报道了这一出口管制范围的延伸。</description>
+  </item>
+  <item>
+    <title>国家数据局：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益</title>
+    <link>https://www.tmtpost.com/8219586.html</link>
+    <guid isPermaLink="false">162-8</guid>
+    <pubDate>Thu, 26 Nov 2026 23:20:00 +0000</pubDate>
+    <source>钛媒体</source>
+    <description>国家数据局明确要求人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益，为 AI 训练数据与产品应用划出合规边界。该表态出现在《服务贸易发展“十五五”规划》印发等多项政策同期发布的背景下，显示监管层在推动 AI 产业发展的同时同步强化数据权益保护。对依赖大规模数据训练的模型厂商而言，数据来源合规将成为硬约束。</description>
+  </item>
+  <item>
+    <title>万亿级算力产业链迎利好，广东鼓励算力中心优先使用国产芯片</title>
+    <link>https://wap.eastmoney.com/a/202611263940966497.html</link>
+    <guid isPermaLink="false">162-9</guid>
+    <pubDate>Thu, 26 Nov 2026 21:11:15 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>东方财富网报道称，广东鼓励算力中心优先使用国产算力芯片的政策将带动万亿级算力产业链。该政策与低轨卫星星座、海底数据中心等基建规划形成组合，从需求端为国产 AI 芯片创造规模化应用场景。市场将其解读为国产算力产业链的明确利好信号。</description>
+  </item>
+  <item>
+    <title>中国开源视频模型拿下全球第一，商用级 AI 视频每秒仅 0.5 元</title>
+    <link>https://www.qbitai.com/2026/11/512916.html</link>
+    <guid isPermaLink="false">162-10</guid>
+    <pubDate>Thu, 26 Nov 2026 06:41:23 +0000</pubDate>
+    <source>量子位</source>
+    <description>量子位报道称，中国开源新势力在 AI 视频生成领域拿下全球第一，支持 30 秒一镜到底并自动编排镜头，商用级生成价格降至每秒 0.5 元。该能力与定价直接对标闭源头部模型，显示开源视频模型在质量与成本两个维度同时逼近商用门槛。对内容创作与广告营销行业而言，视频生成的成本结构正在被改写。</description>
+  </item>
+  <item>
+    <title>蔚来发布世界模型 3.0，智驾训练提效 5 倍并用于座舱强化学习</title>
+    <link>https://www.qbitai.com/2026/11/512897.html</link>
+    <guid isPermaLink="false">162-11</guid>
+    <pubDate>Thu, 26 Nov 2026 03:23:35 +0000</pubDate>
+    <source>量子位</source>
+    <description>蔚来发布世界模型 3.0，称智驾训练效率提升 5 倍，并将强化学习引入座舱系统。李斌在发布会上坦言，不做 AI 变革可能活不下去，显示蔚来将 AI 能力视为生存级战略。该进展意味着车企的竞争焦点正从硬件配置转向世界模型与训练效率。</description>
+  </item>
+  <item>
+    <title>前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型</title>
+    <link>https://www.leiphone.com/category/academic/S12DTjaFWmIPkwCk.html</link>
+    <guid isPermaLink="false">162-12</guid>
+    <pubDate>Thu, 26 Nov 2026 02:09:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>香港科技大学教授、前苹果空间智能首席科学家权龙二次创业，成立 Envision AI（格秩科技），目标是打造通用的空间物理原生基础模型，将文本、图像、空间与物理信息统一进同一体系。权龙是三维视觉六点算法的提出者，曾担任 ICCV 2011 与 CVPR 2022 两届大会主席。该创业方向瞄准物理 AI 的“ChatGPT 时刻”。</description>
+  </item>
+  <item>
+    <title>美团酒店 AI 工具“既白”预计年底覆盖近 40 万商家</title>
+    <link>https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html</link>
+    <guid isPermaLink="false">162-13</guid>
+    <pubDate>Thu, 26 Nov 2026 11:20:00 +0000</pubDate>
+    <source>雷锋网</source>
+    <description>美团披露酒店 AI 经营工具“妙手酒店版·既白”的最新进展，预计到 2026 年底覆盖近 40 万家酒店商家。数据显示，11 月以来既白活跃商家的线上交易额较未使用商家高 7%，深度使用商家的订单量同比增长 22%。商家使用场景正从数据查询延伸至价格建议与经营诊断，AI 工具开始进入酒店经营决策环节。</description>
+  </item>
+  <item>
+    <title>景嘉微边端侧 AI SoC 芯片 CH37 系列小批量交付</title>
+    <link>http://laoyaoba.com/n/1147567</link>
+    <guid isPermaLink="false">162-14</guid>
+    <pubDate>Thu, 26 Nov 2026 23:02:09 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>景嘉微宣布其边端侧 AI SoC 芯片 CH37 系列已进入小批量交付阶段。该系列面向边缘与终端侧 AI 推理场景，标志着国产 GPU 厂商从图形显控向边端 AI 计算芯片延伸。小批量交付意味着产品进入客户验证与早期放量阶段。</description>
+  </item>
+  <item>
+    <title>格灵深瞳联合发布端侧多模态大模型，边缘计算盒子已完成适配</title>
+    <link>https://stock.stockstar.com/RB2026112700006061.shtml</link>
+    <guid isPermaLink="false">162-15</guid>
+    <pubDate>Thu, 26 Nov 2026 23:05:58 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>格灵深瞳回应端侧 AI 话题，宣布联合发布端侧多模态大模型，并已完成边缘计算盒子的适配。该进展将多模态大模型能力下沉到边缘设备，减少对云端推理的依赖。对安防、工业检测等对时延与数据本地化敏感的场景具有直接价值。</description>
+  </item>
+  <item>
+    <title>首个农耕文明领域大模型“天稷”发布</title>
+    <link>https://news.youth.cn/gn/202611/t20261127_16986394.htm</link>
+    <guid isPermaLink="false">162-16</guid>
+    <pubDate>Thu, 26 Nov 2026 22:48:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>首个面向农耕文明领域的大模型“天稷”正式发布。该模型将大模型能力垂直应用于农业知识与农耕文化场景，属于行业大模型在细分领域的延伸。其实际效果与数据基础尚待进一步披露。</description>
+  </item>
+  <item>
+    <title>研究显示污染 0.1% 预训练数据即可给 AI 智能体植入难以清除的后门</title>
+    <link>https://www.oschina.net/news/503823</link>
+    <guid isPermaLink="false">162-17</guid>
+    <pubDate>Thu, 26 Nov 2026 11:58:00 +0000</pubDate>
+    <source>Google News 中文</source>
+    <description>一篇题为《Agentic Backdoors via Pretraining Poisoning》的论文指出，仅污染 0.1% 的预训练数据就能给 AI 智能体埋下后门，且用完全干净的数据做微调和强化学习也无法清除。作者来自加州大学伯克利分校、伊利诺伊大学厄巴纳-香槟分校和 Anthropic。该结论对开源模型与第三方数据供应链的安全审查提出更高要求。</description>
+  </item>
+  <item>
+    <title>讯飞语音大模型能力全解：从语音基座到语音应用</title>
+    <link>https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe</link>
+    <guid isPermaLink="false">162-18</guid>
+    <pubDate>Thu, 26 Nov 2026 10:29:57 +0000</pubDate>
+    <source>InfoQ 中文</source>
+    <description>InfoQ 发布讯飞语音大模型能力解读，梳理其从语音基座模型到上层语音应用的完整技术栈。内容覆盖语音识别、合成与交互等能力如何通过大模型统一，并落到具体应用场景。该梳理为理解国产语音大模型的工程化路径提供了参考。</description>
+  </item>
   <item>
     <title>百度开源文心 5.5 Flash Preview，支持 vLLM、SGLang 部署</title>
     <link>https://www.oschina.net/news/503792</link>
@@ -339,149 +483,5 @@
     <pubDate>Mon, 23 Nov 2026 13:20:25 +0000</pubDate>
     <source>微信公众号</source>
     <description>智谱 GLM-5.4 发布后引发讨论，有观点认为国产大模型与国外顶级闭源模型之间已出现至少两代的代际差距。文章指出这一说法虽非严格技术指标，但反映了业界对国产模型追赶节奏的担忧。</description>
-  </item>
-  <item>
-    <title>智谱发布新一代大模型</title>
-    <link>https://wap.eastmoney.com/a/202611243937791512.html</link>
-    <guid isPermaLink="false">159-8</guid>
-    <pubDate>Mon, 23 Nov 2026 23:26:10 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>智谱发布新一代大模型，多家媒体报道。结合同日 GLM-5.4 上线 Coding Plan 的消息，智谱正以代码场景为切入点推进新模型落地。</description>
-  </item>
-  <item>
-    <title>字节，该造手机了</title>
-    <link>http://www.geekpark.net/news/374374</link>
-    <guid isPermaLink="false">159-9</guid>
-    <pubDate>Mon, 23 Nov 2026 15:47:18 +0000</pubDate>
-    <source>极客公园</source>
-    <description>报道称豆包手机已迭代至第二代，可通过侧边 AI 键调用豆包完成打车等操作，但微信、淘宝、美团等 150 余款应用拒绝豆包代替用户操作。与此同时，OpenAI 手机供应链消息不断，富智康据称已拿到组装订单。</description>
-  </item>
-  <item>
-    <title>中通快递与阿里云伶鹊达成深度合作，智慧 AI 打造客服新体验</title>
-    <link>https://www.leiphone.com/category/industrynews/MseGRLc64j2hTZxj.html</link>
-    <guid isPermaLink="false">159-10</guid>
-    <pubDate>Mon, 23 Nov 2026 02:26:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>阿里云伶鹊与中通快递合作打造企业级 AI 客服，落地智能语音热线与智能语音外呼，日均服务量达数十万通，AI 呼入热线带来的下单转化率提升近 20%。语音交互延迟控制在 1.5 秒以内，并针对快递场景优化垂直大模型。</description>
-  </item>
-  <item>
-    <title>华为星芒刘赫确认 OSTA 品牌将推全场景产品，小平板已安排</title>
-    <link>https://www.ithome.com/1/031/228.htm</link>
-    <guid isPermaLink="false">159-11</guid>
-    <pubDate>Mon, 23 Nov 2026 15:15:25 +0000</pubDate>
-    <source>IT之家</source>
-    <description>华为星芒品牌总经理刘赫表示品牌将覆盖全场景，手机只是开始，确认小平板已安排，后续还有笔记本、穿戴产品等。星芒 OSTA O1 Pro 为首款为 AI 而生的鸿蒙手机，叠加国补后 4999 元起。</description>
-  </item>
-  <item>
-    <title>华为星芒 OSTA O1 Pro 确认支持 eSIM：最多四号，可同时启用双卡</title>
-    <link>https://www.ithome.com/1/031/219.htm</link>
-    <guid isPermaLink="false">159-12</guid>
-    <pubDate>Mon, 23 Nov 2026 14:58:55 +0000</pubDate>
-    <source>IT之家</source>
-    <description>华为官网显示星芒 OSTA O1 Pro 支持 eSIM，同一手机最多存储 2 个 eSIM 号码，结合实体卡最多支持四个号码，可同时使用两个号码。该功能需运营商开通相关业务，目前仅部分运营商提供。</description>
-  </item>
-  <item>
-    <title>鸿富诚回应算力散热：募投项目新增石墨烯导热垫片等产能，面向高功率芯片数据中心</title>
-    <link>https://stock.stockstar.com/RB2026112400006137.shtml</link>
-    <guid isPermaLink="false">159-13</guid>
-    <pubDate>Mon, 23 Nov 2026 23:07:11 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>鸿富诚回应算力散热话题，称募投项目将新增石墨烯导热垫片等产能，面向高功率芯片与数据中心散热需求。随着 AI 算力芯片功耗持续上升，散热材料成为产业链关键环节。</description>
-  </item>
-  <item>
-    <title>苏试试验回应国产算力芯片话题：提供芯片研发全流程验证分析服务</title>
-    <link>https://stock.stockstar.com/RB2026112400006128.shtml</link>
-    <guid isPermaLink="false">159-14</guid>
-    <pubDate>Mon, 23 Nov 2026 23:06:07 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>苏试试验表示公司提供芯片研发全流程验证分析服务，回应国产算力芯片话题。随着国产 AI 芯片研发加速，验证与测试需求同步增长。</description>
-  </item>
-  <item>
-    <title>海目星回应 AI 算力芯片话题：激光解键合设备切入算力芯片头部客户</title>
-    <link>http://stock.stockstar.com/RB2026112400006114.shtml</link>
-    <guid isPermaLink="false">159-15</guid>
-    <pubDate>Mon, 23 Nov 2026 23:04:31 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>海目星表示公司提供激光解键合设备，已切入算力芯片头部客户。激光解键合是先进封装环节的关键工艺，与 AI 算力芯片封装需求密切相关。</description>
-  </item>
-  <item>
-    <title>四部门鼓励发展养老场景 AI 智能体与服务机器人；蚂蚁阿福新版发布</title>
-    <link>https://www.tmtpost.com/8215026.html</link>
-    <guid isPermaLink="false">159-16</guid>
-    <pubDate>Mon, 23 Nov 2026 23:20:00 +0000</pubDate>
-    <source>钛媒体</source>
-    <description>四部门发文鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品。同日蚂蚁阿福 App 新版发布，上线循证金标准 UpToDate 医生版。政策与产品同步推进，养老 AI 场景受到关注。</description>
-  </item>
-  <item>
-    <title>Anthropic 推出 Claude Ship 测试版：AI 可自动审查、修复及批准代码</title>
-    <link>https://www.ithome.com/1/031/257.htm</link>
-    <guid isPermaLink="false">159-17</guid>
-    <pubDate>Mon, 23 Nov 2026 23:49:00 +0000</pubDate>
-    <source>IT之家</source>
-    <description>Anthropic 推出 Claude Ship Beta，包含 Code Review、PR Steward 和 Claude Approvals 三项功能，可自动完成代码审查、修复与审批。审批政策以文件形式保存在代码仓库中，支持自然语言编写。</description>
-  </item>
-  <item>
-    <title>OpenAI 联合思科发布开源项目 Shirudo，实现不停机的 AI 智能体系统防护</title>
-    <link>https://wap.cj.sina.cn/7x24/5233646</link>
-    <guid isPermaLink="false">159-18</guid>
-    <pubDate>Mon, 23 Nov 2026 21:39:57 +0000</pubDate>
-    <source>Google News 中文</source>
-    <description>OpenAI 与思科联合发布开源安全项目 Shirudo，旨在为 AI 智能体系统提供不停机防护。多家媒体报道该合作，反映智能体安全正成为行业共同议题。</description>
-  </item>
-  <item>
-    <title>OpenAI 首席科学家提议为 AI 开发设置“行业上限”</title>
-    <link>https://www.oschina.net/news/503737/openai-perplexity-and-intelligence</link>
-    <guid isPermaLink="false">159-19</guid>
-    <pubDate>Mon, 23 Nov 2026 03:18:00 +0000</pubDate>
-    <source>开源中国</source>
-    <description>OpenAI 首席科学家 Jakub Pachocki 撰文主张将困惑度（perplexity）确立为跨公司比较模型的行业指标，并以此为基础建立共享安全标准，为前沿模型开发设置可外部核验的限速线。</description>
-  </item>
-  <item>
-    <title>PHAIN 数据手套登上央视新闻，展示具身智能数据采集自研实力</title>
-    <link>https://www.leiphone.com/category/industrynews/HTBJLib1WgKs3OIR.html</link>
-    <guid isPermaLink="false">159-20</guid>
-    <pubDate>Mon, 23 Nov 2026 02:27:00 +0000</pubDate>
-    <source>雷锋网</source>
-    <description>APEC 期间，PHAIN 梵因动力自研 G03 Pro T 数据手套亮相央视新闻，首席科学家现场演示机器人遥操作，介绍利用手套采集操作数据支持灵巧手训练。该手套结合毫米级手部位姿采集与 3D 触觉感知。</description>
-  </item>
-  <item>
-    <title>智谱发布 GLM-5.4：采用 Loop Transformer 架构，开启“泛 Coding”能力</title>
-    <link>https://www.oschina.net/news/503756</link>
-    <guid isPermaLink="false">158-1</guid>
-    <pubDate>Mon, 23 Nov 2026 10:30:11 +0000</pubDate>
-    <source>开源中国</source>
-    <description>智谱正式发布 GLM-5.4 技术公告，在 750B 参数基座上对其中 28 层做两轮循环，官方称智能水平达到 2-3T 级模型。新架构以权重共享提升参数效率，并重点强化“泛 Coding”能力，同步上线 Coding Plan。这是国产大模型在架构创新上的一次明确表态，也回应了外界对国产模型与海外顶级闭源模型差距的讨论。</description>
-  </item>
-  <item>
-    <title>蚂蚁医疗健康 AI 五连发：开源医疗大模型并支持本地部署</title>
-    <link>https://www.qbitai.com/2026/11/512017.html</link>
-    <guid isPermaLink="false">158-2</guid>
-    <pubDate>Mon, 23 Nov 2026 07:42:01 +0000</pubDate>
-    <source>量子位</source>
-    <description>蚂蚁阿福宣布健康服务升级，一次性发布五项医疗 AI 能力，包括开源医疗大模型、支持本地部署，以及覆盖“望闻问切”的诊疗能力。多家媒体报道称，该模型面向全球医生开放，一台电脑即可解锁专业医疗 AI 能力。医疗大模型开源并支持本地化，有望降低基层医疗机构使用专业 AI 的门槛。</description>
-  </item>
-  <item>
-    <title>安谋科技发布“星辰 100e”AIoT 原型平台，AI 推理性能最高提升 340 倍</title>
-    <link>https://www.infoq.cn/article/pdjVKiH3ONYjePlUDufv</link>
-    <guid isPermaLink="false">158-3</guid>
-    <pubDate>Mon, 23 Nov 2026 14:22:11 +0000</pubDate>
-    <source>InfoQ 中文</source>
-    <description>安谋科技推出面向 AIoT 场景的“星辰 100e”原型平台，官方称 AI 推理性能最高可提升 340 倍。该平台面向端侧与边缘侧 AI 推理需求，试图在低功耗条件下承载更大模型。在算力受限的 IoT 场景中，这类平台是国产芯片 IP 厂商争夺端侧 AI 入口的关键产品。</description>
-  </item>
-  <item>
-    <title>国产端侧大模型实测：1450 亿参数塞进笔记本，每秒输出 80+ Token</title>
-    <link>https://www.qbitai.com/2026/11/512195.html</link>
-    <guid isPermaLink="false">158-4</guid>
-    <pubDate>Mon, 23 Nov 2026 11:01:15 +0000</pubDate>
-    <source>量子位</source>
-    <description>有实测显示，国产端侧大模型可在笔记本上运行 1450 亿参数规模，推理速度达到每秒 80 个 Token 以上，且零 Token 成本、断网可用。该方案主打本地 Vibe Coding 等开发场景，把原本依赖云端的大模型能力下沉到个人设备。若性能与稳定性经得起验证，将显著改变开发者对云端推理的依赖结构。</description>
-  </item>
-  <item>
-    <title>自变量发布 WALL-API-1.0，主流榜单超越 Astra</title>
-    <link>https://www.ifanr.com/1691043</link>
-    <guid isPermaLink="false">158-5</guid>
-    <pubDate>Mon, 23 Nov 2026 08:55:14 +0000</pubDate>
-    <source>爱范儿</source>
-    <description>具身智能公司自变量发布 WALL-API-1.0，在主流榜单上超越 Astra，主打具身智能“预训练”能力。该模型试图为机器人提供可复用的通用预训练底座，减少每个任务单独采集数据的成本。具身智能长期受困于数据稀缺，预训练路线的进展直接决定行业规模化节奏。</description>
   </item>
 </channel></rss>
